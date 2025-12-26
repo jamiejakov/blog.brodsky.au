@@ -6,14 +6,16 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "tsc -b && astro build",
+    "build": "astro check && astro build",
     "preview": "astro preview",
     "lint": "eslint .",
     "latest": "pnpm upgrade --interactive --latest"
   },
   "dependencies": {
-    "astro": "^5.16.6"
-  },
-  "devDependencies": {
+    "@astrojs/preact": "^4.1.3",
+    "@astrojs/rss": "^4.0.14",
+    "astro": "^5.16.6",
+    "preact": "^10.28.1",
+    "react": "^19.2.3"
   }
 }
