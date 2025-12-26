@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "donjayamanne.githistory",
+    "andys8.jest-snippets",
+    "hbenl.vscode-test-explorer",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "dbaeumer.vscode-eslint",
+    "vscode-icons-team.vscode-icons",
+    "henrynguyen5-vsc.vsc-nvm"
+  ],
+}
