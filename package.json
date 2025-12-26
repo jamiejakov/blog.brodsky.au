@@ -1,0 +1,18 @@
+{
+  "name": "blog.brodsky.au",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.26.2",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "latest": "pnpm upgrade --interactive --latest"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
