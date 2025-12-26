@@ -1,8 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
+
 import BlogPost from '../../components/BlogPost.astro';
 import { exists } from '../../helpers/exists';
+import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
@@ -24,6 +25,8 @@ export async function getStaticPaths() {
     };
   });
 }
+
+type Props = Awaited<ReturnType<typeof getStaticPaths>>[number]['props'];
 
 const { tag } = Astro.params;
 const { posts } = Astro.props;

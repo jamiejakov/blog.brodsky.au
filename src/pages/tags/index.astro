@@ -1,7 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
+
 import { exists } from '../../helpers/exists';
+import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const pageTitle = 'Tag Index';
 const posts = await getCollection('blog');

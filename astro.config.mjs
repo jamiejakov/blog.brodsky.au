@@ -3,8 +3,7 @@ import { defineConfig } from 'astro/config';
 // Also can be @astrojs/vercel/static
 import vercel from '@astrojs/vercel/serverless';
 import tailwindcss from "@tailwindcss/vite";
-
-import preact from '@astrojs/preact';
+import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,7 +15,7 @@ export default defineConfig({
     maxDuration: 8,
   }),
   site: 'https://blog.brodsky.au',
-  integrations: [preact()],
+  integrations: [react()],
   vite: {
     plugins: [tailwindcss()],
   },
