@@ -12,7 +12,7 @@ export const NavigationButton: React.FC<NavigationButtonProps> = (props) => {
   const { link, title, currentPath } = props;
 
   const currentPathIsBlog = currentPath.includes('/blog') && link === '/';
-  const isActive = currentPath === link || currentPathIsBlog;
+  const isActive = currentPath.includes(link) || currentPathIsBlog;
 
   return (
     <Button asChild={true} variant="ghost" className={cn('navigation-button', isActive && 'bg-black/20')}>
