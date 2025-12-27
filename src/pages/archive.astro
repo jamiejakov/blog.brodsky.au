@@ -1,14 +1,15 @@
 ---
 import { getCollection } from 'astro:content';
 
-import { exists } from '../../helpers/exists';
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogPost from '../components/BlogPost.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { exists } from '../lib/exists';
 
-const pageTitle = 'Tag Index';
-const posts = await getCollection('blog');
-const tags = [
+const pageTitle = 'My Astro Learning Blog';
+const allPosts = await getCollection('blog');
+const allTags = [
   ...new Set(
-    posts
+    allPosts
       .map((post) => post.data.tags)
       .filter(exists)
       .flat()
@@ -17,9 +18,14 @@ const tags = [
 ---
 
 <BaseLayout pageTitle={pageTitle}>
+  <p>This is where I will post about my journey learning Astro.</p>
+  <ul>
+    {allPosts.map((post) => <BlogPost id={post.id} title={post.data.title} />)}
+  </ul>
+  ------------------------------------------------------------------------------------------------
   <div class="tags">
     {
-      tags.map((tag) => (
+      allTags.map((tag) => (
         <p class="tag">
           <a href={`/tags/${tag}`}>{tag}</a>
         </p>

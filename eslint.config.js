@@ -178,14 +178,13 @@ export default tseslint.config(
     },
     rules: {
       ...reactHooks.configs.recommended.rules,
-      'react-refresh/only-export-components': ['warn', { allowConstantExport: true }],
+      'react-refresh/only-export-components': 'off',
       ...reactX.configs['recommended-typescript'].rules,
       ...reactDom.configs.recommended.rules,
 
       ...commonRules,
 
       'react/prop-types': 'off',
-      'react/jsx-no-bind': 'error',
       'react/jsx-boolean-value': ['error', 'always'],
       'react/jsx-curly-brace-presence': ['error', 'never'],
       'react/display-name': 'off',

@@ -6,11 +6,12 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'server',
+  output: 'static',
   adapter: vercel({
     webAnalytics: {
-      enabled: true,
+      enabled: false, // set to false when using @vercel/analytics@1.4.0
     },
+    imageService: true,
     maxDuration: 8,
   }),
   site: 'https://blog.brodsky.au',

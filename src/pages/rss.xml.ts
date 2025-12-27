@@ -2,7 +2,7 @@ import rss from '@astrojs/rss';
 import type { APIContext } from 'astro';
 import { getCollection } from 'astro:content';
 
-import { checkExists } from '../helpers/preconditions';
+import { checkExists } from '../lib/preconditions';
 
 export async function GET(context: APIContext) {
   const posts = await getCollection('blog');
