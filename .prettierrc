@@ -4,6 +4,14 @@
   "trailingComma": "es5",
   "arrowParens": "always",
   "tabWidth": 2,
-  "plugins": ["prettier-plugin-tailwindcss", "prettier-plugin-classnames"],
-  "tailwindStylesheet": "./src/main.css"
+  "plugins": ["prettier-plugin-astro", "prettier-plugin-tailwindcss", "prettier-plugin-classnames"],
+  "tailwindStylesheet": "./src/main.css",
+  "overrides": [
+    {
+      "files": "*.astro",
+      "options": {
+        "parser": "astro"
+      }
+    }
+  ]
 }
