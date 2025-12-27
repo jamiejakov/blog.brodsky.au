@@ -24,10 +24,8 @@ const applyTheme = (newTheme: 'light' | 'dark') => {
 
   const element = document.documentElement;
   if (newTheme === 'light') {
-    element.classList.remove('dark');
     element.style.colorScheme = 'light';
   } else {
-    element.classList.add('dark');
     element.style.colorScheme = 'dark';
   }
 };
@@ -47,7 +45,7 @@ export const ThemeToggle: React.FC = () => {
   // Handle theme toggle - direct DOM manipulation, no state
   const handleToggleClick = () => {
     const element = document.documentElement;
-    const isDark = element.classList.contains('dark');
+    const isDark = element.style.colorScheme === 'dark';
     const newTheme = isDark ? 'light' : 'dark';
 
     applyTheme(newTheme);

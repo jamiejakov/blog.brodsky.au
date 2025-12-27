@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
+import PageLayout from '../layouts/PageLayout.astro';
 
 const pageTitle = 'About Me';
 const identity = {
@@ -14,7 +14,7 @@ const fontWeight = 'bold';
 const textCase = 'uppercase';
 ---
 
-<BaseLayout pageTitle={pageTitle}>
+<PageLayout pageTitle={pageTitle}>
   <style is:global define:vars={{ skillColor, fontWeight, textCase }}>
     h1 {
       color: purple;
@@ -42,4 +42,4 @@ const textCase = 'uppercase';
   <ul>
     {skills.map((skill) => <li class="skill">{skill}</li>)}
   </ul>
-</BaseLayout>
+</PageLayout>

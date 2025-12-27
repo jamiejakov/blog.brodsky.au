@@ -1,14 +1,43 @@
 ---
 import Navigation from './Navigation.astro';
+
+import './header.css';
+
+const currentPath = Astro.url.pathname;
 ---
 
-<header class="sticky top-0 flex w-full justify-center py-4 px-2">
+<script is:inline>
+  window.addEventListener('scroll', function () {
+    const header = document.getElementById('header');
+    if (!header) {
+      return;
+    }
+
+    // Add 'shadow-md' class when scrolled down 10px or more
+    // if (window.scrollY > 50) {
+    //   header.classList.add('shadow-md', 'bg-white');
+    //   header.classList.remove('bg-transparent');
+    // } else {
+    //   header.classList.remove('shadow-md', 'bg-white');
+    //   header.classList.add('bg-transparent');
+    // }
+  });
+</script>
+
+<header
+  id="header"
+  class="header-clip-path sticky -top-20 flex flex-col w-full justify-center items-center px-4 mb-4 gap-2 bg-primary
+    pt-8 pb-16 md:gap-8 md:pb-12"
+>
+  {
+    currentPath === '/' && (
+      <h1
+        class="text-background text-3xl md:text-4xl font-bold leading-1.2 tracking-[-0.1rem] font-weight-700
+          text-center"
+      >
+        Welcome to Vadim's Blog
+      </h1>
+    )
+  }
   <Navigation />
 </header>
-
-<style>
-  div {
-    display: flex;
-    justify-content: space-between;
-  }
-</style>

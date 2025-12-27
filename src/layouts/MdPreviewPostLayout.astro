@@ -1,0 +1,40 @@
+---
+import { BlogTitleLinkButton } from '@/components/BlogTitleLinkButton';
+import type { CollectionEntry } from 'astro:content';
+
+type Frontmatter = CollectionEntry<'blog'>['data'];
+type Props = {
+  frontmatter: Frontmatter;
+  id: string;
+};
+
+const { frontmatter, id } = Astro.props;
+const maxTextWidth = 'max-w-3xl w-full';
+---
+
+<article class="flex flex-col items-center gap-3">
+  <img
+    src={frontmatter.image.url}
+    width="100%"
+    alt={frontmatter.image.alt}
+    class="max-h-120 w-full object-cover bg-center"
+  />
+  <div class="flex flex-col items-center w-full">
+    <h2 class={`text-2xl font-bold ${maxTextWidth}`}>
+      <BlogTitleLinkButton id={id} title={frontmatter.title} />
+    </h2>
+    <p class={`${maxTextWidth} px-4 text-gray-500 italic`}>{frontmatter.pubDate.toLocaleDateString('en-au')}</p>
+  </div>
+  <div class={`${maxTextWidth} px-4`}>
+    <div class="flex flex-wrap gap-2">
+      {
+        frontmatter.tags.map((tag: string) => (
+          <p class="border border-gray-300 rounded-full px-2 py-1">
+            <a href={`/tags/${tag}`}>{tag}</a>
+          </p>
+        ))
+      }
+    </div>
+    <slot />
+  </div>
+</article>

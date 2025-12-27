@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 
 import BlogPost from '../components/BlogPost.astro';
-import BaseLayout from '../layouts/BaseLayout.astro';
+import PageLayout from '../layouts/PageLayout.astro';
 import { exists } from '../lib/exists';
 
 const pageTitle = 'My Astro Learning Blog';
@@ -17,7 +17,7 @@ const allTags = [
 ];
 ---
 
-<BaseLayout pageTitle={pageTitle}>
+<PageLayout pageTitle={pageTitle}>
   <p>This is where I will post about my journey learning Astro.</p>
   <ul>
     {allPosts.map((post) => <BlogPost id={post.id} title={post.data.title} />)}
@@ -32,7 +32,7 @@ const allTags = [
       ))
     }
   </div>
-</BaseLayout>
+</PageLayout>
 <style>
   a {
     color: #00539f;

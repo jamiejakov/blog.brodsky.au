@@ -1,0 +1,18 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+type Props = {
+  pageTitle: string;
+  className?: string;
+};
+
+const { pageTitle, className } = Astro.props;
+const currentPath = Astro.url.pathname;
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <main class={`${className} max-w-4xl w-full`}>
+    {currentPath !== '/' && <h1>{pageTitle}</h1>}
+    <slot />
+  </main>
+</BaseLayout>

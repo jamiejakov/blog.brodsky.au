@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import 'tailwindcss';
 @import 'tw-animate-css';
 
 @custom-variant dark (&:is(.dark *));
+
+@view-transition {
+  navigation: auto;
+}
 
 @theme {
   --color-primary: #9e1b34;
@@ -22,7 +27,6 @@
   --color-card-foreground: var(--card-foreground);
   --color-popover: var(--popover);
   --color-popover-foreground: var(--popover-foreground);
-  --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
@@ -50,7 +54,9 @@
 }
 
 :root {
+  font-family: var(--font-primary);
   color-scheme: light dark;
+
   --radius: 0.625rem;
   --background: light-dark(oklch(1 0 0), oklch(0.141 0.005 285.823));
   --foreground: light-dark(oklch(0.141 0.005 285.823), oklch(0.985 0 0));

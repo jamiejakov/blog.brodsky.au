@@ -1,16 +1,15 @@
 ---
 import { NavigationButton } from './NavigationButton';
-import { ThemeToggle } from './ThemeToggle';
 
-import './header.css';
+const currentPath = Astro.url.pathname;
 ---
 
-<nav class="navigation relative flex items-center gap-2 rounded-full p-4">
+<nav class="navigation relative flex items-center gap-2 rounded-full px-4 py-3">
   <div class="blur-background rounded-full before:rounded-full after:rounded-full"></div>
-  <NavigationButton link="/" title="Blog" />
-  <NavigationButton link="/about" title="About" />
-  <NavigationButton link="/archive" title="Archive" />
-  <ThemeToggle client:load />
+  <NavigationButton currentPath={currentPath} link="/" title="Blog" />
+  <NavigationButton currentPath={currentPath} link="/about" title="About" />
+  <NavigationButton currentPath={currentPath} link="/archive" title="Archive" />
+  <!-- <ThemeToggle client:load /> -->
 </nav>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute; overflow:hidden">
