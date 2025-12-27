@@ -1,12 +1,11 @@
 ---
-import { getCollection } from 'astro:content';
-
 import BlogPost from '../components/BlogPost.astro';
 import PageLayout from '../layouts/PageLayout.astro';
 import { exists } from '../lib/exists';
+import { getAllPosts } from '../lib/sortedCollection';
 
 const pageTitle = 'My Astro Learning Blog';
-const allPosts = await getCollection('blog');
+const allPosts = await getAllPosts();
 const allTags = [
   ...new Set(
     allPosts

@@ -3,22 +3,21 @@ import type { CollectionEntry } from 'astro:content';
 
 import BaseLayout from './BaseLayout.astro';
 
-type Frontmatter = CollectionEntry<'blog'>['data'];
 type Props = {
-  frontmatter: Frontmatter;
+  post: CollectionEntry<'blog'>;
 };
 
-const { frontmatter } = Astro.props;
+const { post } = Astro.props;
 ---
 
-<BaseLayout pageTitle={frontmatter.title}>
-  <p>{frontmatter.pubDate.toLocaleDateString()}</p>
-  <p><em>{frontmatter.description}</em></p>
-  <p>Written by: {frontmatter.author}</p>
-  <img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
+<BaseLayout pageTitle={post.data.title}>
+  <p>{post.data.pubDate.toLocaleDateString()}</p>
+  <p><em>{post.data.description}</em></p>
+  <p>Written by: {post.data.author}</p>
+  {post.data.image && <img src={post.data.image.url} width="300" alt={post.data.image.alt} />}
   <div class="tags">
     {
-      frontmatter.tags.map((tag: string) => (
+      post.data.tags.map((tag: string) => (
         <p class="tag">
           <a href={`/tags/${tag}`}>{tag}</a>
         </p>

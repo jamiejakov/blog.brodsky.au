@@ -51,6 +51,9 @@
             "type": "string"
           }
         },
+        "published": {
+          "type": "boolean"
+        },
         "$schema": {
           "type": "string"
         }
@@ -60,7 +63,6 @@
         "pubDate",
         "description",
         "author",
-        "image",
         "tags"
       ],
       "additionalProperties": false

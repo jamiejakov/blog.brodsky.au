@@ -1,11 +1,11 @@
 import rss from '@astrojs/rss';
 import type { APIContext } from 'astro';
-import { getCollection } from 'astro:content';
 
 import { checkExists } from '../lib/preconditions';
+import { getAllPosts } from '../lib/sortedCollection';
 
 export async function GET(context: APIContext) {
-  const posts = await getCollection('blog');
+  const posts = await getAllPosts();
   return rss({
     title: 'Astro Learner | Blog',
     description: 'My journey learning Astro',

@@ -9,7 +9,6 @@
 }
 
 @theme {
-  --color-primary: #9e1b34;
   --font-primary: 'Montserrat', sans-serif;
 }
 
@@ -27,6 +26,7 @@
   --color-card-foreground: var(--card-foreground);
   --color-popover: var(--popover);
   --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
@@ -64,7 +64,7 @@
   --card-foreground: light-dark(oklch(0.141 0.005 285.823), oklch(0.985 0 0));
   --popover: light-dark(oklch(1 0 0), oklch(0.21 0.006 285.885));
   --popover-foreground: light-dark(oklch(0.141 0.005 285.823), oklch(0.985 0 0));
-  --primary: light-dark(#9e1b34, #9e1b34);
+  --primary: light-dark(#9e1b34, #e14e6a);
   --primary-foreground: light-dark(oklch(0.985 0 0), oklch(0.92 0.004 286.32));
   --secondary: light-dark(oklch(0.967 0.001 286.375), oklch(0.274 0.006 286.033));
   --secondary-foreground: light-dark(oklch(0.21 0.006 285.885), oklch(0.985 0 0));

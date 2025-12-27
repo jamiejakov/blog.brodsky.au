@@ -1,13 +1,13 @@
 ---
 import MdPreviewPostLayout from '@/layouts/MdPreviewPostLayout.astro';
-import { getCollection } from 'astro:content';
 
 import PageLayout from '../layouts/PageLayout.astro';
+import { getAllPosts } from '../lib/sortedCollection';
 
 const pageTitle = 'Home Page';
-const allPosts = await getCollection('blog');
+const allPosts = await getAllPosts();
 ---
 
-<PageLayout pageTitle={pageTitle} className="flex flex-col gap-16">
-  {allPosts.map((post) => <MdPreviewPostLayout frontmatter={post.data} id={post.id} />)}
+<PageLayout pageTitle={pageTitle} className="flex flex-col gap-40">
+  {allPosts.map((post) => <MdPreviewPostLayout post={post} />)}
 </PageLayout>

@@ -1,9 +1,10 @@
 ---
 import MdFullPostLayout from '@/layouts/MdFullPostLayout.astro';
-import { getCollection, render } from 'astro:content';
+import { getAllPosts } from '@/lib/sortedCollection';
+import { render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const posts = await getAllPosts();
   return posts.map((post) => ({
     params: { slug: post.id },
     props: { post },
@@ -16,6 +17,6 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 ---
 
-<MdFullPostLayout frontmatter={post.data}>
+<MdFullPostLayout post={post}>
   <Content />
 </MdFullPostLayout>

@@ -1,0 +1,17 @@
+---
+import { truncateHtmlAtHr } from '@/lib/truncateHtml';
+import type { CollectionEntry } from 'astro:content';
+import MarkdownIt from 'markdown-it';
+
+type Props = {
+  post: CollectionEntry<'blog'>;
+};
+
+const { post } = Astro.props;
+
+const parser = new MarkdownIt();
+const rawPostHtml = post.body && parser.render(post.body);
+const postHtml = rawPostHtml ? truncateHtmlAtHr(rawPostHtml) : rawPostHtml;
+---
+
+<Fragment set:html={postHtml} />
