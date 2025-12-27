@@ -1,13 +1,16 @@
 ---
+import { FullBlogLinkButton } from '@/components/FullBlogLinkButton';
 import MdPreviewPostLayout from '@/layouts/MdPreviewPostLayout.astro';
 
 import PageLayout from '../layouts/PageLayout.astro';
-import { getAllPosts } from '../lib/sortedCollection';
+import { POSTS_PER_PAGE } from '../lib/constants';
+import { getPosts } from '../lib/sortedCollection';
 
 const pageTitle = 'Home Page';
-const allPosts = await getAllPosts();
+const allPosts = await getPosts(POSTS_PER_PAGE);
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-40">
   {allPosts.map((post) => <MdPreviewPostLayout post={post} />)}
+  <FullBlogLinkButton />
 </PageLayout>

@@ -2,10 +2,10 @@
 import BlogPost from '../components/BlogPost.astro';
 import PageLayout from '../layouts/PageLayout.astro';
 import { exists } from '../lib/exists';
-import { getAllPosts } from '../lib/sortedCollection';
+import { getPosts } from '../lib/sortedCollection';
 
 const pageTitle = 'My Astro Learning Blog';
-const allPosts = await getAllPosts();
+const allPosts = await getPosts();
 const allTags = [
   ...new Set(
     allPosts

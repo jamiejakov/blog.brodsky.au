@@ -1,12 +1,12 @@
 ---
-import { getAllPosts } from '@/lib/sortedCollection';
+import { getPosts } from '@/lib/sortedCollection';
 
 import BlogPost from '../../components/BlogPost.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { exists } from '../../lib/exists';
 
 export async function getStaticPaths() {
-  const allPosts = await getAllPosts();
+  const allPosts = await getPosts();
   const uniqueTags = [
     ...new Set(
       allPosts

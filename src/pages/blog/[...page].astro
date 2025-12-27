@@ -1,0 +1,25 @@
+---
+import { BlogPagination } from '@/components/BlogPagination';
+import PageLayout from '@/layouts/PageLayout.astro';
+import type { GetStaticPathsOptions } from 'astro';
+
+import { POSTS_PER_PAGE } from '../../lib/constants';
+import { getPosts } from '../../lib/sortedCollection';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const allPosts = await getPosts();
+  const notFirstPosts = allPosts.slice(POSTS_PER_PAGE);
+  return paginate(notFirstPosts, { pageSize: 2 });
+}
+
+type Props = Awaited<ReturnType<typeof getStaticPaths>>[number]['props'];
+
+const { page } = Astro.props;
+---
+
+<PageLayout pageTitle={`Blog Page - ${page.currentPage}`}>
+  <ul>
+    {page.data.map((post) => <li>{post.data.title}</li>)}
+  </ul>
+  <BlogPagination url={page.url} currentPage={page.currentPage} />
+</PageLayout>

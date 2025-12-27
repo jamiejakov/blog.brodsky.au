@@ -1,10 +1,10 @@
 ---
 import MdFullPostLayout from '@/layouts/MdFullPostLayout.astro';
-import { getAllPosts } from '@/lib/sortedCollection';
+import { getPosts } from '@/lib/sortedCollection';
 import { render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const posts = await getAllPosts();
+  const posts = await getPosts();
   return posts.map((post) => ({
     params: { slug: post.id },
     props: { post },
