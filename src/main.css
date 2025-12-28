@@ -58,12 +58,12 @@
   color-scheme: light dark;
 
   --radius: 0.625rem;
-  --background: light-dark(oklch(1 0 0), oklch(0.141 0.005 285.823));
-  --foreground: light-dark(oklch(0.141 0.005 285.823), oklch(0.985 0 0));
+  --background: light-dark(oklch(1 0 0), oklch(0.1901 0.005 285.823));
+  --foreground: light-dark(oklch(0.1901 0.005 285.823), oklch(0.985 0 0));
   --card: light-dark(oklch(1 0 0), oklch(0.21 0.006 285.885));
-  --card-foreground: light-dark(oklch(0.141 0.005 285.823), oklch(0.985 0 0));
+  --card-foreground: light-dark(oklch(0.1901 0.005 285.823), oklch(0.985 0 0));
   --popover: light-dark(oklch(1 0 0), oklch(0.21 0.006 285.885));
-  --popover-foreground: light-dark(oklch(0.141 0.005 285.823), oklch(0.985 0 0));
+  --popover-foreground: light-dark(oklch(0.1901 0.005 285.823), oklch(0.985 0 0));
   --primary: light-dark(#9e1b34, #e14e6a);
   --primary-foreground: light-dark(oklch(0.985 0 0), oklch(0.92 0.004 286.32));
   --secondary: light-dark(oklch(0.967 0.001 286.375), oklch(0.274 0.006 286.033));
@@ -82,7 +82,7 @@
   --chart-4: light-dark(oklch(0.828 0.189 84.429), oklch(0.627 0.265 303.9));
   --chart-5: light-dark(oklch(0.769 0.188 70.08), oklch(0.645 0.246 16.439));
   --sidebar: light-dark(oklch(0.985 0 0), oklch(0.21 0.006 285.885));
-  --sidebar-foreground: light-dark(oklch(0.141 0.005 285.823), oklch(0.985 0 0));
+  --sidebar-foreground: light-dark(oklch(0.1901 0.005 285.823), oklch(0.985 0 0));
   --sidebar-primary: light-dark(oklch(0.21 0.006 285.885), oklch(0.488 0.243 264.376));
   --sidebar-primary-foreground: light-dark(oklch(0.985 0 0), oklch(0.985 0 0));
   --sidebar-accent: light-dark(oklch(0.967 0.001 286.375), oklch(0.274 0.006 286.033));
@@ -129,6 +129,30 @@
     th,
     td {
       @apply border border-gray-300 px-6 py-3 text-sm;
+    }
+    img {
+      @apply border-t border-b border-primary md:border;
+    }
+    code {
+      @apply mx-0.5 rounded-sm bg-accent px-1 py-0.5 text-primary;
+    }
+    pre {
+      @apply my-6 px-6 py-4;
+    }
+    blockquote {
+      @apply relative my-6 border-l-6 border-primary bg-primary/8 py-5 pr-12 pl-16 italic;
+
+      &:before {
+        @apply absolute top-1 left-2 text-8xl text-primary;
+        font-family: Arial;
+        content: '\201C';
+      }
+      p {
+        @apply mb-2;
+      }
+      p:last-child {
+        @apply mb-0;
+      }
     }
   }
 }

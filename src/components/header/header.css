@@ -1,5 +1,6 @@
 header {
   view-transition-name: header-transition;
+  z-index: 99;
 }
 
 .navigation {
