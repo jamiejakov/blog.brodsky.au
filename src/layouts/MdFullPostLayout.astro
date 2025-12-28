@@ -1,7 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 
-import BaseLayout from './BaseLayout.astro';
+import PageLayout from './PageLayout.astro';
 
 type Props = {
   post: CollectionEntry<'blog'>;
@@ -10,38 +10,37 @@ type Props = {
 const { post } = Astro.props;
 ---
 
-<BaseLayout pageTitle={post.data.title}>
-  <p>{post.data.pubDate.toLocaleDateString()}</p>
-  <p><em>{post.data.description}</em></p>
-  <p>Written by: {post.data.author}</p>
-  {post.data.image && <img src={post.data.image.url} width="300" alt={post.data.image.alt} />}
-  <div class="tags">
-    {
-      post.data.tags.map((tag: string) => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
-      ))
-    }
-  </div>
-  <slot />
-</BaseLayout>
-<style>
-  a {
-    color: #00539f;
+<PageLayout pageTitle={post.data.title} className="flex flex-col items-center">
+  {
+    post.data.image && (
+      <img
+        src={post.data.image.url}
+        width="100%"
+        class="max-h-120 w-full object-cover bg-center border-t border-b md:border border-primary"
+        alt={post.data.image.alt}
+      />
+    )
   }
+  <article class="flex flex-col px-6 mt-4 max-w-3xl w-full">
+    <h1 class="text-3xl font-bold">{post.data.title}</h1>
+    <div>Published on: <span class="text-gray-500 italic">{post.data.pubDate.toLocaleDateString()}</span></div>
+    <p class="mb-1">Written by: <span class="text-gray-500 italic">{post.data.author}</span></p>
+    <div class="flex items-center gap-2">
+      <span>Tags:</span>
+      <ul class="flex flex-wrap gap-2 list-none m-0">
+        {
+          post.data.tags.map((tag: string) => (
+            <li class="rounded-full border border-primary px-2 py-1">
+              {/* Make these button */}
+              <a href={`/tags/${tag}`}>{tag}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
 
-  .tags {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: 0.5em;
-    padding: 0.5em 1em;
-    font-size: 1.15em;
-    background-color: #f8fcfd;
-  }
-</style>
+    <div class="mt-8">
+      <slot />
+    </div>
+  </article>
+</PageLayout>

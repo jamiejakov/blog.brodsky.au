@@ -98,4 +98,37 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  p {
+    @apply mb-4;
+  }
+
+  hr {
+    display: none;
+  }
+
+  article {
+    a {
+      @apply font-medium text-primary hover:underline;
+    }
+    ul {
+      @apply mb-4 list-inside list-disc;
+    }
+    ol {
+      @apply mb-4 list-inside list-decimal;
+    }
+    .contains-task-list {
+      @apply list-none;
+    }
+    table {
+      @apply relative my-5 w-full overflow-x-auto text-left rtl:text-right;
+    }
+    thead {
+      @apply bg-accent;
+    }
+    th,
+    td {
+      @apply border border-gray-300 px-6 py-3 text-sm;
+    }
+  }
 }

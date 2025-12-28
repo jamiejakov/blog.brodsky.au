@@ -18,7 +18,7 @@ const maxTextWidth = 'max-w-3xl w-full';
         src={post.data.image.url}
         alt={post.data.image.alt}
         width="100%"
-        class="max-h-120 w-full object-cover bg-center"
+        class="max-h-120 w-full object-cover bg-center border-t border-b md:border border-primary"
       />
     )
   }
@@ -26,7 +26,9 @@ const maxTextWidth = 'max-w-3xl w-full';
     <h2 class={`${maxTextWidth} px-2 md:px-0 text-2xl font-bold`}>
       <PostTitleLinkButton id={post.id} title={post.data.title} />
     </h2>
-    <p class={`${maxTextWidth} px-6 md:px-4 text-gray-500 italic`}>{post.data.pubDate.toLocaleDateString('en-au')}</p>
+    <span class={`${maxTextWidth} px-6 md:px-4 text-gray-500 italic`}
+      >{post.data.pubDate.toLocaleDateString('en-au')}</span
+    >
   </div>
   <div class={`${maxTextWidth} px-6 md:px-4 flex flex-col gap-2`}>
     <Excerpt post={post} />
