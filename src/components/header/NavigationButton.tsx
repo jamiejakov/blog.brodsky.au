@@ -20,7 +20,7 @@ export const NavigationButton: React.FC<NavigationButtonProps> = (props) => {
     <Button
       asChild={true}
       variant="ghost"
-      className={cn('navigation-button min-w-0 flex-1', isActive && 'bg-black/20')}
+      className={cn('navigation-button min-w-0 flex-1 hover:text-primary', isActive && 'bg-black/20')}
     >
       <a href={link}>{title}</a>
     </Button>

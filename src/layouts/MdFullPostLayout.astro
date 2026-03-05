@@ -30,9 +30,13 @@ const { post } = Astro.props;
       <ul class="flex flex-wrap gap-2 list-none m-0">
         {
           post.data.tags.map((tag: string) => (
-            <li class="rounded-full border border-primary px-2 py-1">
-              {/* Make these button */}
-              <a href={`/tags/${tag}`}>{tag}</a>
+            <li>
+              <a
+                href={`/tags/${tag}`}
+                class="inline-flex rounded-full border border-primary px-2 py-1 text-primary no-underline hover:bg-primary/20 hover:no-underline dark:hover:bg-primary/40 dark:hover:text-accent-foreground"
+              >
+                {tag}
+              </a>
             </li>
           ))
         }

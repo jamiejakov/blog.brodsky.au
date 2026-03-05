@@ -187,7 +187,7 @@ export function VisitedCountriesMap() {
         {COUNTRIES_BY_CONTINENT.map(([continent, countries]) => (
           <div key={continent}>
             <h3 className="text-sm font-semibold text-muted-foreground mb-2">{continent}</h3>
-            <ul className="flex flex-wrap gap-2 text-sm" aria-label={`Countries visited in ${continent}`}>
+            <ul className="flex flex-wrap gap-2 text-sm list-none" aria-label={`Countries visited in ${continent}`}>
               {countries.map((country) => (
                 <li key={country.iso2}>
                   <span className="inline-flex items-center gap-1.5 px-2 py-1 rounded-md bg-muted">

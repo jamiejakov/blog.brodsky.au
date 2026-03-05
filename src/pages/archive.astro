@@ -1,44 +1,25 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 import { getPosts } from '../lib/sortedCollection';
+import { exists } from '../lib/exists';
+import { groupPostsByYearMonth } from '../lib/postsByYearMonth';
 
 const pageTitle = 'Archive';
 const allPosts = await getPosts();
+const sortedGroups = groupPostsByYearMonth(allPosts);
 
-const monthNames: Record<string, string> = {
-  '01': 'January',
-  '02': 'February',
-  '03': 'March',
-  '04': 'April',
-  '05': 'May',
-  '06': 'June',
-  '07': 'July',
-  '08': 'August',
-  '09': 'September',
-  '10': 'October',
-  '11': 'November',
-  '12': 'December',
-};
-
-const grouped = new Map<string, { heading: string; posts: typeof allPosts }>();
-
+const tagCounts = new Map<string, number>();
 for (const post of allPosts) {
-  const year = post.data.pubDate.getFullYear();
-  const month = String(post.data.pubDate.getMonth() + 1).padStart(2, '0');
-  const key = `${year}-${month}`;
-  const heading = `${year} ${monthNames[month]}`;
-
-  if (!grouped.has(key)) {
-    grouped.set(key, { heading, posts: [] });
+  for (const tag of post.data.tags?.filter(exists) ?? []) {
+    tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
   }
-  grouped.get(key)!.posts.push(post);
 }
-
-const sortedGroups = [...grouped.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+const tagsByPopularity = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
 ---
 
-<PageLayout pageTitle={pageTitle} className="flex flex-col gap-10">
+<PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
   <article>
+    <h1 class="text-3xl font-bold mb-4">{pageTitle}</h1>
     <section>
       <p>
         What a long strange trip it's been. Look at how much content I have managed to produce. Some posts are of course
@@ -53,23 +34,43 @@ const sortedGroups = [...grouped.entries()].sort((a, b) => b[0].localeCompare(a[
       </p>
     </section>
   </article>
-  <div class="flex flex-col gap-8">
-    {
-      sortedGroups.map(([, { heading, posts }]) => (
-        <section>
-          <h2 class="text-xl font-bold mb-3">{heading}</h2>
-          <ul class="list-none pl-4 space-y-2">
-            {posts.map((post) => (
-              <li>
-                <span class="font-mono">{String(post.data.pubDate.getDate()).padStart(2, '0')}:</span>{' '}
-                <a href={`/posts/${post.id}/`} class="hover:underline text-primary">
-                  {post.data.title}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))
-    }
+  <div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
+    <div class="flex flex-col gap-8 flex-1 min-w-0 order-2 lg:order-1">
+      {
+        sortedGroups.map(([, { heading, posts }]) => (
+          <section>
+            <h2 class="text-xl font-bold mb-3">{heading}</h2>
+            <ul class="list-none pl-4 space-y-2">
+              {posts.map((post) => (
+                <li>
+                  <span class="font-mono">{String(post.data.pubDate.getDate()).padStart(2, '0')}:</span>{' '}
+                  <a href={`/posts/${post.id}/`} class="hover:underline text-primary">
+                    {post.data.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+    <section class="lg:w-48 shrink-0 order-1 lg:order-2">
+      <h2 class="text-xl font-bold mb-3">Tags</h2>
+      <ul class="flex flex-wrap lg:flex-col gap-2 list-none">
+        {
+          tagsByPopularity.map(([tag]) => (
+            <li>
+              <a
+                href={`/tags/${tag}`}
+                class="inline-flex rounded-full border border-primary px-2 py-1 text-primary no-underline
+                  hover:bg-primary/20 hover:no-underline dark:hover:bg-primary/40 dark:hover:text-accent-foreground"
+              >
+                {tag}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
   </div>
 </PageLayout>
