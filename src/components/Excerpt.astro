@@ -10,28 +10,40 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 ---
 
-<div class="excerpt-content">
+<div class="excerpt-content" data-truncated="false">
   <Content />
 </div>
+
+<style>
+  /* Hide until truncation script has run - prevents flash of full content */
+  .excerpt-content:not([data-truncated='true']) {
+    visibility: hidden;
+  }
+  .excerpt-content[data-truncated='true'] {
+    visibility: visible;
+  }
+  .excerpt-content [hidden] {
+    display: none !important;
+  }
+</style>
 
 <script>
   function truncateExcerpts() {
     document.querySelectorAll('.excerpt-content').forEach((container) => {
       const hr = container.querySelector('hr');
-      if (!hr) return;
-
-      // Start from hr - if it has siblings after it, hide those; otherwise hide its parent and following siblings
-      let start: Element = hr;
-      if (!hr.nextElementSibling && hr.parentElement && hr.parentElement !== container) {
-        start = hr.parentElement;
+      if (hr) {
+        let start: Element = hr;
+        if (!hr.nextElementSibling && hr.parentElement && hr.parentElement !== container) {
+          start = hr.parentElement;
+        }
+        start.setAttribute('hidden', '');
+        let el: Element | null = start.nextElementSibling;
+        while (el) {
+          el.setAttribute('hidden', '');
+          el = el.nextElementSibling;
+        }
       }
-
-      start.setAttribute('hidden', '');
-      let el: Element | null = start.nextElementSibling;
-      while (el) {
-        el.setAttribute('hidden', '');
-        el = el.nextElementSibling;
-      }
+      container.setAttribute('data-truncated', 'true');
     });
   }
 
