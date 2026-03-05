@@ -1,45 +1,66 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 
-const pageTitle = 'About Me';
-const identity = {
-  firstName: 'Sarah',
-  country: 'Canada',
-  occupation: 'Technical Writer',
-  hobbies: ['photography', 'birdwatching', 'baseball'],
-};
-const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Astro', 'Writing Docs'];
-const skillColor = 'crimson';
-const fontWeight = 'bold';
-const textCase = 'uppercase';
+const pageTitle = 'About';
 ---
 
-<PageLayout pageTitle={pageTitle}>
-  <style is:global define:vars={{ skillColor, fontWeight, textCase }}>
-    h1 {
-      color: purple;
-      font-size: 4rem;
-    }
-    .skill {
-      color: var(--skillColor);
-      font-weight: var(--fontWeight);
-      text-transform: var(--textCase);
-    }
-  </style>
-  <p>Here are a few facts about me:</p>
-  <ul>
-    <li>My name is {identity.firstName}.</li>
-    <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
-    {
-      identity.hobbies.length >= 2 && (
-        <li>
-          Two of my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}
-        </li>
-      )
-    }
-  </ul>
-  <p>My skills are:</p>
-  <ul>
-    {skills.map((skill) => <li class="skill">{skill}</li>)}
-  </ul>
+<PageLayout pageTitle={pageTitle} className="flex flex-col gap-12">
+  <article>
+    <div class="relative mb-8 w-64 max-w-full aspect-square md:float-right md:ml-8 md:mb-4">
+      <div class="overflow-hidden rounded-full">
+        <img src="/photo.jpeg" alt="Vadim Brodsky" class="w-full h-full object-cover border-0" />
+      </div>
+      <div
+        class="pointer-events-none absolute inset-0 rounded-full inset-shadow-sm inset-shadow-black/40"
+        aria-hidden="true"
+      >
+      </div>
+    </div>
+
+    <p>Hi there!</p>
+    <p>
+      My name is <a href="http://vadim.brodsky.au" target="_blank" rel="noopener noreferrer">Vadim Brodsky</a> (originally
+      Vadim<strong>s</strong> Brodsk<strong>is</strong> in Latvian). Though some of you might know me by my handle{' '}
+      <a href="http://twitter.com/jamiejakov" target="_blank" rel="noopener noreferrer">@jamiejakov</a>{' '}
+      (<a href="http://jamiejakov.lv/2014/01/why-jamiejakov/" target="_blank" rel="noopener noreferrer"
+        >why jamiejakov?</a
+      >). Originally from Riga - Latvia, in 2010 I moved to Sydney - Australia to get a university degree and settle
+      down.
+    </p>
+
+    <p>
+      Currently working as a Principal Frontend Software Engineer at{' '}
+      <a href="http://www.canva.com" target="_blank" rel="noopener noreferrer">Canva</a>. And volunteering as a Software
+      Engineer in {' '}
+      <a href="http://smash.org.au" target="_blank" rel="noopener noreferrer"><em>SMASH!</em></a>
+    </p>
+
+    <p>Love tech, traveling, anime, and photography, so that's what I mainly blog about.</p>
+
+    <p>Aside from that I know 5 languages (in the order that I learned them):</p>
+
+    <ul>
+      <li><strong>Russian</strong> — mother language</li>
+      <li>
+        <strong>Latvian</strong> — country language, all the subjects in school were taught in it. Don't remember much
+      </li>
+      <li>
+        <strong>English</strong> — have been learning since I was 3 years old, basically native now (yea nah mate)
+      </li>
+      <li><strong>German</strong> — learned it in school (around 7 years), haven't had any practice lately</li>
+      <li>
+        <strong>Japanese</strong> — since 1st year high school, <a
+          href="http://jamiejakov.me/life/jlpt-n2/"
+          target="_blank"
+          rel="noopener noreferrer">passed JLPT N2 in uni</a
+        >, and have a Japanese wife, so its my 3rd best
+      </li>
+    </ul>
+
+    <p>Hope this gave you an idea of who I am and what to expect.</p>
+
+    <p>Please enjoy my blog</p>
+
+    <p>~ Vadim ~</p>
+  </article>
 </PageLayout>
