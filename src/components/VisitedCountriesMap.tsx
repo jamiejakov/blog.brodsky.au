@@ -34,13 +34,7 @@ export const VisitedCountriesMap: React.FC = () => {
       </h1>
 
       <div className="relative mb-8 rounded-lg overflow-hidden border border-border bg-muted/30">
-        <ComposableMap
-          projection="geoMercator"
-          projectionConfig={{
-            scale: 120,
-            center: [20, 20],
-          }}
-        >
+        <ComposableMap projection="geoMercator" projectionConfig={{ scale: 120, center: [20, 20] }}>
           <ZoomableGroup center={[0, 20]} zoom={1}>
             <Geographies geography={GEO_URL}>
               {({ geographies }: { geographies: RsmGeography[] }) =>

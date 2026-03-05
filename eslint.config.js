@@ -1,3 +1,4 @@
+import { defineConfig } from 'eslint/config';
 import js from '@eslint/js';
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks';
@@ -92,7 +93,7 @@ const commonRules = {
   ],
 };
 
-export default tseslint.config(
+export default defineConfig(
   {
     ignores: [
       'eslint.config.mjs',
