@@ -5,14 +5,12 @@ description: >-
   As some of you might know, I am leaving for China and then Japan starting
   today 22nd of June till the 29th of July.
 image:
-  src: images/great-firewall-comic.jpg "Firewall of China"
-  alt: Image
+  src: images/great-firewall-comic.jpg
+  alt: 'Firewall of China'
 pubDate: 2012-06-21T00:00:00.000Z
 published: true
 tags: ['travel', 'china_2012', 'firewall', 'japan_2012']
 ---
-
-![](images/great-firewall-comic.jpg 'Firewall of China')
 
 As some of you might know, I am leaving for China and then Japan starting today 22nd of June till the 29th of July.
 
