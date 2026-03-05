@@ -142,7 +142,7 @@
       @apply border-t border-b border-primary md:border;
     }
     iframe {
-      @apply border border-primary;
+      @apply max-w-full border border-primary;
     }
     :not(pre) > code {
       @apply mx-0.5 rounded-sm bg-accent px-1 py-0.5 text-primary;
