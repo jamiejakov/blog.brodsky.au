@@ -17,7 +17,11 @@ export const NavigationButton: React.FC<NavigationButtonProps> = (props) => {
       : currentPath === link || currentPath.startsWith(`${link}/`);
 
   return (
-    <Button asChild={true} variant="ghost" className={cn('navigation-button', isActive && 'bg-black/20')}>
+    <Button
+      asChild={true}
+      variant="ghost"
+      className={cn('navigation-button min-w-0 flex-1', isActive && 'bg-black/20')}
+    >
       <a href={link}>{title}</a>
     </Button>
   );

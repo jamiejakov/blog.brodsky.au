@@ -7,38 +7,30 @@ const currentPath = Astro.url.pathname;
 const topClass = currentPath === '/' ? '-top-20' : 'top-0';
 ---
 
-<script is:inline>
-  window.addEventListener('scroll', function () {
-    const header = document.getElementById('header');
-    if (!header) {
-      return;
-    }
-
-    // Add 'shadow-md' class when scrolled down 10px or more
-    // if (window.scrollY > 50) {
-    //   header.classList.add('shadow-md', 'bg-white');
-    //   header.classList.remove('bg-transparent');
-    // } else {
-    //   header.classList.remove('shadow-md', 'bg-white');
-    //   header.classList.add('bg-transparent');
-    // }
-  });
-</script>
-
 <header
   id="header"
   class={`header-clip-path sticky scheme-light ${topClass} flex flex-col w-full justify-center items-center px-4 mb-20
     gap-2 bg-primary pt-8 pb-16 md:gap-8 md:pb-12`}
 >
-  {
-    currentPath === '/' && (
-      <h1
-        class="text-background text-3xl md:text-4xl font-bold leading-1.2 tracking-[-0.1rem] font-weight-700
-          text-center"
-      >
-        Welcome to Vadim's Blog
-      </h1>
-    )
-  }
-  <Navigation />
+  <div class="flex flex-col items-center justify-center gap-2 md:gap-8">
+    {
+      currentPath === '/' && (
+        <h1
+          class="text-background text-3xl md:text-4xl font-bold leading-1.2 tracking-[-0.1rem] font-weight-700
+            text-center"
+        >
+          Welcome to Vadim's Blog
+        </h1>
+      )
+    }
+    <div class="relative flex flex-col items-center">
+      <img
+        src="/logo.svg"
+        alt=""
+        class="z-10 -mb-4 h-12 w-auto brightness-0 invert drop-shadow-[0px_2px_14px_rgba(0,0,0,0.15)] md:h-14 md:-mb-4
+          pointer-events-none"
+      />
+      <Navigation />
+    </div>
+  </div>
 </header>
