@@ -18,7 +18,7 @@ Due to my busy life at uni I wasn't able to post this news when it actually happ
 
 The Nasa Mars rover "Curiosity" has safely landed on mars and has sent us back some pictures.
 
-<!--more-->
+---
 
 When the whole world is glued to their TVs watching the olympics in London, we geeks were watching the live stream of the Curiosity Mars landing. Unfortunately I didn't get to se the live stream, but I get to see the pictures of the hype that was at Nasa headquarters.
 

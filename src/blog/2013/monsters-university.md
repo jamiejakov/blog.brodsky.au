@@ -18,7 +18,7 @@ tags: ['movies_tv', 'disney', 'pixar', 'review']
 
 Hey, have you heard? There is a new movie out by Pixar called Monsters University! Yea that right its a prequel to Monsters Inc. Why am I telling you this? Well today is the day it got screened in Australia and I went to watch it with [Saya](http://twitter.com/KSnpy).
 
-<!--more-->
+---
 
 Its everything you would expect from Pixar. Stunning animation, amazing voice acting, funny jokes all around and of course characters you just love. The story is set before Mike and Sully went to work at Monsters Inc. as scarers, its set at the university where they got their education, \*cough\* well kinda, and one might say thats the period when they had the best time of their lives.
 

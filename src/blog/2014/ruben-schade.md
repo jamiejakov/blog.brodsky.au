@@ -21,7 +21,7 @@ I don't write about people, heck I don't even talk to people unless we have some
 
 Embarrassing, Shy, Socially awkward. Yes those are words that would fit us well, don't you agree Ruben? But yet, we somehow managed to talk to each other and start this ball rolling, and hey, I could't have wished for a better first university friend then you!
 
-<!--more-->**First encounter**
+---**First encounter**
 
 So I walk into my first real university class, which was a lecture on Communication for IT professionals, and I decide that I should sit at the front of the room (second row to be exact) cause, you know, you don't want to miss anything as university is serious business, unlike high school. And since I didn't really have any friends and was a shy guy, I sat alone, and I hope no one would sit next to me. To my surprise a talk geeky looking blond guy decided to occupy the seat closer to the window, 2 seats away from me. I figured since this is a lecture, it shouldn't matter cause we won't have to talk anyway. Oh boy was I wrong.
 

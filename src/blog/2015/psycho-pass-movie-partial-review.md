@@ -20,7 +20,9 @@ tags: ['anime', 'psycho-pass', 'review']
 
 Set after the events of season 1 and 2 this movie brings a new arch to the Psycho Pass series with a new story while bringing back some familiar faces. If you haven't watched seasons 1 and 2, there is little to no point of watching the movie as it revolves around established ideas and characters. Though season 2 was not as well accepted as the original, it is still worth watching as it hold some key plot points which are discussed in the movie.
 
-For those who have seen the previous seasons, they will be pleased to hear the Gen Urubuchi is back in charge and he once again does a marvellous job of creating a new environment and portraying the characters in that setting. Before I continue any further, I would like to warn everyone that if you press "Read More" then you will be spoiled for seasons 1, 2 and parts of the movie. <!--more-->
+For those who have seen the previous seasons, they will be pleased to hear the Gen Urubuchi is back in charge and he once again does a marvellous job of creating a new environment and portraying the characters in that setting. Before I continue any further, I would like to warn everyone that if you press "Read More" then you will be spoiled for seasons 1, 2 and parts of the movie.
+
+---
 
 **\*\*\*\*\* SPOILERS\*\*\*\*\***
 

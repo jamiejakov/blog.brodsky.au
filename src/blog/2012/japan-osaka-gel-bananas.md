@@ -18,7 +18,7 @@ tags: ['travel', 'banana', 'japan_2012', 'nipponbashi', 'osaka', 'steinsgate', '
 
 Im in Japaaaannnn yaaaaay!!! Met up with [Kosuke](http://twitter.com/SYORYU_sav_KOU) and [Tac](http://twitter.com/taccarin) at Nanba Station and we went around Nipponbashi.
 
-<!--more-->
+---
 
 The main reason to meet up at Osaka was to go to the Steins;Gate cafe!! It is located right in Nipponbashi and has been opened for the past 3 months. Today was the last day, good thing we made it!
 

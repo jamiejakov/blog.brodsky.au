@@ -23,7 +23,7 @@ But I also wanted to celebrate my birthday with my friends from university. So w
 
 So this years victims... \*cough\* guests were: [Mrs President Alex](http://twitter.com/maidforclass), [SurfingBird David](http://twitter.com/valtism), [CrazyCatLady Cindy](http://twitter.com/adasifs), [Dango Dalyna](http://twitter.com/Dal_chans), [Samurai Isaac](http://twitter.com/isaacsayshi), [Korean-chan Baek](http://twitter.com/BaeK88), [Muscle man Robbie](http://twitter.com/shirosenpai), [WaterMAN Sashin](http://twitter.com/sashin9000), [KingPotatoe Seb](http://twitter.com/sebasu_tan), and OrangeGuy me.
 
-<!--more-->
+---
 
 Some of us have skated before, some have done it once or twice, and for others it was their first time! We all had a lot of fun teaching each other some tricks, some even tried spinning, breaking and skating backwards. It was a very enjoyable afternoon.
 

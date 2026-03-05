@@ -12,7 +12,9 @@ tags: ['life', 'anonymous', 'protests', 'social-media', 'turkey']
 
 ![Riot in Turkey](images/TurkeyRiot.png)
 
-As you might have heard, the current situation in Turkey is rather severe. The people are in the streets protesting and rioting, all for one goal: take down the current prime minister [Recep Tayyip Erdoğan](http://en.wikipedia.org/wiki/Recep_Tayyip_Erdoğan) and to stop his policies of censorship and limitations on freedom of speech and expression.<!--more-->
+As you might have heard, the current situation in Turkey is rather severe. The people are in the streets protesting and rioting, all for one goal: take down the current prime minister [Recep Tayyip Erdoğan](http://en.wikipedia.org/wiki/Recep_Tayyip_Erdoğan) and to stop his policies of censorship and limitations on freedom of speech and expression.
+
+---
 
 There is a rather good article on [Wikipedia](https://en.wikipedia.org/wiki/2013_protests_in_Turkey) on the whole situation and if you want to get a better understanding of it, I suggest you take a look. Also a Taiwanese group called NMAtv made an animated video explaining the situation and what stirred up the people to start rebelling:
 

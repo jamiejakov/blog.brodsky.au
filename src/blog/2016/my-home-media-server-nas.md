@@ -12,7 +12,7 @@ tags: ['technology', 'media', 'nas', 'plex', 'server']
 
 Ever since I got my own computer and started watching movies, cartoons and anime, I've wanted to have a great collection, and back in the day the only way to do that was to save them on your computer hard drive and view them on that computer. Then I learned about the these really convenient little things called portable (external) HDDs, so I could store my media on that and then view it on a different device, and that worked great... at the time.
 
-<!--more-->Its 2016, and I in this day and age, the cloud is all the rage and there are servers all over the place in the backend for every little app. So why can't I have one? Well of course I can.
+---Its 2016, and I in this day and age, the cloud is all the rage and there are servers all over the place in the backend for every little app. So why can't I have one? Well of course I can.
 
 So I decided to improve my media library by upgrading the storage, setting up a RAID (Redundant Array of Independent Disks) and of course turning a bung of HDD into a full fledged server: NAS (Network-Attached Storage), which I called Accelerator. So a 1.something k$ later, I have the Synology 415+ and 18TB of storage I have a beautiful server sitting in my living room, which can be accessed from anywhere in the world with an internet connection.
 

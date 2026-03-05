@@ -22,7 +22,7 @@ tags: ['anime', 'review', 'tatami-galaxy']
 
 **If you wish to continue reading, be warned that a lot of SPOILERS await!**
 
-<!--more-->
+---
 
 The story is about a college dropout (he has no name, he just refers to himself as Watashi (me in japanese) during the whole series, cause he is the narrator), who, after meeting a certain person at a ramen shop, has to re-live his 2-3 years of college in various manifestations. In each "dimension" he joins a different club (circle) in uni and therefore the way he interacts with the other characters alters episode by episode. But in every variation he is destined to meet Ozu, a sly looking fellow who was always seeking to cause trouble. The MC (main character) a Ozu always end up becoming good friends, even though MC hates Ozus guts. There are other characters like Ozus master Higuchi, the doll lover Jougasaki, the fortune teller which raises the price for giving advice to MC in every episode (starting at 1000Yen and hoing up to 9000Yen), and of course the lovely Akashi, who MC is head over heals for (in most dimensions).
 

@@ -18,7 +18,7 @@ Review:
 
 3 awesome things about durarara: - the infinite number of awesome characters and their stories - the constant references to other well known anime, which in order to find you need to be very anime knowledgable - the humor
 
-<!--more-->
+---
 
 By combing the 3, an epic anime is born.
 

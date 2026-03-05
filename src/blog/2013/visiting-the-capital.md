@@ -14,7 +14,7 @@ tags: ['life', 'canberra', 'war-memorial']
 
 I have been living in Australia for almost 3 years now, but I have never been to the capital! \*shock\* So I decided that now, right before exams, would be the perfect time to go visit this small city. And what fun is it to go alone... So of course I went there together with my girlfriend at the time - [Saya](http://twitter.com/KSnpy).
 
-<!--more-->
+---
 
 Many of my friends said that there is nothing interesting in Canberra and that I would just be wasting my time by going there. I would beg to differ. Yea sure Canberra is not the most interesting place, but it does have some great museums and memorials.
 

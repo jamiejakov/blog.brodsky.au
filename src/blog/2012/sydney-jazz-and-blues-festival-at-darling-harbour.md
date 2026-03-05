@@ -18,7 +18,7 @@ Photo by [Rubenerd](http://rubenerd.com/james-morrison-2012/) (he has more good
 
 At first we met up at the UTS tower at 3:30 and just went towards Darling Harbour, where we listened to Kira Puru & the Bruise fro about 30 mins. Then we got Ruben a hot cup of coffee to keep him warm and went under the big tent to watch the last performance of the day.
 
-<!--more-->
+---
 
 James Morrison, an Australian music legend, live on stage! It was marvelous. Here are 3 videos that i managed to film with my iPhone.
 

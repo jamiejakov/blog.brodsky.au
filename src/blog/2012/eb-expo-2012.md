@@ -19,7 +19,7 @@ tags: ['games', 'life', 'assassins_creed', 'cosplay', 'eb-games', 'southpark', '
 
 5-7 October is in Sydney Olympic Park there is an event. Not just any event. Its a game exposition! [EB EXPO SYDNEY 2012](http://www.ebexpo.com.au) brought to you by EB Games Australia. My good friend Hussein and I wen there today, for a full day of adventure, fun and new experiences with new, unreleased games.
 
-<!--more-->
+---
 
 Our journey began at 9am with the CityRail (CityFail) trains arriving with 15 minute delays due to the weather. However that did not stop us from reaching EB Expo! The moment we entered the center both of us were speechless. It was our first time at a game exhibition, and it was truly an unforgettable experience. I wont go into too much detail about all the stuff that was showcased there, but will only mention the ones I care about most.
 

@@ -16,7 +16,9 @@ But ever since I came to Australia, I haven't had the chance to go to anything o
 
 <iframe src="https://www.youtube.com/embed/CgXjuGNU5is" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-This November, the Sydney Symphonic Orchestra is preforming a rather unusual set of songs. They can not be defined as classical music and they were not even originally written for an orchestra. These pieces are the OST (Original Sound Track) for the Pokemon games! The concert is called [Pokemon Symphonic Evolutions](http://www.pokemonsymphony.com) and the orchestra performed a variety of soundtracks from all Pokemon generations 1-6. It was truly a beautiful experience to hear soundtracks that defined your childhood performed as a symphony. <!--more-->
+This November, the Sydney Symphonic Orchestra is preforming a rather unusual set of songs. They can not be defined as classical music and they were not even originally written for an orchestra. These pieces are the OST (Original Sound Track) for the Pokemon games! The concert is called [Pokemon Symphonic Evolutions](http://www.pokemonsymphony.com) and the orchestra performed a variety of soundtracks from all Pokemon generations 1-6. It was truly a beautiful experience to hear soundtracks that defined your childhood performed as a symphony.
+
+---
 
 <iframe src="https://www.youtube.com/embed/T9EbzqjgDUU" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

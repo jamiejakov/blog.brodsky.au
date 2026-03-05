@@ -25,4 +25,4 @@ tags: ['life', 'ics', 'kagoshima']
 
 「NHK鹿児島06月25日19時15分」
 
-<!--more-->This article and video was published by NHK Kagoshima, however they have already taken it down. I managed to copy the content from it, and re-post it. This content belongs to NHK Kagoshima, not me.
+---This article and video was published by NHK Kagoshima, however they have already taken it down. I managed to copy the content from it, and re-post it. This content belongs to NHK Kagoshima, not me.

@@ -15,7 +15,9 @@ tags: ['internetz', 'ссср', 'dprk']
 
 ![DPRK Flag](images/DPRK_Flag.png)
 
-There has been a lot of new going around about the DPRK and a potential occurance of World War III lately. I don't know much about North Korea aside from jokes on the internet about Kim Jong Un like this one:<!--more-->
+There has been a lot of new going around about the DPRK and a potential occurance of World War III lately. I don't know much about North Korea aside from jokes on the internet about Kim Jong Un like this one:
+
+---
 
 ![Kim Jong Un](images/launch.jpg)
 

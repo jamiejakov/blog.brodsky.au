@@ -18,7 +18,7 @@ As a man of the Nights Watch, it is my duty to protect The Wall from everything 
 
 The Great Wall of China! I architecture marvel, if I do say so myself. To get up there we had to take a cable car up into the mountains.
 
-<!--more-->
+---
 
 The one disappointment was the weather, thru ought the whole trip it was cloudy and at times it rained heavily. On the other hand though, if it was sunny, we would have most likely died of the heat, cause it is summer after all...
 

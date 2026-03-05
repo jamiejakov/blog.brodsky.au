@@ -18,7 +18,7 @@ tags: ['games', 'antichamber', 'puzzle', 'review']
 
 Today I finally finished this great game. Wow, just wow. I really love puzzle games and I can say this is a very high quality puzzle game. It makes you think out of the box (or should I say cube XD). I am talking of course about [Antichamber](http://www.antichamber-game.com).
 
-<!--more-->
+---
 
 You start off in a dark room wondering what you need to do. Then the sign says jump, so you jump! And you fall. In this game you cant die, your character doesn't have a health meter, you just walk around and solve these puzles and figure out where the hell do you have to go next. Seriously this game bends your mind. Say for example you have a choice go up or down, you go up and end up where you were then you naturally go down and end up in the same place again!
 

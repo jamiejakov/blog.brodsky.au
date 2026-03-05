@@ -14,7 +14,7 @@ tags: ['anime', 'review', 'tokyo-magnitude-8-0']
 
 Last thing I fully watched was [Tokyo Magnitude 8.0](http://myanimelist.net/anime/6211/Tokyo_Magnitude_8.0) so I decided to write up a small review about it. I was warned that it is that kind of series that will make you feel very emotional for the characters. I can say one thing.... IT WAS!
 
-<!--more-->
+---
 
 ![TokyoMagnitude2](images/TokyoMagnitude2.jpg)
 

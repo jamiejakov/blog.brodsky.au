@@ -14,7 +14,7 @@ tags: ['games', 'prototype', 'review']
 
 Now that I am free from studying, exams and all this other stuff that had to be done, I finally finished Prototype 2. Generally the game was good, not as good as expected and definitely not as good as the first one.
 
-<!--more-->
+---
 
 Here is a the trailer for those who don't know what it is all about:
 

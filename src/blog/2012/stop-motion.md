@@ -14,7 +14,7 @@ tags: ['internetz', 'technology', 'mystery-guitar-man', 'stop-motion', 'youtube'
 
 Are you people familiar with the art of Stop Motion video?
 
-<!--more-->
+---
 
 Stop Motion is an animation technique to make physical objets seem to move on their own. The objects are moved little by little and then a photo is captured of them in a particular pose. Then after being moved a bit again, another photo is captured. This is repeated until the end of the movement and then the when the photos are put one after another at 20 or so frames per second, a relatively smooth video is made.
 

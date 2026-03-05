@@ -14,7 +14,7 @@ Blizzard has just released the official cinematic for the upcoming World of Warc
 
 <iframe src="//www.youtube.com/embed/wvYXoyxLv64" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 
-<!--more-->Ever since Warcraft III Blizzard has been making the most epic game cinematics I have ever seen. Ill just list all of them right here:
+---Ever since Warcraft III Blizzard has been making the most epic game cinematics I have ever seen. Ill just list all of them right here:
 
 World of Warcraft Cinematic:
 

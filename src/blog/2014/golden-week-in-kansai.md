@@ -22,7 +22,7 @@ tags: ['travel', 'amy', 'golden-week', 'ics', 'japan-2014', 'kyoto', 'nara', 'os
 
 [Golden Week](<http://en.wikipedia.org/wiki/Golden_Week_(Japan)>) is a holiday in Japan which consists of multiple celebrations such as Showa day, Constitution Memorial day, Greenery day, Children's day. It is the time of year, where pretty much all of Japan starts traveling around to visit places that they haven't been to, or places that they would want to visit again. Even though neither Amy nor me are Japanese, we decided to embark on a journey of our own. From the 2nd till the 7th of May we went to Kansai (one of the central regions of Japan) and visited the cities of Kyoto, Nara and Osaka.
 
-<!--more-->As I have been to all three multiple multiple times I was appointed as the official tour guide for this trip, I hope I didn't disappoint.
+---As I have been to all three multiple multiple times I was appointed as the official tour guide for this trip, I hope I didn't disappoint.
 
 First day was a trip around [Kyoto, Fushimi Inari](http://jamiejakov.lv/travel/kyoto-祇園祭/) and Kinkakuji were our main destinations, with a small lunch break at a delicious soba place in Arashiyama. Our good friend Satoko accompanied us during this trip and it made it just a bit more enjoyable. This time I got to see Kinkakuji (photo above) shine in full golden glory, which I didn't get to see before due to cloudy weather in July 2011.
 

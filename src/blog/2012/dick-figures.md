@@ -18,7 +18,7 @@ This is an amazing series made by mondo media (same people who made Happy Tree F
 
 It features the life of Red (the red stick figure) and Blue (the blue stick figure) and their friends: japanese raccoon, Lord Tourettes, Mr. Dingleberry, Pink, Stacy and Jason. They go on these all out crazy adventures and crazy killing sprees XD
 
-<!--more-->
+---
 
 Each episode is 5 mins or so and there are 4 seasons so far, and a [movie coming along as well](http://www.kickstarter.com/projects/dickfigures/dick-figures-the-movie 'Dick Figures the Movie'), so support the Kickstarter if you want this to happen! I know I do!
 

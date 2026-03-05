@@ -16,7 +16,7 @@ So I was watching [Yuru Yuri ♪♪](http://myanimelist.net/anime/12403/Yuru_Yu
 
 ![YY_1](images/YY_1.png)
 
-<!--more-->
+---
 
 ![YY_2](images/YY_2.png)
 

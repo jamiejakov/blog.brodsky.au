@@ -16,7 +16,7 @@ A must visit destination for everyone going to Tokyo!
 
 In the suburb of Tokyo called Mitaka, there is a park (or more like a forest), which is the home for all things Ghibli.
 
-<!--more-->We were greeted at the entrance by Totoro - the receptionist XD
+---We were greeted at the entrance by Totoro - the receptionist XD
 
 ![Totoro](images/TotoroatReception.jpg)
 

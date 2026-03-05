@@ -19,7 +19,7 @@ tags:
 
 Here is a list of what I am looking forward to and picking up, not guaranteeing that I wont drop some though:
 
-<!--more-->
+---
 
 1. *[Free!](http://myanimelist.net/anime/18507/Free!)* \- Hot guys swimming. Need I say more? ah yes: made by KyoAni. next
 2. _[Danganronpa](http://myanimelist.net/anime/16592/Danganronpa:_Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_-*The_Animation)* -  Survival game, based of a video game, sound cool, my fellow club members are saying it will be good, so might as well

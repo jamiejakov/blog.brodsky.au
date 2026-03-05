@@ -18,7 +18,7 @@ iPad is a very interesting device category. It mostly fits between a laptop and 
 
 An iPad has its benefits and I believe that in a few iterations of iOS, the iPad will be able to do everything a laptop can do, and keep the benefits it has right now. That's why I got myself a brand new iPad Pro 11". Welcome to my iFamily - iSagiri.
 
-<!--more-->
+---
 
 Right now the iPad is the perfect device for **communication** (FaceTime) with family and friends all over the world, and this is (and has been) my main use case for such a device. I can carry it around all over the house, show them anything, and see them very well on a big screen. Even more, the battery lasts so long that I could be talking to my parents for over 5-6 hours (while cooking food for Christmas or something) and still have over 50% remaining.
 

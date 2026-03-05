@@ -19,7 +19,7 @@ My new years resolution was to be more organised and get more control over my mo
 
 Even though I masterly avoided using any Microsoft software throughout university so far, ever since I started working, I was required to use Word, Excel and Powerpoint. Mainly when dealing with numbers and calculations, I was told to use Excel, even though I have never used it in my life (never had the need so to say). Well That help me get an understanding of how spreadsheets work, but to be honest, it wasn't a very pleasant experience. Of course many people will argue that the functionality of Excel is all that matters, but alas no, if the design is bad, then I don't feel I want to use the application any more then I have to.
 
-<!--more-->This is when my good friend Max (Muzaffar), accountant, showed me how he handles monthly expenses and budgets. It was beautiful. Rows and columns of integers and floats, descriptions for all the expenses, etc. And not to mention it, he is also very good at explaining how things work and why you have to include a certain formula to achieve the desired result. I owe Max big time for introducing me to this concept of keeping track of money using spreadsheets.
+---This is when my good friend Max (Muzaffar), accountant, showed me how he handles monthly expenses and budgets. It was beautiful. Rows and columns of integers and floats, descriptions for all the expenses, etc. And not to mention it, he is also very good at explaining how things work and why you have to include a certain formula to achieve the desired result. I owe Max big time for introducing me to this concept of keeping track of money using spreadsheets.
 
 ![summary](images/summary.png)
 

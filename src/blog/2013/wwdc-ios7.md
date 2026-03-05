@@ -19,7 +19,7 @@ tags: ['technology', 'apple-2', 'beta', 'ios', 'wwdc']
 
 Tonight at 3am Sydney time, Apple had their World Wide Developer Conference (WWDC) where they announced many new changes to both their software and their devices. You can read the full coverage on [9to5mac.com](http://9to5mac.com/tag/wwdc/). But I will just quickly mention what I love about it.
 
-<!--more-->
+---
 
 Main things are the new improved MacBook Airs, a revolutionary new Mac Pro and of course the new OSX 10.9 Maverick.
 

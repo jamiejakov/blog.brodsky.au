@@ -16,7 +16,7 @@ _Sunday Movie Night_ is an event I organize at [urba**nest**](http://www.urbanes
 
 The story revolves around Poppy, a 30 year old girl who is living with her flatmate Zoe and working as a primary school teacher. Why is she so special? because her character is "happy go lucky". She always looks at the bright sight of things, she is always happy and acts silly and jokes around about things most of the time. Poppy is trying to make everyone around her happy by making jokes and smiling, but that doesn't always work. Still she doesn't frown, she doesn't cry she just continues being herself.
 
-<!--more-->
+---
 
 In the beginning of the movie her bicycle was stolen, and when she sees that instead of getting angry or depressed she is just a bit sad that she couldn't say goodbye to her good friend (the bike). Sometimes the things she does are a bit overboard, but it hasn't harmed her so I am guessing it ok, but of course this is a movie and not real life.
 

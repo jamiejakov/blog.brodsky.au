@@ -14,7 +14,7 @@ tags: ['movies_tv', 'kill-bill', 'quentin-tarantino', 'review']
 
 Why have I not seen this movie up until now? Its a [Quentin Tarantino](http://en.wikipedia.org/wiki/Quentin_Tarantino) movie, yet I have just watched it last week! Well, to be honest, I haven't seen any of his other movies, but I have heard very good things about them and some people even say that he is a genius when it comes to film making. There is no reason why it took me so long to watch [Kill Bill](http://www.imdb.com/title/tt0266697/ 'Kill Bill IMDB'), but I am grateful to [German](http://twitter.com/gexgrino) for making me watch it (just like that: "we are watching this movie now, no buts!"). I will just give a brief overview of the show and wont get into much detail, so there will be no spoilers.
 
-<!--more-->
+---
 
 **The story** revolves around the main character \*\*\*\*\* (played by Uma Thurman) who was supposed to be killed along her friends and fiancée during their 'wedding'. She wakes up 4 years later after a coma and is seeking revenge. Then we slowly learn of her story, and also how and why this whole "incident" happened.
 

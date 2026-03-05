@@ -16,7 +16,7 @@ Back in 2011 [I wrote a review](http://jamiejakov.lv/anime/steinsgate-review/) o
 
 **\*\*\*\* CAUTION SPOILERS AHEAD \*\*\*\***
 
-<!--more-->
+---
 
 Ok I can't not compare the movie to the series it self. And in all honesty its not as good as the 26 episode series, but that is understandable as it is only 1 hour and a half, whereas the series is around 10 hours. [_Fuka Ryouiki no Deja vu_](http://myanimelist.net/anime/11577/Steins;Gate:_Fuka_Ryouiki_no_Déjà_vu) starts in the Steins;Gate world line where Mayushii is alive and Kurisu was not stabbed to death by her father. Everything seems fine and they are all living a happy life. But then suddenly Okabe starts seeing these delusions of events that have happened in other world lines. They start getting more and more serious up until he completely loses track of the world lines and disappears into the timeline which is 0.00000001 off from the Steins;Gate one. And the only person that still manages to somehow remember Kyoumas existence is his beloved tsundere Kurisu. It's all up to her to bring him back!
 

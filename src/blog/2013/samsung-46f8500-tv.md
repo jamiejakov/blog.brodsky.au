@@ -21,7 +21,7 @@ tags: ['life', 'technology', 'latvia_2013', 'samsung', 'tv']
 
 When I arrived back home and set foot in my house again after 3 years of being abroad, I could not help but notice the 12 year old TV in our living room. It was a Sony Trinitron and looked something like [this](http://2.bp.blogspot.com/_hvUgLTILEVE/SaDTi8HMQnI/AAAAAAAAFxU/G4oPHbFnmIM/s400/TV+Trinitron.JPG), I dont have a picture of ours and we already gave it away. とにかく、it was old and outdated, a serious upgrade was required. Thankfully my dad was on my side on this one and so we set out to buy a new TV, yay!
 
-<!--more-->
+---
 
 One of our (Latvias) main electronic companies, [Elkor](http://www.elkor.lv), had a sale on Samsung TVs, so naturally thats where we went. At first we were contemplating on getting a 50" model, but after some measuring it was evident that a TV of that size simply wont fit in between our cupboards and wardrobe.
 

@@ -19,7 +19,7 @@ Summer 2012 anime season has started and is already in full swing! The people at
 
 Personally I'm watching 6 new things this season and 1 from last season.
 
-<!--more-->
+---
 
 - Yuru Yuri II
 - Sword Art Online

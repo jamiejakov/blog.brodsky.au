@@ -24,7 +24,7 @@ tags: ['life', 'utsanime', 'art', 'drawingcircle', 'goya', 'jass', 'pokemon']
 
 As you know I am the screenings director for [Anime@UTS](http://utsanime.net) and an active member of [JASS](https://www.facebook.com/JASSUTS), but as of last year I also joined a newly formed club called: the [Drawing Circle](http://drawingcircle.tumblr.com). As the name implies its a club of artistic people who love to draw, sketch, design and just make pretty things. Well I have quite a few friends there and so I decided to join as well, cause why not, however I haven't really gone to any events, aside from the joint Pokemon event with the anime club. So now that I am dating a girl who is pretty much an exec of that club (not really but kinda), I though it would be nice to come to their events as well.
 
-<!--more-->
+---
 
 Starting off at the **AGM** on friday, I got to know more people from their society and participate in the election of the new executive team, who would be responsible for running the club in 2014. Then continuing on to Saturday when we went to the **Art Gallery of NSW** to view the [Renaissance to Goya](http://www.artgallery.nsw.gov.au/exhibitions/renaissance-to-goya/) exhibition happening there at the time. Not only did we get to see that, but we also wandered around the whole gallery and took photos where permitted. In regards to photos, I didn't take many (the ones that I did are at the end of this post), but my bro [Sebastian](http://alonelyseptember.org), now bearing a high quality DSLR camera, took a lot of great photos all over the gallery. You can view them here:
 

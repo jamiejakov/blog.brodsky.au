@@ -16,7 +16,7 @@ tags: ['life', 'bicycle', 'ics', 'japan-2014']
 
 So here I am, in a new city in a (not so) new land, starting off my 1 year of exchange in Kagoshima University. This past week has been really busy. I can tell you guys, settling down in Japan is much harder then in Australia. Japan sure loves its bureaucracy, but I did manage to have fun with new made friends and I am sure that I will have even more fun from now on.
 
-<!--more-->So basically this week I had to:
+---So basically this week I had to:
 
 - Check-in to my accommodation
 - Get a Japanese seal (inkan) for official documents

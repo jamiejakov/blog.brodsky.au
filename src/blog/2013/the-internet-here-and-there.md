@@ -19,7 +19,7 @@ tags: ['internetz', 'technology', 'australia', 'internet', 'latvia', 'speed']
 
 The Internet... Its such a magnificent thing! I can not imagine living without it. Everything I do during the day revolves around using the internet in one way or another. May it be Skyping with my parents back home, or checking into a restaurant on Foursquare, or simply checking my Twitter feed and replying to chat messages in Line. Its amazing how much we can do on the web these days, and it makes our lives just a bit more colorful. But you know what annoys me more then anything? SLOW CONNECTION SPEED AND LOW BANDWIDTH!
 
-<!--more-->
+---
 
 I am from Latvia where ever since childhood we had unlimited internet with blazing fast speeds (like 4MB/s on torrents, 5 years ago). And then I arrive in Australia, where I have to live in home-stay, and guess what?!... I only got 1GB of internet usage PER MONTH..... I did not understand what these words meant when I heard them. How can this be possible? How will I survive? And there was no answer for it. There just wasn't.
 

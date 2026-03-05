@@ -16,7 +16,7 @@ tags: ['games', 'internetz', 'armikrog', 'kickstarter', 'neverhood']
 
 YOU HAVE NO IDEA HOW EXITED I AM!!!! This is like the sequel to one of my favorite childhood games: The Neverhood.
 
-<!--more-->
+---
 
 This is a new game made by Doug TenNapel and the creators of Neverhood, this game will be made Pencil Test Studios, a company made by these guys just for the purpose of making this game.
 

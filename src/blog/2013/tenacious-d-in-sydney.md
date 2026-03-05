@@ -14,7 +14,7 @@ tags: ['life', 'music', 'concert', 'sashin9000', 'sydney-opera-house', 'tenaciou
 
 The D is here!!! And they will rock your socks off!!
 
-<!--more-->
+---
 
 May 12, 2013, Sydney Opera House, Tenacious D performing their latest album _Rize of the Fenix_ and some songs from their previous 2 albums: _Tenacious D_ and *Pick of Destiny.* My good friend [Sashin](http://www.sashinexists.com) and me went to enjoy the D live, and boy we were rocked hard by the D. We could feel the D blowing our mind.
 

@@ -20,7 +20,7 @@ tags: ['travel', 'gera', 'latvia_2013', 'superjail']
 
 My holiday is over, its time to go back to Sydney, my current home, where my friends and loved ones are eagerly awaiting my return. It was fun, this month flew by very quickly. I got to see my parents and meet some of my high school friends as well as my best friend [German (Herman - Гера)](http://twitter.com/gexgrino). He left for Austria, I left for Australia.
 
-<!--more-->
+---
 
 This time I didn't have any trouble checking in and I got my tickets to Sydney straight away. I managed to evade a overweight luggage fine, by 100g, my suitcase had 23.9kg in it, PERFECT!
 

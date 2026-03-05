@@ -25,6 +25,6 @@ So why make this post? Well, after listening to the OP again, it reminded me of 
 
 **\* CAUTION SPOILERS! CONTINUE ONLY IF YOU HAVE SEEN THE ANIME \***
 
-<!--more-->
+---
 
 <iframe src="//www.youtube.com/embed/SIbBKpZWabQ" height="315" width="560" allowfullscreen frameborder="0"></iframe>

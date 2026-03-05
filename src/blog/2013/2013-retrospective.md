@@ -20,7 +20,7 @@ tags: ['life', 'new-year', 'retrospective', 'wordle']
 
 For my birthday on the 1st of February my [parents got me a DSLR](http://jamiejakov.lv/technology/dlsr/) camera right before our trip to Melbourne to watch the Australian Open and Fiji. This sparked my interest in photography and I now I carry my camera to almost all important events.
 
-<!--more-->The next important event I would like to highlight is the the [Wolf Children screening](http://jamiejakov.lv/anime/wolf-children-screening-and-qa-with-the-director/) where I watched the movie for the 3rd time, but this time we got to see the Director - Mamoru Hosoda. He signed my BluRay copy of the movie and even drew me a sketch of Hana.
+---The next important event I would like to highlight is the the [Wolf Children screening](http://jamiejakov.lv/anime/wolf-children-screening-and-qa-with-the-director/) where I watched the movie for the 3rd time, but this time we got to see the Director - Mamoru Hosoda. He signed my BluRay copy of the movie and even drew me a sketch of Hana.
 
 In May I got to see [Tenacious D preform](http://jamiejakov.lv/life/tenacious-d-in-sydney/) live in the Syndey Opera House with [Sashin](http://twitter.com/sashin9000). That was my first time in the opera house and wow I can say that was amazing. The D will rise again.
 

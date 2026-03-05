@@ -9,7 +9,7 @@ import { getPosts } from '../../lib/sortedCollection';
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getPosts();
   const notFirstPosts = allPosts.slice(POSTS_PER_PAGE);
-  return paginate(notFirstPosts, { pageSize: 2 });
+  return paginate(notFirstPosts, { pageSize: POSTS_PER_PAGE });
 }
 
 type Props = Awaited<ReturnType<typeof getStaticPaths>>[number]['props'];

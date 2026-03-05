@@ -16,7 +16,7 @@ My friend Kosuke and I went to Tokyo for 3 days.
 
 So we took the Shinkansen from Kyoto to Tokyo. It was awesome!
 
-<!--more-->I wanted to take a picture of Fujisan, but unfortunately there were so many clouds that i could even see the mountain, let alone take a pic....
+---I wanted to take a picture of Fujisan, but unfortunately there were so many clouds that i could even see the mountain, let alone take a pic....
 
 Once we got here, we were planing on going up on the Sky Tree, but since it only opened in May, we couldn't get any tickets, everything was booked out... We should have pre booked a week beforehand :(
 

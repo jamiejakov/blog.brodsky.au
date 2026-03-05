@@ -14,7 +14,7 @@ tags: ['life', 'drawingcircle', 'jass', 'kite']
 
 For me though, it was a good opportunity to catch up with people who I missed and couldn't see due to me being constantly busy with work. And so I did. Too bad my lovely girl couldn't be there with me on this funtastic day, but I got to spend a whole day with her before for our 4 month anniversary. We watched anime, had lunch, went to Kino, and drank some good white wine.
 
-<!--more-->During the event we had sausages, burgers, a huge variety of sauces and drinks! There was also a football-ball which we could play with (and so I did, tried to show off my skills which I picked up while playing бананы with Гера & Гера). It was fun, I didn't have time to make a kite though as I needed to leave early. Would do again.
+---During the event we had sausages, burgers, a huge variety of sauces and drinks! There was also a football-ball which we could play with (and so I did, tried to show off my skills which I picked up while playing бананы with Гера & Гера). It was fun, I didn't have time to make a kite though as I needed to leave early. Would do again.
 
 Well here are photos which I took (have I ever told you that I don't like taking photos when its cloudy):
 

@@ -19,7 +19,7 @@ Cosplay, its an art of dressing up as a character from a TV series, movie, game 
 
 My friends from [anime@uts](http://utsanime.net) and [JASS](http://www.jass-uts.com) are doing this thing on Facebook where they talk about their cosplay experiences and tag other people to do it too. So I have been tagged, and instead of posting it on Facebook (ugh Facebook), I'm gonna talk about it here, on my blog.
 
-<!--more-->**Cosplay description:**
+---**Cosplay description:**
 
 1. [Anizawa Meito](http://anilist.co/character/4130) (Anime Tenchou) - the mascot for [animate.co.jp](http://www.animate.co.jp) and a side character from [Lucky☆Star](http://anilist.co/anime/1887). (AnimeSydney christmas party 2012; Madoka Magika Movie 1,2 screening 2012, [AnimeSydney christmas party 2013](https://www.flickr.com/photos/sebasu_tan/sets/72157638191975015/))
 2. [Accelerator](http://anilist.co/character/13917/Accelerator-) - [To Aru Majutsu no Index](http://anilist.co/anime/4654) / [Kagaku no Railgun](http://anilist.co/anime/6213)  (Clubs day 2013, SMASH 2013)

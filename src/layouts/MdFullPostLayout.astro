@@ -27,7 +27,7 @@ const { post } = Astro.props;
     <p class="mb-1">Written by: <span class="text-gray-500 italic">{post.data.author}</span></p>
     <div class="flex items-center gap-2">
       <span>Tags:</span>
-      <ul class="flex flex-wrap gap-2 list-none m-0">
+      <ul class="flex flex-wrap gap-2 list-none m-0 pl-0">
         {
           post.data.tags.map((tag: string) => (
             <li>

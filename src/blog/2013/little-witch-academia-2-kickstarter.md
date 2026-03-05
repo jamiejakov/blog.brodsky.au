@@ -14,7 +14,7 @@ tags: ['anime', 'a', 'kickstarter', 'reddit', 'trigger']
 
 Kickstarter, kickstarter, kickstarter... This service is changing they way the world works - games, movies, tech and now even anime is using Kickstarter to gather funds for creating their projects. This time around we have Studio Trigger who brought us _[Inferno Cop](http://myanimelist.net/anime/16774/Inferno_Cop)_ and *[Little Witch Academia](http://myanimelist.net/anime/14349)* and coming out with *[Kill la Kill in Fall](http://myanimelist.net/anime/18679/Kill_La_Kill)* has decided to use kickstarter as a platform to aquire funds for creating a [sequel to Little Witch Academia](http://www.kickstarter.com/projects/1311401276/little-witch-academia-2 'Little Witch Academia 2 Kickstarter').
 
-<!--more-->
+---
 
 The original Little Witch Academia (LWA) was creating during the [Young Animators Training Project 2013](http://en.wikipedia.org/wiki/Young_Animator_Training_Project 'Anime Mirai') where basically the japanese governments funds the creation of anime. This new studio has staff from the original Gainax who worked on [_Gurren Lagann_](http://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann 'Gurren Lagann MAL') and _[Panty & Stocking](http://myanimelist.net/anime/8795/Panty_&*Stocking_with_Garterbelt "Panty & Stocking MAL")* so naturally the whole western community is super hyped.
 

@@ -14,7 +14,7 @@ tags: ['travel', 'amy', 'dmz', 'dprk', 'korea', 'seoul']
 
 For the past 5 days I have been traveling around Korea with my girlfriend and her mother. We visited the port and beach town of Busan, the capital Seoul and took a tour to visit the [Korean Demilitarized Zone](http://en.wikipedia.org/wiki/Korean_Demilitarized_Zone) (DMZ) at the border with North Korea.
 
-<!--more-->In Busan we visited a buddhist temple, which had a golden Buda and two of the cities famous beaches which gave us a glimpse of the night life of Korean people.
+---In Busan we visited a buddhist temple, which had a golden Buda and two of the cities famous beaches which gave us a glimpse of the night life of Korean people.
 
 After taking the bullet train to Seoul and walking around for a bit, it was evident that we have arrived in the capital of the mighty country known as South Korea. The streets are wide, there are much more people around, more cars, and it was much cleaner then Busan. We took a day tour to the DMZ and even crossed the border into North Korea (for 10 minutes) at the [JSA](http://en.wikipedia.org/wiki/Joint_Security_Area). I was surprised to see just how string the influence of the US army is on the border of the two Koreas. There is a big US military base and they have over 100 soldiers stationed at the border.
 

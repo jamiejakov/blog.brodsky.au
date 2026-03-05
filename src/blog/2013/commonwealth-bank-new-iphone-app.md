@@ -14,7 +14,7 @@ tags: ['technology', 'commonwealth-bank', 'ios']
 
 Last week I was contacted by a marketing research organization on behalf of [Commonwealth Bank](https://www.commbank.com.au 'Commonwealth Bank') in regards to their iOS mobile banking app. Basically its a focus group where they showed up slides of the new software and asked us questions about how we feel when seeing these new features. It sounded like an interesting thing to do on a Thursday evening, especially cause they gave me $80!
 
-<!--more-->
+---
 
 At first we were shown slides of a notification screen and an email that will be posted/sent out to all customers using their current iOS app to notify them of the amazing new update. I was a bit skeptical at that point, because they really don't need to do that, since iOS7 will have automatic updates enabled by default.
 

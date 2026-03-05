@@ -22,7 +22,7 @@ generally it was a little bit less than what i expected, but it was nevertheless
 
 ![MBPR](images/MBPR.jpg)
 
-<!--more-->Specs:
+---Specs:
 
 - Its got a 2880-by-1800 pixel screen, thats the highest resolution EVER on a laptop
 - 2.3GHz quad-core Intel Core i7 processor

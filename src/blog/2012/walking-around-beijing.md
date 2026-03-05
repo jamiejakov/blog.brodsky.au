@@ -17,7 +17,7 @@ tags: ['travel', 'beijing', 'china_2012']
 
 After a good nights sleep and a solid breakfast (fried rice with bacon and fruit) i decided to wander around town cause my parents will obly arive at 3pm today.
 
-<!--more-->
+---
 
 Then i found this sign:
 

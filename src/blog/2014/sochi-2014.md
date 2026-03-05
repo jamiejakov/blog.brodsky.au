@@ -22,7 +22,7 @@ tags: ['life', 'olympics', 'russia', 'sochi', 'sport']
 
 The 22nd winter Olympic Games have just begun in Sochi Russia! For any country hosting an Olympic Games is a great honor and Russia hasn't had a chance since the 1980 summer Olympics in Moscow. Its been tough on Russia, they had to building all the venues and hotels from scratch, spending an amazing 51 billion dollars on infrastructure, new stadiums and hotels. But they managed to get all of it done on time (almost) and they Olympics have officially begun a few days ago with the amazing opening ceremony, which showcased the history of Russia with beautiful ballet and performances.
 
-<!--more-->But it did not all go according to plan. One of the simplest pieces of the opening ceremony did not quite open up, so to say. Look:
+---But it did not all go according to plan. One of the simplest pieces of the opening ceremony did not quite open up, so to say. Look:
 
 ![rings](images/rings.jpeg)
 

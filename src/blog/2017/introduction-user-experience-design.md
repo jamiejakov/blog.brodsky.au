@@ -28,7 +28,7 @@ In this article I will give a brief overview of a few concepts that will help de
 
 The most important aspect of UX design is to learn that the ways users interact with a product and the experiences they have with it vary wildly depending on their backgrounds and life situations. In order to create a pleasing user experience considerations of the users age, background, physical location, interests, and of course comfort level with technology, need to be considered and designed around.
 
-<!--more-->You’re designing to serve the needs of your users. When a user interacts with a system, they have a particular goal they are trying to accomplish, as a UX designer you need to create your features in such a way that would help users reach their goals with the product. However, finding the bridge between users needs and business needs is crucial to a successful product.
+---You’re designing to serve the needs of your users. When a user interacts with a system, they have a particular goal they are trying to accomplish, as a UX designer you need to create your features in such a way that would help users reach their goals with the product. However, finding the bridge between users needs and business needs is crucial to a successful product.
 
 The most useful codification of the key things to be striving for in your designs to creating a quality user experience is as following:
 

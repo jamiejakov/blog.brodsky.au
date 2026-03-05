@@ -16,7 +16,7 @@ tags: ['travel', 'british-airways', 'latvia_2013', 'quantas', 'singapore']
 
 It was a good plan, a simple plan, nothing crazy... But it turned into soooo much more because of one small mistake, one small slip up... I am talking about my trip back to Latvia. The original plan was to fly from Sydney to Singapore, spend 1 night and most of the day there with my good friend [Wilmer](https://twitter.com/wilmerang) then catch a flight from Singapore to Helsinki the next day, lastly connecting to a flight from Helsinki to Riga. Well the Quantas check in people at  Sydney International Airport had a different plan for me...
 
-<!--more-->
+---
 
 **Prequel**
 

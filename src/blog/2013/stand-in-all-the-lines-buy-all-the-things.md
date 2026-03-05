@@ -43,7 +43,7 @@ This has been a very expensive week for me, but I can honestly say that it was w
 
 The game was set out to come out at exactly 12am on the 17th of September. Naturally I preordered it, but then I also decided to go to the store at like 11:30pm to wait for the midnight release and pick it up straight away to get some gaming time before going to bed. I can say one thing, good thing I came 30 minutes early! I managed to get a spot at the front of the line (8th or 10th) thereby getting the game right away at 12 and heading home. The game cost $89 (which is the normal price for the standard edition of any console game in Australia).
 
-<!--more-->When walking out of the store I could see the number of people standing in line to both JBHifi and EBGames stores. Id say around 200 people were there that night. A truly massive game launch for a truly massive game. I am currently on 8 hours of gameplay and 19% passed. Once I clear all the missions and start having fun with this huge open world, I will write up a review of it, so stay tuned.
+---When walking out of the store I could see the number of people standing in line to both JBHifi and EBGames stores. Id say around 200 people were there that night. A truly massive game launch for a truly massive game. I am currently on 8 hours of gameplay and 19% passed. Once I clear all the missions and start having fun with this huge open world, I will write up a review of it, so stay tuned.
 
 **iPhone 5s**
 

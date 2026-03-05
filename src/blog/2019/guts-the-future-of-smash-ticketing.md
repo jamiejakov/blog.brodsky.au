@@ -22,7 +22,9 @@ So even before SMASH! 2018 weekend happened, Yaakov and I started taking about t
 
 ### The decision
 
-We had 4 options and we had to make a choice...<!--more-->
+We had 4 options and we had to make a choice...
+
+---
 
 1. Stick with the current system
 2. Find an open source ticketing system, and try to make it fit our needs

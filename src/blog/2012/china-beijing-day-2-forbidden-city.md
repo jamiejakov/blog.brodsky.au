@@ -23,7 +23,7 @@ A pretty full day. It was rather tiring, but we managed to pull though!
 
 [TianAnMen Squire](http://en.wikipedia.org/wiki/Tiananmen_Square), the biggest square in the world. It is huuuuuuge! I can't image what goes down when half of china is gathered there. There were lots of tourists nevertheless, so it gave a pretty good understanding of the size.
 
-<!--more-->
+---
 
 ![Beijing_TianAnMen](images/Beijing_TianAnMen.jpg)
 

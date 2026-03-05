@@ -14,7 +14,9 @@ tags: ['anime', 'chuunibyou', 'kyoani', 'review']
 
 **\*\*\*\*\*\*\*\*\* CAUTION SPOILERS\*\*\*\*\*\*\*\*\*\*\***
 
-When I initially saw the preview for this show ([Chu2](http://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai!/ 'MAL')) I though: "Hmmm Kyoto Animation (KyoAni) is making a action anime with super national battles?! Woah!" And then upon watching the first episode I realized: "nope, no action here, just cute girls doing cute things". But boooooy was I off the bat with that!<!--more-->
+When I initially saw the preview for this show ([Chu2](http://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai!/ 'MAL')) I though: "Hmmm Kyoto Animation (KyoAni) is making a action anime with super national battles?! Woah!" And then upon watching the first episode I realized: "nope, no action here, just cute girls doing cute things". But boooooy was I off the bat with that!
+
+---
 
 ![Chu2_pose2](images/Chu2_pose2.jpg)
 

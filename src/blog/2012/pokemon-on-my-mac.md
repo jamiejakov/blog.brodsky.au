@@ -21,7 +21,7 @@ In order to do that though, one either need a Game Boy / Color / Advanced / Nint
 
 So what does an IT guy do in this case, one thing! find an emulator. And I was successful. Now I can play any Game Boy games on my iTaiga (MacBook Air) or iKonata (Mac Mini). 1 ROM is usually 1-20MB and they provide infinite enjoyment!
 
-<!--more-->
+---
 
 It was no easy task however. There are heaps of GBA emulators; for Windows......... and 2 for Mac, both of which do not work because of OSX 10.7 Lion. But after much searching I found a remake of the GBA emulator, made to work with Lion:
 

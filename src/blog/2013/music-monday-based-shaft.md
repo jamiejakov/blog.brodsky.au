@@ -19,7 +19,7 @@ Each of their shows is filled with character development, engaging dialogue, tho
 
 This seasons _Monogatari series_ _second season_ is no exception. If you guys remember [_Bakemonogatari_](http://myanimelist.net/anime/5081/Bakemonogatari) - Nadeko Snake ark and the ever so famous OP - Renai Circulation, then you will be pleased to hear the in this seasons monogatari Nadeko has her own ark and a new OP to match it!
 
-<!--more-->
+---
 
 Here is a link to [Renai Circulation](http://www.youtube.com/watch?v=VmQQoCK6hFs) (RC), and here is the new OP called Mousou Express (ME):
 

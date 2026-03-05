@@ -14,7 +14,7 @@ tags: ['travel', 'acrobats', 'beijing', 'china_2012', 'duck']
 
 I have already written up a [post about me walking around Beijing](http://jamiejakov.lv/travel/walking-around-beijing/) during the first day while waiting for my parents. So now, since I have normal internet again, I will continue the story.
 
-<!--more-->
+---
 
 After meeting my parents and having a lovely reunion, we went for dinner. It was no ordinary dinner, it was a duck; a [Peking duck](http://en.wikipedia.org/wiki/Peking_Duck).
 

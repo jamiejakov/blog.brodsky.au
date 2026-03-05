@@ -20,7 +20,7 @@ tags: ['life', 'technology', 'apple-2', 'iphone', 'review']
 
 You all know about the iPhone 5. You have probably heard how people are disappointed with it. Some of you might even think that its not that good. Some of you have read blog posts about how its easily scratchable and breakable. Some of you maybe even heard bad things about iOS6. Well let me tell you what I think. Let me tell you MY experience with the amazing new iPhone 5.
 
-<!--more-->
+---
 
 **Friday 12pm:**
 

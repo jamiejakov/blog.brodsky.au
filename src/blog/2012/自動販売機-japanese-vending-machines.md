@@ -14,7 +14,7 @@ tags: ['life', 'japan_2012', 'vending-machines', '自販機', '関西弁']
 
 A marvel of japanese engineering and technology: the vending machine! These magnificent devices provide travelers with delicious thirst quenching nectar known as tea (or coffee).  Not only that, but in the land of the rising sun, these contraptions also hold cigarettes and alcohol. And the best part, that are everywhere!
 
-<!--more-->Literally you can find a jihanki (自販機) on the corner of every street, at the entrance to almost every building, inside the lobby of almost very building, etc... For example we have 2 machines in my dorm (ドーミー谷町), then across the road, 2 across the other road (the dorm is located on the corner of 2 reads), then 3 further down that road, 2 more the other way, etc..... Im at the stage when I know which jihanki sells what drinks and at what price, so I always take the rout with that one jihaki which has that one special drink at the lowest price. That drink is:
+---Literally you can find a jihanki (自販機) on the corner of every street, at the entrance to almost every building, inside the lobby of almost very building, etc... For example we have 2 machines in my dorm (ドーミー谷町), then across the road, 2 across the other road (the dorm is located on the corner of 2 reads), then 3 further down that road, 2 more the other way, etc..... Im at the stage when I know which jihanki sells what drinks and at what price, so I always take the rout with that one jihaki which has that one special drink at the lowest price. That drink is:
 
 ![Mistio](images/Mistio.jpg)
 

@@ -16,7 +16,7 @@ tags: ['travel', 'melbourne_fiji_2013', 'tennis']
 
 This year for my birthday my parents took me to Melbourne and then later on to Fiji. It was an amazing trip and I took a lot of gorgeous photos.
 
-<!--more-->
+---
 
 In Melbourne my dad and I went to see both the men's and women's finals of the Australia Open. This was the first time I have ever seen a live tennis match, not to mention that it was the Australian Open!
 

@@ -19,7 +19,7 @@ tags: ['travel', 'amy', 'christmas', 'ics', 'kyushu', 'nagasaki', 'onsen', 'war-
 
 This winter break being far away from home, far away from our families, Amy and I went on an adventure around Kyushu to see everything it has to offer. For our 6 day trip we, went to Nagasaki and the deserted island of Gunkanjima, Huis Ten Bosch theme park, Beppu city and the town of Yufuin. I'll try to write up as much as I can, but it is late and we are sleepy.
 
-<!--more-->**Day 1 (23rd Dec) - Nagasaki**
+---**Day 1 (23rd Dec) - Nagasaki**
 
 After reaching Nagasaki at around 4pm and checking into the hotel, we were thinking of what to do, where to go. Luckily [this little website](http://www.japan-guide.com) had an answer ready for us. They say that the night view of Nagasaki city is worth a million yen, maybe for some, but for others I think it is worth a bit less then a few thousand. It is definitely gorgeous; all the shining lights in different colours looked like stars in the distance.
 

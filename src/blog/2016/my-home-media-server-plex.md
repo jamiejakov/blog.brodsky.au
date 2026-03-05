@@ -20,7 +20,7 @@ So what is Plex? Its a media player system that automatically organises your me
 
 Not with Plex. Plex has a number of irreplaceable features:
 
-<!--more-->
+---
 
 - Organisation by show
 - Synch with the [theTVDB](http://thetvdb.com) database for:

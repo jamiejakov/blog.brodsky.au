@@ -14,7 +14,7 @@ tags: ['games', 'naughtydog', 'review', 'the-last-of-us', 'uncharted']
 
 This is so overdue! I should have finished _[The Last Of Us](http://www.thelastofus.com)_ before going back home to [Latvia](http://jamiejakov.lv/travel/tadaima-im-home/), but at that time I was only about 60% into the game. So now, 15 hours of gameplay later, I am done! And I can clearly say that this title deserves to be called the best game of 2013 (we shall see what happens when Watch Dogs and GTAV come out). I will try to keep this review as spoiler free as possible, but at the same time I would like to cover all the parts of the game and at least mention the characters that played a vital role in the story.
 
-<!--more-->
+---
 
 If I had to describe this game in one sentence, I would say: "Imagine if *[Uncharted](http://en.wikipedia.org/wiki/Uncharted)* and [_Half Life 2_](<http://en.wikipedia.org/wiki/Half-Life_(series)>) had a baby". Seriously, one of the zones in _The Last of Us_ felt so much like Revenholm in _HL2_ and other parts of the game felt like _Uncharted_. The concept is that at one point a virus has started going around and once a human is infected he becomes a mindless zombie who can only kill healthy people, or infect them by biting them. You have our main character Joel who survives the initial wave of infection and is living in a quarantine zone. He is tasked to take this girl Ellie (our second main character) half way across the country. Why? Because she is infected, and has been for the past 3 weeks, but is still sane, she is still normal and healthy. We have a cure! But we need professional doctors to extract it from her, and they are somewhere far far away.
 

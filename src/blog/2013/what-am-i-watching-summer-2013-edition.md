@@ -33,7 +33,7 @@ tags:
 
 The summer 2013 anime season is already in week 3 so I might as well say what I am watching and give some recommendations, [just like I did in 2012](http://jamiejakov.lv/anime/recommended-summer-2012-anime/).
 
-<!--more-->
+---
 
 My friend [Seb](http://twitter.com/sebasu_tan) wrote up his mini review of this season and what he is watching [on his blog right here.](http://alonelyseptember.org/anime-summer-season/)
 

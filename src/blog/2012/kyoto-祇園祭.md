@@ -18,7 +18,7 @@ tags: ['travel', 'arcade', 'japan_2012', 'jinbei', 'kyoto', '祭']
 
 It was supposed to be just a normal sunday for me, until I decided to go hang out with my friend Kosuke in Kyoto. So I picked a random day (today, 15th of July, Sunday) decided on a time and went to Kyoto, where Kosuke was waiting for me. Little did i know what was in stall for me....
 
-<!--more-->
+---
 
 So first off we went to a place called [Fushimi Inari-taisha](http://en.wikipedia.org/wiki/Fushimi_Inari-taisha) (伏見稲荷大社), or as it is better know as: "the place with lots of orange gates". It was very hot (35°C), but we somehow managed to get up there, look around and take some pictures:
 
