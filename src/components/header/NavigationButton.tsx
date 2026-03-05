@@ -11,8 +11,10 @@ type NavigationButtonProps = {
 export const NavigationButton: React.FC<NavigationButtonProps> = (props) => {
   const { link, title, currentPath } = props;
 
-  const currentPathIsBlog = currentPath.includes('/blog') && link === '/';
-  const isActive = currentPath.includes(link) || currentPathIsBlog;
+  const isActive =
+    link === '/'
+      ? currentPath === '/' || currentPath.startsWith('/blog') || currentPath.startsWith('/posts')
+      : currentPath === link || currentPath.startsWith(`${link}/`);
 
   return (
     <Button asChild={true} variant="ghost" className={cn('navigation-button', isActive && 'bg-black/20')}>
