@@ -1,11 +1,13 @@
 ---
-title: "Bird is the Word"
-date: 2012-08-12
-categories: 
-  - "life"
-tags: 
-  - "bird"
-  - "urbanest"
+title: Bird is the Word
+author: Vadim Brodsky
+description: "Ever since I started living in Australia, I had some pretty cool/crazy stuff happen to me, but nothing compared to what went down yesterday.\_Imagine this, my friend Maria comes back from work at 6pm, opens her door (she lives on the 15th floor) and sees a\_**[Rainbow Lorikeet](http://en.wikipedia.org/wiki/Rainbow_Lorikeet)**\_flying in her room."
+image:
+  src: images/img_1229-1.jpg
+  alt: Rainbow Lorikeet
+pubDate: 2012-08-12T00:00:00.000Z
+published: true
+tags: ['life', 'bird', 'urbanest']
 ---
 
 ![Rainbow Lorikeet](images/img_1229-1.jpg)

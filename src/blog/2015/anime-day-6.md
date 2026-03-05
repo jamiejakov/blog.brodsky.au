@@ -1,14 +1,13 @@
 ---
-title: "Anime Day 6"
-date: 2015-09-21
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "durarara"
-  - "monogatari"
-  - "ore-monogatari"
-  - "toradora"
+title: Anime Day 6
+author: Vadim Brodsky
+description: '### Day 6 - Favorite anime couple'
+image:
+  src: images/Takeo.png
+  alt: Takeo and Yamato
+pubDate: 2015-09-21T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'durarara', 'monogatari', 'ore-monogatari', 'toradora']
 ---
 
 ![Takeo and Yamato](images/Takeo.png)

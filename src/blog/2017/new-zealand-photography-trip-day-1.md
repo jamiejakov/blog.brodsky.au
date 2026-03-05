@@ -1,15 +1,17 @@
 ---
-title: "New Zealand Photography Trip - Day 1"
-date: 2017-04-16
-categories: 
-  - "photo"
-  - "travel"
-tags: 
-  - "new-zealand"
-  - "new-zealand-2017"
-  - "night-photography"
-  - "photography"
-coverImage: "camera.jpg"
+title: New Zealand Photography Trip - Day 1
+author: Vadim Brodsky
+description: >-
+  I recently got myself a new Camera - [Canon 5D Mark
+  IV](https://www.canon.com.au/cameras/eos-5d-mark-iv). So of course I need to
+  test it out by taking photos of the most beautiful landscapes in the world -
+  New Zealand.
+image:
+  src: images/camera.jpg
+  alt: camera
+pubDate: 2017-04-16T00:00:00.000Z
+published: true
+tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
 ---
 
 I recently got myself a new Camera - [Canon 5D Mark IV](https://www.canon.com.au/cameras/eos-5d-mark-iv). So of course I need to test it out by taking photos of the most beautiful landscapes in the world - New Zealand.

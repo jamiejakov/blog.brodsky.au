@@ -1,14 +1,22 @@
 ---
-title: "Das Upgrade"
-date: 2015-06-28
-categories: 
-  - "technology"
-tags: 
-  - "apple-2"
-  - "keyboard"
-  - "mouse"
-  - "update"
-  - "wow"
+title: Das Upgrade
+author: Vadim Brodsky
+description: >-
+  Ever since coming back from Japan, I have been upgrading my life. I got a new
+  apartment, a whole lot of great furniture, new job (upgraded version of old
+  job), new clothes, a 5k iMac, and now some more shiny new things. For years
+  now I have been longing for batter typing experience - a mechanical keyboard.
+  But since I was going to Japan and then in Japan, I could never really get
+  one, cause they are heavy and bulky. Fast track to the beginning of the month.
+  My WoW Cataclysm gaming mouse, which served me well for 5 years, has started
+  to show signs of death, it may not be dead yet, but definitely breathing its
+  last breaths, so I started searching for a worthy replacement.
+image:
+  src: images/daskeyboard-4-professional-for-mac-2.jpg
+  alt: DasKeyboard 4 Mac
+pubDate: 2015-06-28T00:00:00.000Z
+published: true
+tags: ['technology', 'apple-2', 'keyboard', 'mouse', 'update', 'wow']
 ---
 
 ![DasKeyboard 4 Mac](images/daskeyboard-4-professional-for-mac-2.jpg)

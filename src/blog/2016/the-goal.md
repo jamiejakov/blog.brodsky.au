@@ -1,12 +1,13 @@
 ---
-title: "The Goal"
-date: 2016-01-16
-categories: 
-  - "life"
-tags: 
-  - "productivity"
-  - "review"
-coverImage: "goal.jpg"
+title: The Goal
+author: Vadim Brodsky
+description: "I don't really read many books, but when I do, they affect me in a big way. This book made me question the processes we follow and actions we take\_in our everyday lives, and evaluate their value in terms of achieving \"The Goal\". It was published in 1984, but the concepts that it covers are\_still relevant to this day. Personally, I strive for perfection and getting the most value out of everything I do and that happens around me. Trying to minimise wasted time and effort, and achieving most results with minimal expenses (financial and other)."
+image:
+  src: images/goal.jpg
+  alt: goal
+pubDate: 2016-01-16T00:00:00.000Z
+published: true
+tags: ['life', 'productivity', 'review']
 ---
 
 I don't really read many books, but when I do, they affect me in a big way. This book made me question the processes we follow and actions we take in our everyday lives, and evaluate their value in terms of achieving "The Goal". It was published in 1984, but the concepts that it covers are still relevant to this day. Personally, I strive for perfection and getting the most value out of everything I do and that happens around me. Trying to minimise wasted time and effort, and achieving most results with minimal expenses (financial and other).
@@ -31,7 +32,7 @@ Once the goal is defined, then Alex needs to understand **how to measure it**. 
 - _Inventory_ - all the money that the system has invested in purchasing things which it intends to sell.
 - _Operational expense_ \- all the money the system spends in order to turn inventory into throughput.
 
-The next important concept to understand is **capacity**. Each resource in a system, or operation has a capacity, which is usually measured in time. "The tendency for most managers is to trim capacity wherever they can, so no resource is idle” - Jonah. It is essential to manage capacity and to have an _im_balanced system, which would work well with '**dependant events**' and '**statistical fluctuations**'.
+The next important concept to understand is **capacity**. Each resource in a system, or operation has a capacity, which is usually measured in time. "The tendency for most managers is to trim capacity wherever they can, so no resource is idle” - Jonah. It is essential to manage capacity and to have an \_im_balanced system, which would work well with '**dependant events**' and '**statistical fluctuations**'.
 
 In production, managing the above mentioned phenomenon is key to achieving the goal. And I think that the methods of managing these can be applied to effectively anything where those two phenomenon occur, be it a university assignment, or you cooking a number of large dishes for christmas dinner, the means to achieve the goal don't change. It would be hard to explain exactly why the system would fail if dependant events and statistical fluctuations occur without a visual guide, so here is a [small article with a video](http://alearningaday.com/2015/06/statistical-fluctuations-and-dependent-events-mba-learnings/) to better explain it (even though the solution in that video is not exactly what we are looking for, but its still good). If you want to get the full understanding, read The Goal.
 

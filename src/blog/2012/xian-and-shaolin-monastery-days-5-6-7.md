@@ -1,14 +1,13 @@
 ---
 title: "Xi'an and Shaolin Monastery (Days 5, 6, 7)"
-date: 2012-07-01
-categories: 
-  - "travel"
-tags: 
-  - "china_2012"
-  - "kung-fu"
-  - "shaolin-monastery"
-  - "terracota"
-  - "xian"
+author: Vadim Brodsky
+description: '**DAY 5:**'
+image:
+  src: images/Terracota_Army.jpg
+  alt: Terracota_Army
+pubDate: 2012-07-01T00:00:00.000Z
+published: true
+tags: ['travel', 'china_2012', 'kung-fu', 'shaolin-monastery', 'terracota', 'xian']
 ---
 
 ![Terracota_Army](images/Terracota_Army.jpg)

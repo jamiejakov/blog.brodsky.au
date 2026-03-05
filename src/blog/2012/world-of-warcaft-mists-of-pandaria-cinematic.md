@@ -1,12 +1,13 @@
 ---
-title: "World of Warcaft Mists of Pandaria Cinematic"
-date: 2012-08-16
-categories: 
-  - "games"
-tags: 
-  - "blizzard"
-  - "cinematic"
-  - "wow"
+title: World of Warcaft Mists of Pandaria Cinematic
+author: Vadim Brodsky
+description: >-
+  Blizzard has just released the official cinematic for the upcoming World of
+  Warcraft: Mists of Pandaria. First impression: WOOOOOWWW that looks amazing,
+  and funny!
+pubDate: 2012-08-16T00:00:00.000Z
+published: true
+tags: ['games', 'blizzard', 'cinematic', 'wow']
 ---
 
 Blizzard has just released the official cinematic for the upcoming World of Warcraft: Mists of Pandaria. First impression: WOOOOOWWW that looks amazing, and funny!

@@ -1,11 +1,17 @@
 ---
-title: "Australian Citizenship"
-date: 2021-06-08
-categories: 
-  - "life"
-tags: 
-  - "australia"
-coverImage: "IMG_2361.jpg"
+title: Australian Citizenship
+author: Vadim Brodsky
+description: >-
+  Not every day you become a citizen of a country! In fact for most folks this
+  is once in a lifetime event. But for me, after spending 11 years in Australia
+  living, studying, working, Australian citizenship was finally no longer a
+  dream, but a completed life goal.
+image:
+  src: images/IMG_2361.jpg
+  alt: IMG_2361
+pubDate: 2021-06-08T00:00:00.000Z
+published: true
+tags: ['life', 'australia']
 ---
 
 Not every day you become a citizen of a country! In fact for most folks this is once in a lifetime event. But for me, after spending 11 years in Australia living, studying, working, Australian citizenship was finally no longer a dream, but a completed life goal.

@@ -1,13 +1,13 @@
 ---
-title: "Final Destination: Kagoshima"
-date: 2014-04-02
-categories: 
-  - "life"
-tags: 
-  - "fuji"
-  - "ics"
-  - "japan-2014"
-  - "kagoshima"
+title: 'Final Destination: Kagoshima'
+author: Vadim Brodsky
+description: '(Photo from the window of my plane, you can see Mt. Fuji)'
+image:
+  src: images/FujiSan.jpg
+  alt: fujisan
+pubDate: 2014-04-02T00:00:00.000Z
+published: true
+tags: ['life', 'fuji', 'ics', 'japan-2014', 'kagoshima']
 ---
 
 ![fujisan](images/FujiSan.jpg)

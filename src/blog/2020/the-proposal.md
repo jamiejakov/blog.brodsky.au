@@ -1,12 +1,17 @@
 ---
-title: "The Proposal"
-date: 2020-11-11
-categories: 
-  - "life"
-tags: 
-  - "kotone"
-  - "wedding"
-coverImage: "IMG_0895-scaled.jpeg"
+title: The Proposal
+author: Vadim Brodsky
+description: >-
+  9 months we spent apart, and the whole time we were trying to figure out how
+  to get you back to Sydney. But finally in October 2020 you made it back, and
+  after 2 weeks in quarantine we were finally reunited on the 7th of November
+  2020.
+image:
+  src: images/IMG_0895-scaled.jpeg
+  alt: IMG_0895-scaled
+pubDate: 2020-11-11T00:00:00.000Z
+published: true
+tags: ['life', 'kotone', 'wedding']
 ---
 
 9 months we spent apart, and the whole time we were trying to figure out how to get you back to Sydney. But finally in October 2020 you made it back, and after 2 weeks in quarantine we were finally reunited on the 7th of November 2020.

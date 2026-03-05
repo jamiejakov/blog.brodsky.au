@@ -1,12 +1,10 @@
 ---
-title: "Summer 2012 anime list"
-date: 2012-06-02
-categories: 
-  - "anime"
-tags: 
-  - "anime-list"
-  - "wolf-children"
-  - "yuru-yuri"
+title: Summer 2012 anime list
+author: Vadim Brodsky
+description: 'So here it is: the summer anime list.'
+pubDate: 2012-06-02T00:00:00.000Z
+published: true
+tags: ['anime', 'anime-list', 'wolf-children', 'yuru-yuri']
 ---
 
 So here it is: the summer anime list.

@@ -1,13 +1,12 @@
 ---
-title: "Anime Day 16"
-date: 2015-10-01
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "utsanime"
-  - "cencoroll"
-  - "fma"
+title: Anime Day 16
+author: Vadim Brodsky
+description: >-
+  <iframe src="https://www.youtube.com/embed/LV31EHwtayo" width="480"
+  height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+pubDate: 2015-10-01T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'utsanime', 'cencoroll', 'fma']
 ---
 
 <iframe src="https://www.youtube.com/embed/LV31EHwtayo" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

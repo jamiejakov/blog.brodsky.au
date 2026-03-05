@@ -1,14 +1,16 @@
 ---
-title: "Sakurasou no Pet na Kanojo TV Anime!"
-date: 2012-06-16
-categories: 
-  - "anime"
-tags: 
-  - "pet-na-kanojo"
-  - "the-akiba"
+title: Sakurasou no Pet na Kanojo TV Anime!
+author: Vadim Brodsky
+description: "A week ago, when we went to Kinokuniya, me and [Alex](http://twitter.com/maidforclass)\_went to the japanese section and I stumbled upon this manga and light novel called\_Sakurasou no Pet na Kanojo. So I said: \"hey Alex, wanna bet this will become and anime\" and he was like: \"everything becomes an anime these days\"."
+image:
+  src: images/2893_sakurasou.jpg "PettoKanojo"
+  alt: Image
+pubDate: 2012-06-16T00:00:00.000Z
+published: true
+tags: ['anime', 'pet-na-kanojo', 'the-akiba']
 ---
 
-![](images/2893_sakurasou.jpg "PettoKanojo")
+![](images/2893_sakurasou.jpg 'PettoKanojo')
 
 A week ago, when we went to Kinokuniya, me and [Alex](http://twitter.com/maidforclass) went to the japanese section and I stumbled upon this manga and light novel called Sakurasou no Pet na Kanojo. So I said: "hey Alex, wanna bet this will become and anime" and he was like: "everything becomes an anime these days".
 

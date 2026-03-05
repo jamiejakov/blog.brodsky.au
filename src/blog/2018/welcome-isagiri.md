@@ -1,11 +1,17 @@
 ---
-title: "Welcome iSagiri"
-date: 2018-12-21
-categories: 
-  - "technology"
-tags: 
-  - "ios"
-coverImage: "sagiri.jpg"
+title: Welcome iSagiri
+author: Vadim Brodsky
+description: >-
+  iPad is a very interesting device category. It mostly fits between a laptop
+  and a phone in terms of portability and comfort. However it gets closer to the
+  phone in terms of productivity, but closer to the laptop in terms of screen
+  realestate. So what gives? Why even own an iPad?
+image:
+  src: images/sagiri.jpg
+  alt: sagiri
+pubDate: 2018-12-21T00:00:00.000Z
+published: true
+tags: ['technology', 'ios']
 ---
 
 iPad is a very interesting device category. It mostly fits between a laptop and a phone in terms of portability and comfort. However it gets closer to the phone in terms of productivity, but closer to the laptop in terms of screen realestate. So what gives? Why even own an iPad?

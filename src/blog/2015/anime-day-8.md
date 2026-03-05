@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 8"
-date: 2015-09-23
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "acchikocchi"
+title: Anime Day 8
+author: Vadim Brodsky
+description: '### Day 8 - Anime you remember most fondly'
+image:
+  src: images/AcchiKocchi.png
+  alt: Acchi Kocchi
+pubDate: 2015-09-23T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'acchikocchi']
 ---
 
 ![Acchi Kocchi](images/AcchiKocchi.png)

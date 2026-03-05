@@ -1,11 +1,16 @@
 ---
-title: "iPhone 5"
-date: 2012-09-17
-categories: 
-  - "technology"
-tags: 
-  - "apple-2"
-  - "iphone"
+title: iPhone 5
+author: Vadim Brodsky
+description: >-
+  On the night of the 12-13th of September (Australia time) Apple held their
+  iPhone event wher they not only introduced the new iPhone but refreshed the
+  iPod nanos and touches as well.
+image:
+  src: images/iPhone5.png
+  alt: iPhone5
+pubDate: 2012-09-17T00:00:00.000Z
+published: true
+tags: ['technology', 'apple-2', 'iphone']
 ---
 
 ![iPhone5](images/iPhone5.png)

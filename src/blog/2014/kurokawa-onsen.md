@@ -1,14 +1,13 @@
 ---
-title: "Kurokawa Onsen - 黒川温泉"
-date: 2014-09-20
-categories: 
-  - "travel"
-tags: 
-  - "amy"
-  - "hot-spring"
-  - "ics"
-  - "kurokawa"
-coverImage: "Kurokawa.jpg"
+title: Kurokawa Onsen - 黒川温泉
+author: Vadim Brodsky
+description: "Summer holidays are not over, and neither are my travels. This time Amy\_and I set on an adventure to venture into the mountains of Kumamoto prefecture, into a small town called Kurokawa onsen. It took us 3 hours to get there by bus from Kumamoto station; it was a long ride, but totally worth it."
+image:
+  src: images/Kurokawa.jpg
+  alt: Kurokawa
+pubDate: 2014-09-20T00:00:00.000Z
+published: true
+tags: ['travel', 'amy', 'hot-spring', 'ics', 'kurokawa']
 ---
 
 Summer holidays are not over, and neither are my travels. This time Amy and I set on an adventure to venture into the mountains of Kumamoto prefecture, into a small town called Kurokawa onsen. It took us 3 hours to get there by bus from Kumamoto station; it was a long ride, but totally worth it.

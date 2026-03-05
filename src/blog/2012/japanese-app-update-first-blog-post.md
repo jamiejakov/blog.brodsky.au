@@ -1,13 +1,13 @@
 ---
-title: "Japanese App update (first blog post)"
-date: 2012-05-30
-categories: 
-  - "technology"
-tags: 
-  - "apple-2"
-  - "ios"
-  - "japanese"
-  - "update"
+title: Japanese App update (first blog post)
+author: Vadim Brodsky
+description: When I woke up today I was in for a surprise.
+image:
+  src: images/Banner1.png
+  alt: JapaneseApp
+pubDate: 2012-05-30T00:00:00.000Z
+published: true
+tags: ['technology', 'apple-2', 'ios', 'japanese', 'update']
 ---
 
 ![JapaneseApp](images/Banner1.png)

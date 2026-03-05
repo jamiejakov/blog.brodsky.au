@@ -1,14 +1,13 @@
 ---
-title: "United Arab Emirates 2015"
-date: 2015-04-18
-categories: 
-  - "travel"
-tags: 
-  - "abu-dhabi"
-  - "dubai"
-  - "ferrari"
-  - "mosque"
-  - "water-park"
+title: United Arab Emirates 2015
+author: Vadim Brodsky
+description: "Welcome to another exciting episode of: 'Vadim goes traveling around the world'. This time he is visiting the land of sand and oil - United Arab Emirates. What did our young traveler\_find in this distant Arabian land? Find out after the break."
+image:
+  src: images/BurjKhalifa.jpg
+  alt: View of Burj Kulifa
+pubDate: 2015-04-18T00:00:00.000Z
+published: true
+tags: ['travel', 'abu-dhabi', 'dubai', 'ferrari', 'mosque', 'water-park']
 ---
 
 ![View of Burj Kulifa](images/BurjKhalifa.jpg)

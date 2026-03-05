@@ -1,21 +1,26 @@
 ---
-title: "Golden Week in Kansai"
-date: 2014-05-08
-categories: 
-  - "travel"
-tags: 
-  - "amy"
-  - "golden-week"
-  - "ics"
-  - "japan-2014"
-  - "kyoto"
-  - "nara"
-  - "osaka"
+title: Golden Week in Kansai
+author: Vadim Brodsky
+description: >-
+  [Golden Week](http://en.wikipedia.org/wiki/Golden_Week_\(Japan\)) is a holiday
+  in Japan which consists of multiple celebrations such as Showa day,
+  Constitution Memorial day, Greenery day, Children's day. It is the time of
+  year, where pretty much all of Japan starts traveling around to visit places
+  that they haven't been to, or places that they would want to visit again. Even
+  though neither Amy nor me are Japanese, we decided to embark on a journey of
+  our own. From the 2nd till the 7th of May we went to Kansai (one of the
+  central regions of Japan) and visited the cities of Kyoto, Nara and Osaka.
+image:
+  src: images/Kinkakuji.jpg
+  alt: Kinkakuji
+pubDate: 2014-05-08T00:00:00.000Z
+published: true
+tags: ['travel', 'amy', 'golden-week', 'ics', 'japan-2014', 'kyoto', 'nara', 'osaka']
 ---
 
 ![Kinkakuji](images/Kinkakuji.jpg)
 
-[Golden Week](http://en.wikipedia.org/wiki/Golden_Week_\(Japan\)) is a holiday in Japan which consists of multiple celebrations such as Showa day, Constitution Memorial day, Greenery day, Children's day. It is the time of year, where pretty much all of Japan starts traveling around to visit places that they haven't been to, or places that they would want to visit again. Even though neither Amy nor me are Japanese, we decided to embark on a journey of our own. From the 2nd till the 7th of May we went to Kansai (one of the central regions of Japan) and visited the cities of Kyoto, Nara and Osaka.
+[Golden Week](<http://en.wikipedia.org/wiki/Golden_Week_(Japan)>) is a holiday in Japan which consists of multiple celebrations such as Showa day, Constitution Memorial day, Greenery day, Children's day. It is the time of year, where pretty much all of Japan starts traveling around to visit places that they haven't been to, or places that they would want to visit again. Even though neither Amy nor me are Japanese, we decided to embark on a journey of our own. From the 2nd till the 7th of May we went to Kansai (one of the central regions of Japan) and visited the cities of Kyoto, Nara and Osaka.
 
 <!--more-->As I have been to all three multiple multiple times I was appointed as the official tour guide for this trip, I hope I didn't disappoint.
 

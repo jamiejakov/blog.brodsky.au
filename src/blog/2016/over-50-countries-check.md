@@ -1,12 +1,13 @@
 ---
-title: "Travel to over 50 countries - check."
-date: 2016-03-06
-categories: 
-  - "travel"
-tags: 
-  - "map"
-  - "world"
-coverImage: "51Countries.png"
+title: Travel to over 50 countries - check.
+author: Vadim Brodsky
+description: "Last time I updated my visit country list,\_[it was at 47](http://jamiejakov.lv/2014/05/how-many-countries-have-i-been-to/). Well as of today, I've passed the 50 mark. Now I shall enjoy my holiday in unique country that is Malaysia. Expect photos!"
+image:
+  src: images/51Countries.png
+  alt: 51Countries
+pubDate: 2016-03-06T00:00:00.000Z
+published: true
+tags: ['travel', 'map', 'world']
 ---
 
 Last time I updated my visit country list, [it was at 47](http://jamiejakov.lv/2014/05/how-many-countries-have-i-been-to/). Well as of today, I've passed the 50 mark. Now I shall enjoy my holiday in unique country that is Malaysia. Expect photos!

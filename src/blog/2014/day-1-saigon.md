@@ -1,11 +1,19 @@
 ---
-title: "Day 1 - Saigon"
-date: 2014-03-09
-categories: 
-  - "travel"
-tags: 
-  - "saigon"
-  - "vietnam-cambodia-2014"
+title: Day 1 - Saigon
+author: Vadim Brodsky
+description: >-
+  The city of Saigon, or as it is currently known: Ho Chi Minh City is one of
+  the largest cities in Vietnam and has a long history of occupation, war and
+  freedom. Today we had our tour around the most famous parts of the city, such
+  as the Independence Palace, Chinatown, and the War Remnants Museum (you can
+  check [my Foursquare](https://foursquare.com/jamiejakovbot) for the exact
+  locations of the places we visit).
+image:
+  src: images/IMG_3230.jpg
+  alt: Saigon Palace
+pubDate: 2014-03-09T00:00:00.000Z
+published: true
+tags: ['travel', 'saigon', 'vietnam-cambodia-2014']
 ---
 
 ![Saigon Palace](images/IMG_3230.jpg)

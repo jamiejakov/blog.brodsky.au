@@ -1,11 +1,13 @@
 ---
-title: "Durarara review"
-date: 2012-06-04
-categories: 
-  - "anime"
-tags: 
-  - "durarara"
-  - "review"
+title: Durarara review
+author: Vadim Brodsky
+description: "So when i finished watching [Durarara!](http://myanimelist.net/anime.php?id=6746)\_this February, I wrote up a nice little review of the series on Google+.\_Well now that I have a blog, I decided to copy it here so that everyone can see."
+image:
+  src: images/DRRR.jpg
+  alt: durarara animie
+pubDate: 2012-06-04T00:00:00.000Z
+published: true
+tags: ['anime', 'durarara', 'review']
 ---
 
 ![durarara animie](images/DRRR.jpg)

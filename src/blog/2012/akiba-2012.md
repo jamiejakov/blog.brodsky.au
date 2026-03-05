@@ -1,13 +1,13 @@
 ---
-title: "秋葉原だ〜！"
-date: 2012-07-03
-categories: 
-  - "travel"
-tags: 
-  - "akiba"
-  - "japan_2012"
-  - "monogatari"
-  - "steinsgate"
+title: 秋葉原だ〜！
+author: Vadim Brodsky
+description: 'There was one sole gole today: go to Akihabara and buy buy buy!'
+image:
+  src: images/AkibaGames.jpg
+  alt: AkibaGames
+pubDate: 2012-07-03T00:00:00.000Z
+published: true
+tags: ['travel', 'akiba', 'japan_2012', 'monogatari', 'steinsgate']
 ---
 
 ![AkibaGames](images/AkibaGames.jpg)

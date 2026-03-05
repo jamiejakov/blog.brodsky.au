@@ -1,15 +1,15 @@
 ---
-title: "Apple WWDC 2012"
-date: 2012-06-13
-categories: 
-  - "technology"
-tags: 
-  - "apple-2"
-  - "facebook"
-  - "ios"
-  - "macbook_pro"
-  - "macos"
-  - "wwdc"
+title: Apple WWDC 2012
+author: Vadim Brodsky
+description: >-
+  This is a little late. I was a bit busy these days with playing CoD and
+  SSFIV:AE2012.
+image:
+  src: images/MBPR.jpg
+  alt: MBPR
+pubDate: 2012-06-13T00:00:00.000Z
+published: true
+tags: ['technology', 'apple-2', 'facebook', 'ios', 'macbook_pro', 'macos', 'wwdc']
 ---
 
 This is a little late. I was a bit busy these days with playing CoD and SSFIV:AE2012.
@@ -53,7 +53,7 @@ heaps of new features, which i personally can't wait:
 
 A very nice update, bringing OSX one step closer to iOS.
 
-_**And last: [iOS 6](http://www.apple.com/au/ios/ios6/ "iOS6"):**_ 
+***And last: [iOS 6](http://www.apple.com/au/ios/ios6/ 'iOS6'):*** 
 
 ![iOS6](images/ios6.png)
 

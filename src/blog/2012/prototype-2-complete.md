@@ -1,11 +1,13 @@
 ---
-title: "Prototype 2 COMPLETE!"
-date: 2012-06-15
-categories: 
-  - "games"
-tags: 
-  - "prototype"
-  - "review"
+title: Prototype 2 COMPLETE!
+author: Vadim Brodsky
+description: "Now that I am free from studying, exams and all this other stuff that had to be done, I finally finished Prototype 2.\_Generally the game was good, not as good as expected and definitely not as good as the first one."
+image:
+  src: images/prototype2_01.jpg
+  alt: Prototype 2
+pubDate: 2012-06-15T00:00:00.000Z
+published: true
+tags: ['games', 'prototype', 'review']
 ---
 
 ![Prototype 2](images/prototype2_01.jpg)
@@ -33,18 +35,16 @@ New stuff that was awesome:
 
 - bigger monsters; HOLY F\*\*\*ing SH\*\*
 
-![](images/Goliath.jpg "Prototype2Goliath")
+![](images/Goliath.jpg 'Prototype2Goliath')
 
 - nicer looking claws and blade
 - i found it awesome that they got rid of the annoying "destroy hive" and "capture military base" side missions
 - upgrades to everything!
 - no more useless abilities like the shell (or armor or whatever its called)
-- new _evolved_ monsters
+- new *evolved* monsters
 - last boss actually felt like a last boss, unlike in the original where the boss before last was harder than the last colonel dude.
 
 Thats a very nice update to the game me thinks. But unfortunately the gameplay and the protagonist are not as great....
-
-![](images/Alex-Mercer---Prototype-2-psd36897.png "AlexMercer")
 
 Things I didn't like:
 

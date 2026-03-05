@@ -1,11 +1,15 @@
 ---
-title: "Trip to Melbourne and Fiji - Feb 2013"
-date: 2013-01-31
-categories: 
-  - "travel"
-tags: 
-  - "melbourne_fiji_2013"
-  - "tennis"
+title: Trip to Melbourne and Fiji - Feb 2013
+author: Vadim Brodsky
+description: >-
+  This year for my birthday my parents took me to Melbourne and then later on to
+  Fiji. It was an amazing trip and I took a lot of gorgeous photos.
+image:
+  src: images/Fiji.jpg
+  alt: IMG_0691
+pubDate: 2013-01-31T00:00:00.000Z
+published: true
+tags: ['travel', 'melbourne_fiji_2013', 'tennis']
 ---
 
 ![IMG_0691](images/Fiji.jpg)

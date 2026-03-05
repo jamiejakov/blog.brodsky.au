@@ -1,12 +1,16 @@
 ---
-title: "Merry Kurisumasu"
-date: 2014-12-25
-categories: 
-  - "life"
-tags: 
-  - "amy"
-  - "christmas"
-  - "nagasaki"
+title: Merry Kurisumasu
+author: Vadim Brodsky
+description: >-
+  Another year, another Christmas. As I just realised, I skipped last years
+  Christmas post, but that was due to the long post about my blog redesign,
+  which is still beautiful as ever.
+image:
+  src: images/Kurisu-184x300.png
+  alt: Kurisu
+pubDate: 2014-12-25T00:00:00.000Z
+published: true
+tags: ['life', 'amy', 'christmas', 'nagasaki']
 ---
 
 ![Kurisu](images/Kurisu-184x300.png)

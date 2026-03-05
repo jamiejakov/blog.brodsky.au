@@ -1,11 +1,13 @@
 ---
-title: "My Tsumiki can't be this cute!"
-date: 2012-06-03
-categories: 
-  - "anime"
-tags: 
-  - "acchikocchi"
-  - "cats"
+title: My Tsumiki can't be this cute!
+author: Vadim Brodsky
+description: 俺のつみきがこんなに可愛いわけがない
+image:
+  src: images/TsumikiMiniwa.png
+  alt: TsumikiMiniwa
+pubDate: 2012-06-03T00:00:00.000Z
+published: true
+tags: ['anime', 'acchikocchi', 'cats']
 ---
 
 ![TsumikiMiniwa](images/TsumikiMiniwa.png)

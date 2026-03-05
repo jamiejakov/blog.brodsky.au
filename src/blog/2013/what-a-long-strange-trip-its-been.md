@@ -1,13 +1,13 @@
 ---
 title: "What a Long, Strange Trip It's Been"
-date: 2013-06-27
-categories: 
-  - "travel"
-tags: 
-  - "british-airways"
-  - "latvia_2013"
-  - "quantas"
-  - "singapore"
+author: Vadim Brodsky
+description: (That is not my plane)
+image:
+  src: images/QA380.png
+  alt: Quantas A380
+pubDate: 2013-06-27T00:00:00.000Z
+published: true
+tags: ['travel', 'british-airways', 'latvia_2013', 'quantas', 'singapore']
 ---
 
 ![Quantas A380](images/QA380.png)

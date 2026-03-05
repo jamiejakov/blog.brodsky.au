@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 17"
-date: 2015-10-02
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "steinsgate"
+title: Anime Day 17
+author: Vadim Brodsky
+description: '### Day 17 - Favorite tsundere'
+image:
+  src: images/tsundere.png
+  alt: tsundere
+pubDate: 2015-10-02T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'steinsgate']
 ---
 
 ![tsundere](images/tsundere.png)

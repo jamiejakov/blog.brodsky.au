@@ -1,12 +1,20 @@
 ---
-title: "Japan 2019"
-date: 2019-11-19
-categories: 
-  - "travel"
-tags: 
-  - "japan"
-  - "kotone"
-coverImage: "japan_autumn.jpg"
+title: Japan 2019
+author: Vadim Brodsky
+description: >-
+  This trip was the most spontaneous thing trip I've ever planned, but it was
+  definitely a very pleasant and memorable experience. I recently started dating
+  a Japanese girl named Kotone, and this November was her brothers wedding
+  party. She was planning on heading to Japan for a couple of days to attend the
+  wedding party, and I decided to tag along. Her parents invited me to the party
+  as well as an honorary guest, and even let me stay at their house for a few
+  nights.
+image:
+  src: images/japan_autumn.jpg
+  alt: japan_autumn
+pubDate: 2019-11-19T00:00:00.000Z
+published: true
+tags: ['travel', 'japan', 'kotone']
 ---
 
 This trip was the most spontaneous thing trip I've ever planned, but it was definitely a very pleasant and memorable experience. I recently started dating a Japanese girl named Kotone, and this November was her brothers wedding party. She was planning on heading to Japan for a couple of days to attend the wedding party, and I decided to tag along. Her parents invited me to the party as well as an honorary guest, and even let me stay at their house for a few nights.

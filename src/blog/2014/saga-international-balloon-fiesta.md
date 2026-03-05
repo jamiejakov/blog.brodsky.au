@@ -1,14 +1,15 @@
 ---
-title: "Saga International Balloon Fiesta"
-date: 2014-11-03
-categories: 
-  - "life"
-tags: 
-  - "amy"
-  - "balloon"
-  - "festival"
-  - "ics"
-  - "saga"
+title: Saga International Balloon Fiesta
+author: Vadim Brodsky
+description: >-
+  This weekend there was a big balloon festival in Saga and of course Amy and I
+  went there to check it out. Only problem was that there were no balloons.
+image:
+  src: images/whaloon.jpg
+  alt: whaloon
+pubDate: 2014-11-03T00:00:00.000Z
+published: true
+tags: ['life', 'amy', 'balloon', 'festival', 'ics', 'saga']
 ---
 
 ![whaloon](images/whaloon.jpg) This weekend there was a big balloon festival in Saga and of course Amy and I went there to check it out. Only problem was that there were no balloons.

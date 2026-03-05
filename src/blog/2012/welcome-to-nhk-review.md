@@ -1,12 +1,13 @@
 ---
-title: "Welcome to NHK review"
-date: 2012-07-09
-categories: 
-  - "anime"
-tags: 
-  - "hikimori"
-  - "review"
-  - "welcome-to-nhk"
+title: Welcome to NHK review
+author: Vadim Brodsky
+description: "So I just finished the anime [Welcome to NHK](http://en.wikipedia.org/wiki/Welcome_to_the_N.H.K.) ([NHKにようこそ！](http://ja.wikipedia.org/wiki/NHKにようこそ!)). \_It was as good as expected. However when I started watching, my expectations rose. The series is what I needed right now to show me what to look after and who not to become :S"
+image:
+  src: images/WelcomeToNHK.jpg
+  alt: Welcome to the NHK anime
+pubDate: 2012-07-09T00:00:00.000Z
+published: true
+tags: ['anime', 'hikimori', 'review', 'welcome-to-nhk']
 ---
 
 ![Welcome to the NHK anime](images/WelcomeToNHK.jpg)

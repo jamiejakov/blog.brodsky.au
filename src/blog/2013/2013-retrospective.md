@@ -1,12 +1,17 @@
 ---
-title: "2013 Retrospective"
-date: 2013-12-31
-categories: 
-  - "life"
-tags: 
-  - "new-year"
-  - "retrospective"
-  - "wordle"
+title: 2013 Retrospective
+author: Vadim Brodsky
+description: >-
+  2013 is almost over, just a few hours left in this year, and I can say it was
+  an amazing year. So much has happened in my life, so many things have changed
+  and I continue to expand my skills and to improve on what I already have. Lets
+  go over the events that happened so far.
+image:
+  src: images/3G5e7P4.jpg
+  alt: Image
+pubDate: 2013-12-31T00:00:00.000Z
+published: true
+tags: ['life', 'new-year', 'retrospective', 'wordle']
 ---
 
 ![](images/3G5e7P4.jpg)

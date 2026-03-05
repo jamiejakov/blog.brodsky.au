@@ -1,14 +1,15 @@
 ---
-title: "Why JamieJakov?"
-date: 2014-01-04
-categories: 
-  - "internetz"
-  - "life"
-tags: 
-  - "megasxlr"
-  - "nickname"
-  - "southpark"
-coverImage: "9YpuZX3.jpg"
+title: Why JamieJakov?
+author: Vadim Brodsky
+description: >-
+  I have been asked this question multiple times, and would always give a tl;dr
+  version. Now I can finally tell the story in full.
+image:
+  src: images/9YpuZX3.jpg
+  alt: 9YpuZX3
+pubDate: 2014-01-04T00:00:00.000Z
+published: true
+tags: ['internetz', 'life', 'megasxlr', 'nickname', 'southpark']
 ---
 
 I have been asked this question multiple times, and would always give a tl;dr version. Now I can finally tell the story in full.

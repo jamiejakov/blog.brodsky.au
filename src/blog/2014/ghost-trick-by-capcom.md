@@ -1,19 +1,18 @@
 ---
-title: "Ghost Trick by Capcom"
-date: 2014-04-01
-categories: 
-  - "games"
-tags: 
-  - "amy"
-  - "capcom"
-  - "ghost-trick"
-  - "ios"
-  - "review"
+title: Ghost Trick by Capcom
+author: Vadim Brodsky
+description: "Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called _Ghost Trick._\_It was recommended to me by my puzzle loving girlfriend (at the time)\_[Amy](http://ocarda.wordpress.com)\_a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you."
+image:
+  src: images/GhostTrick.jpg
+  alt: GhostTrick
+pubDate: 2014-04-01T00:00:00.000Z
+published: true
+tags: ['games', 'amy', 'capcom', 'ghost-trick', 'ios', 'review']
 ---
 
 ![GhostTrick](images/GhostTrick.jpg)
 
-Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called _Ghost Trick._ It was recommended to me by my puzzle loving girlfriend (at the time) [Amy](http://ocarda.wordpress.com) a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you.
+Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called *Ghost Trick.* It was recommended to me by my puzzle loving girlfriend (at the time) [Amy](http://ocarda.wordpress.com) a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you.
 
 <!--more-->The story starts of with the main character (which you can see in the picture above), who apparently was killed and is now a ghost! And not your ordinary ghost, he has special powers, so called ghost tricks (see where the name comes from) using which he can possess small objects and manipulate them in various ways. Say there was a tire lying on the ground, by possessing it, he can move it a few meters to the right and that will open a path for him to possess mother object. That is not the only power, as you learn in the first 5 minutes of gameplay, he can also go back in time 4 minutes before a persons death and by manipulating objects, prevent it.
 

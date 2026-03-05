@@ -1,13 +1,22 @@
 ---
-title: "Cities Skylines"
-date: 2016-08-09
-categories: 
-  - "games"
-tags: 
-  - "city-skylines"
-  - "riga"
-  - "steam"
-coverImage: "citiesSkylines.jpg"
+title: Cities Skylines
+author: Vadim Brodsky
+description: >-
+  Back in the 2000s when I just got my first computer and got to play video
+  games for the first time, I got really into city builders. You know, those
+  games where you are like the mayor and architect of a new city, you get some
+  funding and a few roads to start off with and then have to build up your city
+  and turn it into a grand metropolis. Yes SimCity 3000. Those were good times.
+  I think the reason why I was so into these kind of games, was because they
+  reminded me a lot of Lego, which I loved to play with at home. I guess this
+  all also ties in well with how I am a developer now, I have a creative mindset
+  - I want to create great things, maintain them and improve them.
+image:
+  src: images/citiesSkylines.jpg
+  alt: citiesSkylines
+pubDate: 2016-08-09T00:00:00.000Z
+published: true
+tags: ['games', 'city-skylines', 'riga', 'steam']
 ---
 
 Back in the 2000s when I just got my first computer and got to play video games for the first time, I got really into city builders. You know, those games where you are like the mayor and architect of a new city, you get some funding and a few roads to start off with and then have to build up your city and turn it into a grand metropolis. Yes SimCity 3000. Those were good times. I think the reason why I was so into these kind of games, was because they reminded me a lot of Lego, which I loved to play with at home. I guess this all also ties in well with how I am a developer now, I have a creative mindset - I want to create great things, maintain them and improve them.

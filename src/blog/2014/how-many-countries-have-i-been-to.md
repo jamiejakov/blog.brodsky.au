@@ -1,12 +1,21 @@
 ---
-title: "How many countries have I been to?"
-date: 2014-05-28
-categories: 
-  - "travel"
-tags: 
-  - "culture"
-  - "map"
-  - "world"
+title: How many countries have I been to?
+author: Vadim Brodsky
+description: >-
+  Traveling sure is fun, isn't it? You get to see and experience the world where
+  we live in and get to be a part of the vast diversity of cultures that people
+  have created for themselves. Most people don't have the opportunity to explore
+  the world, due to time or money constraints. I, on the other hand, had the
+  time, and my family had the finances to support traveling to over 45 countries
+  in our world. Ever since I was 3 years old, my parents would take me abroad,
+  starting with nearby countries such as Lithuania, Belarus, Ukraine, etc.; but
+  then expanding to places like Kenya, Brazil and even Australia.
+image:
+  src: images/48Countries.png
+  alt: 48 countries map
+pubDate: 2014-05-28T00:00:00.000Z
+published: true
+tags: ['travel', 'culture', 'map', 'world']
 ---
 
 ![48 countries map](images/48Countries.png)

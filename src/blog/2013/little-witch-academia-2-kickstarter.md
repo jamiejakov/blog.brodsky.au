@@ -1,24 +1,24 @@
 ---
-title: "Little Witch Academia 2 Kickstarter"
-date: 2013-07-10
-categories: 
-  - "anime"
-tags: 
-  - "a"
-  - "kickstarter"
-  - "reddit"
-  - "trigger"
+title: Little Witch Academia 2 Kickstarter
+author: Vadim Brodsky
+description: "Kickstarter, kickstarter, kickstarter... This service is changing they way the world works - games, movies, tech and now even anime is using Kickstarter to gather funds for creating their projects. This time around we have Studio Trigger who brought us _[Inferno Cop](http://myanimelist.net/anime/16774/Inferno_Cop)_ and _[Little Witch Academia](http://myanimelist.net/anime/14349)_\_and coming out with _[Kill la Kill in Fall](http://myanimelist.net/anime/18679/Kill_La_Kill)_\_has decided to use kickstarter as a platform to aquire funds for creating a [sequel to Little Witch Academia](http://www.kickstarter.com/projects/1311401276/little-witch-academia-2 \"Little Witch Academia 2 Kickstarter\")."
+image:
+  src: images/LWA2.jpeg
+  alt: Little witch academia OVA
+pubDate: 2013-07-10T00:00:00.000Z
+published: true
+tags: ['anime', 'a', 'kickstarter', 'reddit', 'trigger']
 ---
 
 ![Little witch academia OVA](images/LWA2.jpeg)
 
-Kickstarter, kickstarter, kickstarter... This service is changing they way the world works - games, movies, tech and now even anime is using Kickstarter to gather funds for creating their projects. This time around we have Studio Trigger who brought us _[Inferno Cop](http://myanimelist.net/anime/16774/Inferno_Cop)_ and _[Little Witch Academia](http://myanimelist.net/anime/14349)_ and coming out with _[Kill la Kill in Fall](http://myanimelist.net/anime/18679/Kill_La_Kill)_ has decided to use kickstarter as a platform to aquire funds for creating a [sequel to Little Witch Academia](http://www.kickstarter.com/projects/1311401276/little-witch-academia-2 "Little Witch Academia 2 Kickstarter").
+Kickstarter, kickstarter, kickstarter... This service is changing they way the world works - games, movies, tech and now even anime is using Kickstarter to gather funds for creating their projects. This time around we have Studio Trigger who brought us _[Inferno Cop](http://myanimelist.net/anime/16774/Inferno_Cop)_ and *[Little Witch Academia](http://myanimelist.net/anime/14349)* and coming out with *[Kill la Kill in Fall](http://myanimelist.net/anime/18679/Kill_La_Kill)* has decided to use kickstarter as a platform to aquire funds for creating a [sequel to Little Witch Academia](http://www.kickstarter.com/projects/1311401276/little-witch-academia-2 'Little Witch Academia 2 Kickstarter').
 
 <!--more-->
 
-The original Little Witch Academia (LWA) was creating during the [Young Animators Training Project 2013](http://en.wikipedia.org/wiki/Young_Animator_Training_Project "Anime Mirai") where basically the japanese governments funds the creation of anime. This new studio has staff from the original Gainax who worked on [_Gurren Lagann_](http://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann "Gurren Lagann MAL") and _[Panty & Stocking](http://myanimelist.net/anime/8795/Panty_&_Stocking_with_Garterbelt "Panty & Stocking MAL")_ so naturally the whole western community is super hyped.
+The original Little Witch Academia (LWA) was creating during the [Young Animators Training Project 2013](http://en.wikipedia.org/wiki/Young_Animator_Training_Project 'Anime Mirai') where basically the japanese governments funds the creation of anime. This new studio has staff from the original Gainax who worked on [_Gurren Lagann_](http://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann 'Gurren Lagann MAL') and _[Panty & Stocking](http://myanimelist.net/anime/8795/Panty_&*Stocking_with_Garterbelt "Panty & Stocking MAL")* so naturally the whole western community is super hyped.
 
-**/a/** 
+**/a/**
 
 <iframe style="float: right; display: inline; padding: 10px;" src="http://www.kickstarter.com/projects/1311401276/little-witch-academia-2/widget/card.html" height="380" width="220" frameborder="0"></iframe>
 

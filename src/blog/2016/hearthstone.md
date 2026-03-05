@@ -1,13 +1,20 @@
 ---
-title: "Hearthstone"
-date: 2016-02-07
-categories: 
-  - "games"
-tags: 
-  - "amy"
-  - "blizzard"
-  - "hearthstone"
-coverImage: "hearthstone1.jpg"
+title: Hearthstone
+author: Vadim Brodsky
+description: >-
+  As you all know, Blizzard has made a lot of great games in the past. Memorable
+  titles such as Warcraft III, Diablo II, Starcraft and of course currently WoW
+  have all been hugely successful in their genres. One of their latest games
+  (well it came out in 2014) is Hearthstone. It is a collectable card game,
+  where you fight one on one against opponents from all over the world.
+  Hearthstone is based of the Warcraft universe, so for people who have played
+  Warcraft III and/or WoW, the characters/minions/spells will be very familiar.
+image:
+  src: images/hearthstone1.jpg
+  alt: hearthstone1
+pubDate: 2016-02-07T00:00:00.000Z
+published: true
+tags: ['games', 'amy', 'blizzard', 'hearthstone']
 ---
 
 As you all know, Blizzard has made a lot of great games in the past. Memorable titles such as Warcraft III, Diablo II, Starcraft and of course currently WoW have all been hugely successful in their genres. One of their latest games (well it came out in 2014) is Hearthstone. It is a collectable card game, where you fight one on one against opponents from all over the world. Hearthstone is based of the Warcraft universe, so for people who have played Warcraft III and/or WoW, the characters/minions/spells will be very familiar.

@@ -1,14 +1,15 @@
 ---
-title: "NZ Photography Trip – Day 4"
-date: 2017-04-19
-categories: 
-  - "photo"
-  - "travel"
-tags: 
-  - "new-zealand"
-  - "new-zealand-2017"
-  - "photography"
-coverImage: "MtCook.jpg"
+title: NZ Photography Trip – Day 4
+author: Vadim Brodsky
+description: >-
+  Just when I thought it couldn’t get any colder… 0° tonight. It's 5am again,
+  and we're off for another sunrise photoshoot.
+image:
+  src: images/MtCook.jpg
+  alt: MtCook
+pubDate: 2017-04-19T00:00:00.000Z
+published: true
+tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'photography']
 ---
 
 Just when I thought it couldn’t get any colder… 0° tonight. It's 5am again, and we're off for another sunrise photoshoot.

@@ -1,11 +1,13 @@
 ---
-title: "Birthday 1.11 - You can (not) unwrap"
-date: 2014-02-23
-categories: 
-  - "life"
-tags: 
-  - "birthday"
-  - "presents"
+title: Birthday 1.11 - You can (not) unwrap
+author: Vadim Brodsky
+description: "Continuing on with my birthday celebrations from the [1st of February](http://jamiejakov.lv/life/my-21st-such-madoka-much-ghibli-wow/), I had 2 more parties. One with my friends from [urbanest](http://urbanest.com.au)\_on the 8th of February, exactly a week after my official birthday and then one more today with my friends [Ruben](http://rubenerd.com) and [Clara](http://kirinyan.net), who couldn't make it to my birthday on the 1st. (And Seb was there too) We went to IKEA and had a lot of meatballs! So many that I didn't even have dinner. Ruben and Clara gave me the amazing Shinobu heroin book and the new [Latvian euros](http://rubenerd.com/latvia-adops-the-euro/), which they had ship from Latvia! Thank you so much! I did however have to go through 6 layers of wrapping...... again......"
+image:
+  src: images/MorePresents.jpeg
+  alt: MorePresents
+pubDate: 2014-02-23T00:00:00.000Z
+published: true
+tags: ['life', 'birthday', 'presents']
 ---
 
 ![MorePresents](images/MorePresents.jpeg)

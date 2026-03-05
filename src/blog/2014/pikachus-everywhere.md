@@ -1,14 +1,13 @@
 ---
-title: "Pikachus everywhere"
-date: 2014-08-18
-categories: 
-  - "travel"
-tags: 
-  - "amy"
-  - "ics"
-  - "pikachu"
-  - "pokemon"
-  - "yokohama"
+title: Pikachus everywhere
+author: Vadim Brodsky
+description: "The rest of my trip to Tokyo this year included seeing, touching, hugging, eating\_and buying Pikachus. Im serious, I did everything imaginable to those\_pikachus."
+image:
+  src: images/obon-pikachu.jpg
+  alt: obon-pikachu
+pubDate: 2014-08-18T00:00:00.000Z
+published: true
+tags: ['travel', 'amy', 'ics', 'pikachu', 'pokemon', 'yokohama']
 ---
 
 ![obon-pikachu](images/obon-pikachu.jpg)

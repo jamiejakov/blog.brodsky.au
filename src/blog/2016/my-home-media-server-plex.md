@@ -1,16 +1,17 @@
 ---
-title: "My Home Media Server – PLEX"
-date: 2016-04-08
-categories: 
-  - "movies_tv"
-  - "technology"
-tags: 
-  - "media"
-  - "nas"
-  - "plex"
-  - "server"
-  - "software"
-coverImage: "Plex.jpg"
+title: My Home Media Server – PLEX
+author: Vadim Brodsky
+description: >-
+  Continuing on from my previous
+  [post](http://jamiejakov.lv/2016/04/my-home-media-server-nas/) about building
+  a home media server, this time, I'll tell you about a brilliant piece of
+  software called [PLEX](https://plex.tv).
+image:
+  src: images/Plex.jpg
+  alt: Plex
+pubDate: 2016-04-08T00:00:00.000Z
+published: true
+tags: ['movies_tv', 'technology', 'media', 'nas', 'plex', 'server', 'software']
 ---
 
 Continuing on from my previous [post](http://jamiejakov.lv/2016/04/my-home-media-server-nas/) about building a home media server, this time, I'll tell you about a brilliant piece of software called [PLEX](https://plex.tv).
@@ -23,9 +24,9 @@ Not with Plex. Plex has a number of irreplaceable features:
 
 - Organisation by show
 - Synch with the [theTVDB](http://thetvdb.com) database for:
-    - High-res images of the shows, seasons, and even episodes
-    - Info about each show/season/episode
-    - Actors, creators, studio, etc
+  - High-res images of the shows, seasons, and even episodes
+  - Info about each show/season/episode
+  - Actors, creators, studio, etc
 - Language selection for the show info
 - Keeping track of what has been watched
 - Prepares the next episode once the previous has been finished

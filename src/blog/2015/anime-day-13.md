@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 13"
-date: 2015-09-27
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "nichibros"
+title: Anime Day 13
+author: Vadim Brodsky
+description: '### Day 13 - Favorite anime attending high school'
+image:
+  src: images/Danshi-Koukousei-no-Nichijou.jpg
+  alt: Danish Koukousei No Nichijou
+pubDate: 2015-09-27T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'nichibros']
 ---
 
 ![Danish Koukousei No Nichijou](images/Danshi-Koukousei-no-Nichijou.jpg)

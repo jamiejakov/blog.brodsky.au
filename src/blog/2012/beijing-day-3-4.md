@@ -1,14 +1,13 @@
 ---
-title: "Beijing Day 3 & 4"
-date: 2012-07-01
-categories: 
-  - "travel"
-tags: 
-  - "beijing"
-  - "china_2012"
-  - "game-of-thrones"
-  - "panda"
-  - "xian"
+title: Beijing Day 3 & 4
+author: Vadim Brodsky
+description: '**DAY 3:**'
+image:
+  src: images/WallOfChina.jpg
+  alt: wall of china
+pubDate: 2012-07-01T00:00:00.000Z
+published: true
+tags: ['travel', 'beijing', 'china_2012', 'game-of-thrones', 'panda', 'xian']
 ---
 
 ![wall of china](images/WallOfChina.jpg)
@@ -50,7 +49,7 @@ So anyway, we got to the zoo and went straight to the pandas. And what do you th
 
 There were bunch of other animals around, and we got some pics of them as well.
 
-After the zoo, we went for lunch and I challenged myself and ordered some MapoTofu! I managed half of the plate, and almost died doing that. Now I understand why [Tachibana Kanade](http://myanimelist.net/anime/6547/Angel_Beats! "Angel Beats") loved this stuff, its delicious once you get used to the taste of burn in your mouth.
+After the zoo, we went for lunch and I challenged myself and ordered some MapoTofu! I managed half of the plate, and almost died doing that. Now I understand why [Tachibana Kanade](http://myanimelist.net/anime/6547/Angel_Beats! 'Angel Beats') loved this stuff, its delicious once you get used to the taste of burn in your mouth.
 
 That concludes my adventures in Beijing. Next up is Xi'an. We took a train to Xi'an from Beijing West Station. Now that is what I call a crowd, never seen so my any people at a station in my life.
 

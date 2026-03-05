@@ -1,11 +1,24 @@
 ---
-title: "Twitch Plays Pokemon"
-date: 2014-02-28
-categories: 
-  - "internetz"
-tags: 
-  - "pokemon"
-  - "twitchtv"
+title: Twitch Plays Pokemon
+author: Vadim Brodsky
+description: >-
+  If you don't know what this is, I think it is time to climb from under the
+  rock you have been hiding for the past 2 weeks and start watching &
+  participating! This is not just Pokemon, oh no, this is much more. As
+  [Wikipedia](http://en.wikipedia.org/wiki/Twitch_Plays_Pokémon) put it, Twitch
+  Plays Pokemon (TPP) is a social experiment, I'd say it has become a social
+  phenomenon. Basically what TPP is, it is a stream of a Pokemon Blue game
+  modified to accept the commands typed into the chat of the stream by the
+  people who are watching, thus making them the players. As this idea is new and
+  original, the concept became super popular and thus amassed over 70,000 people
+  to play at a time (though it has died down and only 30,000 are playing at the
+  moment, but still!).
+image:
+  src: images/TwitchPlaysPokemon.png
+  alt: Twitch Plays Pokemon
+pubDate: 2014-02-28T00:00:00.000Z
+published: true
+tags: ['internetz', 'pokemon', 'twitchtv']
 ---
 
 ![Twitch Plays Pokemon](images/TwitchPlaysPokemon.png)
@@ -22,7 +35,7 @@ What is more astounding then the concept of the game, is the sheer number of mem
 
 [![TheTeam](images/TheTeam.jpg)](http://jamiejakov.lv/wp-content/uploads/2014/02/TheTeam.jpg)The main reason why people like TPP and why it has become so insanely popular is due to that fact that absolutely anyone can contribute to the success and progress of the game, and absolutely anyone can troll the players and make sure they fail. Both of these aspects are what make it fun to watch and play.
 
-This is their current team with Lord Helix already evolved into [Omastar](http://bulbapedia.bulbagarden.net/wiki/Omastar_\(Pokémon\)). At the time of writing this post they have been playing for 15 days and 10 hours, have collected all 8 badges and are on the way to Victory road. However the team is a little underpowered so they need to level them up a bit beforehand. Let the grinding begin!
+This is their current team with Lord Helix already evolved into [Omastar](<http://bulbapedia.bulbagarden.net/wiki/Omastar_(Pokémon)>). At the time of writing this post they have been playing for 15 days and 10 hours, have collected all 8 badges and are on the way to Victory road. However the team is a little underpowered so they need to level them up a bit beforehand. Let the grinding begin!
 
 PS: **Praise the Helix**.
 

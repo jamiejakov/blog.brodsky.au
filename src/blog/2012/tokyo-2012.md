@@ -1,15 +1,13 @@
 ---
-title: "Tokyo →"
-date: 2012-07-02
-categories: 
-  - "travel"
-tags: 
-  - "akiba"
-  - "arcade"
-  - "japan_2012"
-  - "sky-tree"
-  - "street-fighter"
-  - "tokyo"
+title: Tokyo →
+author: Vadim Brodsky
+description: My friend Kosuke and I went to Tokyo for 3 days.
+image:
+  src: images/ShinkansenToTokyo.jpg
+  alt: Shinkansen
+pubDate: 2012-07-02T00:00:00.000Z
+published: true
+tags: ['travel', 'akiba', 'arcade', 'japan_2012', 'sky-tree', 'street-fighter', 'tokyo']
 ---
 
 ![Shinkansen](images/ShinkansenToTokyo.jpg)

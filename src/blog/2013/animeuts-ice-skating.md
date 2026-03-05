@@ -1,11 +1,15 @@
 ---
-title: "Anime@UTS Ice Skating!"
-date: 2013-05-26
-categories: 
-  - "life"
-tags: 
-  - "utsanime"
-  - "ice-skating"
+title: Anime@UTS Ice Skating!
+author: Vadim Brodsky
+description: >-
+  Second time going ice skating in 3 months, awesome! This time its with more
+  great folk from the club.
+image:
+  src: images/utsanimeOnIce.png
+  alt: UTS Anime Club on Ice
+pubDate: 2013-05-26T00:00:00.000Z
+published: true
+tags: ['life', 'utsanime', 'ice-skating']
 ---
 
 ![UTS Anime Club on Ice](images/utsanimeOnIce.png)

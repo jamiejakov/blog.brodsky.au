@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 5"
-date: 2015-09-20
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "guiltycrown"
+title: Anime Day 5
+author: Vadim Brodsky
+description: '### Most annoying anime character'
+image:
+  src: images/GuiltyCrown.jpg
+  alt: GuiltyCrown
+pubDate: 2015-09-20T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'guiltycrown']
 ---
 
 ![GuiltyCrown](images/GuiltyCrown.jpg)

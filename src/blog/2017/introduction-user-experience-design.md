@@ -1,13 +1,19 @@
 ---
-title: "Introduction to User Experience Design"
-date: 2017-06-20
-categories: 
-  - "technology"
-tags: 
-  - "design"
-  - "ui"
-  - "ux"
-coverImage: "ux.png"
+title: Introduction to User Experience Design
+author: Vadim Brodsky
+description: >-
+  User experience (UX) design is a relatively new field and only came around
+  with the mass adoption of computers and digital technology. It has evolved
+  over the years and is now an essential part of the digital product development
+  cycle. The core mission of UX is to craft digital experiences that not only
+  empower, but also delight users. In this digital era, innovation never stops
+  and with it more and more opportunities for creating user experiences arise.
+image:
+  src: images/ux.png
+  alt: ux
+pubDate: 2017-06-20T00:00:00.000Z
+published: true
+tags: ['technology', 'design', 'ui', 'ux']
 ---
 
 User experience (UX) design is a relatively new field and only came around with the mass adoption of computers and digital technology. It has evolved over the years and is now an essential part of the digital product development cycle. The core mission of UX is to craft digital experiences that not only empower, but also delight users. In this digital era, innovation never stops and with it more and more opportunities for creating user experiences arise.

@@ -1,12 +1,13 @@
 ---
-title: "Steins;Gate review"
-date: 2012-06-11
-categories: 
-  - "anime"
-tags: 
-  - "review"
-  - "steinsgate"
-  - "time-travel"
+title: Steins;Gate review
+author: Vadim Brodsky
+description: Copying another old review of mine from Google+.
+image:
+  src: images/SteinsGate.png
+  alt: Steins Gate
+pubDate: 2012-06-11T00:00:00.000Z
+published: true
+tags: ['anime', 'review', 'steinsgate', 'time-travel']
 ---
 
 ![Steins Gate](images/SteinsGate.png)

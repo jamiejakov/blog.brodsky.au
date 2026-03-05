@@ -1,11 +1,15 @@
 ---
-title: "Maldives 2015"
-date: 2015-04-29
-categories: 
-  - "travel"
-tags: 
-  - "family"
-  - "maldives"
+title: Maldives 2015
+author: Vadim Brodsky
+description: >-
+  Ah the crystal clear azure sea, the white sand of the beach and the green
+  trees, so beautiful, so tranquil - these are the Maldives.
+image:
+  src: images/Maldives.jpg
+  alt: Maldives
+pubDate: 2015-04-29T00:00:00.000Z
+published: true
+tags: ['travel', 'family', 'maldives']
 ---
 
 ![Maldives](images/Maldives.jpg)

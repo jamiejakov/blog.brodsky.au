@@ -1,12 +1,16 @@
 ---
-title: "20th Birthday - Time to go Skating"
-date: 2013-02-12
-categories: 
-  - "life"
-tags: 
-  - "birthday"
-  - "ice-skating"
-  - "presents"
+title: 20th Birthday - Time to go Skating
+author: Vadim Brodsky
+description: >-
+  On the 1st of February at 11:38pm I turned 20. As usual my parents and I went
+  traveling, this time to Melbourne and Fiji, thus I celebrated my birthday in a
+  tropical style on Mana Island Fiji.
+image:
+  src: images/SkatingBD.jpg
+  alt: SkatingBD
+pubDate: 2013-02-12T00:00:00.000Z
+published: true
+tags: ['life', 'birthday', 'ice-skating', 'presents']
 ---
 
 ![SkatingBD](images/SkatingBD.jpg)

@@ -1,12 +1,19 @@
 ---
-title: "Happy 6th Birthday Miku!"
-date: 2013-08-31
-categories: 
-  - "anime"
-tags: 
-  - "birthday"
-  - "hatsune_miku"
-  - "vocaloid"
+title: Happy 6th Birthday Miku!
+author: Vadim Brodsky
+description: >-
+  Happy birthday to my favorite virtual idol Hatsune Miku! You were born exactly
+  6 years ago, but for all of us you will forever be 16 years old ^\_^ You can
+  also read the congratulations from my friends
+  [Ruben](http://rubenerd.com/happy-birthday-miku/) and
+  [Clara](http://kirinyan.net/another-miku-birthday-and-vocaloid-english-v3/) on
+  their blogs.
+image:
+  src: images/Hatsune.Miku_.full_.270039.jpg
+  alt: Hatsune.Miku.full.270039
+pubDate: 2013-08-31T00:00:00.000Z
+published: true
+tags: ['anime', 'birthday', 'hatsune_miku', 'vocaloid']
 ---
 
 ![Hatsune.Miku.full.270039](images/Hatsune.Miku_.full_.270039.jpg)

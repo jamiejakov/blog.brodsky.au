@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 10"
-date: 2015-09-24
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "monogatari"
+title: Anime Day 10
+author: Vadim Brodsky
+description: '### Day 10 - Current (or most recent) anime wallpaper'
+image:
+  src: images/bakemonogatari.png
+  alt: Bakemonogatari
+pubDate: 2015-09-24T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'monogatari']
 ---
 
 ![Bakemonogatari](images/bakemonogatari.png)

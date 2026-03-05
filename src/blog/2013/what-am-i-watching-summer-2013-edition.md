@@ -1,22 +1,32 @@
 ---
-title: "What am I watching? - Summer 2013 edition"
-date: 2013-07-18
-categories: 
-  - "anime"
-tags: 
-  - "anime-list"
-  - "danganronpa"
-  - "free"
-  - "gatchaman"
-  - "genshiken"
-  - "ginnosaji"
-  - "toarumajutsunoindex"
-  - "kyoani"
-  - "monogatari"
-  - "recommendation"
-  - "shingeki"
-  - "twogok"
-  - "watamote"
+title: What am I watching? - Summer 2013 edition
+author: Vadim Brodsky
+description: >-
+  The summer 2013 anime season is already in week 3 so I might as well say what
+  I am watching and give some recommendations, [just like I did in
+  2012](http://jamiejakov.lv/anime/recommended-summer-2012-anime/).
+image:
+  src: images/WatamoteOP.png
+  alt: watamote
+pubDate: 2013-07-18T00:00:00.000Z
+published: true
+tags:
+  [
+    'anime',
+    'anime-list',
+    'danganronpa',
+    'free',
+    'gatchaman',
+    'genshiken',
+    'ginnosaji',
+    'toarumajutsunoindex',
+    'kyoani',
+    'monogatari',
+    'recommendation',
+    'shingeki',
+    'twogok',
+    'watamote',
+  ]
 ---
 
 ![watamote](images/WatamoteOP.png)
@@ -46,4 +56,4 @@ So there you have it. Its a big list, so I have no idea how I am supposed to kee
 
 ![tumblr_mpj6x8c90m1rrht98o1_500](images/tumblr_mpj6x8c90m1rrht98o1_500.gif)
 
-(gif by my good friend [mad](http://fekete-rigo.tumblr.com "mads \"blog\""))
+(gif by my good friend [mad](http://fekete-rigo.tumblr.com 'mads "blog"'))

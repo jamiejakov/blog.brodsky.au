@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 3"
-date: 2015-09-18
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "toradora"
+title: Anime Day 3
+author: Vadim Brodsky
+description: '### Day 3 - Your anime crush'
+image:
+  src: images/Taiga2.png
+  alt: Aisaka Taiga
+pubDate: 2015-09-18T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'toradora']
 ---
 
 ![Aisaka Taiga](images/Taiga2.png)

@@ -1,11 +1,13 @@
 ---
-title: "Telegram instant messenger"
-date: 2014-03-26
-categories: 
-  - "technology"
-tags: 
-  - "app"
-  - "vkontakte"
+title: Telegram instant messenger
+author: Vadim Brodsky
+description: "There are a lot of instant messaging apps around like: [WhatsApp](http://www.whatsapp.com), [Line](http://line.me/en/), [WeeChat](http://www.weechat.org), [Viber](http://www.viber.com), [Skype](http://www.skype.com/en/), FB Messenger, etc. But this app caught my attention because of the promise they make. The promise of privacy. [Telegram](https://telegram.org)\_promises to provide the user with a encrypted messaging service that helps you protect your private information not only from the american government, but also from your friends. It has an option, similar to what Snapchat offers with its photos, a setting that will self destruct the message after a certain period of time, such as 5 seconds."
+image:
+  src: images/telegram.png
+  alt: telegram
+pubDate: 2014-03-26T00:00:00.000Z
+published: true
+tags: ['technology', 'app', 'vkontakte']
 ---
 
 ![telegram](images/telegram.png)

@@ -1,16 +1,16 @@
 ---
-title: "Sapporo Snow Festival"
-date: 2015-02-10
-categories: 
-  - "anime"
-  - "travel"
-tags: 
-  - "amy"
-  - "hatsune_miku"
-  - "ics"
-  - "madoka"
-  - "sapporo"
-  - "snow"
+title: Sapporo Snow Festival
+author: Vadim Brodsky
+description: >-
+  Every year a bunch of snow sculptures are constructed in the Ōdōri park in
+  Sapporo. This year is the 66th Sapporo snow festival and we (Amy and I) had
+  the opportunity to experience it first hand.
+image:
+  src: images/SnowFestival.jpg
+  alt: SnowFestival
+pubDate: 2015-02-10T00:00:00.000Z
+published: true
+tags: ['anime', 'travel', 'amy', 'hatsune_miku', 'ics', 'madoka', 'sapporo', 'snow']
 ---
 
 ![SnowFestival](images/SnowFestival.jpg)

@@ -1,12 +1,13 @@
 ---
-title: "Anime Day 18"
-date: 2015-10-03
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "shaman-king"
-coverImage: "shamanKing.jpg"
+title: Anime Day 18
+author: Vadim Brodsky
+description: '### Day 18 - Favorite shone anime'
+image:
+  src: images/shamanKing.jpg
+  alt: shamanKing
+pubDate: 2015-10-03T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'shaman-king']
 ---
 
 ### Day 18 - Favorite shone anime

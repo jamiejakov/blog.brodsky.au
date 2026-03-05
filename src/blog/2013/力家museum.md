@@ -1,12 +1,13 @@
 ---
-title: "力家Museum"
-date: 2013-11-18
-categories: 
-  - "life"
-tags: 
-  - "amy"
-  - "powerhouse-museum"
-  - "science"
+title: 力家Museum
+author: Vadim Brodsky
+description: "So since the weather in Sydney hasn't been that great lately, my girlfriend at the time -\_[Amy](http://twitter.com/dekopatchi) and me decided to go the [Powerhouse Museum](http://www.powerhousemuseum.com), which is so conveniently located only 5 minutes away from where I live. Amy hasn't been there since middle school, or something, and I went there last when the Harry Potter exhibition was on in 2011, I think."
+image:
+  src: images/powerhouse.jpg
+  alt: powerhouse
+pubDate: 2013-11-18T00:00:00.000Z
+published: true
+tags: ['life', 'amy', 'powerhouse-museum', 'science']
 ---
 
 ![powerhouse](images/powerhouse.jpg)

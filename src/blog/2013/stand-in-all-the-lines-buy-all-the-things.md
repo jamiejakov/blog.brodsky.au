@@ -1,24 +1,38 @@
 ---
-title: "Stand in ALL the lines, buy ALL the things!"
-date: 2013-09-21
-categories: 
-  - "games"
-  - "life"
-  - "technology"
-tags: 
-  - "angelbeats"
-  - "apple-2"
-  - "dick_figures"
-  - "edenoftheeast"
-  - "gta"
-  - "hyouka"
-  - "iphone"
-  - "katanagatari"
-  - "luckystar"
-  - "monogatari"
-  - "oreimo"
-  - "toradora"
-  - "usagidrop"
+title: 'Stand in ALL the lines, buy ALL the things!'
+author: Vadim Brodsky
+description: >-
+  This has been a very expensive week for me, but I can honestly say that it was
+  worth it! [GTA V](http://www.rockstargames.com/V/), [iPhone
+  5s](http://www.apple.com/au/iphone-5s/) and the [Bower & Willkins
+  P3](http://www.bowers-wilkins.com/Headphones/Headphones/P3/explore.html)
+  headphones are all mine, and I sure as hell am enjoying all of them. I'll talk
+  about my purchases in chronological order, so first up I would like to start
+  with one of the best games (and definitely the most anticipated) of the year -
+image:
+  src: images/iPhone_GTA.jpg
+  alt: iPhone_GTA
+pubDate: 2013-09-21T00:00:00.000Z
+published: true
+tags:
+  [
+    'games',
+    'life',
+    'technology',
+    'angelbeats',
+    'apple-2',
+    'dick_figures',
+    'edenoftheeast',
+    'gta',
+    'hyouka',
+    'iphone',
+    'katanagatari',
+    'luckystar',
+    'monogatari',
+    'oreimo',
+    'toradora',
+    'usagidrop',
+  ]
 ---
 
 ![iPhone_GTA](images/iPhone_GTA.jpg)
@@ -41,14 +55,14 @@ Anyway, at 4am me, Wilmer and his friend went to the Chatswood Apple store (Wilm
 
 Her name is iShinobu because it has been a tradition of mine to name each iDevice in the name of my favorite anime girls. Here is the list:
 
-- Mac Mini - iKonata ( _[Lucky Star](http://anilist.co/anime/1887/Lucky9734Star)_ )
-- MacBook Air - iTaiga ( _[ToraDora](http://anilist.co/anime/4224/Toradora)_ )
-- iPhone 4 - iKirino ( _[OreImo](http://anilist.co/anime/8769/Ore-no-Imouto-ga-Konnani-Kawaii-Wake-ga-Nai)_ )
-- iPhone 5 - iChitanda ( _[Hyouka](http://anilist.co/anime/12189/Hyouka)_ )
-- iPad 3 - iRin ( _[Usagi Drop](http://anilist.co/anime/10162/Usagi-Drop)_ )
-- iPad mini - iYuri ( _[Angel Beats](http://anilist.co/anime/6547/Angel-Beats)_ )
-- AirPort Express - iSaki ( _[Eden of the East](http://anilist.co/anime/5630/Higashi-no-Eden)_ )
-- AirPort Express 2  - iTogame ( _[Katanagatari](http://anilist.co/anime/6594/Katanagatari)_ )
+- Mac Mini - iKonata ( *[Lucky Star](http://anilist.co/anime/1887/Lucky9734Star)* )
+- MacBook Air - iTaiga ( *[ToraDora](http://anilist.co/anime/4224/Toradora)* )
+- iPhone 4 - iKirino ( *[OreImo](http://anilist.co/anime/8769/Ore-no-Imouto-ga-Konnani-Kawaii-Wake-ga-Nai)* )
+- iPhone 5 - iChitanda ( *[Hyouka](http://anilist.co/anime/12189/Hyouka)* )
+- iPad 3 - iRin ( *[Usagi Drop](http://anilist.co/anime/10162/Usagi-Drop)* )
+- iPad mini - iYuri ( *[Angel Beats](http://anilist.co/anime/6547/Angel-Beats)* )
+- AirPort Express - iSaki ( *[Eden of the East](http://anilist.co/anime/5630/Higashi-no-Eden)* )
+- AirPort Express 2  - iTogame ( *[Katanagatari](http://anilist.co/anime/6594/Katanagatari)* )
 - and now the iPhone 5s, which was given this name because of the ever so cute vampire girl [Shinobu Oshino](http://anilist.co/character/23602/Shinobu-Oshino) from the _[Monogatari series](http://anilist.co/anime/17074/Monogatari-Series-Second-Season)_.
 
 ![ShinobuKuKuKu](images/ShinobuKuKuKu.png)

@@ -1,12 +1,18 @@
 ---
-title: "Wedding Planning"
-date: 2021-01-23
-categories: 
-  - "life"
-tags: 
-  - "kotone"
-  - "wedding"
-coverImage: "IMG_0535.jpeg"
+title: Wedding Planning
+author: Vadim Brodsky
+description: >-
+  There are so many parts to planning a wedding, we were quick to realise that.
+  But that didn't deter us, as we decided to do 2 weddings: 1 in Sydney and 1 in
+  Nagoya. This way we can have my friends attend the Sydney one, and have us
+  legally be married in Australia first, and then have a reception in Nagoya for
+  Kotone's family and friends to attend there.
+image:
+  src: images/IMG_0535.jpeg
+  alt: IMG_0535
+pubDate: 2021-01-23T00:00:00.000Z
+published: true
+tags: ['life', 'kotone', 'wedding']
 ---
 
 There are so many parts to planning a wedding, we were quick to realise that. But that didn't deter us, as we decided to do 2 weddings: 1 in Sydney and 1 in Nagoya. This way we can have my friends attend the Sydney one, and have us legally be married in Australia first, and then have a reception in Nagoya for Kotone's family and friends to attend there.

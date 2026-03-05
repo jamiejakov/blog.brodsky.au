@@ -1,11 +1,16 @@
 ---
-title: "Walking around Beijing..."
-date: 2012-06-23
-categories: 
-  - "travel"
-tags: 
-  - "beijing"
-  - "china_2012"
+title: Walking around Beijing...
+author: Vadim Brodsky
+description: >-
+  After a good nights sleep and a solid breakfast (fried rice with bacon and
+  fruit) i decided to wander around town cause my parents will obly arive at 3pm
+  today.
+image:
+  src: images/Beijing1.jpg
+  alt: Beijing1
+pubDate: 2012-06-23T00:00:00.000Z
+published: true
+tags: ['travel', 'beijing', 'china_2012']
 ---
 
 ![Beijing1](images/Beijing1.jpg)

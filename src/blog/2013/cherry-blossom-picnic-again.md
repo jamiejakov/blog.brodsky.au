@@ -1,13 +1,20 @@
 ---
-title: "Cherry Blossom Picnic Again"
-date: 2013-08-25
-categories: 
-  - "life"
-tags: 
-  - "utsanime"
-  - "bbq"
-  - "cherry-blossom"
-  - "picnic"
+title: Cherry Blossom Picnic Again
+author: Vadim Brodsky
+description: >-
+  1 year ago my close friends [Cindy](http://twitter.com/adasifs) and
+  [Sashin](http://sashinexists.com) organized an event to see the cherry
+  blossoms in Auburn (and [I blogged about
+  it](http://jamiejakov.lv/life/cherry-blossom-picnic/)). It was amazing, even
+  though we were a bit late and most of the flowers have already finished
+  blooming and had fallen, but we had lots of fun nevertheless. Well this year
+  was even better!
+image:
+  src: images/cherryBlossom2013.jpg
+  alt: cherryBlossom2013
+pubDate: 2013-08-25T00:00:00.000Z
+published: true
+tags: ['life', 'utsanime', 'bbq', 'cherry-blossom', 'picnic']
 ---
 
 ![cherryBlossom2013](images/cherryBlossom2013.jpg)

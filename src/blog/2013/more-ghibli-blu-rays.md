@@ -1,11 +1,18 @@
 ---
-title: "More Ghibli Blu-rays"
-date: 2013-08-06
-categories: 
-  - "anime"
-tags: 
-  - "blu_ray"
-  - "ghibli"
+title: More Ghibli Blu-rays
+author: Vadim Brodsky
+description: >-
+  I am collecting the Blu-rays for the Studio Ghibli movies. I love the studio
+  and most of their movies, so I have set out to collect all of their BluRays! I
+  mentioned [in a post](http://jamiejakov.lv/anime/ジブリがいっぱい-collection-2/)
+  before as to how I started my collection, and now when Porco Rosso arrived I
+  can blog about how my collection has grown.
+image:
+  src: images/GhibliCollection5.jpg
+  alt: Ghbilbi BD Collection
+pubDate: 2013-08-06T00:00:00.000Z
+published: true
+tags: ['anime', 'blu_ray', 'ghibli']
 ---
 
 ![Ghbilbi BD Collection](images/GhibliCollection5.jpg)

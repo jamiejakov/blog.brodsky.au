@@ -1,11 +1,13 @@
 ---
-title: "Tokyo Magnitude 8.0 Review"
-date: 2013-02-18
-categories: 
-  - "anime"
-tags: 
-  - "review"
-  - "tokyo-magnitude-8-0"
+title: Tokyo Magnitude 8.0 Review
+author: Vadim Brodsky
+description: "Last thing I fully watched was [Tokyo Magnitude 8.0](http://myanimelist.net/anime/6211/Tokyo_Magnitude_8.0) so I decided to write up a small review about it.\_I was warned that it is that kind of series that will make you feel very emotional for the characters. I can say one thing.... IT WAS!"
+image:
+  src: images/TokyoMagnitude1.jpg
+  alt: TokyoMagnitude1
+pubDate: 2013-02-18T00:00:00.000Z
+published: true
+tags: ['anime', 'review', 'tokyo-magnitude-8-0']
 ---
 
 ![TokyoMagnitude1](images/TokyoMagnitude1.jpg)

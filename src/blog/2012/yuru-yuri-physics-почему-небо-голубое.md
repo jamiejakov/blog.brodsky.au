@@ -1,13 +1,13 @@
 ---
-title: "Yuru Yuri Physics - почему небо голубое?"
-date: 2012-07-06
-categories: 
-  - "anime"
-tags: 
-  - "physics"
-  - "school"
-  - "yuru-yuri"
-  - "шепелев"
+title: Yuru Yuri Physics - почему небо голубое?
+author: Vadim Brodsky
+description: "So I was watching\_[Yuru Yuri ♪♪](http://myanimelist.net/anime/12403/Yuru_Yuri_♪♪) and then this randomly appeared..... It reminded me a lot of my high school physics teacher Shepelev."
+image:
+  src: images/YY_1.png
+  alt: YY_1
+pubDate: 2012-07-06T00:00:00.000Z
+published: true
+tags: ['anime', 'physics', 'school', 'yuru-yuri', 'шепелев']
 ---
 
 So I was watching [Yuru Yuri ♪♪](http://myanimelist.net/anime/12403/Yuru_Yuri_♪♪) and then this randomly appeared..... It reminded me a lot of my high school physics teacher Shepelev.

@@ -1,11 +1,13 @@
 ---
-title: "Hatsune Miku - The Worlds Most Popular Virtual Idol"
-date: 2012-08-21
-categories: 
-  - "technology"
-tags: 
-  - "hatsune_miku"
-  - "vocaloid"
+title: Hatsune Miku - The Worlds Most Popular Virtual Idol
+author: Vadim Brodsky
+description: "Hatsune Miku - the 16 year old blue haired twintailed virtual idol, the perfect otaku idol! \_She is more that just popular. She has become a symbol. She is a star. She is a diva. She is a piece of computer software! (that we all adore)"
+image:
+  src: images/Illu_KEI_Vocaloid_Hatsune_Miku-img3.jpg
+  alt: Miku
+pubDate: 2012-08-21T00:00:00.000Z
+published: true
+tags: ['technology', 'hatsune_miku', 'vocaloid']
 ---
 
 ![Miku](images/Illu_KEI_Vocaloid_Hatsune_Miku-img3.jpg)

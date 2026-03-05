@@ -1,16 +1,19 @@
 ---
-title: "サムスンGalaxy S4ハンズオン"
-date: 2013-04-17
-categories: 
-  - "technology"
-tags: 
-  - "samsung"
-  - "smartphone"
+title: サムスンGalaxy S4ハンズオン
+author: Vadim Brodsky
+description: >-
+  [http://www.gizmodo.jp/2013/03/galaxy\_s\_iv\_10.html](http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html)
+image:
+  src: images/SamsungGalaxyS4.png
+  alt: Samsung Galaxy S4
+pubDate: 2013-04-17T00:00:00.000Z
+published: true
+tags: ['technology', 'samsung', 'smartphone']
 ---
 
 ![Samsung Galaxy S4](images/SamsungGalaxyS4.png)
 
-[http://www.gizmodo.jp/2013/03/galaxy\_s\_iv\_10.html](http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html)
+[http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html](http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html)
 
 サムスンGalaxy S4のハンズオン批評である。14日にニューヨークでサムスンが新スマートフォンを発表し、Gizmodoが即行触って見た。筆者の感想は平凡であった。「新端末S4には多くのものが詰め込まれているが、胸が熱くなるようなものはない」と書かれていた。
 

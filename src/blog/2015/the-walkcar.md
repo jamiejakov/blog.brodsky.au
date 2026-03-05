@@ -1,12 +1,12 @@
 ---
-title: "The WalkCar"
-date: 2015-08-09
-categories: 
-  - "technology"
-tags: 
-  - "japan"
-  - "scooter"
-  - "segway"
+title: The WalkCar
+author: Vadim Brodsky
+description: >-
+  <iframe src="https://www.youtube.com/embed/XvG_356itPs" width="640"
+  height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+pubDate: 2015-08-09T00:00:00.000Z
+published: true
+tags: ['technology', 'japan', 'scooter', 'segway']
 ---
 
 <iframe src="https://www.youtube.com/embed/XvG_356itPs" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

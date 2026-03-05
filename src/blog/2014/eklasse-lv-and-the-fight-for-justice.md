@@ -1,14 +1,13 @@
 ---
-title: "E-klasse.lv, and the fight for justice"
-date: 2014-01-22
-categories: 
-  - "technology"
-tags: 
-  - "chrome"
-  - "copyright"
-  - "extension"
-  - "latvia"
-  - "school"
+title: 'E-klasse.lv, and the fight for justice'
+author: Vadim Brodsky
+description: "Currently all schools in Latvia are required to use this online grading system called\_[E-klasse.lv](http://www.e-klase.lv)\_which is run by the company [DAEC](http://www.deac.lv). When I was still in high school (almost 4 years ago), all the teachers had to put the students marks and grades into both a paper journal and into this online system, but as I have heard from my mother, now they are only using this online system. Of course this has its benefits and make it easier to access to both students and their parents, but there are also obvious risks as well. Unlike UTS which uses a very complicated and secure system to store all the university students marks, e-klasse is not as big and I highly doubt it is as secure as what my university has to offer.\_Anyway, that is beside the point, what I want to tell you about it the absurd story that happened to one of our students (former student of Rigas 10th Secondary School) when he tried to improve the user experience when using this online grading tool."
+image:
+  src: images/e-klasse.png
+  alt: e-klasse
+pubDate: 2014-01-22T00:00:00.000Z
+published: true
+tags: ['technology', 'chrome', 'copyright', 'extension', 'latvia', 'school']
 ---
 
 ![e-klasse](images/e-klasse.png)

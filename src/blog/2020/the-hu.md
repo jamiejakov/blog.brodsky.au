@@ -1,10 +1,10 @@
 ---
-title: "The HU"
-date: 2020-07-07
-categories: 
-  - "music"
-tags: 
-  - "mongolia"
+title: The HU
+author: Vadim Brodsky
+description: 'https://www.youtube.com/watch?v=jM8dCGIm6yc'
+pubDate: 2020-07-07T00:00:00.000Z
+published: true
+tags: ['music', 'mongolia']
 ---
 
 https://www.youtube.com/watch?v=jM8dCGIm6yc

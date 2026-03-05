@@ -1,11 +1,16 @@
 ---
-title: "1 Сентября"
-date: 2013-09-01
-categories: 
-  - "life"
-tags: 
-  - "holiday"
-  - "school"
+title: 1 Сентября
+author: Vadim Brodsky
+description: >-
+  1е сентября - международный день знаний, день, когда дети в первый раз идут в
+  первый класс, день, когда ученики всех остальных классов вспоминают что
+  каникулы кончились и что, блин… надо опять учиться.
+image:
+  src: images/den_znaniy.jpg
+  alt: den_znaniy
+pubDate: 2013-09-01T00:00:00.000Z
+published: true
+tags: ['life', 'holiday', 'school']
 ---
 
 ![den_znaniy](images/den_znaniy.jpg)

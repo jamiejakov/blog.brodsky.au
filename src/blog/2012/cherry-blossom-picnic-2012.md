@@ -1,13 +1,15 @@
 ---
-title: "Cherry Blossom Picnic"
-date: 2012-08-26
-categories: 
-  - "life"
-tags: 
-  - "utsanime"
-  - "bbq"
-  - "cherry-blossom"
-  - "picnic"
+title: Cherry Blossom Picnic
+author: Vadim Brodsky
+description: >-
+  Today me and my friends from Anime@UTS went to see the cherry blossom in
+  Auburn botanical gardens.
+image:
+  src: images/CherryBlossom.jpg
+  alt: Cherry Blossom
+pubDate: 2012-08-26T00:00:00.000Z
+published: true
+tags: ['life', 'utsanime', 'bbq', 'cherry-blossom', 'picnic']
 ---
 
 ![Cherry Blossom](images/CherryBlossom.jpg)
@@ -26,4 +28,4 @@ Group photo:
 
 Without further ado, here is the photo gallery:
 
-[![flickr-icon](images/flickr-icon.png)](http://www.flickr.com/photos/jamiejakov/sets/72157633603227092/)
+[![flickr-icon](images/flickr_logo.png)](http://www.flickr.com/photos/jamiejakov/sets/72157633603227092/)

@@ -1,11 +1,12 @@
 ---
-title: "Kiev Metro - rooftop view"
-date: 2015-09-01
-categories: 
-  - "internetz"
-tags: 
-  - "kiev"
-  - "metro"
+title: Kiev Metro - rooftop view
+author: Vadim Brodsky
+description: >-
+  <iframe src="https://www.youtube.com/embed/w3c67AYl0rM" width="640"
+  height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+pubDate: 2015-09-01T00:00:00.000Z
+published: true
+tags: ['internetz', 'kiev', 'metro']
 ---
 
 <iframe src="https://www.youtube.com/embed/w3c67AYl0rM" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

@@ -1,13 +1,17 @@
 ---
-title: "There and Back Again"
-date: 2016-10-31
-categories: 
-  - "travel"
-tags: 
-  - "family"
-  - "lord-of-the-rings"
-  - "new-zealand"
-coverImage: "NewZealand.jpg"
+title: There and Back Again
+author: Vadim Brodsky
+description: >-
+  And thus I have left my comfortable dwelling to go on an adventure to the land
+  of Middle Earth New Zealand. For only a brief 8 days I wandered the uncharted
+  lands of the two islands and explored vast valleys, steep mountains and lush
+  forests.
+image:
+  src: images/NewZealand.jpg
+  alt: NewZealand
+pubDate: 2016-10-31T00:00:00.000Z
+published: true
+tags: ['travel', 'family', 'lord-of-the-rings', 'new-zealand']
 ---
 
 And thus I have left my comfortable dwelling to go on an adventure to the land of Middle Earth New Zealand. For only a brief 8 days I wandered the uncharted lands of the two islands and explored vast valleys, steep mountains and lush forests.

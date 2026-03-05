@@ -1,15 +1,16 @@
 ---
-title: "NZ Photography Trip – Day 9"
-date: 2017-04-24
-categories: 
-  - "photo"
-  - "travel"
-tags: 
-  - "new-zealand"
-  - "new-zealand-2017"
-  - "night-photography"
-  - "photography"
-coverImage: "queenstownSunrise.jpg"
+title: NZ Photography Trip – Day 9
+author: Vadim Brodsky
+description: >-
+  Well, looks like this is the end, its time to go home. My flight back to
+  Sydney was at midday, so you know what that means? I can go for another
+  sunrise!
+image:
+  src: images/queenstownSunrise.jpg
+  alt: queenstownSunrise
+pubDate: 2017-04-24T00:00:00.000Z
+published: true
+tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
 ---
 
 Well, looks like this is the end, its time to go home. My flight back to Sydney was at midday, so you know what that means? I can go for another sunrise!

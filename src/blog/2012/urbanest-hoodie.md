@@ -1,10 +1,16 @@
 ---
-title: "Urbanest hoodie!"
-date: 2012-06-21
-categories: 
-  - "life"
-tags: 
-  - "urbanest"
+title: Urbanest hoodie!
+author: Vadim Brodsky
+description: >-
+  On sale now! These awesome green [urba**nest**](http://www.urbanest.com.au/)
+  hoodies are now officially on sale! For only 44.99$ you can be a proud owner
+  of this fabulous jumper.
+image:
+  src: images/urbanestHoodie.jpg
+  alt: urbanestHoodie
+pubDate: 2012-06-21T00:00:00.000Z
+published: true
+tags: ['life', 'urbanest']
 ---
 
 ![urbanestHoodie](images/urbanestHoodie.jpg)

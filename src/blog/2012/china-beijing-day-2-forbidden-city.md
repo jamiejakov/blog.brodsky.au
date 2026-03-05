@@ -1,13 +1,13 @@
 ---
-title: "China (Beijing) Day 2 - Forbidden City"
-date: 2012-06-30
-categories: 
-  - "travel"
-tags: 
-  - "beijing"
-  - "china_2012"
-  - "china-dress"
-  - "forbidden-city"
+title: China (Beijing) Day 2 - Forbidden City
+author: Vadim Brodsky
+description: 'So the plan for day 2 was:'
+image:
+  src: images/BeijingDay2.jpg
+  alt: BeijingDay2
+pubDate: 2012-06-30T00:00:00.000Z
+published: true
+tags: ['travel', 'beijing', 'china_2012', 'china-dress', 'forbidden-city']
 ---
 
 ![BeijingDay2](images/BeijingDay2.jpg)

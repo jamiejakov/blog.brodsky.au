@@ -1,11 +1,10 @@
 ---
-title: "Dhalsim troll reset"
-date: 2012-08-18
-categories: 
-  - "games"
-tags: 
-  - "dhalsim"
-  - "street-fighter"
+title: Dhalsim troll reset
+author: Vadim Brodsky
+description: A very trollish dhalsim reset. Hope I never fall for that one....
+pubDate: 2012-08-18T00:00:00.000Z
+published: true
+tags: ['games', 'dhalsim', 'street-fighter']
 ---
 
 A very trollish dhalsim reset. Hope I never fall for that one....

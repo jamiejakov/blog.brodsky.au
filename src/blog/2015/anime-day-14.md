@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 14"
-date: 2015-09-28
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "ouran"
+title: Anime Day 14
+author: Vadim Brodsky
+description: "### Day 14 - Anime you've rewatched the most"
+image:
+  src: images/Ouran.jpg
+  alt: ouran
+pubDate: 2015-09-28T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'ouran']
 ---
 
 ![ouran](images/Ouran.jpg)

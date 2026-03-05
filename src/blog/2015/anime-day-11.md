@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 11"
-date: 2015-09-25
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "spice-and-wolf"
+title: Anime Day 11
+author: Vadim Brodsky
+description: '### Day 11 - Post a cute neko-girl'
+image:
+  src: images/Holo.jpg
+  alt: Holo
+pubDate: 2015-09-25T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'spice-and-wolf']
 ---
 
 ![Holo](images/Holo.jpg)

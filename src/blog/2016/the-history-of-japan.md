@@ -1,11 +1,10 @@
 ---
-title: "The History of Japan"
-date: 2016-02-05
-categories: 
-  - "internetz"
-tags: 
-  - "history"
-  - "japan"
+title: The History of Japan
+author: Vadim Brodsky
+description: 'https://www.youtube.com/watch?v=Mh5LY4Mz15o'
+pubDate: 2016-02-05T00:00:00.000Z
+published: true
+tags: ['internetz', 'history', 'japan']
 ---
 
 https://www.youtube.com/watch?v=Mh5LY4Mz15o

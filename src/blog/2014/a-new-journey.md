@@ -1,10 +1,17 @@
 ---
-title: "A New Journey"
-date: 2014-03-08
-categories: 
-  - "travel"
-tags: 
-  - "vietnam-cambodia-2014"
+title: A New Journey
+author: Vadim Brodsky
+description: >-
+  From today till the 22nd of March, my family and me will be visiting the
+  mysterious lands of Vietnam and Cambodia. We have decided to embark on this
+  journey not only to experience the culture and traditions that these countries
+  keep hidden, but also to relax and enjoy our long overdue vacation.
+image:
+  src: images/vietnam.jpg
+  alt: vietnam
+pubDate: 2014-03-08T00:00:00.000Z
+published: true
+tags: ['travel', 'vietnam-cambodia-2014']
 ---
 
 ![vietnam](images/vietnam.jpg)

@@ -1,12 +1,13 @@
 ---
-title: "Appearing naked on Japanese TV - check!"
-date: 2014-05-15
-categories: 
-  - "life"
-tags: 
-  - "hot-spring"
-  - "ics"
-  - "japan-2014"
+title: Appearing naked on Japanese TV - check!
+author: Vadim Brodsky
+description: "Onsen (温泉) is the Japanese word for hot spring and public bath. These bath houses are a\_very essential part of Japanese culture and there is even a fictional story about it ([Thermae Romae](http://en.wikipedia.org/wiki/Thermae_Romae)). The reason I came to Japan was to experience\_all of its cultural aspects, and so I find myself going to an event for foreign exchange students to learn about the culture of Onsen."
+image:
+  src: images/Onsen.jpg
+  alt: onsen for foreigners
+pubDate: 2014-05-15T00:00:00.000Z
+published: true
+tags: ['life', 'hot-spring', 'ics', 'japan-2014']
 ---
 
 ![onsen for foreigners](images/Onsen.jpg)
@@ -30,23 +31,23 @@ At the end of this whole thing we were given a small lecture on how to make and 
 Original from NHK:
 
 > 外国人留学生が日本の温泉を楽しむ   
-> 5月15日 14時21分   
->   
-> 外国からの留学生たちに日本の温泉文化を楽しんでもらおうという催しが鹿児島市で行われました。   
->   
+> 5月15日 14時21分 
+>
+> 外国からの留学生たちに日本の温泉文化を楽しんでもらおうという催しが鹿児島市で行われました。 
+>
 > この催しは、鹿児島市の民間の温泉施設が初めて行ったもので、中国やフィリピン、それにドイツなど   
-> ６か国から鹿児島県内の大学に留学している１１人の男女が参加しました。   
->   
+> ６か国から鹿児島県内の大学に留学している１１人の男女が参加しました。 
+>
 > 初めに留学生たちは、温泉施設の大広間で従業員から入浴のマナーについて説明を受け、   
 > 湯船に入る前には必ず体を洗うことやタオルを湯船に入れてはいけないことなどを学びました。   
 > このあと浴場で体を洗い流したあと、ゆっくりと温泉につかりました。   
 > 留学生のほとんどは温泉を初めて体験するということですが、広い湯船にじっくりと肩までつかり、   
-> 気持ちよさそうな表情を浮かべていました。   
->   
+> 気持ちよさそうな表情を浮かべていました。 
+>
 > ラトビア出身の男子学生は「温泉に入ったら、日頃の授業の疲れが吹き飛びました。   
-> 両親が鹿児島に来たときは連れて行きたい」と話していました。   
->   
-> ソースに動画があります。   
->   
+> 両親が鹿児島に来たときは連れて行きたい」と話していました。 
+>
+> ソースに動画があります。 
+>
 > ソース： [NHK](http://www3.nhk.or.jp/news/html/20140515/k10014471251000.html)    
 > 画像： [image](http://www3.nhk.or.jp/news/html/20140515/K10044712511_1405151540_1405151540_01.jpg)

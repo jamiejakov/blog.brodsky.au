@@ -1,13 +1,17 @@
 ---
-title: "Hiroshima - 広島"
-date: 2014-09-20
-categories: 
-  - "travel"
-tags: 
-  - "amy"
-  - "hiroshima"
-  - "ics"
-  - "war-memorial"
+title: Hiroshima - 広島
+author: Vadim Brodsky
+description: >-
+  After a relaxing and rejuvenating stay at Kurokawa, Amy and I continued our
+  travels. Now we are heading to the city of Hiroshima, best known for its
+  century old shrine and gate on the water (Miyajima Jinja) and of course the
+  atomic bombing of 1945.
+image:
+  src: images/Hiroshima.jpg
+  alt: Hiroshima
+pubDate: 2014-09-20T00:00:00.000Z
+published: true
+tags: ['travel', 'amy', 'hiroshima', 'ics', 'war-memorial']
 ---
 
 ![Hiroshima](images/Hiroshima.jpg)

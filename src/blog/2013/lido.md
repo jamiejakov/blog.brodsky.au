@@ -1,13 +1,18 @@
 ---
-title: "Lido"
-date: 2013-07-07
-categories: 
-  - "music"
-  - "travel"
-tags: 
-  - "food"
-  - "latvia_2013"
-  - "lido"
+title: Lido
+author: Vadim Brodsky
+description: >-
+  For lunch today my parents took me to Lido. Lido is a restaurant and a small
+  amusement center located 10 minutes away from the center of Riga. Not only
+  does it look like a building from the countryside of Latvia, but the food
+  there is also traditional and specific to the more rural regions of Latvia.
+  And of course it is extremely delicious!
+image:
+  src: images/Lido.jpg
+  alt: Lido
+pubDate: 2013-07-07T00:00:00.000Z
+published: true
+tags: ['music', 'travel', 'food', 'latvia_2013', 'lido']
 ---
 
 ![Lido](images/Lido.jpg)
@@ -22,4 +27,4 @@ The atmosphere both outside and inside is very calm and beautiful. Plus since th
 
 Album with photos (scroll half way):
 
-[![flickr-icon](images/flickr-icon.png)](http://www.flickr.com/photos/jamiejakov/sets/72157634373014098/)
+[![flickr-icon](images/flickr_logo.png)](http://www.flickr.com/photos/jamiejakov/sets/72157634373014098/)

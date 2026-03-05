@@ -1,13 +1,13 @@
 ---
-title: "WikiWand Extension"
-date: 2016-02-13
-categories: 
-  - "technology"
-tags: 
-  - "browser"
-  - "extension"
-  - "wikipedia"
-coverImage: "WikiWand.png"
+title: WikiWand Extension
+author: Vadim Brodsky
+description: "Today I would like to introduce you to a browser extension you never knew you would need, but will not be able to live without. Its called [WikiWand](http://www.wikiwand.com)\_and it will change\_the way you interact with WikipediA forever!"
+image:
+  src: images/WikiWand.png
+  alt: WikiWand
+pubDate: 2016-02-13T00:00:00.000Z
+published: true
+tags: ['technology', 'browser', 'extension', 'wikipedia']
 ---
 
 Today I would like to introduce you to a browser extension you never knew you would need, but will not be able to live without. Its called [WikiWand](http://www.wikiwand.com) and it will change the way you interact with WikipediA forever!

@@ -1,11 +1,16 @@
 ---
-title: "DPRK"
-date: 2013-04-16
-categories: 
-  - "internetz"
-tags: 
-  - "ссср"
-  - "dprk"
+title: DPRK
+author: Vadim Brodsky
+description: >-
+  There has been a lot of new going around about the DPRK and a potential
+  occurance of World War III lately. I don't know much about North Korea aside
+  from jokes on the internet about Kim Jong Un like this one:
+image:
+  src: images/DPRK_Flag.png
+  alt: DPRK Flag
+pubDate: 2013-04-16T00:00:00.000Z
+published: true
+tags: ['internetz', 'ссср', 'dprk']
 ---
 
 ![DPRK Flag](images/DPRK_Flag.png)

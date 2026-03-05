@@ -1,14 +1,16 @@
 ---
-title: "Cosplaying"
-date: 2014-09-21
-categories: 
-  - "anime"
-tags: 
-  - "amy"
-  - "utsanime"
-  - "clara"
-  - "cosplay"
-  - "ruben"
+title: Cosplaying
+author: Vadim Brodsky
+description: >-
+  Cosplay, its an art of dressing up as a character from a TV series, movie,
+  game or any other form of media. You get to pretend to be your favourite
+  character, maybe act out a scene or two from the show/game.
+image:
+  src: images/cosplay.jpg
+  alt: cosplay
+pubDate: 2014-09-21T00:00:00.000Z
+published: true
+tags: ['anime', 'amy', 'utsanime', 'clara', 'cosplay', 'ruben']
 ---
 
 ![cosplay](images/cosplay.jpg)

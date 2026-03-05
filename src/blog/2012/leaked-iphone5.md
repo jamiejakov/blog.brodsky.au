@@ -1,13 +1,13 @@
 ---
-title: "Leaked iPhone5"
-date: 2012-06-01
-categories: 
-  - "technology"
-tags: 
-  - "apple-2"
-  - "iphone"
-  - "leak"
-  - "rumor"
+title: Leaked iPhone5
+author: Vadim Brodsky
+description: Everybody is curious as to what the next iPhone will look like!
+image:
+  src: images/9to5macblackandwhite.png
+  alt: leaked iPhone5
+pubDate: 2012-06-01T00:00:00.000Z
+published: true
+tags: ['technology', 'apple-2', 'iphone', 'leak', 'rumor']
 ---
 
 ![leaked iPhone5](images/9to5macblackandwhite.png)

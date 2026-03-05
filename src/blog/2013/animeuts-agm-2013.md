@@ -1,11 +1,13 @@
 ---
-title: "Anime@UTS AGM 2013"
-date: 2013-10-08
-categories: 
-  - "life"
-tags: 
-  - "utsanime"
-  - "exec-team"
+title: Anime@UTS AGM 2013
+author: Vadim Brodsky
+description: "Remember [last year](http://jamiejakov.lv/life/animeuts-agm/) when I became the screenings director for the [UTS anime club](http://utsanime.net)? Well that just happened again! On the 5th of October we had our AGM and elected a new team for 2014. Our beloved president [Lexi](http://twitter.com/maidforclass)\_had to step down as he will be graduating next year, then our amazingly talented and hardworking secretary - [Clara](http://kirinyan.net/shit-happens/) ended up leaving our ranks as well, and also our 2 photographers, treasurer and vice have been replaced.\_I can say thank you for your hard work, and I hope to see you around."
+image:
+  src: images/utsanime2013exec.jpg
+  alt: uts anime 2013 exec team
+pubDate: 2013-10-08T00:00:00.000Z
+published: true
+tags: ['life', 'utsanime', 'exec-team']
 ---
 
 ![uts anime 2013 exec team](images/utsanime2013exec.jpg)

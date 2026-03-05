@@ -1,13 +1,18 @@
 ---
-title: "WWDC & iOS7"
-date: 2013-06-11
-categories: 
-  - "technology"
-tags: 
-  - "apple-2"
-  - "beta"
-  - "ios"
-  - "wwdc"
+title: WWDC & iOS7
+author: Vadim Brodsky
+description: >-
+  Tonight at 3am Sydney time, Apple had their World Wide Developer Conference
+  (WWDC) where they announced many new changes to both their software and their
+  devices. You can read the full coverage on
+  [9to5mac.com](http://9to5mac.com/tag/wwdc/). But I will just quickly mention
+  what I love about it.
+image:
+  src: images/iOS7.png
+  alt: Apple iOS7
+pubDate: 2013-06-11T00:00:00.000Z
+published: true
+tags: ['technology', 'apple-2', 'beta', 'ios', 'wwdc']
 ---
 
 ![Apple iOS7](images/iOS7.png)

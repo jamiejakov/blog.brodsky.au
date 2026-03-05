@@ -1,14 +1,17 @@
 ---
-title: "Kyoto 祇園祭"
-date: 2012-07-15
-categories: 
-  - "travel"
-tags: 
-  - "arcade"
-  - "japan_2012"
-  - "jinbei"
-  - "kyoto"
-  - "祭"
+title: Kyoto 祇園祭
+author: Vadim Brodsky
+description: >-
+  It was supposed to be just a normal sunday for me, until I decided to go hang
+  out with my friend Kosuke in Kyoto. So I picked a random day (today, 15th of
+  July, Sunday) decided on a time and went to Kyoto, where Kosuke was waiting
+  for me. Little did i know what was in stall for me....
+image:
+  src: images/KyotoTemple.jpg
+  alt: KyotoTemple
+pubDate: 2012-07-15T00:00:00.000Z
+published: true
+tags: ['travel', 'arcade', 'japan_2012', 'jinbei', 'kyoto', '祭']
 ---
 
 ![KyotoTemple](images/KyotoTemple.jpg)

@@ -1,13 +1,13 @@
 ---
-title: "Fukurōka 福ロ岡"
-date: 2014-04-28
-categories: 
-  - "life"
-tags: 
-  - "amy"
-  - "ics"
-  - "japan-2014"
-  - "owl"
+title: Fukurōka 福ロ岡
+author: Vadim Brodsky
+description: "Now that Tac has arrived in Japan last week for the JET program, we can once again go out to anime shops and arcades together! And thats pretty much what we did this weekend. Not quite. It all started in Saga. I came to see\_[Amy](http://ocarda.wordpress.com)\_and we went around Saga castle and Saga shrine. Very nice places: pretty, calm, beautiful; just like most of the things in Japan. The next day was more interesting, but also more painful (for our feet). We got to meet up with Tac in the (early) morning and catch a train to Hakata (Fukuoka). There was a rose exhibition there at the station, so we managed to get a lot of beautiful photos of roses! And you know what else they have there? A POKéMON centre! It is beautiful! So many Pikachus, Froakies, Chespins, Fennekins, etc... My love for Pokémon, which I thought to have died when I was 10 years old came back so I couldn't help but spend a bit of money on some gorgeous goods."
+image:
+  src: images/owl.jpeg
+  alt: owl
+pubDate: 2014-04-28T00:00:00.000Z
+published: true
+tags: ['life', 'amy', 'ics', 'japan-2014', 'owl']
 ---
 
 ![owl](images/owl.jpeg)

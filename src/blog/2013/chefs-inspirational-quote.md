@@ -1,10 +1,15 @@
 ---
-title: "Chefs inspirational quote"
-date: 2013-08-24
-categories: 
-  - "movies_tv"
-tags: 
-  - "southpark"
+title: Chefs inspirational quote
+author: Vadim Brodsky
+description: >-
+  > Don't do drugs kids. There's a time and place for everything. It's called
+  college.
+image:
+  src: images/ChefSmall.png
+  alt: ChefSmall
+pubDate: 2013-08-24T00:00:00.000Z
+published: true
+tags: ['movies_tv', 'southpark']
 ---
 
 ![ChefSmall](images/ChefSmall.png)

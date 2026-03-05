@@ -1,15 +1,18 @@
 ---
-title: "NZ Photography Trip – Day 5"
-date: 2017-04-20
-categories: 
-  - "photo"
-  - "travel"
-tags: 
-  - "new-zealand"
-  - "new-zealand-2017"
-  - "night-photography"
-  - "photography"
-coverImage: "TasmanGlacier.jpg"
+title: NZ Photography Trip – Day 5
+author: Vadim Brodsky
+description: >-
+  When we woke up this time, I didn’t feel cold, as I was wearing 4 layers of
+  clothes while sleeping in my warm sleeping bag. But once we opened the tent,
+  we quickly realised that it was around -2 as we could see the frost on the
+  tent. Somehow our bodies have already gotten used to the early rises so waking
+  up for the sunrise was not a challenge anymore.
+image:
+  src: images/TasmanGlacier.jpg
+  alt: TasmanGlacier
+pubDate: 2017-04-20T00:00:00.000Z
+published: true
+tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
 ---
 
 When we woke up this time, I didn’t feel cold, as I was wearing 4 layers of clothes while sleeping in my warm sleeping bag. But once we opened the tent, we quickly realised that it was around -2 as we could see the frost on the tent. Somehow our bodies have already gotten used to the early rises so waking up for the sunrise was not a challenge anymore.

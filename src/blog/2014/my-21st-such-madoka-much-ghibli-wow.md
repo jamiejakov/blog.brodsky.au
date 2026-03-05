@@ -1,17 +1,18 @@
 ---
-title: "My 21st - such Madoka, much Ghibli, wow"
-date: 2014-02-03
-categories: 
-  - "life"
-tags: 
-  - "amy"
-  - "birthday"
-  - "blu_ray"
-  - "dale"
-  - "ghibli"
-  - "madoka-magika"
-  - "seb"
-  - "tac"
+title: 'My 21st - such Madoka, much Ghibli, wow'
+author: Vadim Brodsky
+description: >-
+  This year I have officially become an adult (in every country); I turned 21!
+  Every year up until now I got to spend this special day with my 2 most special
+  people - my mommy and my daddy, but this year we did not get the chance to
+  meet up to celebrate it together, but nevertheless I had a great day with my
+  friends - yay!
+image:
+  src: images/Birthday_2014.jpg
+  alt: Birthday_2014
+pubDate: 2014-02-03T00:00:00.000Z
+published: true
+tags: ['life', 'amy', 'birthday', 'blu_ray', 'dale', 'ghibli', 'madoka-magika', 'seb', 'tac']
 ---
 
 ![Birthday_2014](images/Birthday_2014.jpg)

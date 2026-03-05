@@ -1,12 +1,15 @@
 ---
-title: "CSS Quirks and Oddities"
-date: 2018-03-15
-categories: 
-  - "technology"
-tags: 
-  - "css"
-  - "ui"
-coverImage: "owls.jpeg"
+title: CSS Quirks and Oddities
+author: Vadim Brodsky
+description: >-
+  CSS is a weird language. Some people don't even want to consider CSS as a
+  programming language. However to me it will always be one, maybe even THE one.
+image:
+  src: images/owls.jpeg
+  alt: owls
+pubDate: 2018-03-15T00:00:00.000Z
+published: true
+tags: ['technology', 'css', 'ui']
 ---
 
 CSS is a weird language. Some people don't even want to consider CSS as a programming language. However to me it will always be one, maybe even THE one.

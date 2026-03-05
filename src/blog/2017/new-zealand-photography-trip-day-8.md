@@ -1,15 +1,17 @@
 ---
-title: "NZ Photography Trip – Day 8"
-date: 2017-04-23
-categories: 
-  - "photo"
-  - "travel"
-tags: 
-  - "new-zealand"
-  - "new-zealand-2017"
-  - "night-photography"
-  - "photography"
-coverImage: "QueenstownHill.jpg"
+title: NZ Photography Trip – Day 8
+author: Vadim Brodsky
+description: >-
+  After that really long hike up and down Mt. John, Anton and I were definitely
+  not up for another hike, especially at 6am in the morning. So we went around
+  the lake, looking for some decent photo spots. Took a few shots here and
+  there, went back to the tree...
+image:
+  src: images/QueenstownHill.jpg
+  alt: QueenstownHill
+pubDate: 2017-04-23T00:00:00.000Z
+published: true
+tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
 ---
 
 After that really long hike up and down Mt. John, Anton and I were definitely not up for another hike, especially at 6am in the morning. So we went around the lake, looking for some decent photo spots. Took a few shots here and there, went back to the tree...

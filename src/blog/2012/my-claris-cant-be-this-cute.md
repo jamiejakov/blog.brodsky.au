@@ -1,21 +1,21 @@
 ---
-title: "My ClariS can't be this cute!"
-date: 2012-10-03
-categories: 
-  - "anime"
-  - "music"
-tags: 
-  - "utsanime"
-  - "claris"
-  - "hatsune_miku"
-  - "madoka-magika"
-  - "monogatari"
-  - "oreimo"
+title: My ClariS can't be this cute!
+author: Vadim Brodsky
+description: >-
+  I made this as a music monday a few weeks ago. Copy pasta from the
+  [Anime@UTS](http://utsanime.net/2012/08/music-monday-my-claris-cant-be-this-cute/
+  "Anime@UTS website") website.
+image:
+  src: images/ClariS.png
+  alt: ClariS
+pubDate: 2012-10-03T00:00:00.000Z
+published: true
+tags: ['anime', 'music', 'utsanime', 'claris', 'hatsune_miku', 'madoka-magika', 'monogatari', 'oreimo']
 ---
 
 ![ClariS](images/ClariS.png)
 
-I made this as a music monday a few weeks ago. Copy pasta from the [Anime@UTS](http://utsanime.net/2012/08/music-monday-my-claris-cant-be-this-cute/ "Anime@UTS website") website.
+I made this as a music monday a few weeks ago. Copy pasta from the [Anime@UTS](http://utsanime.net/2012/08/music-monday-my-claris-cant-be-this-cute/ 'Anime@UTS website') website.
 
 Hello and welcome to the first thrilling episode of Music Monday with your host JamieJakov.
 

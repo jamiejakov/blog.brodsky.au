@@ -1,9 +1,9 @@
 ---
-title: My 7 Blog Post
+title: Test Blog Post
 author: Astro Learner
 description: 'This post will show up on its own!'
 image:
-  url: 'https://docs.astro.build/default-og-image.png'
+  src: 'assets/image.jpg'
   alt: 'The word astro against an illustration of planets and stars.'
 pubDate: 2022-08-15
 published: true

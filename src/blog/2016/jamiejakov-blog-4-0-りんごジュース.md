@@ -1,13 +1,17 @@
 ---
-title: "JamieJakov Blog 4.0 - りんごジュース"
-date: 2016-01-31
-categories: 
-  - "technology"
-tags: 
-  - "blog"
-  - "css"
-  - "design"
-coverImage: "RigoJuice.png"
+title: JamieJakov Blog 4.0 - りんごジュース
+author: Vadim Brodsky
+description: >-
+  There has been a lot of stuff happening in my life recently - got a new job,
+  moving to a new place, last semester of uni soon, started playing
+  [Hearthstone](http://us.battle.net/hearthstone/en/) seriously, etc. So I
+  decided it would be a great time to update my blog.
+image:
+  src: images/RigoJuice.png
+  alt: RigoJuice
+pubDate: 2016-01-31T00:00:00.000Z
+published: true
+tags: ['technology', 'blog', 'css', 'design']
 ---
 
 There has been a lot of stuff happening in my life recently - got a new job, moving to a new place, last semester of uni soon, started playing [Hearthstone](http://us.battle.net/hearthstone/en/) seriously, etc. So I decided it would be a great time to update my blog.

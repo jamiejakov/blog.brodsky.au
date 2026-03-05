@@ -1,12 +1,17 @@
 ---
-title: "WiseCamping"
-date: 2019-05-07
-categories: 
-  - "travel"
-tags: 
-  - "camping"
-  - "wisetech"
-coverImage: "wisecamping.jpg"
+title: WiseCamping
+author: Vadim Brodsky
+description: >-
+  What better way to spend a weekend in May, than to go camping with your
+  favourite coworkers! So we gathered Axle, Justin, Jordan, Josh, Cody, Mark,
+  Tim, Kal, Steven, Sandra and myself together and set out to a campsite around
+  Ulladulla.
+image:
+  src: images/wisecamping.jpg
+  alt: wisecamping
+pubDate: 2019-05-07T00:00:00.000Z
+published: true
+tags: ['travel', 'camping', 'wisetech']
 ---
 
 What better way to spend a weekend in May, than to go camping with your favourite coworkers! So we gathered Axle, Justin, Jordan, Josh, Cody, Mark, Tim, Kal, Steven, Sandra and myself together and set out to a campsite around Ulladulla.

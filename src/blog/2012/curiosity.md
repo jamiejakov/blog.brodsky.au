@@ -1,12 +1,15 @@
 ---
-title: "Curiosity"
-date: 2012-08-08
-categories: 
-  - "technology"
-tags: 
-  - "curiosity"
-  - "mars"
-  - "nasa"
+title: Curiosity
+author: Vadim Brodsky
+description: >-
+  Due to my busy life at uni I wasn't able to post this news when it actually
+  happened, and I apologize for that.
+image:
+  src: images/nasa-curiosity-surface.jpg
+  alt: nasa-curiosity-surface
+pubDate: 2012-08-08T00:00:00.000Z
+published: true
+tags: ['technology', 'curiosity', 'mars', 'nasa']
 ---
 
 ![nasa-curiosity-surface](images/nasa-curiosity-surface.jpg)

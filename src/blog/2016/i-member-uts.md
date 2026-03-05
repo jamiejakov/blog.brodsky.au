@@ -1,12 +1,13 @@
 ---
-title: "I 'member UTS"
-date: 2016-12-05
-categories: 
-  - "life"
-tags: 
-  - "utsanime"
-  - "uts"
-coverImage: "UTS.jpg"
+title: I 'member UTS
+author: Vadim Brodsky
+description: "I 'member the good old time, you 'member? - South Park"
+image:
+  src: images/UTS.jpg
+  alt: UTS
+pubDate: 2016-12-05T00:00:00.000Z
+published: true
+tags: ['life', 'utsanime', 'uts']
 ---
 
 I 'member the good old time, you 'member? - South Park

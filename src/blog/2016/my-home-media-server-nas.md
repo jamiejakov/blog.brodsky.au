@@ -1,14 +1,13 @@
 ---
-title: "My Home Media Server - NAS"
-date: 2016-04-01
-categories: 
-  - "technology"
-tags: 
-  - "media"
-  - "nas"
-  - "plex"
-  - "server"
-coverImage: "Synology_DS1513_7.jpg"
+title: My Home Media Server - NAS
+author: Vadim Brodsky
+description: "Ever since I got my own computer and started watching movies, cartoons and anime, I've wanted to have a great collection, and back in the day the only way to do that was to save them on your computer hard drive and view them on that computer. Then I learned about the these really convenient little things called portable (external) HDDs, so I could store my media on that and then view it on a different device, and that worked\_great... at the time."
+image:
+  src: images/Synology_DS1513_7.jpg
+  alt: Synology_DS1513_7
+pubDate: 2016-04-01T00:00:00.000Z
+published: true
+tags: ['technology', 'media', 'nas', 'plex', 'server']
 ---
 
 Ever since I got my own computer and started watching movies, cartoons and anime, I've wanted to have a great collection, and back in the day the only way to do that was to save them on your computer hard drive and view them on that computer. Then I learned about the these really convenient little things called portable (external) HDDs, so I could store my media on that and then view it on a different device, and that worked great... at the time.

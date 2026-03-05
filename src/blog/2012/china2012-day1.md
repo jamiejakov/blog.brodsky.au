@@ -1,13 +1,13 @@
 ---
-title: "China (Beijing) Day 1"
-date: 2012-06-30
-categories: 
-  - "travel"
-tags: 
-  - "acrobats"
-  - "beijing"
-  - "china_2012"
-  - "duck"
+title: China (Beijing) Day 1
+author: Vadim Brodsky
+description: "I have already written up a [post about me walking around Beijing](http://jamiejakov.lv/travel/walking-around-beijing/) during the first day while waiting for my parents.\_So now, since I have normal internet again, I will continue the story."
+image:
+  src: images/Beijing_Circus.jpg
+  alt: Beijing_Circus
+pubDate: 2012-06-30T00:00:00.000Z
+published: true
+tags: ['travel', 'acrobats', 'beijing', 'china_2012', 'duck']
 ---
 
 ![Beijing_Circus](images/Beijing_Circus.jpg)

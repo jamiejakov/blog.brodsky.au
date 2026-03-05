@@ -1,15 +1,13 @@
 ---
-title: "The red leaves of Kirishima - 霧島"
-date: 2014-11-22
-categories: 
-  - "travel"
-tags: 
-  - "autumn"
-  - "gaijin-gang"
-  - "ics"
-  - "kagoshima"
-  - "kirishima"
-  - "leaves"
+title: The red leaves of Kirishima - 霧島
+author: Vadim Brodsky
+description: "One day, I receive\_a message from our Turkish gaijin Burak saying that we are going to Kirishima. It was rather spontaneous, but I am not the kind of person to decline an invitation to a trip, especially if I have never been to the place before. The reason for this trip was simple: to see the beautiful red leaves that cover Japanese trees in Autumn. And so we hired a car and drove to the Kirishima Jingu (shrine). Another trip together with the Gaijin Gang."
+image:
+  src: images/kirishima.jpg
+  alt: Kirishima
+pubDate: 2014-11-22T00:00:00.000Z
+published: true
+tags: ['travel', 'autumn', 'gaijin-gang', 'ics', 'kagoshima', 'kirishima', 'leaves']
 ---
 
 ![Kirishima](images/kirishima.jpg)

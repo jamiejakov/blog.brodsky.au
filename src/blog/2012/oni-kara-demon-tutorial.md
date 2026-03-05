@@ -1,11 +1,14 @@
 ---
-title: "Oni Kara Demon Tutorial"
-date: 2012-07-20
-categories: 
-  - "games"
-tags: 
-  - "oni"
-  - "street-fighter"
+title: Oni Kara Demon Tutorial
+author: Vadim Brodsky
+description: >-
+  In Super Street Fighter IV some special moves can be preformed by canceling of
+  of normal moves. Some of them even allow certain characters to extend their
+  model range, allowing them to grab opponents from further away, or to preform
+  special moves with extended range.
+pubDate: 2012-07-20T00:00:00.000Z
+published: true
+tags: ['games', 'oni', 'street-fighter']
 ---
 
 In Super Street Fighter IV some special moves can be preformed by canceling of of normal moves. Some of them even allow certain characters to extend their model range, allowing them to grab opponents from further away, or to preform special moves with extended range.

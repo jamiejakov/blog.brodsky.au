@@ -1,15 +1,20 @@
 ---
-title: "NZ Photography Trip – Day 7"
-date: 2017-04-22
-categories: 
-  - "photo"
-  - "travel"
-tags: 
-  - "new-zealand"
-  - "new-zealand-2017"
-  - "night-photography"
-  - "photography"
-coverImage: "MtRoy.jpg"
+title: NZ Photography Trip – Day 7
+author: Vadim Brodsky
+description: >-
+  The town of Wanaka in beautiful autumn colours. How better to capture it then
+  to go to the world famous Wanaka Tree. We thought that we are the most
+  prepared photographers, we got there a good hour before the sunrise. When we
+  got to the tree itself, we quickly realised that this was a very popular spot
+  as there were about 20-30 people gathered around the tree with their tripods.
+  Anton and I tried our best to get a good view of the tree, but we found it to
+  be impossible.
+image:
+  src: images/MtRoy.jpg
+  alt: MtRoy
+pubDate: 2017-04-22T00:00:00.000Z
+published: true
+tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
 ---
 
 The town of Wanaka in beautiful autumn colours. How better to capture it then to go to the world famous Wanaka Tree. We thought that we are the most prepared photographers, we got there a good hour before the sunrise. When we got to the tree itself, we quickly realised that this was a very popular spot as there were about 20-30 people gathered around the tree with their tripods. Anton and I tried our best to get a good view of the tree, but we found it to be impossible.

@@ -1,12 +1,15 @@
 ---
-title: "▹ or ▿ ?"
-date: 2016-09-07
-categories: 
-  - "technology"
-tags: 
-  - "design"
-  - "ui"
-coverImage: "arrowDebate.png"
+title: ▹ or ▿ ?
+author: Vadim Brodsky
+description: >-
+  This title may sound a bit strange, but the question behind it is very serious
+  and has caused numerous debates between UI designers.
+image:
+  src: images/arrowDebate.png
+  alt: arrowDebate
+pubDate: 2016-09-07T00:00:00.000Z
+published: true
+tags: ['technology', 'design', 'ui']
 ---
 
 This title may sound a bit strange, but the question behind it is very serious and has caused numerous debates between UI designers.

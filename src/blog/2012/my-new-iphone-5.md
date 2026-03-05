@@ -1,13 +1,19 @@
 ---
-title: "My new iPhone 5"
-date: 2012-09-23
-categories: 
-  - "life"
-  - "technology"
-tags: 
-  - "apple-2"
-  - "iphone"
-  - "review"
+title: My new iPhone 5
+author: Vadim Brodsky
+description: >-
+  You all know about the iPhone 5. You have probably heard how people are
+  disappointed with it. Some of you might even think that its not that good.
+  Some of you have read blog posts about how its easily scratchable and
+  breakable. Some of you maybe even heard bad things about iOS6. Well let me
+  tell you what I think. Let me tell you MY experience with the amazing new
+  iPhone 5.
+image:
+  src: images/ichitanda.png
+  alt: ichitanda
+pubDate: 2012-09-23T00:00:00.000Z
+published: true
+tags: ['life', 'technology', 'apple-2', 'iphone', 'review']
 ---
 
 ![ichitanda](images/ichitanda.png)

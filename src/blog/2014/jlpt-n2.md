@@ -1,11 +1,13 @@
 ---
-title: "JLPT N2 Passed!"
-date: 2014-01-30
-categories: 
-  - "life"
-tags: 
-  - "japanese"
-  - "jlpt"
+title: JLPT N2 Passed!
+author: Vadim Brodsky
+description: "In Autumn of 2013 (March) I set myself a goal. That goal was to buy textbooks, study them thoroughly, take the Japanese Language Proficiency Test and pass it. I am very grateful, that I realized this so early in the year and had more then enough time to prepare for the exam which was on the 1st of December. \_And now I got my results back, and guess what - I PASSED!"
+image:
+  src: images/JLPT-logo-2.jpg
+  alt: JLPT logo-2
+pubDate: 2014-01-30T00:00:00.000Z
+published: true
+tags: ['life', 'japanese', 'jlpt']
 ---
 
 ![JLPT logo-2](images/JLPT-logo-2.jpg)

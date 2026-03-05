@@ -1,14 +1,23 @@
 ---
-title: "Kyary in Sydney 2016"
-date: 2016-06-25
-categories: 
-  - "music"
-tags: 
-  - "concert"
-  - "j-pop"
-  - "japanese"
-  - "kyary"
-coverImage: "kyary2016.jpg"
+title: Kyary in Sydney 2016
+author: Vadim Brodsky
+description: >-
+  The fashion monster of Japan is back to Sydney for another live concert! This
+  time as part of her 5 year anniversary world tour. Once again us Kyary lovers
+  gathered to watch the pop idol perform. This time however, they had an option
+  of VIP tickets, which allows the fans to get a photo taken with Kyary herself!
+  (photos done by professional photographer and will be available for download
+  on the 4th of July; See below!). Also included in the VIP package was the
+  chance to be first in line for good and first to access the concert hall,
+  which equals front a row position! That was probably the main reason that made
+  this concert so much better then the previous - the opportunity to be really
+  close to Kyary and actually see her face and cute smile.
+image:
+  src: images/kyary2016.jpg
+  alt: kyary2016
+pubDate: 2016-06-25T00:00:00.000Z
+published: true
+tags: ['music', 'concert', 'j-pop', 'japanese', 'kyary']
 ---
 
 The fashion monster of Japan is back to Sydney for another live concert! This time as part of her 5 year anniversary world tour. Once again us Kyary lovers gathered to watch the pop idol perform. This time however, they had an option of VIP tickets, which allows the fans to get a photo taken with Kyary herself! (photos done by professional photographer and will be available for download on the 4th of July; See below!). Also included in the VIP package was the chance to be first in line for good and first to access the concert hall, which equals front a row position! That was probably the main reason that made this concert so much better then the previous - the opportunity to be really close to Kyary and actually see her face and cute smile.

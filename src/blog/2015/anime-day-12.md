@@ -1,11 +1,13 @@
 ---
-title: "Anime Day 12"
-date: 2015-09-26
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "guren-lagan"
+title: Anime Day 12
+author: Vadim Brodsky
+description: '### Day 12 - Favorite mecha series'
+image:
+  src: images/GurenLagan.jpg
+  alt: Gurren Lagann
+pubDate: 2015-09-26T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'guren-lagan']
 ---
 
 ![Gurren Lagann](images/GurenLagan.jpg)

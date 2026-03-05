@@ -1,10 +1,17 @@
 ---
-title: "On leaving Japan"
-date: 2015-02-02
-categories: 
-  - "life"
-tags: 
-  - "ics"
+title: On leaving Japan
+author: Vadim Brodsky
+description: >-
+  My 10 months in Japan is almost over and it is time to pack up and fly back to
+  Sydney. What can I say, it's been a wild ride. A lot of events, celebrations,
+  and great experiences overall. But now its time to say goodbye, time to leave
+  Japan for a while, time to go back to my proper studies in UTS.
+image:
+  src: images/Kagoshima_Sakurjima.jpg
+  alt: Kagoshima_Sakurjima
+pubDate: 2015-02-02T00:00:00.000Z
+published: true
+tags: ['life', 'ics']
 ---
 
 ![Kagoshima_Sakurjima](images/Kagoshima_Sakurjima.jpg)
@@ -19,4 +26,4 @@ There are a lot of things that will be greatly missed: like the fast and conveni
 
 I have already shipped 2 11kg boxes to Sydney, which cost me about 150$ and I am slowly starting to sell off my kitchen appliances and pack up my suitcase. In just 2 weeks, I will be back in Sydney, and will be remembering about the fun I had here, but always looking at the future, at the fun I will have in my life from now on.
 
-Why am I wiring a post like this? Because of this: [This Japanese Life Blog](http://thisjapaneselife.org/2014/07/19/sayonara-six-posts-on-leaving/  "This Japanese Life Blog"). I have read the book, I have read his blog, and his writing makes you reevaluate your life, your priorities and see that everything changes, you just need to change with it.
+Why am I wiring a post like this? Because of this: [This Japanese Life Blog](http://thisjapaneselife.org/2014/07/19/sayonara-six-posts-on-leaving/ 'This Japanese Life Blog'). I have read the book, I have read his blog, and his writing makes you reevaluate your life, your priorities and see that everything changes, you just need to change with it.

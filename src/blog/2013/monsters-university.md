@@ -1,12 +1,17 @@
 ---
-title: "Monsters University"
-date: 2013-06-20
-categories: 
-  - "movies_tv"
-tags: 
-  - "disney"
-  - "pixar"
-  - "review"
+title: Monsters University
+author: Vadim Brodsky
+description: >-
+  Hey, have you heard? There is a new movie out by Pixar called Monsters
+  University! Yea that right its a prequel to Monsters Inc. Why am I telling you
+  this? Well today is the day it got screened in Australia and I went to watch
+  it with [Saya](http://twitter.com/KSnpy).
+image:
+  src: images/MU.png
+  alt: MU
+pubDate: 2013-06-20T00:00:00.000Z
+published: true
+tags: ['movies_tv', 'disney', 'pixar', 'review']
 ---
 
 ![MU](images/MU.png)

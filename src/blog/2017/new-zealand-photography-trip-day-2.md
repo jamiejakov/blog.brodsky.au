@@ -1,15 +1,18 @@
 ---
-title: "NZ Photography Trip – Day 2"
-date: 2017-04-17
-categories: 
-  - "photo"
-  - "travel"
-tags: 
-  - "new-zealand"
-  - "new-zealand-2017"
-  - "night-photography"
-  - "photography"
-coverImage: "Tekapo.jpg"
+title: NZ Photography Trip – Day 2
+author: Vadim Brodsky
+description: >-
+  Early to bed, early to rise right? Well, it was 5am and we had to be ready to
+  hike up a mountain. Mount John was our first target. Apparently the whole lake
+  would have been visible from the top, if it wasn’t covered in clouds… We only
+  got a small glimpse above the layer of clouds and fog, until it consumed us as
+  well.
+image:
+  src: images/Tekapo.jpg
+  alt: Tekapo
+pubDate: 2017-04-17T00:00:00.000Z
+published: true
+tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
 ---
 
 Early to bed, early to rise right? Well, it was 5am and we had to be ready to hike up a mountain. Mount John was our first target. Apparently the whole lake would have been visible from the top, if it wasn’t covered in clouds… We only got a small glimpse above the layer of clouds and fog, until it consumed us as well.

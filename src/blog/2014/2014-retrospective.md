@@ -1,13 +1,19 @@
 ---
-title: "2014 Retrospective"
-date: 2014-12-31
-categories: 
-  - "life"
-tags: 
-  - "amy"
-  - "new-year"
-  - "retrospective"
-  - "wordle"
+title: 2014 Retrospective
+author: Vadim Brodsky
+description: >-
+  Wow, that went by rather quick. I remember how I was writing up the [2013
+  retrospective](http://jamiejakov.lv/2013/12/2013-retrospective/), as if it was
+  yesterday. Why did the year fly by so quickly? Well I guess it is due to me
+  being in Kagoshima, Japan! A new region to explore, a whole new bunch of
+  Pokemon to catch! ... wait a minute, wrong world. Anyway, lets see what the
+  most memorable events were this year.
+image:
+  src: images/sakurajima1.jpg
+  alt: Sakurajima Shiroyama
+pubDate: 2014-12-31T00:00:00.000Z
+published: true
+tags: ['life', 'amy', 'new-year', 'retrospective', 'wordle']
 ---
 
 ![Sakurajima Shiroyama](images/sakurajima1.jpg)
@@ -16,7 +22,7 @@ Wow, that went by rather quick. I remember how I was writing up the [2013 retros
 
 <!--more-->Lets make it a list, shall we:
 
-- In January I found out that I passed [JLPT N2](http://jamiejakov.lv/life/jlpt-n2/ "JLPT N2 Passed!"). That was a great achievement, which I am super proud of. Thought I highly doubt that I will ever take N1, even thought I feel my Japanese has greatly improved while living here for 1 year.
+- In January I found out that I passed [JLPT N2](http://jamiejakov.lv/life/jlpt-n2/ 'JLPT N2 Passed!'). That was a great achievement, which I am super proud of. Thought I highly doubt that I will ever take N1, even thought I feel my Japanese has greatly improved while living here for 1 year.
 - I turned [21 this year](http://jamiejakov.lv/life/my-21st-such-madoka-much-ghibli-wow/), and I got to celebrate my birthday by winning a cosplay competition and watching the 3rd Madoka Movie. Of course there was a proper celebration as well, with much food and really good presents.
 - Right before leaving for Japan I visited [Vietnam and Cambodia](http://jamiejakov.lv/tag/vietnam-cambodia-2014/) with my lovely parents.
 - And also we got to see [Kyary Pamyu Pamyu live in Sydney](http://jamiejakov.lv/music/きゃりーぱみゅぱみゅ-live/). One of the best things to happen this year for sure!

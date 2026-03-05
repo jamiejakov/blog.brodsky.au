@@ -1,11 +1,16 @@
 ---
-title: "Beware of flying apples"
-date: 2015-07-21
-categories: 
-  - "life"
-tags: 
-  - "apples"
-  - "rhodes"
+title: Beware of flying apples
+author: Vadim Brodsky
+description: >-
+  You know how much I love Apple and apples. I love the tech and I love eating
+  all sorts of delicious fruit. What I don't like, is when apples start flying.
+  Now that, my friends, is terrifying.
+image:
+  src: images/flyingapples.jpg
+  alt: Flying Apples
+pubDate: 2015-07-21T00:00:00.000Z
+published: true
+tags: ['life', 'apples', 'rhodes']
 ---
 
 ![Flying Apples](images/flyingapples.jpg)

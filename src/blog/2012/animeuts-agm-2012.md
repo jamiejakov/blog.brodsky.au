@@ -1,11 +1,16 @@
 ---
-title: "Anime@UTS AGM 2012"
-date: 2012-09-30
-categories: 
-  - "life"
-tags: 
-  - "utsanime"
-  - "exec-team"
+title: Anime@UTS AGM 2012
+author: Vadim Brodsky
+description: >-
+  Yesterday, 29th of September was the day of the UTS Anime clubs Annual General
+  Meeting. There we discussed the events of this year and plans for the future.
+  But the main event was the election of the new executive team.
+image:
+  src: images/UTSAnime_AGM2012.jpg
+  alt: Anime@UTS AGM
+pubDate: 2012-09-30T00:00:00.000Z
+published: true
+tags: ['life', 'utsanime', 'exec-team']
 ---
 
 ![Anime@UTS AGM](images/UTSAnime_AGM2012.jpg)

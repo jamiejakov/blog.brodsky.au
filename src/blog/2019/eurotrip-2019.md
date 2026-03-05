@@ -1,15 +1,16 @@
 ---
-title: "Eurotrip 2019"
-date: 2019-09-10
-categories: 
-  - "travel"
-tags: 
-  - "beer"
-  - "belgium"
-  - "france"
-  - "germany"
-  - "luxembourg"
-coverImage: "europe_2019.jpg"
+title: Eurotrip 2019
+author: Vadim Brodsky
+description: >-
+  This year the Brodsky family decided to drive around Europe and visit 2 new
+  countries: Belgium and Luxembourg. Being part of the family means, that I got
+  to experience this as well and thus raised my country count to 56!
+image:
+  src: images/europe_2019.jpg
+  alt: europe_2019
+pubDate: 2019-09-10T00:00:00.000Z
+published: true
+tags: ['travel', 'beer', 'belgium', 'france', 'germany', 'luxembourg']
 ---
 
 This year the Brodsky family decided to drive around Europe and visit 2 new countries: Belgium and Luxembourg. Being part of the family means, that I got to experience this as well and thus raised my country count to 56!

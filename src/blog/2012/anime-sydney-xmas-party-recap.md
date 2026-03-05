@@ -1,14 +1,12 @@
 ---
-title: "Anime Sydney Xmas Party Recap"
-date: 2012-12-24
-categories: 
-  - "life"
-tags: 
-  - "utsanime"
-  - "animesydney"
-  - "party"
-  - "tac"
-  - "x-mas"
+title: Anime Sydney Xmas Party Recap
+author: Vadim Brodsky
+description: >-
+  My good friend Tac ([@Taccarin](https://twitter.com/Taccarin)) put together a
+  video highlighting the most memorable parts.
+pubDate: 2012-12-24T00:00:00.000Z
+published: true
+tags: ['life', 'utsanime', 'animesydney', 'party', 'tac', 'x-mas']
 ---
 
 My good friend Tac ([@Taccarin](https://twitter.com/Taccarin)) put together a video highlighting the most memorable parts.

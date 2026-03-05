@@ -1,13 +1,13 @@
 ---
-title: "おおかみこどもの雨と雪 (No Spoilers)"
-date: 2012-07-23
-categories: 
-  - "anime"
-tags: 
-  - "mamoru-hosoda"
-  - "review"
-  - "toho-cinemas"
-  - "wolf-children"
+title: おおかみこどもの雨と雪 (No Spoilers)
+author: Vadim Brodsky
+description: "Today I went and watched\_[Ookami Kodomo no Ame to Yuki](http://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki)\_in TOHO cinemas Namba (Osaka). I am so lucky that I got to see this movie while being here, in Japan. This movie is from the creator of The Girl Who Leaped Through Time and Summer Wars, Director Mamoru Hosoda. Knowing that, you must imagine the hype over this new movie."
+image:
+  src: images/Wolf-Children.jpg
+  alt: Wolf Children
+pubDate: 2012-07-23T00:00:00.000Z
+published: true
+tags: ['anime', 'mamoru-hosoda', 'review', 'toho-cinemas', 'wolf-children']
 ---
 
 ![Wolf Children](images/Wolf-Children.jpg)

@@ -1,11 +1,19 @@
 ---
-title: "Psycho Pass Movie Review"
-date: 2015-01-20
-categories: 
-  - "anime"
-tags: 
-  - "psycho-pass"
-  - "review"
+title: Psycho Pass Movie Review
+author: Vadim Brodsky
+description: >-
+  Set after the events of season 1 and 2 this movie brings a new arch to the
+  Psycho Pass series with a new story while bringing back some familiar faces.
+  If you haven't watched seasons 1 and 2, there is little to no point of
+  watching the movie as it revolves around established ideas and characters.
+  Though season 2 was not as well accepted as the original, it is still worth
+  watching as it hold some key plot points which are discussed in the movie.
+image:
+  src: images/PsychoPassMovie.jpg
+  alt: PsychoPassMovie
+pubDate: 2015-01-20T00:00:00.000Z
+published: true
+tags: ['anime', 'psycho-pass', 'review']
 ---
 
 ![PsychoPassMovie](images/PsychoPassMovie.jpg)

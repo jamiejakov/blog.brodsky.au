@@ -1,12 +1,13 @@
 ---
-title: "Anime Day 19"
-date: 2015-10-04
-categories: 
-  - "anime"
-tags: 
-  - "100-days-of-anime"
-  - "paranoia-agent"
-coverImage: "ParanoiaAgent.jpg"
+title: Anime Day 19
+author: Vadim Brodsky
+description: '### Day 19 - Best anime villain'
+image:
+  src: images/ParanoiaAgent.jpg
+  alt: ParanoiaAgent
+pubDate: 2015-10-04T00:00:00.000Z
+published: true
+tags: ['anime', '100-days-of-anime', 'paranoia-agent']
 ---
 
 ### Day 19 - Best anime villain

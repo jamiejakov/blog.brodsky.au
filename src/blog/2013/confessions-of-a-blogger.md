@@ -1,11 +1,16 @@
 ---
-title: "Confessions of a Blogger"
-date: 2013-12-09
-categories: 
-  - "internetz"
-  - "technology"
-tags: 
-  - "blog"
+title: Confessions of a Blogger
+author: Vadim Brodsky
+description: >-
+  My friend [Sebastian](http://alonelyseptember.org) mentioned me in a tweet
+  saying that I should also write up a post describing my blog life. After a
+  week or so of contemplating, I decided why the hell not.
+image:
+  src: images/thoughts.jpg
+  alt: thoughts
+pubDate: 2013-12-09T00:00:00.000Z
+published: true
+tags: ['internetz', 'technology', 'blog']
 ---
 
 ![thoughts](images/thoughts.jpg)

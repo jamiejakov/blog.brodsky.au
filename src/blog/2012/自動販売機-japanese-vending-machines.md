@@ -1,13 +1,13 @@
 ---
-title: "自動販売機 - Japanese vending machines"
-date: 2012-07-13
-categories: 
-  - "life"
-tags: 
-  - "japan_2012"
-  - "vending-machines"
-  - "自販機"
-  - "関西弁"
+title: 自動販売機 - Japanese vending machines
+author: Vadim Brodsky
+description: "A marvel of japanese engineering and technology: the vending machine! These magnificent devices provide travelers with delicious thirst quenching nectar known as tea (or coffee). \_Not only that, but in the land of the rising sun, these contraptions also hold cigarettes and alcohol. And the best part, that are everywhere!"
+image:
+  src: images/VendingMachinesJapan.jpg
+  alt: VendingMachinesJapan
+pubDate: 2012-07-13T00:00:00.000Z
+published: true
+tags: ['life', 'japan_2012', 'vending-machines', '自販機', '関西弁']
 ---
 
 ![VendingMachinesJapan](images/VendingMachinesJapan.jpg)

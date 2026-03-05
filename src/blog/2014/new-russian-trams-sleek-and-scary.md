@@ -1,11 +1,13 @@
 ---
-title: "New Russian trams - sleek and scary"
-date: 2014-07-13
-categories: 
-  - "technology"
-tags: 
-  - "russia"
-  - "tram"
+title: New Russian trams - sleek and scary
+author: Vadim Brodsky
+description: "The world is innovating, you can see signs of new futuristic technology everywhere. From smartphones and tablets to self driving cars and climate control cities. This thing you see is also a small glimpse of the future, the future of Russian transport, more specifically trams. It is called [project АТОМ](http://okbatom.ru)\_and this tram is designed to be a new standard for all trams in Russia within the next 3 years. This project caught my eye, when someone on reddit linked to this [guys livejornal blog](http://zyalt.livejournal.com/1112328.html) where he explains how this home made (90% of parts made in Russia) is a breakthrough in Russian transport systems and when it gets implemented it will change the way people\_use trams in big cities not only in Russia, but also all over the world."
+image:
+  src: images/R1.jpg
+  alt: R1
+pubDate: 2014-07-13T00:00:00.000Z
+published: true
+tags: ['technology', 'russia', 'tram']
 ---
 
 ![R1](images/R1.jpg)

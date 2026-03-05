@@ -1,14 +1,16 @@
 ---
-title: "Portugal 2018"
-date: 2018-05-10
-categories: 
-  - "travel"
-tags: 
-  - "business-class"
-  - "europe"
-  - "family"
-  - "sangria"
-coverImage: "lisbon.jpg"
+title: Portugal 2018
+author: Vadim Brodsky
+description: >-
+  Its been a while since I've been in Europe, but here I am flying to Portugal
+  (Country #54) in a Singapore Airlines A380 Business Class seat. Thats right,
+  this time around we fly with the big boys.
+image:
+  src: images/lisbon.jpg
+  alt: lisbon
+pubDate: 2018-05-10T00:00:00.000Z
+published: true
+tags: ['travel', 'business-class', 'europe', 'family', 'sangria']
 ---
 
 Its been a while since I've been in Europe, but here I am flying to Portugal (Country #54) in a Singapore Airlines A380 Business Class seat. Thats right, this time around we fly with the big boys.

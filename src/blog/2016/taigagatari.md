@@ -1,12 +1,10 @@
 ---
-title: "Taigagatari"
-date: 2016-01-18
-categories: 
-  - "anime"
-tags: 
-  - "madoka"
-  - "monogatari"
-  - "toradora"
+title: Taigagatari
+author: Vadim Brodsky
+description: 'https://www.youtube.com/watch?v=eQQLOJhGUYY'
+pubDate: 2016-01-18T00:00:00.000Z
+published: true
+tags: ['anime', 'madoka', 'monogatari', 'toradora']
 ---
 
 https://www.youtube.com/watch?v=eQQLOJhGUYY

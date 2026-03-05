@@ -1,12 +1,10 @@
 ---
-title: "Nya + мяу + AAAAGAHHHHH"
-date: 2012-09-18
-categories: 
-  - "internetz"
-tags: 
-  - "cats"
-  - "nya"
-  - "rock"
+title: Nya + мяу + AAAAGAHHHHH
+author: Vadim Brodsky
+description: 'And today the internet brings you, Rock Cat:'
+pubDate: 2012-09-18T00:00:00.000Z
+published: true
+tags: ['internetz', 'cats', 'nya', 'rock']
 ---
 
 And today the internet brings you, Rock Cat:

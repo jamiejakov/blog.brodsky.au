@@ -1,11 +1,14 @@
 ---
-title: "What languages sound like"
-date: 2014-12-08
-categories: 
-  - "internetz"
-tags: 
-  - "japanese"
-  - "languages"
+title: What languages sound like
+author: Vadim Brodsky
+description: >-
+  We know that learning languages is hard work, and whenever we hear people
+  speak in a language that we have yet to master (or even start learning) we try
+  to imitate them, which of course causes a lot of laughter and comments saying:
+  "We don't speak like that!"
+pubDate: 2014-12-08T00:00:00.000Z
+published: true
+tags: ['internetz', 'japanese', 'languages']
 ---
 
 We know that learning languages is hard work, and whenever we hear people speak in a language that we have yet to master (or even start learning) we try to imitate them, which of course causes a lot of laughter and comments saying: "We don't speak like that!"

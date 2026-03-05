@@ -1,18 +1,18 @@
 ---
-title: "Blumenkranz"
-date: 2014-02-03
-categories: 
-  - "anime"
-  - "music"
-tags: 
-  - "german"
-  - "kill-la-kill"
-  - "ost"
+title: Blumenkranz
+author: Vadim Brodsky
+description: "Blumenkranz - in german it means a wreath of flowers (ring of flowers) and that is what normal german speakers would think if they heard anyone say this word. Well if anime fas, who are watching the show _[Kill La Kill](http://myanimelist.net/anime/18679/Kill_la_Kill)_\_hears this word, they will undoubtedly think of the second best track from the OST (Original Sound Track) which bears the [same name - Blumenkranz](http://www.youtube.com/watch?v=m-N3MS1YKeo)."
+image:
+  src: images/Blumenkranz.jpg
+  alt: Blumenkranz
+pubDate: 2014-02-03T00:00:00.000Z
+published: true
+tags: ['anime', 'music', 'german', 'kill-la-kill', 'ost']
 ---
 
 ![Blumenkranz](images/Blumenkranz.jpg)
 
-Blumenkranz - in german it means a wreath of flowers (ring of flowers) and that is what normal german speakers would think if they heard anyone say this word. Well if anime fas, who are watching the show _[Kill La Kill](http://myanimelist.net/anime/18679/Kill_la_Kill)_ hears this word, they will undoubtedly think of the second best track from the OST (Original Sound Track) which bears the [same name - Blumenkranz](http://www.youtube.com/watch?v=m-N3MS1YKeo).
+Blumenkranz - in german it means a wreath of flowers (ring of flowers) and that is what normal german speakers would think if they heard anyone say this word. Well if anime fas, who are watching the show *[Kill La Kill](http://myanimelist.net/anime/18679/Kill_la_Kill)* hears this word, they will undoubtedly think of the second best track from the OST (Original Sound Track) which bears the [same name - Blumenkranz](http://www.youtube.com/watch?v=m-N3MS1YKeo).
 
 <!--more-->The soundtrack plays whenever Satsuki's mother comes on screen to give a strong and powerful feeling that the main villain of the series deserves. I don't know what it is with german language that gives it so much strength and power, but more and more Japanese singers seem to be incorporating words or phrases into their songs lately. But of course not only are the lyrics a bit strangely arranged (some people are even saying that they were made using google translate) but the girl who sings it is obviously not German as she can barely pronounce the words properly. To be fair, is did a lot better then Link Horizon with their Guren no Yumiya (Shingeki OP).
 

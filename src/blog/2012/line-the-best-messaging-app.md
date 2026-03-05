@@ -1,13 +1,12 @@
 ---
-title: "LINE, the best messaging app"
-date: 2012-12-27
-categories: 
-  - "internetz"
-tags: 
-  - "gangnam-style"
-  - "line"
-  - "review"
-  - "smartphone"
+title: 'LINE, the best messaging app'
+author: Vadim Brodsky
+description: >-
+  Ever since the smartphone boom in Japan there was a constant search for the
+  best messaging app. And then there came LINE.
+pubDate: 2012-12-27T00:00:00.000Z
+published: true
+tags: ['internetz', 'gangnam-style', 'line', 'review', 'smartphone']
 ---
 
 Ever since the smartphone boom in Japan there was a constant search for the best messaging app. And then there came LINE.

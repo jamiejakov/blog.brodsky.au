@@ -1,10 +1,16 @@
 ---
-title: "Recommended summer 2012 anime"
-date: 2012-07-19
-categories: 
-  - "anime"
-tags: 
-  - "recommendation"
+title: Recommended summer 2012 anime
+author: Vadim Brodsky
+description: >-
+  Summer 2012 anime season has started and is already in full swing! The people
+  at TheAkiba.com have compiled a nice list of "must watch" anime this season
+  (with a description of why they like each series).
+image:
+  src: images/SAO.jpg
+  alt: SAO
+pubDate: 2012-07-19T00:00:00.000Z
+published: true
+tags: ['anime', 'recommendation']
 ---
 
 ![SAO](images/SAO.jpg)

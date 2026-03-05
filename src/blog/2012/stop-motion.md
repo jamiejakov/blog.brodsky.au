@@ -1,13 +1,13 @@
 ---
-title: "Stop Motion"
-date: 2012-08-09
-categories: 
-  - "internetz"
-  - "technology"
-tags: 
-  - "mystery-guitar-man"
-  - "stop-motion"
-  - "youtube"
+title: Stop Motion
+author: Vadim Brodsky
+description: Are you people familiar with the art of Stop Motion video?
+image:
+  src: images/MGM.jpg
+  alt: MGM
+pubDate: 2012-08-09T00:00:00.000Z
+published: true
+tags: ['internetz', 'technology', 'mystery-guitar-man', 'stop-motion', 'youtube']
 ---
 
 ![MGM](images/MGM.jpg)

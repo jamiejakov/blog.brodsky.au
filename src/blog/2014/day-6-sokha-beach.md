@@ -1,11 +1,13 @@
 ---
-title: "Day 6++ Sokha Beach"
-date: 2014-03-15
-categories: 
-  - "travel"
-tags: 
-  - "beach"
-  - "vietnam-cambodia-2014"
+title: Day 6++ Sokha Beach
+author: Vadim Brodsky
+description: '(above image is from our previous hotel: Borei Angkor)'
+image:
+  src: images/IMG_3643.jpg
+  alt: Borei Angkor
+pubDate: 2014-03-15T00:00:00.000Z
+published: true
+tags: ['travel', 'beach', 'vietnam-cambodia-2014']
 ---
 
 ![Borei Angkor](images/IMG_3643.jpg)

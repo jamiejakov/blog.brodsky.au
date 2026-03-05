@@ -1,13 +1,13 @@
 ---
-title: "Ghibli Museum"
-date: 2012-07-05
-categories: 
-  - "travel"
-tags: 
-  - "ghibli"
-  - "japan_2012"
-  - "museum"
-  - "totoro"
+title: Ghibli Museum
+author: Vadim Brodsky
+description: A must visit destination for everyone going to Tokyo!
+image:
+  src: images/Ghibli_Museum.jpg
+  alt: Ghiblli Museum
+pubDate: 2012-07-05T00:00:00.000Z
+published: true
+tags: ['travel', 'ghibli', 'japan_2012', 'museum', 'totoro']
 ---
 
 ![Ghiblli Museum](images/Ghibli_Museum.jpg)
