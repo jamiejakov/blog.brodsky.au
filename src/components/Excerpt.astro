@@ -1,17 +1,43 @@
 ---
-import { truncateHtmlAtHr } from '@/lib/truncateHtml';
+import { render } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
-import MarkdownIt from 'markdown-it';
 
 type Props = {
   post: CollectionEntry<'blog'>;
 };
 
 const { post } = Astro.props;
-
-const parser = new MarkdownIt();
-const rawPostHtml = post.body && parser.render(post.body);
-const postHtml = rawPostHtml ? truncateHtmlAtHr(rawPostHtml) : rawPostHtml;
+const { Content } = await render(post);
 ---
 
-<Fragment set:html={postHtml} />
+<div class="excerpt-content">
+  <Content />
+</div>
+
+<script>
+  function truncateExcerpts() {
+    document.querySelectorAll('.excerpt-content').forEach((container) => {
+      const hr = container.querySelector('hr');
+      if (!hr) return;
+
+      // Start from hr - if it has siblings after it, hide those; otherwise hide its parent and following siblings
+      let start: Element = hr;
+      if (!hr.nextElementSibling && hr.parentElement && hr.parentElement !== container) {
+        start = hr.parentElement;
+      }
+
+      start.setAttribute('hidden', '');
+      let el: Element | null = start.nextElementSibling;
+      while (el) {
+        el.setAttribute('hidden', '');
+        el = el.nextElementSibling;
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', truncateExcerpts);
+  } else {
+    truncateExcerpts();
+  }
+</script>

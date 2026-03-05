@@ -111,10 +111,10 @@
 
   article {
     h3 {
-      @apply mt-10 mb-4 text-2xl font-bold;
+      @apply mt-4 mb-4 text-2xl font-bold;
     }
     h4 {
-      @apply mt-8 mb-4 text-lg font-semibold opacity-70;
+      @apply mt-2 mb-4 text-lg font-semibold opacity-70;
     }
     a {
       @apply font-medium text-primary hover:underline;

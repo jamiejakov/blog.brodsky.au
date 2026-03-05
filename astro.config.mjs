@@ -4,6 +4,7 @@ import vercel from '@astrojs/vercel';
 import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 import { remarkAlert } from 'remark-github-blockquote-alert';
+import remarkYoutube from 'remark-youtube';
 
 // https://astro.build/config
 export default defineConfig({
@@ -18,7 +19,7 @@ export default defineConfig({
   site: 'https://blog.brodsky.au',
   integrations: [react()],
   markdown: {
-    remarkPlugins: [remarkAlert],
+    remarkPlugins: [remarkAlert, remarkYoutube],
   },
   vite: {
     plugins: [tailwindcss()],
