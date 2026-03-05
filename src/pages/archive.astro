@@ -38,14 +38,21 @@ const sortedGroups = [...grouped.entries()].sort((a, b) => b[0].localeCompare(a[
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-10">
-  <header>
-    <p>
-      What a long strange trip it's been. Look at how much content I have managed to produce. Some posts are of course
-      arguably better than others, but still entertaining nevertheless. Explore the years past and discover something
-      new.
-    </p>
-  </header>
-
+  <article>
+    <section>
+      <p>
+        What a long strange trip it's been. Look at how much content I have managed to produce. Some posts are of course
+        arguably better than others, but still entertaining nevertheless. Explore the years past and discover something
+        new.
+      </p>
+    </section>
+    <section>
+      <p>I love traveling and writing about it. As you can probably tell from the amount of travel related posts.</p>
+      <p>
+        If you're interested in where I've been, check out my <a href="/countries">visited countries page</a>.
+      </p>
+    </section>
+  </article>
   <div class="flex flex-col gap-8">
     {
       sortedGroups.map(([, { heading, posts }]) => (

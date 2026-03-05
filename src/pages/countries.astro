@@ -1,0 +1,12 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { VisitedCountriesMap } from '../components/VisitedCountriesMap';
+
+const pageTitle = 'Visited Countries';
+---
+
+<PageLayout pageTitle={pageTitle} className="flex flex-col gap-12">
+  <article>
+    <VisitedCountriesMap client:visible />
+  </article>
+</PageLayout>
