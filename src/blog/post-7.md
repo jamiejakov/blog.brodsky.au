@@ -29,6 +29,21 @@ Integer fringilla tortor non tortor ultricies, in commodo felis ultricies. Aliqu
 >
 > Etiam id facilisis nunc, sit amet tincidunt tellus. Fusce s
 
+> [!NOTE]
+> Keep this in mind.
+
+> [!TIP]
+> Here's a suggestion.
+
+> [!WARNING]
+> Be careful.
+
+> [!CAUTION]
+> Be extremely careful.
+
+> [!IMPORTANT]
+> Be extremely careful.
+
 ```typescript
 const a: FooType = {};
 function bar() {

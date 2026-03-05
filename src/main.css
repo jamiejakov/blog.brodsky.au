@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import 'tailwindcss';
 @import 'tw-animate-css';
+@import 'remark-github-blockquote-alert/alert.css';
 
 @custom-variant dark (&:is(.dark *));
 
-@view-transition {
-  navigation: auto;
-}
+/* @view-transition {
+  // no view transitions for now
+  // navigation: auto;
+} */
 
 @theme {
   --font-primary: 'Montserrat', sans-serif;
@@ -133,13 +135,13 @@
     img {
       @apply border-t border-b border-primary md:border;
     }
-    code {
+    :not(pre) > code {
       @apply mx-0.5 rounded-sm bg-accent px-1 py-0.5 text-primary;
     }
     pre {
       @apply my-6 px-6 py-4;
     }
-    blockquote {
+    blockquote:not(.markdown-alert) {
       @apply relative my-6 border-l-6 border-primary bg-primary/8 py-5 pr-12 pl-16 italic;
 
       &:before {
@@ -154,5 +156,29 @@
         @apply mb-0;
       }
     }
+  }
+}
+
+.markdown-alert {
+  @apply my-6 border-l-6 py-5 pr-12 pl-8;
+
+  &.markdown-alert-note {
+    @apply bg-[var(--color-accent-emphasis)]/[0.1];
+  }
+  &.markdown-alert-tip {
+    @apply bg-[var(--color-success-emphasis)]/[0.1];
+  }
+  &.markdown-alert-warning {
+    @apply bg-[var(--color-attention-emphasis)]/[0.1];
+  }
+  &.markdown-alert-caution {
+    @apply bg-[var(--color-danger-emphasis)]/[0.1];
+  }
+  &.markdown-alert-important {
+    @apply bg-[var(--color-done-emphasis)]/[0.1];
+  }
+
+  .markdown-alert-title {
+    @apply text-lg font-semibold;
   }
 }

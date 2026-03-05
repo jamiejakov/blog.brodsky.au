@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import vercel from '@astrojs/vercel';
 import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
+import { remarkAlert } from 'remark-github-blockquote-alert';
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,6 +17,9 @@ export default defineConfig({
   }),
   site: 'https://blog.brodsky.au',
   integrations: [react()],
+  markdown: {
+    remarkPlugins: [remarkAlert],
+  },
   vite: {
     plugins: [tailwindcss()],
   },
