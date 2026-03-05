@@ -6,11 +6,10 @@ const GEO_URL = 'https://raw.githubusercontent.com/datasets/geo-countries/master
 /** Geography object from Geographies children (GeoJSON Feature + react-simple-maps rsmKey). */
 type RsmGeography = {
   rsmKey: string;
-  properties?: {
+  properties: {
     name?: string;
     'ISO3166-1-Alpha-2'?: string;
     ISO_A2?: string;
-    [key: string]: unknown;
   } | null;
   id?: string | number;
   [key: string]: unknown;
@@ -26,6 +25,7 @@ type TooltipState = {
 
 export const VisitedCountriesMap: React.FC = () => {
   const [tooltip, setTooltip] = useState<TooltipState>(null);
+  const [hoveredFromList, setHoveredFromList] = useState<string | null>(null);
 
   return (
     <section aria-labelledby="visited-countries-heading">
@@ -41,36 +41,51 @@ export const VisitedCountriesMap: React.FC = () => {
                 geographies.map((geo) => {
                   const iso2 = String(geo.properties?.['ISO3166-1-Alpha-2'] ?? geo.properties?.ISO_A2 ?? geo.id ?? '');
                   const isVisited = visitedSet.has(iso2);
-                  const displayName = visitedByName[iso2].name;
+                  const nameFromList: string | undefined = isVisited ? visitedByName[iso2].name : undefined;
+                  const nameFromGeo: string | undefined = geo.properties?.name;
+                  const displayName = nameFromList ?? nameFromGeo ?? 'Unknown';
+                  const isHighlightedFromList = iso2 === hoveredFromList;
 
                   return (
                     <Geography
                       key={geo.rsmKey}
                       geography={geo}
-                      fill={isVisited ? 'var(--color-primary)' : 'var(--color-muted)'}
+                      fill={
+                        isHighlightedFromList
+                          ? 'var(--color-primary)'
+                          : isVisited
+                            ? 'var(--color-primary)'
+                            : 'var(--color-muted)'
+                      }
                       stroke="var(--color-border)"
                       strokeWidth={0.5}
                       style={{
                         default: {
                           outline: 'none',
                           cursor: 'pointer',
-                          fill: isVisited
-                            ? 'color-mix(in oklch, var(--color-primary) 80%, white)'
-                            : 'var(--color-muted)',
+                          fill: isHighlightedFromList
+                            ? 'var(--color-primary)'
+                            : isVisited
+                              ? 'color-mix(in oklch, var(--color-primary) 80%, white)'
+                              : 'var(--color-muted)',
                         },
                         hover: {
                           outline: 'none',
                           cursor: 'pointer',
-                          fill: isVisited
+                          fill: isHighlightedFromList
                             ? 'var(--color-primary)'
-                            : 'color-mix(in oklch, var(--color-muted) 80%, var(--color-foreground))',
+                            : isVisited
+                              ? 'var(--color-primary)'
+                              : 'color-mix(in oklch, var(--color-muted) 80%, var(--color-foreground))',
                         },
                         pressed: {
                           outline: 'none',
                           cursor: 'pointer',
-                          fill: isVisited
-                            ? 'color-mix(in oklch, var(--color-primary) 80%, white)'
-                            : 'color-mix(in oklch, var(--color-muted) 60%, var(--color-foreground))',
+                          fill: isHighlightedFromList
+                            ? 'var(--color-primary)'
+                            : isVisited
+                              ? 'color-mix(in oklch, var(--color-primary) 80%, white)'
+                              : 'color-mix(in oklch, var(--color-muted) 60%, var(--color-foreground))',
                         },
                       }}
                       onMouseEnter={(evt: React.MouseEvent) => {
@@ -107,15 +122,22 @@ export const VisitedCountriesMap: React.FC = () => {
         {COUNTRIES_BY_CONTINENT.map(([continent, countries]) => (
           <div key={continent}>
             <h3 className="text-sm font-semibold text-muted-foreground mb-2">{continent}</h3>
-            <ul className="flex flex-wrap gap-2 text-sm list-none" aria-label={`Countries visited in ${continent}`}>
+            <ul
+              className="flex flex-wrap gap-2 text-sm list-none pl-0"
+              aria-label={`Countries visited in ${continent}`}
+            >
               {countries.map((country) => (
-                <li key={country.iso2}>
-                  <span className="inline-flex items-center gap-1.5 px-2 py-1 rounded-md bg-muted">
-                    <span className="text-base" role="img" aria-label={`Flag of ${country.name}`}>
-                      {isoToFlag(country.iso2)}
-                    </span>
-                    <span>{country.name}</span>
+                <li
+                  key={country.iso2}
+                  className="inline-flex items-center gap-1.5 px-2 py-1 rounded-md bg-muted cursor-default
+                    hover:bg-primary/15 hover:ring-1 hover:ring-primary/50 transition-colors"
+                  onMouseEnter={() => setHoveredFromList(country.iso2)}
+                  onMouseLeave={() => setHoveredFromList(null)}
+                >
+                  <span className="text-base" role="img" aria-label={`Flag of ${country.name}`}>
+                    {isoToFlag(country.iso2)}
                   </span>
+                  <span>{country.name}</span>
                 </li>
               ))}
             </ul>
