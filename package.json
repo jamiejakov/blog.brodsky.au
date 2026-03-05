@@ -7,9 +7,10 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build",
-    "test": "astro check",
+    "test": "pnpm lint:test && astro check",
     "preview": "astro preview",
-    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:test": "eslint . --max-warnings=0",
     "latest": "pnpm upgrade --interactive --latest"
   },
   "dependencies": {

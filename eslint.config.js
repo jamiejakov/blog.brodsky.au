@@ -100,6 +100,8 @@ export default defineConfig(
       'package.json',
       'tsconfig.json',
       '**/node_modules/**/*',
+      '**/.vercel/**/*',
+      '**/.astro/**/*',
       '**/vendor/**/*',
       '**/coverage/**/*',
       '**/dist/**/*',

@@ -15,7 +15,9 @@ export const MONTH_NAMES: Record<string, string> = {
 
 type PostWithPubDate = { data: { pubDate: Date }; id: string };
 
-export function groupPostsByYearMonth<T extends PostWithPubDate>(posts: T[]): [string, { heading: string; posts: T[] }][] {
+export function groupPostsByYearMonth<T extends PostWithPubDate>(
+  posts: T[]
+): [string, { heading: string; posts: T[] }][] {
   const grouped = new Map<string, { heading: string; posts: T[] }>();
 
   for (const post of posts) {
