@@ -1,5 +1,6 @@
 ---
 import Excerpt from '@/components/Excerpt.astro';
+import { Image } from 'astro:assets';
 import { PostReadMoreButton, PostTitleLinkButton } from '@/components/PostLinkButton';
 import { cn } from '@/lib/utils';
 import type { CollectionEntry } from 'astro:content';
@@ -15,10 +16,9 @@ const maxTextWidth = 'max-w-3xl w-full';
 <article class="flex flex-col items-center gap-3">
   {
     post.data.image && (
-      <img
-        src={post.data.image.url}
+      <Image
+        src={post.data.image.src}
         alt={post.data.image.alt}
-        width="100%"
         class="max-h-120 w-full object-cover bg-center border-t border-b md:border border-primary"
       />
     )
