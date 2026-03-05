@@ -1,53 +1,68 @@
 ---
-import BlogPost from '../components/BlogPost.astro';
 import PageLayout from '../layouts/PageLayout.astro';
-import { exists } from '../lib/exists';
 import { getPosts } from '../lib/sortedCollection';
 
-const pageTitle = 'My Astro Learning Blog';
+const pageTitle = 'Archive';
 const allPosts = await getPosts();
-const allTags = [
-  ...new Set(
-    allPosts
-      .map((post) => post.data.tags)
-      .filter(exists)
-      .flat()
-  ),
-];
+
+const monthNames: Record<string, string> = {
+  '01': 'January',
+  '02': 'February',
+  '03': 'March',
+  '04': 'April',
+  '05': 'May',
+  '06': 'June',
+  '07': 'July',
+  '08': 'August',
+  '09': 'September',
+  '10': 'October',
+  '11': 'November',
+  '12': 'December',
+};
+
+const grouped = new Map<string, { heading: string; posts: typeof allPosts }>();
+
+for (const post of allPosts) {
+  const year = post.data.pubDate.getFullYear();
+  const month = String(post.data.pubDate.getMonth() + 1).padStart(2, '0');
+  const key = `${year}-${month}`;
+  const heading = `${year} ${monthNames[month]}`;
+
+  if (!grouped.has(key)) {
+    grouped.set(key, { heading, posts: [] });
+  }
+  grouped.get(key)!.posts.push(post);
+}
+
+const sortedGroups = [...grouped.entries()].sort((a, b) => b[0].localeCompare(a[0]));
 ---
 
-<PageLayout pageTitle={pageTitle}>
-  <p>This is where I will post about my journey learning Astro.</p>
-  <ul>
-    {allPosts.map((post) => <BlogPost id={post.id} title={post.data.title} />)}
-  </ul>
-  ------------------------------------------------------------------------------------------------
-  <div class="tags">
+<PageLayout pageTitle={pageTitle} className="flex flex-col gap-10">
+  <header>
+    <p>
+      What a long strange trip it's been. Look at how much content I have managed to produce. Some posts are of course
+      arguably better than others, but still entertaining nevertheless. Explore the years past and discover something
+      new.
+    </p>
+  </header>
+
+  <div class="flex flex-col gap-8">
     {
-      allTags.map((tag) => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
+      sortedGroups.map(([, { heading, posts }]) => (
+        <section>
+          <h2 class="text-xl font-bold mb-3">{heading}</h2>
+          <ul class="list-none pl-4 space-y-2">
+            {posts.map((post) => (
+              <li>
+                <span class="font-mono">{String(post.data.pubDate.getDate()).padStart(2, '0')}:</span>{' '}
+                <a href={`/posts/${post.id}/`} class="hover:underline text-primary">
+                  {post.data.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
       ))
     }
   </div>
 </PageLayout>
-<style>
-  a {
-    color: #00539f;
-  }
-
-  .tags {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: 0.5em;
-    padding: 0.5em 1em;
-    font-size: 1.15em;
-    background-color: #f8fcfd;
-  }
-</style>
