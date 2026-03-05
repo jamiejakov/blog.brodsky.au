@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { Image } from 'astro:assets';
 
 import PageLayout from './PageLayout.astro';
 
@@ -13,11 +14,10 @@ const { post } = Astro.props;
 <PageLayout pageTitle={post.data.title} className="flex flex-col items-center">
   {
     post.data.image && (
-      <img
-        src={post.data.image.url}
-        width="100%"
-        class="max-h-120 w-full object-cover bg-center border-t border-b md:border border-primary"
+      <Image
+        src={post.data.image.src}
         alt={post.data.image.alt}
+        class="max-h-120 w-full object-cover bg-center border-t border-b md:border border-primary"
       />
     )
   }
@@ -27,13 +27,14 @@ const { post } = Astro.props;
     <p class="mb-1">Written by: <span class="text-gray-500 italic">{post.data.author}</span></p>
     <div class="flex items-center gap-2">
       <span>Tags:</span>
-      <ul class="flex flex-wrap gap-2 list-none m-0">
+      <ul class="flex flex-wrap gap-2 list-none m-0 pl-0">
         {
           post.data.tags.map((tag: string) => (
             <li>
               <a
                 href={`/tags/${tag}`}
-                class="inline-flex rounded-full border border-primary px-2 py-1 text-primary no-underline hover:bg-primary/20 hover:no-underline dark:hover:bg-primary/40 dark:hover:text-accent-foreground"
+                class="inline-flex rounded-full border border-primary px-2 py-1 text-primary no-underline
+                  hover:bg-primary/20 hover:no-underline dark:hover:bg-primary/40 dark:hover:text-accent-foreground"
               >
                 {tag}
               </a>

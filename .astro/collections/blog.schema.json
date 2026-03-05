@@ -32,7 +32,7 @@
         "image": {
           "type": "object",
           "properties": {
-            "url": {
+            "src": {
               "type": "string"
             },
             "alt": {
@@ -40,7 +40,7 @@
             }
           },
           "required": [
-            "url",
+            "src",
             "alt"
           ],
           "additionalProperties": false
