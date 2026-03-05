@@ -32,3 +32,29 @@ export function groupPostsByYearMonth<T extends PostWithPubDate>(posts: T[]): [s
 
   return [...grouped.entries()].sort((a, b) => b[0].localeCompare(a[0]));
 }
+
+export type YearMonthGroup<T> = {
+  year: string;
+  months: { monthName: string; monthKey: string; posts: T[] }[];
+};
+
+export function groupPostsByYearThenMonth<T extends PostWithPubDate>(posts: T[]): YearMonthGroup<T>[] {
+  const flatGroups = groupPostsByYearMonth(posts);
+  const byYear = new Map<string, { monthName: string; monthKey: string; posts: T[] }[]>();
+
+  for (const [key, { heading, posts: groupPosts }] of flatGroups) {
+    const [year] = key.split('-');
+    const monthName = heading.replace(/^\d+\s+/, ''); // "2021 June" -> "June"
+    if (!byYear.has(year)) {
+      byYear.set(year, []);
+    }
+    byYear.get(year)!.push({ monthName, monthKey: key, posts: groupPosts });
+  }
+
+  return [...byYear.entries()]
+    .sort((a, b) => b[0].localeCompare(a[0]))
+    .map(([year, months]) => ({
+      year,
+      months: months.sort((a, b) => b.monthKey.localeCompare(a.monthKey)),
+    }));
+}

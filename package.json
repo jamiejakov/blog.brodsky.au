@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build",
+    "test": "astro check",
     "preview": "astro preview",
     "lint": "eslint .",
     "latest": "pnpm upgrade --interactive --latest"
