@@ -2,10 +2,11 @@
 title: New Zealand Photography Trip - Day 1
 author: Vadim Brodsky
 description: >-
-  I recently got myself a new Camera - [Canon 5D Mark
-  IV](https://www.canon.com.au/cameras/eos-5d-mark-iv). So of course I need to
+  I recently got myself a new Camera - Canon 5D Mark
+  IV. So of course I need to
   test it out by taking photos of the most beautiful landscapes in the world -
   New Zealand.
+
 image:
   src: images/camera.jpg
   alt: camera

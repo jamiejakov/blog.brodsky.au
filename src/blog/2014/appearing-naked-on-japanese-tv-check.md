@@ -1,7 +1,7 @@
 ---
 title: Appearing naked on Japanese TV - check!
 author: Vadim Brodsky
-description: "Onsen (温泉) is the Japanese word for hot spring and public bath. These bath houses are a\_very essential part of Japanese culture and there is even a fictional story about it ([Thermae Romae](http://en.wikipedia.org/wiki/Thermae_Romae)). The reason I came to Japan was to experience\_all of its cultural aspects, and so I find myself going to an event for foreign exchange students to learn about the culture of Onsen."
+description: "Onsen (温泉) is the Japanese word for hot spring and public bath. These bath houses are a_very essential part of Japanese culture and there is even a fictional story about it (Thermae Romae). The reason I came to Japan was to experience_all of its cultural aspects, and so I find myself going to an event for foreign exchange students to learn about the culture of Onsen."
 image:
   src: images/Onsen.jpg
   alt: onsen for foreigners

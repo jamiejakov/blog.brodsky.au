@@ -1,7 +1,7 @@
 ---
 title: Welcome iPhosphophyllite
 author: Vadim Brodsky
-description: "I’ve been holding off on getting a new phone for quite some time now, but the wait is finally over. Let’s welcome the latest edition to my tech family: a brand new [iPhone XS Max](https://www.apple.com/au/iphone-xs/)\_- iPhosphophyllite."
+description: "I’ve been holding off on getting a new phone for quite some time now, but the wait is finally over. Let’s welcome the latest edition to my tech family: a brand new iPhone XS Max_- iPhosphophyllite."
 image:
   src: images/F8AAFEB3-F38D-4862-8E98-EC43A00E6E3C.jpeg
   alt: F8AAFEB3-F38D-4862-8E98-EC43A00E6E3C

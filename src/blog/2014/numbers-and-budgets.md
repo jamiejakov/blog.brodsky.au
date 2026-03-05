@@ -1,7 +1,7 @@
 ---
 title: Numbers and Budgets
 author: Vadim Brodsky
-description: 'My new years resolution was to be more organised and get more control over my money. And the one thing that helped me achieve this goal was the App - [Numbers](https://itunes.apple.com/au/app/numbers/id409203825?mt=12).'
+description: 'My new years resolution was to be more organised and get more control over my money. And the one thing that helped me achieve this goal was the App - Numbers.'
 image:
   src: images/Numbers.png
   alt: Numbers

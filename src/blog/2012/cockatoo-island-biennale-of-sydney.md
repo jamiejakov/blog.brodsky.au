@@ -1,7 +1,7 @@
 ---
 title: 'Cockatoo Island: Biennale of Sydney'
 author: Vadim Brodsky
-description: 'Today me and my good friends from the [Anime@UTS](http://utsanime.net) club, [Sebastian](http://twitter.com/sebasu_tan) and [Gina](http://twitter.com/ginarrrgh), went to Cockatoo island to see the contemporary visual arts exhibition.'
+description: 'Today me and my good friends from the Anime@UTS club, Sebastian and Gina, went to Cockatoo island to see the contemporary visual arts exhibition.'
 image:
   src: images/Art.jpg
   alt: Biennale in Sydney Art

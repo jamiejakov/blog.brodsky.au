@@ -2,12 +2,13 @@
 title: 2014 Retrospective
 author: Vadim Brodsky
 description: >-
-  Wow, that went by rather quick. I remember how I was writing up the [2013
-  retrospective](/posts/2013/2013-retrospective/), as if it was
+  Wow, that went by rather quick. I remember how I was writing up the 2013
+  retrospective, as if it was
   yesterday. Why did the year fly by so quickly? Well I guess it is due to me
   being in Kagoshima, Japan! A new region to explore, a whole new bunch of
   Pokemon to catch! ... wait a minute, wrong world. Anyway, lets see what the
   most memorable events were this year.
+
 image:
   src: images/sakurajima1.jpg
   alt: Sakurajima Shiroyama

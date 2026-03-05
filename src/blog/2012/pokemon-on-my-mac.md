@@ -1,7 +1,7 @@
 ---
 title: Pokemon on my Mac
 author: Vadim Brodsky
-description: 'Because of all this talk about Pokemon in the [Anime@UTS](http://utsanime.net/ "Anime @ UTS") club lately, I fell into nostalgia mode and decided to replay some of the classics.'
+description: 'Because of all this talk about Pokemon in the Anime@UTS club lately, I fell into nostalgia mode and decided to replay some of the classics.'
 image:
   src: images/PokemonScreen.png
   alt: pokemon screen

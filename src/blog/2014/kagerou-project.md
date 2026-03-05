@@ -1,7 +1,7 @@
 ---
 title: Kagerou Project
 author: Vadim Brodsky
-description: "As the spring season of 2014 comes to a close, I would like to take some time and write about one of the (I would like to say best, but I can't) coolest anime of the season - [Mekakucity Actors](http://myanimelist.net/anime/21603/Mekakucity_Actors). Usually anime is based on manga, light novels, games, or is original story, but not Mekakucity (it was but not entirely), this anime was based of a [series of Voclaloid songs](http://www.youtube.com/playlist?list=PLnG3LHAsVLPVezo4G3jhrmNSISu45cGDl \"Playlist of Kagerou Project\")\_called Kagerou Project\_(SPOILERS for the series, watch at own risk)\_made by Jin and posted on\_[NicoNicoDouga](http://www.nicovideo.jp). Though the original songs were adapted into a series of light novels and a manga, the story of the anime, same as the LN and mange took a turn in its own direction in places, showing of things that you could not see in the other media."
+description: "As the spring season of 2014 comes to a close, I would like to take some time and write about one of the (I would like to say best, but I can't) coolest anime of the season - Mekakucity Actors. Usually anime is based on manga, light novels, games, or is original story, but not Mekakucity (it was but not entirely), this anime was based of a series of Voclaloid songs_called Kagerou Project_(SPOILERS for the series, watch at own risk)_made by Jin and posted on_NicoNicoDouga. Though the original songs were adapted into a series of light novels and a manga, the story of the anime, same as the LN and mange took a turn in its own direction in places, showing of things that you could not see in the other media."
 image:
   src: images/Kagerou_Days.png
   alt: Kagerou_Days

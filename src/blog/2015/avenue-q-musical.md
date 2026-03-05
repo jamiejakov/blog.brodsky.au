@@ -1,7 +1,7 @@
 ---
 title: Avenue Q Musical
 author: Vadim Brodsky
-description: "So far I have only been to one musical, that was \"Mamma Mia\" on Broadway NY in 2009. But yesterday Amy and I went to see [Avenue Q](http://www.wikiwand.com/en/Avenue_Q) at the Enmore Theatre. It was a great show, and I can say, I laughed\_so hard my cheeks were hurting. Before going in to watch the musical, I had no idea what it was about or anything, aside from Amy's brief explanation that it has something to do with [Sesame Street](http://www.wikiwand.com/en/Sesame_Street)."
+description: "So far I have only been to one musical, that was \"Mamma Mia\" on Broadway NY in 2009. But yesterday Amy and I went to see Avenue Q at the Enmore Theatre. It was a great show, and I can say, I laughed_so hard my cheeks were hurting. Before going in to watch the musical, I had no idea what it was about or anything, aside from Amy's brief explanation that it has something to do with Sesame Street."
 image:
   src: images/AVENUE-q.jpg
   alt: Avenue Q poster

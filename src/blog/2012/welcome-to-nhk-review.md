@@ -1,7 +1,7 @@
 ---
 title: Welcome to NHK review
 author: Vadim Brodsky
-description: "So I just finished the anime [Welcome to NHK](http://en.wikipedia.org/wiki/Welcome_to_the_N.H.K.) ([NHKにようこそ！](http://ja.wikipedia.org/wiki/NHKにようこそ!)). \_It was as good as expected. However when I started watching, my expectations rose. The series is what I needed right now to show me what to look after and who not to become :S"
+description: "So I just finished the anime Welcome to NHK (NHKにようこそ！). _It was as good as expected. However when I started watching, my expectations rose. The series is what I needed right now to show me what to look after and who not to become :S"
 image:
   src: images/WelcomeToNHK.jpg
   alt: Welcome to the NHK anime

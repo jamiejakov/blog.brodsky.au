@@ -1,7 +1,7 @@
 ---
 title: EB EXPO 2012
 author: Vadim Brodsky
-description: '5-7 October is in Sydney Olympic Park there is an event. Not just any event. Its a game exposition! [EB EXPO SYDNEY 2012](http://www.ebexpo.com.au) brought to you by EB Games Australia. My good friend Hussein and I wen there today, for a full day of adventure, fun and new experiences with new, unreleased games.'
+description: '5-7 October is in Sydney Olympic Park there is an event. Not just any event. Its a game exposition! EB EXPO SYDNEY 2012 brought to you by EB Games Australia. My good friend Hussein and I wen there today, for a full day of adventure, fun and new experiences with new, unreleased games.'
 image:
   src: images/EBEXPO.jpg
   alt: EB Expo

@@ -1,7 +1,7 @@
 ---
 title: Tadaima (I'm home)
 author: Vadim Brodsky
-description: "After my [crazy flight](/posts/2013/what-a-long-strange-trip-its-been/) yesterday I am home, finally, after 3 years, I am home. Riga has barely changed in these past 3 year that I have been away. Some improvements here and there, we got new trams! (pics on Flickr, and link at the end of the post). There are so many things I have missed, like our beautiful and quiet parks, our gorgeous\__[Art Nouveau](http://en.wikipedia.org/wiki/Art_Nouveau)_\_style architecture, our clean fresh sea air, our delicious european food (+ potatoes) and of course our blazingly fast and reliable internet."
+description: "After my crazy flight yesterday I am home, finally, after 3 years, I am home. Riga has barely changed in these past 3 year that I have been away. Some improvements here and there, we got new trams! (pics on Flickr, and link at the end of the post). There are so many things I have missed, like our beautiful and quiet parks, our gorgeous__Art Nouveau__style architecture, our clean fresh sea air, our delicious european food (+ potatoes) and of course our blazingly fast and reliable internet."
 image:
   src: images/riga.jpg
   alt: 'Riga '

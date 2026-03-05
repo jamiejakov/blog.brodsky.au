@@ -4,8 +4,9 @@ author: Vadim Brodsky
 description: >-
   There has been a lot of stuff happening in my life recently - got a new job,
   moving to a new place, last semester of uni soon, started playing
-  [Hearthstone](http://us.battle.net/hearthstone/en/) seriously, etc. So I
+  Hearthstone seriously, etc. So I
   decided it would be a great time to update my blog.
+
 image:
   src: images/RigoJuice.png
   alt: RigoJuice

@@ -1,7 +1,7 @@
 ---
 title: I'm coming home
 author: Vadim Brodsky
-description: 'My holiday is over, its time to go back to Sydney, my current home, where my friends and loved ones are eagerly awaiting my return. It was fun, this month flew by very quickly. I got to see my parents and meet some of my high school friends as well as my best friend [German (Herman - Гера)](http://twitter.com/gexgrino). He left for Austria, I left for Australia.'
+description: 'My holiday is over, its time to go back to Sydney, my current home, where my friends and loved ones are eagerly awaiting my return. It was fun, this month flew by very quickly. I got to see my parents and meet some of my high school friends as well as my best friend German (Herman - Гера). He left for Austria, I left for Australia.'
 image:
   src: images/Path.jpg
   alt: Path

@@ -1,7 +1,7 @@
 ---
 title: Weekend with Drawing Circle
 author: Vadim Brodsky
-description: 'As you know I am the screenings director for [Anime@UTS](http://utsanime.net) and an active member of [JASS](https://www.facebook.com/JASSUTS), but as of last year I also joined a newly formed club called: the [Drawing Circle](http://drawingcircle.tumblr.com). As the name implies its a club of artistic people who love to draw, sketch, design and just make pretty things. Well I have quite a few friends there and so I decided to join as well, cause why not, however I haven''t really gone to any events, aside from the joint Pokemon event with the anime club. So now that I am dating a girl who is pretty much an exec of that club (not really but kinda), I though it would be nice to come to their events as well.'
+description: 'As you know I am the screenings director for Anime@UTS and an active member of JASS, but as of last year I also joined a newly formed club called: the Drawing Circle. As the name implies its a club of artistic people who love to draw, sketch, design and just make pretty things. Well I have quite a few friends there and so I decided to join as well, cause why not, however I haven''t really gone to any events, aside from the joint Pokemon event with the anime club. So now that I am dating a girl who is pretty much an exec of that club (not really but kinda), I though it would be nice to come to their events as well.'
 image:
   src: images/DC_Goya.jpg
   alt: DC_Goya

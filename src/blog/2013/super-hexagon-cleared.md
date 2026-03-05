@@ -1,7 +1,7 @@
 ---
 title: Super Hexagon Cleared!
 author: Vadim Brodsky
-description: 'I was introduced to this game by my friend Patrick. I remember that day well, it was before one of our club karaoke sessions, Pat came over and said something along these lines: "Hey Vadim, I know you love [juBeat](http://en.wikipedia.org/wiki/Jubeat), here is a game that will test your skills even more. Its called [Super Hexagon](http://superhexagon.com)."'
+description: 'I was introduced to this game by my friend Patrick. I remember that day well, it was before one of our club karaoke sessions, Pat came over and said something along these lines: "Hey Vadim, I know you love juBeat, here is a game that will test your skills even more. Its called Super Hexagon."'
 image:
   src: images/SuperHexagon_Game.png
   alt: Super Hexagon game

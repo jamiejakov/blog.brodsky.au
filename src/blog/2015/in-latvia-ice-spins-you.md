@@ -1,7 +1,7 @@
 ---
 title: 'In Latvia, ice spins you'
 author: Vadim Brodsky
-description: '<iframe src="https://www.youtube.com/embed/jAMATekiRUs" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>'
+description: ''
 pubDate: 2015-08-17T00:00:00.000Z
 published: true
 tags: ['internetz', 'latvia']

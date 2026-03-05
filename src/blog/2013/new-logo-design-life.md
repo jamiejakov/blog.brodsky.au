@@ -1,7 +1,7 @@
 ---
 title: 'New logo, new design, new life!'
 author: Vadim Brodsky
-description: "I have had my blog for a year and a half now,\_[first post](/posts/2012/japanese-app-update-first-blog-post/)\_being on the 20th of May 2012. In this time I have managed to change web hosts and themes. Now I believe is the perfect time to improve the design I have been using ever since I moved from wordpress.com to private web hosting - Wild Flower. Today, on the 25th of December, I would like to present my new blog theme\_**Ring-O.**"
+description: "I have had my blog for a year and a half now,_first post_being on the 20th of May 2012. In this time I have managed to change web hosts and themes. Now I believe is the perfect time to improve the design I have been using ever since I moved from wordpress.com to private web hosting - Wild Flower. Today, on the 25th of December, I would like to present my new blog theme_**Ring-O.**"
 image:
   src: images/WildFlower.png
   alt: WildFlower

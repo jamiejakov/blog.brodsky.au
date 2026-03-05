@@ -2,8 +2,8 @@
 title: Anime Day 15
 author: Vadim Brodsky
 description: >-
-  <iframe src="https://www.youtube.com/embed/eos7oppSBow" width="640"
-  height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+  
+
 pubDate: 2015-09-30T00:00:00.000Z
 published: true
 tags: ['anime', '100-days-of-anime', 'free']

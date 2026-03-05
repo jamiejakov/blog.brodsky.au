@@ -1,7 +1,7 @@
 ---
 title: Wolf Children Screening and Q&A with the director
 author: Vadim Brodsky
-description: 'Remember when I first blogged about how I got to see [Wolf Children Ame and Yuki in Osaka in July](/posts/2012/おおかみこどもの雨と雪-no-spoilers/)? Well After that [Madman](http://www.madman.com.au) had a screening of Wolf children in Sydney, sometime in September, I think, and thats when most of my friends from the anime club went to watch it together. Of course I was with them, and I can say that I cried more the second time I watched it, then the first. Anyway, fast forward to today and here we are again, at a madman screening of Wolf Children. But it is no ordinary screening when you just get to watch the movie.'
+description: 'Remember when I first blogged about how I got to see Wolf Children Ame and Yuki in Osaka in July? Well After that Madman had a screening of Wolf children in Sydney, sometime in September, I think, and thats when most of my friends from the anime club went to watch it together. Of course I was with them, and I can say that I cried more the second time I watched it, then the first. Anyway, fast forward to today and here we are again, at a madman screening of Wolf Children. But it is no ordinary screening when you just get to watch the movie.'
 image:
   src: images/img_03241-1024x657.jpg
   alt: Wolf_Children_BD

@@ -1,7 +1,7 @@
 ---
 title: Angela Aki live in Kagoshima
 author: Vadim Brodsky
-description: "Angela Aki is very popular Japanese singer and composer, who also plays piano and the guitar, and who sings a lot about love, home, dreams, and life. She is only 36 and has been well knows ever since her debut in 2006 in the Budoukan Hall, [making history](http://en.wikipedia.org/wiki/Angela_Aki) there as the first\_artist to ever perform in the famous venue solo (with just her piano) -- no backup singers, band or opening act. So far she has released 8 albums and has been preforming all over Japan."
+description: "Angela Aki is very popular Japanese singer and composer, who also plays piano and the guitar, and who sings a lot about love, home, dreams, and life. She is only 36 and has been well knows ever since her debut in 2006 in the Budoukan Hall, making history there as the first_artist to ever perform in the famous venue solo (with just her piano) -- no backup singers, band or opening act. So far she has released 8 albums and has been preforming all over Japan."
 image:
   src: images/AngelaAki.jpg
   alt: AngelaAki

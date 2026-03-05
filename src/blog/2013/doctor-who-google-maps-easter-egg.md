@@ -1,7 +1,7 @@
 ---
 title: Doctor Who Google Maps Easter Egg
 author: Vadim Brodsky
-description: 'You have all probably heard of Dr. Who at some point or another, cause the show has been going for half a decade! This year in November the show is celebrating [its 50th anniversary](http://en.wikipedia.org/wiki/50th_anniversary_special_\(Doctor_Who\)). Well since its Geek Week, Google Maps introduced an interesting easter egg into Google Maps. You can look inside the Tardis with street view!'
+description: 'You have all probably heard of Dr. Who at some point or another, cause the show has been going for half a decade! This year in November the show is celebrating its 50th anniversary. Well since its Geek Week, Google Maps introduced an interesting easter egg into Google Maps. You can look inside the Tardis with street view!'
 image:
   src: images/doctorwho.jpg
   alt: Doctor Who

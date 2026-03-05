@@ -1,7 +1,7 @@
 ---
 title: Situation in Turkey
 author: Vadim Brodsky
-description: "As you might have heard, the current situation in Turkey is rather severe. The people are in the streets protesting and rioting, all for one goal: take down the current prime minister\_[Recep Tayyip Erdoğan](http://en.wikipedia.org/wiki/Recep_Tayyip_Erdoğan)\_and to stop his policies of censorship and limitations on freedom of speech and expression."
+description: "As you might have heard, the current situation in Turkey is rather severe. The people are in the streets protesting and rioting, all for one goal: take down the current prime minister_Recep Tayyip Erdoğan_and to stop his policies of censorship and limitations on freedom of speech and expression."
 image:
   src: images/TurkeyRiot.png
   alt: Riot in Turkey

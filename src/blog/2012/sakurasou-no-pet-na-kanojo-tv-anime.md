@@ -1,7 +1,7 @@
 ---
 title: Sakurasou no Pet na Kanojo TV Anime!
 author: Vadim Brodsky
-description: "A week ago, when we went to Kinokuniya, me and [Alex](http://twitter.com/maidforclass)\_went to the japanese section and I stumbled upon this manga and light novel called\_Sakurasou no Pet na Kanojo. So I said: \"hey Alex, wanna bet this will become and anime\" and he was like: \"everything becomes an anime these days\"."
+description: "A week ago, when we went to Kinokuniya, me and Alex_went to the japanese section and I stumbled upon this manga and light novel called_Sakurasou no Pet na Kanojo. So I said: \"hey Alex, wanna bet this will become and anime\" and he was like: \"everything becomes an anime these days\"."
 image:
   src: images/2893_sakurasou.jpg
   alt: PettoKanojo

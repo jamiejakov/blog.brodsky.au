@@ -2,9 +2,10 @@
 title: Magical Mirai 2014
 author: Vadim Brodsky
 description: >-
-  [Happy birthday Miku](/posts/2013/happy-6th-birthday-miku/ "Happy 6th Birthday Miku!")!! You have been with us for the past 7 years,
+  Happy birthday Miku!! You have been with us for the past 7 years,
   singing amazing songs which we will remember forever. And of course good work
   with the concert yesterday. It was amazing!
+
 image:
   src: images/MagicalMirai.jpg
   alt: Magical Mirai 2014

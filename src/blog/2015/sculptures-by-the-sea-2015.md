@@ -4,10 +4,11 @@ author: Vadim Brodsky
 description: >-
   Every year the creative minds of Sydney gather together and present a number
   of exhibitions at the cove between Bondi and Bronte beaches. This event is
-  called [Sculptures by the Sea](http://www.sculpturesbythesea.com.au). UTS
+  called Sculptures by the Sea. UTS
   Drawing Circle, being the more creative club, organised an outing to this
   event, and since I have friends there and I don't want to miss out on an
   opportunity to practice taking photos with my DSLR, I obviously joined in.
+
 image:
   src: images/Sculptures.jpg
   alt: Sculptures

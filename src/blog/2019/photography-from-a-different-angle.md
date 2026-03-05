@@ -1,7 +1,7 @@
 ---
 title: 'Photography, from a different angle'
 author: Vadim Brodsky
-description: 'For the longest time I have been taking photos with a [DSLR camera,](/posts/2017/new-zealand-photography-trip-day-1/) and sometimes with my [iPhone](/posts/2018/welcome-iphosphophyllite/). Recently however, I''ve been tempted by the beautiful photos from all these photobloggers and instagrammers, who capture absolutely stunning shots from angles that are near impossible, unless you have a device that can fly.'
+description: 'For the longest time I have been taking photos with a DSLR camera, and sometimes with my iPhone. Recently however, I''ve been tempted by the beautiful photos from all these photobloggers and instagrammers, who capture absolutely stunning shots from angles that are near impossible, unless you have a device that can fly.'
 image:
   src: images/drone.jpg
   alt: drone

@@ -2,7 +2,8 @@
 title: サムスンGalaxy S4ハンズオン
 author: Vadim Brodsky
 description: >-
-  [http://www.gizmodo.jp/2013/03/galaxy\_s\_iv\_10.html](http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html)
+  http://www.gizmodo.jp/2013/03/galaxy\_s\_iv\_10.html
+
 image:
   src: images/SamsungGalaxyS4.png
   alt: Samsung Galaxy S4

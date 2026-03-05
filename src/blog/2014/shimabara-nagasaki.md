@@ -2,10 +2,11 @@
 title: Shimabara 島原 & Nagasaki 長崎
 author: Vadim Brodsky
 description: >-
-  This weekend I spent together with my good friend [Tac](http://tacyip.com),
+  This weekend I spent together with my good friend Tac,
   who is currently working as a English teacher in the city of Shimabara as part
-  of the [JET program](http://tacyip.com/?p=47). We went around the city, a
+  of the JET program. We went around the city, a
   nearby hot spring and Nagasaki city.
+
 image:
   src: images/Samurai-Road.jpg
   alt: samurai road

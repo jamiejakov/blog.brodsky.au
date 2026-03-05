@@ -1,7 +1,7 @@
 ---
 title: Did someone say Ghibli
 author: Vadim Brodsky
-description: "Remember in August [I blogged](/posts/2013/more-ghibli-blu-rays/) that I got _Porco Rosso_? Well today my shipment of two more glorious Blu-Rays have arrived. This time its my second favorite Ghibli movie - _[Princess Mononoke](http://myanimelist.net/anime/164/Mononoke_Hime)_\_and _[The Cat Returns](http://myanimelist.net/anime/597/Neko_no_Ongaeshi)._\_This was a present to myself for Christmas and New Years, and also for finishing last semester with good grades."
+description: "Remember in August I blogged that I got _Porco Rosso_? Well today my shipment of two more glorious Blu-Rays have arrived. This time its my second favorite Ghibli movie - _Princess Mononoke__and _The Cat Returns.__This was a present to myself for Christmas and New Years, and also for finishing last semester with good grades."
 image:
   src: images/Ghibliesss.jpeg
   alt: Mononoke and Cat Returns

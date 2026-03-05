@@ -1,7 +1,7 @@
 ---
 title: 'Music Monday: >Based SHAFT'
 author: Vadim Brodsky
-description: 'Each of their shows is filled with character development, engaging dialogue, thought provoking themes, deep plot, intelligent humor, symbolism ([meanwhile at shaft](http://i.imgur.com/ApGFIRk.jpg)).'
+description: 'Each of their shows is filled with character development, engaging dialogue, thought provoking themes, deep plot, intelligent humor, symbolism (meanwhile at shaft).'
 image:
   src: images/iR8jZ4W.png
   alt: agm.image

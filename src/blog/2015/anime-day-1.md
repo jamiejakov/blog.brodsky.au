@@ -8,9 +8,10 @@ description: >-
   favourite anime characters, to most hated moments, but were always related to
   anime. We called it 100 days of anime. Now, almost 3 years later, the list has
   found me again (thanks to a certain
-  [kiri](http://kirinyan.net/day-1-of-anime/) bird), and I decided, why not do
+  kiri bird), and I decided, why not do
   it again, this time on my blog. It would give it new life, and honestly when
   was the last time I blogged about anything anime related?
+
 image:
   src: images/Chobits.jpg
   alt: Chobits

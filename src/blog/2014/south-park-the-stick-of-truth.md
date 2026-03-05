@@ -2,16 +2,16 @@
 title: South Park The Stick of Truth
 author: Vadim Brodsky
 description: >-
-  They announced it at [E3 2012](/posts/2012/e3-2012/ "E3 2012
-  and all its goodies"), they showed a glimpse of it at [EB Expo
-  2012](/posts/2012/eb-expo-2012/ "EB EXPO 2012"), and now,
+  They announced it at E3 2012, they showed a glimpse of it at EB Expo
+  2012, and now,
   almost 1 and a half year later, it is out! And wow what a game it is! So
-  [South Park The Stick of Truth](http://southpark.ubi.com/stickoftruth/) is an
+  South Park The Stick of Truth is an
   RPG where you play as the new kid in town who just arrived and is trying to
   make friends with the local boys (and girls). During his adventures, sir
   Douchebag (thats the name you are given) must help the human kingdom, led by
   the Grand Wisard Cartman, take back from the Elves, led by Hight Elf Kyle, the
   ancient relic of immense power - the Stick of Truth. No spoiler version.
+
 image:
   src: images/south_park_the_stick_of_truth.jpg
   alt: south_park_the_stick_of_truth

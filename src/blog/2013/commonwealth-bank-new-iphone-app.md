@@ -1,7 +1,7 @@
 ---
 title: Commonwealth Bank new iPhone App
 author: Vadim Brodsky
-description: "Last week I was contacted by a marketing research organization on behalf of [Commonwealth Bank](https://www.commbank.com.au \"Commonwealth Bank\")\_in regards to their iOS mobile banking app. Basically its a focus group where they showed up slides of the new software and asked us questions about how we feel when seeing these new features. It sounded like an interesting thing to do on a Thursday evening, especially cause they gave me $80!"
+description: "Last week I was contacted by a marketing research organization on behalf of Commonwealth Bank_in regards to their iOS mobile banking app. Basically its a focus group where they showed up slides of the new software and asked us questions about how we feel when seeing these new features. It sounded like an interesting thing to do on a Thursday evening, especially cause they gave me $80!"
 image:
   src: images/netbank.jpg
   alt: Netbank app

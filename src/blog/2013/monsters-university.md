@@ -5,7 +5,8 @@ description: >-
   Hey, have you heard? There is a new movie out by Pixar called Monsters
   University! Yea that right its a prequel to Monsters Inc. Why am I telling you
   this? Well today is the day it got screened in Australia and I went to watch
-  it with [Saya](http://twitter.com/KSnpy).
+  it with Saya.
+
 image:
   src: images/MU.png
   alt: MU

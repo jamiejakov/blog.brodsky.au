@@ -1,7 +1,7 @@
 ---
 title: Tsutsukakushi Tsukiko Figure
 author: Vadim Brodsky
-description: "Meet the newest member of my figure collection - [Tsutsukakushi Tsukiko](http://anilist.co/character/42469/Tsukiko-Tsutsukakushi) from the show\_[変態王子と笑わない猫](http://anilist.co/anime/15225/Hentai-Ouji-to-Warawanai-Neko). She is a cute little girl who wished to lose all of her emotions so that she wouldn't appear childish to her friends. Even though throughout the series she barely shows any signs of happiness or sadness, we can still see when she is angry or shy. They portray Tsukiko as a cat because the cat god was the one who fulfilled her wish and also because cats are a general symbol of cuteness in Japan, and Tsukiko is too damn cute!"
+description: "Meet the newest member of my figure collection - Tsutsukakushi Tsukiko from the show_変態王子と笑わない猫. She is a cute little girl who wished to lose all of her emotions so that she wouldn't appear childish to her friends. Even though throughout the series she barely shows any signs of happiness or sadness, we can still see when she is angry or shy. They portray Tsukiko as a cat because the cat god was the one who fulfilled her wish and also because cats are a general symbol of cuteness in Japan, and Tsukiko is too damn cute!"
 image:
   src: images/Tsukiko.jpg
   alt: Tsukiko

@@ -1,7 +1,7 @@
 ---
 title: Visiting the capital
 author: Vadim Brodsky
-description: "I have been living in Australia for almost 3 years now, but I have never been to the capital! \\*shock\\* So I decided that now, right before exams, would be the perfect time to go visit this small city. And what fun is it to go alone... So of course I went there together with my girlfriend at the time -\_[Saya](http://twitter.com/KSnpy)."
+description: "I have been living in Australia for almost 3 years now, but I have never been to the capital! \\*shock\\* So I decided that now, right before exams, would be the perfect time to go visit this small city. And what fun is it to go alone... So of course I went there together with my girlfriend at the time -_Saya."
 image:
   src: images/IMG_1772-2.jpg
   alt: parliament house

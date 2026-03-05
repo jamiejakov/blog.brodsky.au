@@ -1,7 +1,7 @@
 ---
 title: Pokemon X&Y
 author: Vadim Brodsky
-description: 'It has been 16 years since the first Pokemon game came out in Japan in 1996, wow thats a long lifespan for a game! While some might say that the hype has died down over the course of time, other still believe that Pokemon is as popular as ever especially with the release of X&Y last Saturday which brings gamers the 6th generation and into a completely new region: Kalos and around [60 new cute little critters](http://www.serebii.net/pokedex-xy/300.shtml) to catch.'
+description: 'It has been 16 years since the first Pokemon game came out in Japan in 1996, wow thats a long lifespan for a game! While some might say that the hype has died down over the course of time, other still believe that Pokemon is as popular as ever especially with the release of X&Y last Saturday which brings gamers the 6th generation and into a completely new region: Kalos and around 60 new cute little critters to catch.'
 image:
   src: images/GQYqLFP.png
   alt: Image

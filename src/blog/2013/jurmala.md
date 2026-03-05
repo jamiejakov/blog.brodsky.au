@@ -1,7 +1,7 @@
 ---
 title: Jūrmala
 author: Vadim Brodsky
-description: "ラトビアと言えばやっぱり[ユールマラ](http://ja.wikipedia.org/wiki/ユールマラ)だな〜 \_Ja tu gribi kaut kur atpūsties tad brauc uz jūru, uz Jūrmalu! Солнце, пляж - отдыхай, плавай, загорай."
+description: "ラトビアと言えばやっぱりユールマラだな〜 _Ja tu gribi kaut kur atpūsties tad brauc uz jūru, uz Jūrmalu! Солнце, пляж - отдыхай, плавай, загорай."
 image:
   src: images/jurmala.jpg
   alt: jurmala

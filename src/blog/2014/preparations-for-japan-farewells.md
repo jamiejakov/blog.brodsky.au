@@ -1,7 +1,7 @@
 ---
 title: Preparations for Japan – Farewells
 author: Vadim Brodsky
-description: "Visa and plane tickets have been acquired, packing has been done, all my boxes have been moved to my [Imouto's](http://twitter.com/taccarin) and [Lexi's](http://twitter.com/maidforclass) place, and now all the farewell lunches, dinners, and parties are now done. I have 1 day left in Sydney and then I am off to glorious Japan. \_Thank you to all my friends who took the time from their busy lives to meet me one last time this year, before I head off. Thank you for giving such a wonderful experience in so many different restaurants. Thank you to the anime club, drawing circle and JASS people (especially Ritchi) for organizing a farewell party last week before the [Kyary concert](/posts/2014/きゃりーぱみゅぱみゅ-live/). Thank you to all my friends from urbanest, all my Russian friends and my friends from back home for this last week."
+description: "Visa and plane tickets have been acquired, packing has been done, all my boxes have been moved to my Imouto's and Lexi's place, and now all the farewell lunches, dinners, and parties are now done. I have 1 day left in Sydney and then I am off to glorious Japan. _Thank you to all my friends who took the time from their busy lives to meet me one last time this year, before I head off. Thank you for giving such a wonderful experience in so many different restaurants. Thank you to the anime club, drawing circle and JASS people (especially Ritchi) for organizing a farewell party last week before the Kyary concert. Thank you to all my friends from urbanest, all my Russian friends and my friends from back home for this last week."
 image:
   src: images/Farewells.jpg
   alt: IMG_6451

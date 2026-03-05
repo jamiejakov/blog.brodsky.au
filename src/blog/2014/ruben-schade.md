@@ -5,8 +5,9 @@ description: >-
   I don't write about people, heck I don't even talk to people unless we have
   something in common. There are only a few people that have had a big influence
   on my life, I call them my sempais, my shishos, my senseis, my mentors. This
-  post is kind of like a [reply](http://rubenerd.com/vadim-brodski/) post, but
+  post is kind of like a reply post, but
   also as a thank you post.
+
 image:
   src: images/bowRuben.jpg
   alt: '!Ruben'

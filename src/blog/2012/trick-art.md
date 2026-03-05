@@ -1,7 +1,7 @@
 ---
 title: Trick Art
 author: Vadim Brodsky
-description: "Today was the last time in the next 2 years (probably) that I saw one of my best friends: Kosuke. We went to [Osaka Dome](http://en.wikipedia.org/wiki/Osaka_Dome)\_where there is a quite an interesting exhibition happening. In japanese they call it Trick Art, basically optical illusions."
+description: "Today was the last time in the next 2 years (probably) that I saw one of my best friends: Kosuke. We went to Osaka Dome_where there is a quite an interesting exhibition happening. In japanese they call it Trick Art, basically optical illusions."
 image:
   src: images/Trickart.jpg
   alt: TrickArt

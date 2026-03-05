@@ -1,7 +1,7 @@
 ---
 title: Happy-go-lucky
 author: Vadim Brodsky
-description: "_Sunday Movie Night_ is an event I organize at [urba**nest**](http://www.urbanest.com.au) every week at 8pm. The movie I chose for this week was _[Happy-Go-Lucky](http://www.imdb.com/title/tt1045670/)_\_because I came across this term at some point somewhere and thought that it was rather suiting for my own personality, and because apparently there is a movie with the same name and same theme, I chose it for the screening."
+description: "_Sunday Movie Night_ is an event I organize at urba**nest** every week at 8pm. The movie I chose for this week was _Happy-Go-Lucky__because I came across this term at some point somewhere and thought that it was rather suiting for my own personality, and because apparently there is a movie with the same name and same theme, I chose it for the screening."
 image:
   src: images/happy-go-lucky.jpg
   alt: happy-go-lucky

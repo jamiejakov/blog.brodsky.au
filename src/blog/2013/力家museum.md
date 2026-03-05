@@ -1,7 +1,7 @@
 ---
 title: 力家Museum
 author: Vadim Brodsky
-description: "So since the weather in Sydney hasn't been that great lately, my girlfriend at the time -\_[Amy](http://twitter.com/dekopatchi) and me decided to go the [Powerhouse Museum](http://www.powerhousemuseum.com), which is so conveniently located only 5 minutes away from where I live. Amy hasn't been there since middle school, or something, and I went there last when the Harry Potter exhibition was on in 2011, I think."
+description: "So since the weather in Sydney hasn't been that great lately, my girlfriend at the time -_Amy and me decided to go the Powerhouse Museum, which is so conveniently located only 5 minutes away from where I live. Amy hasn't been there since middle school, or something, and I went there last when the Harry Potter exhibition was on in 2011, I think."
 image:
   src: images/powerhouse.jpg
   alt: powerhouse

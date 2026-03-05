@@ -1,7 +1,7 @@
 ---
 title: Comiket 86
 author: Vadim Brodsky
-description: "[Comiket](http://en.wikipedia.org/wiki/Comiket) is the worlds biggest anime convention. It is\_different from cons in the West though, because comiket was originally established as a market place for comics (hence the name **Comi**c Mar**ket**) as apposed to western cons which are more to celebrate the love for anime and manga. These days comiket\_held at the Tokyo Big Sight exhibition center, a huge building close to Odaiba, and around 500,000 people visit each day during the 3 day period in summer and winter."
+description: "Comiket is the worlds biggest anime convention. It is_different from cons in the West though, because comiket was originally established as a market place for comics (hence the name **Comi**c Mar**ket**) as apposed to western cons which are more to celebrate the love for anime and manga. These days comiket_held at the Tokyo Big Sight exhibition center, a huge building close to Odaiba, and around 500,000 people visit each day during the 3 day period in summer and winter."
 image:
   src: images/Comiket.jpg
   alt: Comiket

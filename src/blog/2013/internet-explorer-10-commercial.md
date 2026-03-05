@@ -1,7 +1,7 @@
 ---
 title: Internet Explorer 10 commercial
 author: Vadim Brodsky
-description: '<iframe src="http://www.youtube.com/embed/qkM6RJf15cg" height="315" width="560" allowfullscreen="yes" frameborder="0"></iframe>'
+description: ''
 pubDate: 2013-05-07T00:00:00.000Z
 published: true
 tags: ['internetz']

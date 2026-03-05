@@ -2,9 +2,10 @@
 title: Confessions of a Blogger
 author: Vadim Brodsky
 description: >-
-  My friend [Sebastian](http://alonelyseptember.org) mentioned me in a tweet
+  My friend Sebastian mentioned me in a tweet
   saying that I should also write up a post describing my blog life. After a
   week or so of contemplating, I decided why the hell not.
+
 image:
   src: images/thoughts.jpg
   alt: thoughts

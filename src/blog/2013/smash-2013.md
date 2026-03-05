@@ -1,7 +1,7 @@
 ---
 title: SMASH! 2013
 author: Vadim Brodsky
-description: "[SMASH!](http://www.smash.org.au \"SMASH!\") \\- the Sydney Manga and Anime SHow is a convention happening every year in Sydney, and its goal is to celebrate the culture of Anime, Manga, Video games, and Cosplay. Saturday, August 10th 2013 at 9am the Sydney Exhibition Center Darling Harbour opened its doors for over 7000 pop culture fans from around Australia and even overseas. Aside from big companies like [Madman](http://www.madman.com.au/) and [KingsComics](http://www.kingscomics.com)\_smaller circles and clubs were given stalls to sell their own merchandise; [Anime@UTS](http://utsanime.net) was no exception. We had badges, post cards, phone charms, even panda hats."
+description: "SMASH! \\- the Sydney Manga and Anime SHow is a convention happening every year in Sydney, and its goal is to celebrate the culture of Anime, Manga, Video games, and Cosplay. Saturday, August 10th 2013 at 9am the Sydney Exhibition Center Darling Harbour opened its doors for over 7000 pop culture fans from around Australia and even overseas. Aside from big companies like Madman and KingsComics_smaller circles and clubs were given stalls to sell their own merchandise; Anime@UTS was no exception. We had badges, post cards, phone charms, even panda hats."
 image:
   src: images/smash2013poster.jpg
   alt: SMASH 2013

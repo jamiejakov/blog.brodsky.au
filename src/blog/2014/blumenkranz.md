@@ -1,7 +1,7 @@
 ---
 title: Blumenkranz
 author: Vadim Brodsky
-description: "Blumenkranz - in german it means a wreath of flowers (ring of flowers) and that is what normal german speakers would think if they heard anyone say this word. Well if anime fas, who are watching the show _[Kill La Kill](http://myanimelist.net/anime/18679/Kill_la_Kill)_\_hears this word, they will undoubtedly think of the second best track from the OST (Original Sound Track) which bears the [same name - Blumenkranz](http://www.youtube.com/watch?v=m-N3MS1YKeo)."
+description: "Blumenkranz - in german it means a wreath of flowers (ring of flowers) and that is what normal german speakers would think if they heard anyone say this word. Well if anime fas, who are watching the show _Kill La Kill__hears this word, they will undoubtedly think of the second best track from the OST (Original Sound Track) which bears the same name - Blumenkranz."
 image:
   src: images/Blumenkranz.jpg
   alt: Blumenkranz

@@ -1,7 +1,7 @@
 ---
 title: Miku - ありふれたせかいせいふく
 author: Vadim Brodsky
-description: 'https://www.youtube.com/watch?v=EX1tiW2xOJs'
+description: ''
 pubDate: 2015-12-28T00:00:00.000Z
 published: true
 tags: ['music', 'hatsune_miku']

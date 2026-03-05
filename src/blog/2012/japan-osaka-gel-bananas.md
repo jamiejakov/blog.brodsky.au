@@ -1,7 +1,7 @@
 ---
 title: Japan - Osaka - Gel Bananas
 author: Vadim Brodsky
-description: 'Im in Japaaaannnn yaaaaay!!! Met up with [Kosuke](http://twitter.com/SYORYU_sav_KOU) and [Tac](http://twitter.com/taccarin) at Nanba Station and we went around Nipponbashi.'
+description: 'Im in Japaaaannnn yaaaaay!!! Met up with Kosuke and Tac at Nanba Station and we went around Nipponbashi.'
 image:
   src: images/NyarukoExhibitionNipponbashi.jpg
   alt: Nyaru Exhibition

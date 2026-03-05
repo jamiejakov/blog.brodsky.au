@@ -1,7 +1,7 @@
 ---
 title: Yuru Yuri Physics - почему небо голубое?
 author: Vadim Brodsky
-description: "So I was watching\_[Yuru Yuri ♪♪](http://myanimelist.net/anime/12403/Yuru_Yuri_♪♪) and then this randomly appeared..... It reminded me a lot of my high school physics teacher Shepelev."
+description: "So I was watching_Yuru Yuri ♪♪ and then this randomly appeared..... It reminded me a lot of my high school physics teacher Shepelev."
 image:
   src: images/YY_1.png
   alt: YY_1

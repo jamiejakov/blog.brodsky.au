@@ -3,10 +3,11 @@ title: Eiga Dorobou Cosplay
 author: Vadim Brodsky
 description: >-
   I'd say this was one of my most successful cosplays, if not THE. I have
-  cosplayed a number of different characters in the past, as outlines in [this
-  post](/posts/2014/cosplaying/ "Cosplaying") about cosplay.
+  cosplayed a number of different characters in the past, as outlines in this
+  post about cosplay.
   But our joint NO MORE Eiga Dorobou (NO MORE映画泥棒) with Amy definitely tops the
   list.
+
 image:
   src: images/EigaDorobou.jpg
   alt: EigaDorobou

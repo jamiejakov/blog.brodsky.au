@@ -1,7 +1,7 @@
 ---
 title: China (Beijing) Day 1
 author: Vadim Brodsky
-description: "I have already written up a [post about me walking around Beijing](/posts/2012/walking-around-beijing/) during the first day while waiting for my parents.\_So now, since I have normal internet again, I will continue the story."
+description: "I have already written up a post about me walking around Beijing during the first day while waiting for my parents._So now, since I have normal internet again, I will continue the story."
 image:
   src: images/Beijing_Circus.jpg
   alt: Beijing_Circus

@@ -1,7 +1,7 @@
 ---
 title: Wata Mote is getting an Anime!
 author: Vadim Brodsky
-description: "There was this one manga which wasn't really that popular in good old Japan, but then everything changed when the gaijin attached! The guys from\_[4chans /a/](http://boards.4chan.org/a/)\_just fell in love with this manga. People started buying multiple copies and thus dramatically improving its sales. It got so popular that they even started printing that its a huge hit on the western 2chan on the cover of it (as can be seen on the picture below). And this manga is of course [Watashi ga Motenai no wa dou Kangaetemo Omaera ga Warui!](http://www.watamote.jp)\_or Wata Mote for short."
+description: "There was this one manga which wasn't really that popular in good old Japan, but then everything changed when the gaijin attached! The guys from_4chans /a/_just fell in love with this manga. People started buying multiple copies and thus dramatically improving its sales. It got so popular that they even started printing that its a huge hit on the western 2chan on the cover of it (as can be seen on the picture below). And this manga is of course Watashi ga Motenai no wa dou Kangaetemo Omaera ga Warui!_or Wata Mote for short."
 image:
   src: images/WataMoteAnime.png
   alt: WataMote Anime

@@ -1,7 +1,7 @@
 ---
 title: Sydney Jazz and Blues Festival at Darling Harbour
 author: Vadim Brodsky
-description: "Photo by [Rubenerd](http://rubenerd.com/james-morrison-2012/)\_(he has more good pics)."
+description: "Photo by Rubenerd_(he has more good pics)."
 image:
   src: images/JazzAndBlues2012.jpg
   alt: Jazz and Blues

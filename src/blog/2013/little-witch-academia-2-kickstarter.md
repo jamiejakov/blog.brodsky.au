@@ -1,7 +1,7 @@
 ---
 title: Little Witch Academia 2 Kickstarter
 author: Vadim Brodsky
-description: "Kickstarter, kickstarter, kickstarter... This service is changing they way the world works - games, movies, tech and now even anime is using Kickstarter to gather funds for creating their projects. This time around we have Studio Trigger who brought us _[Inferno Cop](http://myanimelist.net/anime/16774/Inferno_Cop)_ and _[Little Witch Academia](http://myanimelist.net/anime/14349)_\_and coming out with _[Kill la Kill in Fall](http://myanimelist.net/anime/18679/Kill_La_Kill)_\_has decided to use kickstarter as a platform to aquire funds for creating a [sequel to Little Witch Academia](http://www.kickstarter.com/projects/1311401276/little-witch-academia-2 \"Little Witch Academia 2 Kickstarter\")."
+description: "Kickstarter, kickstarter, kickstarter... This service is changing they way the world works - games, movies, tech and now even anime is using Kickstarter to gather funds for creating their projects. This time around we have Studio Trigger who brought us _Inferno Cop_ and _Little Witch Academia__and coming out with _Kill la Kill in Fall__has decided to use kickstarter as a platform to aquire funds for creating a sequel to Little Witch Academia."
 image:
   src: images/LWA2.jpeg
   alt: Little witch academia OVA

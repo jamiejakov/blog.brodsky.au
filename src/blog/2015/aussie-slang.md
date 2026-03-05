@@ -1,7 +1,7 @@
 ---
 title: Aussie slang
 author: Vadim Brodsky
-description: '<iframe src="https://www.youtube.com/embed/yDb_WsAt_Z0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>'
+description: ''
 pubDate: 2015-07-29T00:00:00.000Z
 published: true
 tags: ['internetz', 'life', 'australia', 'youtube']

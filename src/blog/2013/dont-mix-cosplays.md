@@ -2,8 +2,8 @@
 title: Don't Mix Cosplays
 author: Vadim Brodsky
 description: >-
-  <iframe src="//www.youtube.com/embed/UAgHBsJUbPw" height="315" width="560"
-  allowfullscreen frameborder="0"></iframe>
+  
+
 pubDate: 2013-08-19T00:00:00.000Z
 published: true
 tags: ['internetz', 'cosplay']

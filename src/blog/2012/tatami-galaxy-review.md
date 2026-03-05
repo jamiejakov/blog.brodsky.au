@@ -2,12 +2,13 @@
 title: Tatami Galaxy review
 author: Vadim Brodsky
 description: >-
-  [Tatami Galaxy
-  (四畳半神話大系)](http://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei) - an
+  Tatami Galaxy
+  (四畳半神話大系) - an
   anime worthy of being called a classic! It is hard to describe the genre for
   this particular anime, but I'm guessing it would fall under the random / life
   / mystery. Even though it was only 11 episodes long, it is definitely a must
   watch for all anime lovers.
+
 image:
   src: images/the-tatami-galaxy-fanart.jpg
   alt: Tatami Galaxy

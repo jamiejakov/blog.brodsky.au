@@ -1,7 +1,7 @@
 ---
 title: Our new Samsung 46F8500 TV
 author: Vadim Brodsky
-description: 'When I arrived back home and set foot in my house again after 3 years of being abroad, I could not help but notice the 12 year old TV in our living room. It was a Sony Trinitron and looked something like [this](http://2.bp.blogspot.com/_hvUgLTILEVE/SaDTi8HMQnI/AAAAAAAAFxU/G4oPHbFnmIM/s400/TV+Trinitron.JPG), I dont have a picture of ours and we already gave it away. とにかく、it was old and outdated, a serious upgrade was required. Thankfully my dad was on my side on this one and so we set out to buy a new TV, yay!'
+description: 'When I arrived back home and set foot in my house again after 3 years of being abroad, I could not help but notice the 12 year old TV in our living room. It was a Sony Trinitron and looked something like this, I dont have a picture of ours and we already gave it away. とにかく、it was old and outdated, a serious upgrade was required. Thankfully my dad was on my side on this one and so we set out to buy a new TV, yay!'
 image:
   src: images/SamsungTV_FREE.jpg
   alt: SamsungTV_FREE

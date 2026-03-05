@@ -3,7 +3,8 @@ title: Summer 2013 anime
 author: Vadim Brodsky
 description: >-
   2013 summer season of anime has officially started today with a marvelous new
-  show by Kyoto Animation: _[Free!](http://myanimelist.net/anime/18507/Free!)_
+  show by Kyoto Animation: _Free!_
+
 image:
   src: images/free.png
   alt: free!

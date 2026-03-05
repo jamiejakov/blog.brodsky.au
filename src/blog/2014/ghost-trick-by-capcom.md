@@ -1,7 +1,7 @@
 ---
 title: Ghost Trick by Capcom
 author: Vadim Brodsky
-description: "Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called _Ghost Trick._\_It was recommended to me by my puzzle loving girlfriend (at the time)\_[Amy](http://ocarda.wordpress.com)\_a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you."
+description: "Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called _Ghost Trick.__It was recommended to me by my puzzle loving girlfriend (at the time)_Amy_a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you."
 image:
   src: images/GhostTrick.jpg
   alt: GhostTrick

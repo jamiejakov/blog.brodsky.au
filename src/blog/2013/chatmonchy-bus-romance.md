@@ -1,7 +1,7 @@
 ---
 title: Chatmonchy - Bus Romance
 author: Vadim Brodsky
-description: "When my lovely Saya and I [went to Canberra](/posts/2013/visiting-the-capital/)\_last wednesday (13th June), on the bus there she let me listen to some of the music on her iPhone. One of the songs was Bus romance by Chatmonchy. Well this whole week I could not get this song out of my head, especially because Saya would humm or sing it at times. I found the music video (MV) for it on vimeo, lets hope it doesnt get taken down."
+description: "When my lovely Saya and I went to Canberra_last wednesday (13th June), on the bus there she let me listen to some of the music on her iPhone. One of the songs was Bus romance by Chatmonchy. Well this whole week I could not get this song out of my head, especially because Saya would humm or sing it at times. I found the music video (MV) for it on vimeo, lets hope it doesnt get taken down."
 pubDate: 2013-06-18T00:00:00.000Z
 published: true
 tags: ['music']

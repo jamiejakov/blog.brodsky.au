@@ -2,8 +2,8 @@
 title: Feels like family (i lied) XD
 author: Vadim Brodsky
 description: >-
-  <iframe src="//www.youtube.com/embed/F_6lHe7Yt5I" height="315" width="560"
-  allowfullscreen frameborder="0"></iframe>
+  
+
 pubDate: 2012-05-31T00:00:00.000Z
 published: true
 tags: ['life', 'advertising', 'urbanest']

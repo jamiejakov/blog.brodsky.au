@@ -1,7 +1,7 @@
 ---
 title: Mongolian Throat Singing
 author: Vadim Brodsky
-description: 'https://www.youtube.com/watch?v=p\_5yt5IX38I'
+description: ''
 pubDate: 2017-01-08T00:00:00.000Z
 published: true
 tags: ['music', 'mongolia']

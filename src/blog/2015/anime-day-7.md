@@ -1,7 +1,7 @@
 ---
 title: Anime Day 7
 author: Vadim Brodsky
-description: '<iframe src="https://www.youtube.com/embed/VyYCYd2wHY4" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>'
+description: ''
 pubDate: 2015-09-22T00:00:00.000Z
 published: true
 tags: ['anime', '100-days-of-anime', 'chobits', 'edenoftheeast', 'steinsgate', 'tatami-galaxy']

@@ -3,14 +3,15 @@ title: Two years down the road
 author: Vadim Brodsky
 description: >-
   Wow, I can't believe that it has already been 2 years since I set up this blog
-  and made [my first
-  post](/posts/2012/japanese-app-update-first-blog-post/).
+  and made my first
+  post.
   It has been a long ride, and I can only look back the past with sweet memories
   of writing up these blog posts that mostly consist of my own opinions or just
   random cool stuff. Like for example last year instead of celebrating a year of
   blogging, I was too busy being excited for
-  [Armikrog](/posts/2013/armikrog/)! (which still hasn't come
+  Armikrog! (which still hasn't come
   out)
+
 image:
   src: images/Cake.png
   alt: The cake is a lie

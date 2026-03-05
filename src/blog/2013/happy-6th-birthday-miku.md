@@ -5,9 +5,10 @@ description: >-
   Happy birthday to my favorite virtual idol Hatsune Miku! You were born exactly
   6 years ago, but for all of us you will forever be 16 years old ^\_^ You can
   also read the congratulations from my friends
-  [Ruben](http://rubenerd.com/happy-birthday-miku/) and
-  [Clara](http://kirinyan.net/another-miku-birthday-and-vocaloid-english-v3/) on
+  Ruben and
+  Clara on
   their blogs.
+
 image:
   src: images/Hatsune.Miku_.full_.270039.jpg
   alt: Hatsune.Miku.full.270039

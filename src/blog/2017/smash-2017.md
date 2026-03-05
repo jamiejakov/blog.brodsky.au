@@ -1,7 +1,7 @@
 ---
 title: SMASH! 2017
 author: Vadim Brodsky
-description: "Every year I go to [SMASH!](https://www.smash.org.au)\_and every year I cosplay. This year\_instead of the usual \"dress up as the character you like\", I did something different. I actually brought the anime character into the real world! I brought [Inferno Cop](https://myanimelist.net/anime/16774/Inferno_Cop) to life."
+description: "Every year I go to SMASH!_and every year I cosplay. This year_instead of the usual \"dress up as the character you like\", I did something different. I actually brought the anime character into the real world! I brought Inferno Cop to life."
 image:
   src: images/smash2017.jpg
   alt: smash2017

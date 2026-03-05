@@ -3,8 +3,8 @@ title: My ClariS can't be this cute!
 author: Vadim Brodsky
 description: >-
   I made this as a music monday a few weeks ago. Copy pasta from the
-  [Anime@UTS](http://utsanime.net/2012/08/music-monday-my-claris-cant-be-this-cute/
-  "Anime@UTS website") website.
+  Anime@UTS website.
+
 image:
   src: images/ClariS.png
   alt: ClariS
