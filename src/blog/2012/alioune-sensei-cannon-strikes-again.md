@@ -1,0 +1,17 @@
+---
+title: "Alioune Sensei (cannon) strikes again."
+date: 2012-06-11
+categories: 
+  - "games"
+tags: 
+  - "cammy"
+  - "street-fighter"
+---
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/Zj3acx-rZ10" frameborder="0" allowfullscreen></iframe>
+
+dat combo at 0:25!!
+
+dat corner pressure!
+
+dat a\*\*!
