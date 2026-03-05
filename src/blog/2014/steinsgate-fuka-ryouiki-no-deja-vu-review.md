@@ -1,7 +1,7 @@
 ---
 title: Steins;Gate Fuka Ryouiki no Deja vu Review
 author: Vadim Brodsky
-description: "Back in 2011 [I wrote a review](http://jamiejakov.lv/anime/steinsgate-review/) of _Steins;Gate_, a series that I really enjoyed watching and gave it a 10 straight away and I even said that it was the best time travel story told in anime. Now, 2 years later, 7 months after the movie came out in cinemas I ordered the Blu-Ray and today we had a screening with the anime clubs of UTS, USyd and UNSW. It was a grand event, around 50 people showed up to watch this awesome movie.\_Anyway to the review."
+description: "Back in 2011 [I wrote a review](/posts/2012/steinsgate-review/) of _Steins;Gate_, a series that I really enjoyed watching and gave it a 10 straight away and I even said that it was the best time travel story told in anime. Now, 2 years later, 7 months after the movie came out in cinemas I ordered the Blu-Ray and today we had a screening with the anime clubs of UTS, USyd and UNSW. It was a grand event, around 50 people showed up to watch this awesome movie.\_Anyway to the review."
 image:
   src: images/steinsgate_movie.png
   alt: Steins Gate Movie
@@ -12,7 +12,7 @@ tags: ['anime', 'blu_ray', 'review', 'steinsgate', 'time-travel']
 
 ![Steins Gate Movie](images/steinsgate_movie.png)
 
-Back in 2011 [I wrote a review](http://jamiejakov.lv/anime/steinsgate-review/) of _Steins;Gate_, a series that I really enjoyed watching and gave it a 10 straight away and I even said that it was the best time travel story told in anime. Now, 2 years later, 7 months after the movie came out in cinemas I ordered the Blu-Ray and today we had a screening with the anime clubs of UTS, USyd and UNSW. It was a grand event, around 50 people showed up to watch this awesome movie. Anyway to the review.
+Back in 2011 [I wrote a review](/posts/2012/steinsgate-review/) of _Steins;Gate_, a series that I really enjoyed watching and gave it a 10 straight away and I even said that it was the best time travel story told in anime. Now, 2 years later, 7 months after the movie came out in cinemas I ordered the Blu-Ray and today we had a screening with the anime clubs of UTS, USyd and UNSW. It was a grand event, around 50 people showed up to watch this awesome movie. Anyway to the review.
 
 **\*\*\*\* CAUTION SPOILERS AHEAD \*\*\*\***
 

@@ -22,7 +22,7 @@ What is more astounding then the concept of the game, is the sheer number of mem
 
 [Know Your Meme](http://knowyourmeme.com/memes/events/twitch-plays-pokemon) has all of the popular memes written down and explained for all of you guys who either haven't been following TPP or have no idea why they are calling the 23rd of February - Bloody Sunday.
 
-[![TheTeam](images/TheTeam.jpg)](http://jamiejakov.lv/wp-content/uploads/2014/02/TheTeam.jpg)The main reason why people like TPP and why it has become so insanely popular is due to that fact that absolutely anyone can contribute to the success and progress of the game, and absolutely anyone can troll the players and make sure they fail. Both of these aspects are what make it fun to watch and play.
+[![TheTeam](images/TheTeam.jpg)](images/TheTeam.jpg)The main reason why people like TPP and why it has become so insanely popular is due to that fact that absolutely anyone can contribute to the success and progress of the game, and absolutely anyone can troll the players and make sure they fail. Both of these aspects are what make it fun to watch and play.
 
 This is their current team with Lord Helix already evolved into [Omastar](<http://bulbapedia.bulbagarden.net/wiki/Omastar_(Pokémon)>). At the time of writing this post they have been playing for 15 days and 10 hours, have collected all 8 badges and are on the way to Victory road. However the team is a little underpowered so they need to level them up a bit beforehand. Let the grinding begin!
 

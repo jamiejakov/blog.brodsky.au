@@ -18,6 +18,6 @@ Today Apple released updates for both their desktop and mobile operating systems
 
 To celebrate, here is a photo of the sunset over Rhodes from a day ago. I'm of to bed, as tomorrow the iWatch is up for display at the Apple stores around Sydney and I must take a look at this new piece of technology!
 
-[![Red Sunset at Rhodes](images/IMG_0043.jpg)](http://jamiejakov.lv/wp-content/uploads/2015/04/IMG_0043.jpg)
+[![Red Sunset at Rhodes](images/IMG_0043.jpg)](images/IMG_0043.jpg)
 
 This is an unedited photo captured on my iPhone 5s at 6pm on the 8th of April.

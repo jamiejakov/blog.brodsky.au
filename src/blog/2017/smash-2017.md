@@ -20,4 +20,4 @@ It took me quite some time to make him. First I had to get a large enough image 
 
 This was a great cosplay idea, an I might reuse him when season 2 actually comes out, or just as a prop for something somewhere at an AnimeSydney event.
 
-This is not the first time I've cosplayed and definitely not the last. You can see all my previous cosplays [here](https://jamiejakov.lv/tag/cosplay/).
+This is not the first time I've cosplayed and definitely not the last. You can see all my previous cosplays [here](/tags/cosplay/).

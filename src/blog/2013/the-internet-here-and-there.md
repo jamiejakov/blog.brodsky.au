@@ -20,6 +20,6 @@ After spending the first month in utter depression, I somehow managed to befrien
 
 So a few days ago my parents upgraded the internet back home. So now instead of having a fiber optic cable run to our house and then a copper cable from the basement to our flat (we live in an apartment complex where there are like 200 flats in the building), we have a fiber optic cable running right through our flat and connected to a modem which then goes to my router and lovely PC. So now instead of paying Ls15 (~$30) per month for both cable TV, landline and internet my parents will have to pay Ls20 which is 34 Australian dollars per month. (Ls is the currency in Latvia - Latvian Lats) And you know what they are getting for this price? I don't think you guys can even imagine...
 
-[![Speed test in Sydney - Australia](images/Internet_Sydney.png 'Speed test in Sydney - Australia')](http://jamiejakov.lv/wp-content/uploads/2013/04/Internet_Sydney.png)[![Speedtest in Riga - Latvia](images/Internet_Riga.png 'Speedtest in Riga - Latvia')](http://jamiejakov.lv/wp-content/uploads/2013/04/Internet_Riga.png)
+[![Speed test in Sydney - Australia](images/Internet_Sydney.png 'Speed test in Sydney - Australia')](images/Internet_Sydney.png)[![Speedtest in Riga - Latvia](images/Internet_Riga.png 'Speedtest in Riga - Latvia')](images/Internet_Riga.png)
 
 The question I ask myself now is: why did I come to Australia again? WHYYY?

@@ -1,7 +1,7 @@
 ---
 title: My Home Media Server – PLEX
 author: Vadim Brodsky
-description: 'Continuing on from my previous [post](http://jamiejakov.lv/2016/04/my-home-media-server-nas/) about building a home media server, this time, I''ll tell you about a brilliant piece of software called [PLEX](https://plex.tv).'
+description: 'Continuing on from my previous [post](/posts/2016/my-home-media-server-nas/) about building a home media server, this time, I''ll tell you about a brilliant piece of software called [PLEX](https://plex.tv).'
 image:
   src: images/Plex.jpg
   alt: Plex
@@ -10,7 +10,7 @@ published: true
 tags: ['movies_tv', 'technology', 'media', 'nas', 'plex', 'server']
 ---
 
-Continuing on from my previous [post](http://jamiejakov.lv/2016/04/my-home-media-server-nas/) about building a home media server, this time, I'll tell you about a brilliant piece of software called [PLEX](https://plex.tv).
+Continuing on from my previous [post](/posts/2016/my-home-media-server-nas/) about building a home media server, this time, I'll tell you about a brilliant piece of software called [PLEX](https://plex.tv).
 
 So what is Plex? Its a media player system that automatically organises your media in a very lovely and intuitive interface. So say you got a folder of all your media (iTunes for example) and its jumbled up all over the place. So you would like to easily watch episode 5 of  season 4 of Game of Thrones? Good luck with that, you need to find the folder, then the subfolder wherever it was saved in, find the season, and then the episode. Now imagine that you are off at your  mate's place and you wanna watch the episode together with him, well then you are out of luck.
 

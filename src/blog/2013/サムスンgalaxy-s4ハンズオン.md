@@ -29,6 +29,6 @@ S4にはハードウェアが新しいCPUや13メガピクセルカメラや2GB 
 
 したがって、発売まで一ヶ月待ち、しっかりとS４の資質を見ないと判断はできない。
 
-[![Comparison between S3 and S4](images/SamusngS3toS4Comparison.jpg)](http://jamiejakov.lv/wp-content/uploads/2013/04/SamusngS3toS4Comparison.jpg)
+[![Comparison between S3 and S4](images/SamusngS3toS4Comparison.jpg)](images/SamusngS3toS4Comparison.jpg)
 
  [](http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html)

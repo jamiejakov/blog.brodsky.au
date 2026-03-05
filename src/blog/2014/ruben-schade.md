@@ -27,7 +27,7 @@ So I walk into my first real university class, which was a lecture on Communicat
 
 Soon the lecturer said that we need to talk to the person beside us about some topic (which I completely forgot). Well now I'll have to speak to this Aussie looking guy. To my surprise we had a nice talk and at some point during the conversation I must have pulled out my ... phone and he noticed that I had Kyubey there (he was my avatar at the point, so he was both on my Facebook and Google+). He not only noticed, but also recognized the character and said: "Thats from Madoka Magika right?". I was surprised, shocked, astonished, bewildered and other synonyms of this word. This person sitting next to me know one of my favorite shows, not only that he had watched it! He introduced himself to be Ruben Schade and, well, at that point I added him on Google+ (screw Google+) and started talking to him about more and more anime. Including, but not limited to those with cute lolis and KugiRie.
 
-[![Senjo](images/Senjo.jpg)](http://jamiejakov.lv/wp-content/uploads/2014/06/Senjo.jpg)
+[![Senjo](images/Senjo.jpg)](images/Senjo.jpg)
 
 **Some time later....**
 

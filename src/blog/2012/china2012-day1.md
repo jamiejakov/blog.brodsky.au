@@ -1,7 +1,7 @@
 ---
 title: China (Beijing) Day 1
 author: Vadim Brodsky
-description: "I have already written up a [post about me walking around Beijing](http://jamiejakov.lv/travel/walking-around-beijing/) during the first day while waiting for my parents.\_So now, since I have normal internet again, I will continue the story."
+description: "I have already written up a [post about me walking around Beijing](/posts/2012/walking-around-beijing/) during the first day while waiting for my parents.\_So now, since I have normal internet again, I will continue the story."
 image:
   src: images/Beijing_Circus.jpg
   alt: Beijing_Circus
@@ -12,7 +12,7 @@ tags: ['travel', 'beijing', 'china_2012']
 
 ![Beijing_Circus](images/Beijing_Circus.jpg)
 
-I have already written up a [post about me walking around Beijing](http://jamiejakov.lv/travel/walking-around-beijing/) during the first day while waiting for my parents. So now, since I have normal internet again, I will continue the story.
+I have already written up a [post about me walking around Beijing](/posts/2012/walking-around-beijing/) during the first day while waiting for my parents. So now, since I have normal internet again, I will continue the story.
 
 ---
 

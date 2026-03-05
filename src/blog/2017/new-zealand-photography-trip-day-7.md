@@ -27,4 +27,4 @@ Then we set out to Roy's Peak, but little did we know that the next hike would b
 
 As you will see, the photos from the evening turned out fantastic, with a gorgeous display of colours and the stunning landscapes.
 
-[![flickr](images/flickr_logo.png)](http://jamiejakov.lv)
+[![flickr](images/flickr_logo.png)](/)

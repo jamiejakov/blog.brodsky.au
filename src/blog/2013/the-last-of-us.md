@@ -1,7 +1,7 @@
 ---
 title: The Last Of Us
 author: Vadim Brodsky
-description: "This is so overdue! I should have finished _[The Last Of Us](http://www.thelastofus.com)_ before going back home to\_[Latvia](http://jamiejakov.lv/travel/tadaima-im-home/), but at that time I was only about 60% into the game. So now, 15 hours of gameplay later, I am done! And I can clearly say that this title deserves to be called the best game of 2013 (we shall see what happens when Watch Dogs and GTAV come out). I will try to keep this review as spoiler free as possible, but at the same time I would like to cover all the parts of the game and at least mention the characters that played a vital role in the story."
+description: "This is so overdue! I should have finished _[The Last Of Us](http://www.thelastofus.com)_ before going back home to\_[Latvia](/posts/2013/tadaima-im-home/), but at that time I was only about 60% into the game. So now, 15 hours of gameplay later, I am done! And I can clearly say that this title deserves to be called the best game of 2013 (we shall see what happens when Watch Dogs and GTAV come out). I will try to keep this review as spoiler free as possible, but at the same time I would like to cover all the parts of the game and at least mention the characters that played a vital role in the story."
 image:
   src: images/HyLyQFr.jpg
   alt: thelastofus
@@ -12,7 +12,7 @@ tags: ['games', 'review']
 
 ![thelastofus](images/HyLyQFr.jpg)
 
-This is so overdue! I should have finished _[The Last Of Us](http://www.thelastofus.com)_ before going back home to [Latvia](http://jamiejakov.lv/travel/tadaima-im-home/), but at that time I was only about 60% into the game. So now, 15 hours of gameplay later, I am done! And I can clearly say that this title deserves to be called the best game of 2013 (we shall see what happens when Watch Dogs and GTAV come out). I will try to keep this review as spoiler free as possible, but at the same time I would like to cover all the parts of the game and at least mention the characters that played a vital role in the story.
+This is so overdue! I should have finished _[The Last Of Us](http://www.thelastofus.com)_ before going back home to [Latvia](/posts/2013/tadaima-im-home/), but at that time I was only about 60% into the game. So now, 15 hours of gameplay later, I am done! And I can clearly say that this title deserves to be called the best game of 2013 (we shall see what happens when Watch Dogs and GTAV come out). I will try to keep this review as spoiler free as possible, but at the same time I would like to cover all the parts of the game and at least mention the characters that played a vital role in the story.
 
 ---
 

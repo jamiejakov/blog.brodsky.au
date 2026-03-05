@@ -1,7 +1,7 @@
 ---
 title: Anime@UTS AGM 2013
 author: Vadim Brodsky
-description: "Remember [last year](http://jamiejakov.lv/life/animeuts-agm/) when I became the screenings director for the [UTS anime club](http://utsanime.net)? Well that just happened again! On the 5th of October we had our AGM and elected a new team for 2014. Our beloved president [Lexi](http://twitter.com/maidforclass)\_had to step down as he will be graduating next year, then our amazingly talented and hardworking secretary - [Clara](http://kirinyan.net/shit-happens/) ended up leaving our ranks as well, and also our 2 photographers, treasurer and vice have been replaced.\_I can say thank you for your hard work, and I hope to see you around."
+description: "Remember [last year](/posts/2012/animeuts-agm-2012/) when I became the screenings director for the [UTS anime club](http://utsanime.net)? Well that just happened again! On the 5th of October we had our AGM and elected a new team for 2014. Our beloved president [Lexi](http://twitter.com/maidforclass)\_had to step down as he will be graduating next year, then our amazingly talented and hardworking secretary - [Clara](http://kirinyan.net/shit-happens/) ended up leaving our ranks as well, and also our 2 photographers, treasurer and vice have been replaced.\_I can say thank you for your hard work, and I hope to see you around."
 image:
   src: images/utsanime2013exec.jpg
   alt: uts anime 2013 exec team
@@ -12,7 +12,7 @@ tags: ['life', 'utsanime', 'exec-team']
 
 ![uts anime 2013 exec team](images/utsanime2013exec.jpg)
 
-Remember [last year](http://jamiejakov.lv/life/animeuts-agm/) when I became the screenings director for the [UTS anime club](http://utsanime.net)? Well that just happened again! On the 5th of October we had our AGM and elected a new team for 2014. Our beloved president [Lexi](http://twitter.com/maidforclass) had to step down as he will be graduating next year, then our amazingly talented and hardworking secretary - [Clara](http://kirinyan.net/shit-happens/) ended up leaving our ranks as well, and also our 2 photographers, treasurer and vice have been replaced. I can say thank you for your hard work, and I hope to see you around.
+Remember [last year](/posts/2012/animeuts-agm-2012/) when I became the screenings director for the [UTS anime club](http://utsanime.net)? Well that just happened again! On the 5th of October we had our AGM and elected a new team for 2014. Our beloved president [Lexi](http://twitter.com/maidforclass) had to step down as he will be graduating next year, then our amazingly talented and hardworking secretary - [Clara](http://kirinyan.net/shit-happens/) ended up leaving our ranks as well, and also our 2 photographers, treasurer and vice have been replaced. I can say thank you for your hard work, and I hope to see you around.
 
 Our new execs (going left to right):
 

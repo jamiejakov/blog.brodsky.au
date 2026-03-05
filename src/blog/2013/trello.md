@@ -16,7 +16,7 @@ Today I'd like to talk about [Trello](http://trello.com). Trello is a cloud base
 
 ---
 
-Initially introduced to me by my close friend [Ruben](http://rubenerd.com) during our Digital multimedia class, I wasn't too impressed and we didn't end up using it that much. This semester however for our Software Engineering Practice (SEP) class we had to use a project management tool called Jazz Hub ([I wrote about how it crashed](http://jamiejakov.lv/technology/so-no-lab-this-week/) a few weeks ago). After playing around in Jazz for a good hour the whole team (6 people) decided that its too complicated for our needs and we switched to Trello, which our team leader Ruben proposed.
+Initially introduced to me by my close friend [Ruben](http://rubenerd.com) during our Digital multimedia class, I wasn't too impressed and we didn't end up using it that much. This semester however for our Software Engineering Practice (SEP) class we had to use a project management tool called Jazz Hub ([I wrote about how it crashed](/posts/2013/so-no-lab-this-week/) a few weeks ago). After playing around in Jazz for a good hour the whole team (6 people) decided that its too complicated for our needs and we switched to Trello, which our team leader Ruben proposed.
 
 We haven't looked back ever since. The interface is slick and easy to use, the software itself is reliable and gets the job done; it even has integration with dropbox and GDrive, which is very convenient for our causes. This is what our task pane looks like right now, we have finished and submitted the first part of our project -  the documentation and are ready to move on to the next stage:
 

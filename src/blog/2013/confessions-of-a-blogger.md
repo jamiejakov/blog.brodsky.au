@@ -31,7 +31,7 @@ I don't think I am at that stage. I post about my travels, mainly for my family 
 
 **What was your first blog post?**
 
-This little baby right here: [Japanese App](http://jamiejakov.lv/technology/japanese-app-update-first-blog-post/). It was a quick thought about the update of my favorite japanese app for iPhone (and now iPad). Nothing special, but I will always look back to it, because it was my first!
+This little baby right here: [Japanese App](/posts/2012/japanese-app-update-first-blog-post/). It was a quick thought about the update of my favorite japanese app for iPhone (and now iPad). Nothing special, but I will always look back to it, because it was my first!
 
 **What have been your biggest challenges blogging?**
 

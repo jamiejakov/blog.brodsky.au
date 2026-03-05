@@ -12,7 +12,7 @@ tags: ['music', 'pokemon', 'sydney-opera-house']
 
 When I was a kid, my parents used to take me to watch theatre plays, operas and of course symphonic orchestra performances. I've heard my fair share of Bethoven, Mozart, Bach, Tchaikovsky. And during my high school days, I also played a fair share of their pieces as well, while being part of the school orchestra.
 
-But ever since I came to Australia, I haven't had the chance to go to anything of the sort. And the only time I've been inside the opera house, was when I went to watch a rock concert by [Tenacious D](http://jamiejakov.lv/life/tenacious-d-in-sydney/ 'Tenacious D in Sydney').
+But ever since I came to Australia, I haven't had the chance to go to anything of the sort. And the only time I've been inside the opera house, was when I went to watch a rock concert by [Tenacious D](/posts/2013/tenacious-d-in-sydney/ 'Tenacious D in Sydney').
 
 <iframe src="https://www.youtube.com/embed/CgXjuGNU5is" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
