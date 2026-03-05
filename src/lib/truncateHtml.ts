@@ -1,3 +1,11 @@
+/** Matches markdown horizontal rule: ---, ***, or ___ on its own line */
+const MARKDOWN_HR_REGEX = /^(?:---|\*\*\*|___)\s*$/m;
+
+/** Returns true if the markdown body contains a horizontal rule (used for excerpt truncation). */
+export function markdownHasHr(body: string | undefined): boolean {
+  return !!body && MARKDOWN_HR_REGEX.test(body);
+}
+
 /**
  * Truncates HTML string at the first <hr> tag.
  * Removes everything after (and including) the <hr> tag.

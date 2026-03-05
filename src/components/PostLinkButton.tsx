@@ -18,10 +18,13 @@ export const PostTitleLinkButton: React.FC<PostTitleLinkButtonProps> = (props) =
 
 type PostReadMoreButtonProps = {
   id: string;
+  /** When true, shows "Read More" (excerpt was truncated). When false, shows "View Post". */
+  hasExcerpt?: boolean;
 };
 
 export const PostReadMoreButton: React.FC<PostReadMoreButtonProps> = (props) => {
-  const { id } = props;
+  const { id, hasExcerpt = true } = props;
+  const label = hasExcerpt ? 'Read More' : 'View Post';
 
   return (
     <Button
@@ -30,7 +33,7 @@ export const PostReadMoreButton: React.FC<PostReadMoreButtonProps> = (props) => 
       className="rounded-full text-lg font-medium h-auto py-1 self-end no-underline"
     >
       <a href={`/posts/${id}/`}>
-        Read More <ArrowRightIcon className="size-6" />
+        {label} <ArrowRightIcon className="size-6" />
       </a>
     </Button>
   );

@@ -3,14 +3,12 @@ title: 'Brand new day, brand new life!'
 author: Vadim Brodsky
 description: 素晴らしい日々よ感謝してまだまだいける
 image:
-  src: images/Sakurajima.jpg
+  src: images/sakurajima1.jpg
   alt: Sakurajima
 pubDate: 2014-04-09T00:00:00.000Z
 published: true
 tags: ['life', 'bicycle', 'ics', 'japan-2014']
 ---
-
-![Sakurajima](images/Sakurajima.jpg)
 
 素晴らしい日々よ感謝してまだまだいける
 
