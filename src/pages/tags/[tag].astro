@@ -36,13 +36,10 @@ const sortedGroups = groupPostsByYearMonth(posts);
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
-  <article>
-    <section>
-      <p>
-        Explore all posts tagged with <strong>{tag}</strong>.
-      </p>
-    </section>
-  </article>
+  <h2 class="text-2xl font-medium mb-3">
+    Explore all posts tagged with <strong>{tag}</strong>{' '}
+    <span class="text-muted-foreground font-normal">({posts.length})</span>
+  </h2>
   <div class="flex flex-col gap-8">
     {
       sortedGroups.map(([, { heading, posts: groupPosts }]) => (
