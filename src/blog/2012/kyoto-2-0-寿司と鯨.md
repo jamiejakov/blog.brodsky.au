@@ -1,17 +1,13 @@
 ---
 title: Kyoto 2.0 寿司と鯨
 author: Vadim Brodsky
-description: >-
-  So today my friend Kosuke invited me over to Kyoto once again, this time to
-  eat some real Japanese sushi. So 3 things happened: Street fighter
-  competition, playing Street Fighter with Kosuke, and eating delicious sushi
-  with Kosuke and his father.
+description: 'So today my friend Kosuke invited me over to Kyoto once again, this time to eat some real Japanese sushi. So 3 things happened: Street fighter competition, playing Street Fighter with Kosuke, and eating delicious sushi with Kosuke and his father.'
 image:
   src: images/KyotoSushi.jpg
   alt: Kyoto Sushi
 pubDate: 2012-07-21T00:00:00.000Z
 published: true
-tags: ['travel', 'japan_2012', 'kyoto', 'street-fighter', 'sushi', 'whale']
+tags: ['travel', 'japan_2012', 'kyoto', 'street-fighter']
 ---
 
 ![Kyoto Sushi](images/KyotoSushi.jpg)

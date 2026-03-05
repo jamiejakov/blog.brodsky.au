@@ -7,7 +7,7 @@ image:
   alt: parliament house
 pubDate: 2013-06-13T00:00:00.000Z
 published: true
-tags: ['life', 'canberra', 'war-memorial']
+tags: ['life', 'war-memorial']
 ---
 
 ![parliament house](images/IMG_1772-2.jpg)

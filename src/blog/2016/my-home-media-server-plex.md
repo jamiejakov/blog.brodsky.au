@@ -1,17 +1,13 @@
 ---
 title: My Home Media Server – PLEX
 author: Vadim Brodsky
-description: >-
-  Continuing on from my previous
-  [post](http://jamiejakov.lv/2016/04/my-home-media-server-nas/) about building
-  a home media server, this time, I'll tell you about a brilliant piece of
-  software called [PLEX](https://plex.tv).
+description: 'Continuing on from my previous [post](http://jamiejakov.lv/2016/04/my-home-media-server-nas/) about building a home media server, this time, I''ll tell you about a brilliant piece of software called [PLEX](https://plex.tv).'
 image:
   src: images/Plex.jpg
   alt: Plex
 pubDate: 2016-04-08T00:00:00.000Z
 published: true
-tags: ['movies_tv', 'technology', 'media', 'nas', 'plex', 'server', 'software']
+tags: ['movies_tv', 'technology', 'media', 'nas', 'plex', 'server']
 ---
 
 Continuing on from my previous [post](http://jamiejakov.lv/2016/04/my-home-media-server-nas/) about building a home media server, this time, I'll tell you about a brilliant piece of software called [PLEX](https://plex.tv).

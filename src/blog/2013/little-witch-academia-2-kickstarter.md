@@ -7,7 +7,7 @@ image:
   alt: Little witch academia OVA
 pubDate: 2013-07-10T00:00:00.000Z
 published: true
-tags: ['anime', 'a', 'kickstarter', 'reddit', 'trigger']
+tags: ['anime', 'kickstarter', 'reddit']
 ---
 
 ![Little witch academia OVA](images/LWA2.jpeg)

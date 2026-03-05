@@ -7,7 +7,7 @@ image:
   alt: happy-go-lucky
 pubDate: 2013-09-09T00:00:00.000Z
 published: true
-tags: ['movies_tv', 'happy', 'review']
+tags: ['movies_tv', 'review']
 ---
 
 ![happy-go-lucky](images/happy-go-lucky.jpg)

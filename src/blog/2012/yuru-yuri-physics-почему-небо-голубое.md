@@ -7,7 +7,7 @@ image:
   alt: YY_1
 pubDate: 2012-07-06T00:00:00.000Z
 published: true
-tags: ['anime', 'physics', 'school', 'yuru-yuri', 'шепелев']
+tags: ['anime', 'school', 'yuru-yuri']
 ---
 
 So I was watching [Yuru Yuri ♪♪](http://myanimelist.net/anime/12403/Yuru_Yuri_♪♪) and then this randomly appeared..... It reminded me a lot of my high school physics teacher Shepelev.

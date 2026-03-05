@@ -7,7 +7,7 @@ image:
   alt: AngelaAki
 pubDate: 2014-07-26T00:00:00.000Z
 published: true
-tags: ['music', 'amy', 'angela-aki', 'concert', 'kagoshima']
+tags: ['music', 'amy', 'concert', 'kagoshima']
 ---
 
 ![AngelaAki](images/AngelaAki.jpg)

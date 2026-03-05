@@ -7,7 +7,7 @@ image:
   alt: Holo
 pubDate: 2015-09-25T00:00:00.000Z
 published: true
-tags: ['anime', '100-days-of-anime', 'spice-and-wolf']
+tags: ['anime', '100-days-of-anime']
 ---
 
 ![Holo](images/Holo.jpg)

@@ -4,7 +4,7 @@ author: Vadim Brodsky
 description: "In 2012 it was decided that the next big world football event - FIFA 2018, will be held in Russia! And last week the official logo was unveiled from a place far far away. If you think of Russia, what comes to mind? Snow, bears, vodka and AK-47? Maybe for some of you, but for educated people, Russia is a symbol of feudal culture, old and deep history,\_and of course the conquering of space in the modern age. So the announcement of the FIFA 2018 logo, was made from the International Space Station on the 29th of October."
 pubDate: 2014-10-31T00:00:00.000Z
 published: true
-tags: ['internetz', 'fifa', 'football', 'sport']
+tags: ['internetz', 'sport']
 ---
 
 In 2012 it was decided that the next big world football event - FIFA 2018, will be held in Russia! And last week the official logo was unveiled from a place far far away. If you think of Russia, what comes to mind? Snow, bears, vodka and AK-47? Maybe for some of you, but for educated people, Russia is a symbol of feudal culture, old and deep history, and of course the conquering of space in the modern age. So the announcement of the FIFA 2018 logo, was made from the International Space Station on the 29th of October.

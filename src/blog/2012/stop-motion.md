@@ -7,7 +7,7 @@ image:
   alt: MGM
 pubDate: 2012-08-09T00:00:00.000Z
 published: true
-tags: ['internetz', 'technology', 'mystery-guitar-man', 'stop-motion', 'youtube']
+tags: ['internetz', 'technology', 'youtube']
 ---
 
 ![MGM](images/MGM.jpg)

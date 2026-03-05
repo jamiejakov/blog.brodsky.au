@@ -7,7 +7,7 @@ image:
   alt: Kill Bill yellow poster
 pubDate: 2013-07-31T00:00:00.000Z
 published: true
-tags: ['movies_tv', 'kill-bill', 'quentin-tarantino', 'review']
+tags: ['movies_tv', 'review']
 ---
 
 ![Kill Bill yellow poster](images/wgpirQq.jpg)

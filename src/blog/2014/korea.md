@@ -7,7 +7,7 @@ image:
   alt: DMZ
 pubDate: 2014-08-27T00:00:00.000Z
 published: true
-tags: ['travel', 'amy', 'dmz', 'dprk', 'korea', 'seoul']
+tags: ['travel', 'amy', 'dprk']
 ---
 
 ![DMZ](images/DMZ.jpg)

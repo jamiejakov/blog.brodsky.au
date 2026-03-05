@@ -7,7 +7,7 @@ image:
   alt: Prototype 2
 pubDate: 2012-06-15T00:00:00.000Z
 published: true
-tags: ['games', 'prototype', 'review']
+tags: ['games', 'review']
 ---
 
 ![Prototype 2](images/prototype2_01.jpg)

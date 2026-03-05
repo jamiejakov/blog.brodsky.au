@@ -1,15 +1,13 @@
 ---
 title: Rubber band ball
 author: Vadim Brodsky
-description: >-
-  My goal: make the worlds largest rubber band ball! (not really, but i want to
-  see how big i can make it).
+description: 'My goal: make the worlds largest rubber band ball! (not really, but i want to see how big i can make it).'
 image:
   src: images/blu.png
   alt: rubber band ball made by blu
 pubDate: 2012-06-06T00:00:00.000Z
 published: true
-tags: ['life', 'blu', 'cartoon-network', 'rubber-band-ball']
+tags: ['life']
 ---
 
 ![rubber band ball made by blu](images/blu.png)

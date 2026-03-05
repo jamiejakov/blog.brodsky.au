@@ -7,7 +7,7 @@ image:
   alt: IMG_3189
 pubDate: 2014-01-27T00:00:00.000Z
 published: true
-tags: ['life', 'drawingcircle', 'jass', 'kite']
+tags: ['life', 'drawingcircle', 'jass']
 ---
 
 ![IMG_3189](images/Kirby_Kite.jpg)26th of January - Australia Day. Its a day of celebration, aussie BBQs and kites! Drawing Circle and the Japanese Australian Students Society (JASS) had a joint event at Centennial Park which was a sort of BBQ / drawing session and kite making workshop. Around 20 people came and overall it was a great joint event, even though it was rather cloudy (with a chance of meatballs).  But that didn't stop multiple groups of aussies gathering together with their family and friends to celebrate this day together.

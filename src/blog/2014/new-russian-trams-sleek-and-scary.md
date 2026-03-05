@@ -7,7 +7,7 @@ image:
   alt: R1
 pubDate: 2014-07-13T00:00:00.000Z
 published: true
-tags: ['technology', 'russia', 'tram']
+tags: ['technology', 'russia']
 ---
 
 ![R1](images/R1.jpg)

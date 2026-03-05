@@ -1,13 +1,10 @@
 ---
 title: Poster Session
 author: Vadim Brodsky
-description: >-
-  <iframe class="imgur-album"
-  src="//imgur.com/a/AJtZ8/embed?background=292929&amp;text=ffffff&amp;link=4e76c9&amp;thumbs=true"
-  width="100%" height="411" frameborder="0"></iframe>
+description: <iframe class="imgur-album" src="//imgur.com/a/AJtZ8/embed?background=292929&amp;text=ffffff&amp;link=4e76c9&amp;thumbs=true" width="100%" height="411" frameborder="0"></iframe>
 pubDate: 2014-10-23T00:00:00.000Z
 published: true
-tags: ['life', 'ics', 'kagoshima', 'poster', 'presentation']
+tags: ['life', 'ics', 'kagoshima']
 ---
 
 <iframe class="imgur-album" src="//imgur.com/a/AJtZ8/embed?background=292929&amp;text=ffffff&amp;link=4e76c9&amp;thumbs=true" width="100%" height="411" frameborder="0"></iframe>

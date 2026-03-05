@@ -7,7 +7,7 @@ image:
   alt: Nausicaä
 pubDate: 2012-06-07T00:00:00.000Z
 published: true
-tags: ['anime', 'movies_tv', 'essay', 'ghibli', 'nausicaa', 'review']
+tags: ['anime', 'movies_tv', 'ghibli', 'review']
 ---
 
 日本語の授業に好きな映画のエッセイを書かなければならなかったので、ナウシカについて書いてしまった。

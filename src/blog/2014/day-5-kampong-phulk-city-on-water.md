@@ -7,7 +7,7 @@ image:
   alt: FloatingCity
 pubDate: 2014-03-13T00:00:00.000Z
 published: true
-tags: ['travel', 'vietnam-cambodia-2014', 'water']
+tags: ['travel', 'vietnam-cambodia-2014']
 ---
 
 ![FloatingCity](images/IMG_3567.jpg)

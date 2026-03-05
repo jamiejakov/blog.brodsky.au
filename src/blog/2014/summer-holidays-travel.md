@@ -7,7 +7,7 @@ image:
   alt: summer
 pubDate: 2014-08-06T00:00:00.000Z
 published: true
-tags: ['travel', 'amy', 'holiday', 'summer']
+tags: ['travel', 'amy', 'holiday']
 ---
 
 ![summer](images/Summer.jpg)

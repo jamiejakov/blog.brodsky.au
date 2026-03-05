@@ -7,7 +7,7 @@ image:
   alt: Kurokawa
 pubDate: 2014-09-20T00:00:00.000Z
 published: true
-tags: ['travel', 'amy', 'hot-spring', 'ics', 'kurokawa']
+tags: ['travel', 'amy', 'hot-spring', 'ics']
 ---
 
 Summer holidays are not over, and neither are my travels. This time Amy and I set on an adventure to venture into the mountains of Kumamoto prefecture, into a small town called Kurokawa onsen. It took us 3 hours to get there by bus from Kumamoto station; it was a long ride, but totally worth it.

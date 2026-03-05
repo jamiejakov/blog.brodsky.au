@@ -1,16 +1,13 @@
 ---
 title: 'Music Monday: >Based SHAFT'
 author: Vadim Brodsky
-description: >-
-  Each of their shows is filled with character development, engaging dialogue,
-  thought provoking themes, deep plot, intelligent humor, symbolism ([meanwhile
-  at shaft](http://i.imgur.com/ApGFIRk.jpg)).
+description: 'Each of their shows is filled with character development, engaging dialogue, thought provoking themes, deep plot, intelligent humor, symbolism ([meanwhile at shaft](http://i.imgur.com/ApGFIRk.jpg)).'
 image:
   src: images/iR8jZ4W.png
   alt: agm.image
 pubDate: 2013-09-23T00:00:00.000Z
 published: true
-tags: ['anime', 'music', 'utsanime', 'monogatari', 'shaft']
+tags: ['anime', 'music', 'utsanime', 'monogatari']
 ---
 
 ![agm.image](images/iR8jZ4W.png)

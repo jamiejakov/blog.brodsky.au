@@ -1,20 +1,13 @@
 ---
 title: 'Photography, from a different angle'
 author: Vadim Brodsky
-description: >-
-  For the longest time I have been taking photos with a [DSLR
-  camera,](http://jamiejakov.lv/2017/04/new-zealand-photography-trip-day-1/) and
-  sometimes with my
-  [iPhone](http://jamiejakov.lv/2018/10/welcome-iphosphophyllite/). Recently
-  however, I've been tempted by the beautiful photos from all these
-  photobloggers and instagrammers, who capture absolutely stunning shots from
-  angles that are near impossible, unless you have a device that can fly.
+description: 'For the longest time I have been taking photos with a [DSLR camera,](http://jamiejakov.lv/2017/04/new-zealand-photography-trip-day-1/) and sometimes with my [iPhone](http://jamiejakov.lv/2018/10/welcome-iphosphophyllite/). Recently however, I''ve been tempted by the beautiful photos from all these photobloggers and instagrammers, who capture absolutely stunning shots from angles that are near impossible, unless you have a device that can fly.'
 image:
   src: images/drone.jpg
   alt: drone
 pubDate: 2019-07-29T00:00:00.000Z
 published: true
-tags: ['technology', 'drone']
+tags: ['technology']
 ---
 
 For the longest time I have been taking photos with a [DSLR camera,](http://jamiejakov.lv/2017/04/new-zealand-photography-trip-day-1/) and sometimes with my [iPhone](http://jamiejakov.lv/2018/10/welcome-iphosphophyllite/). Recently however, I've been tempted by the beautiful photos from all these photobloggers and instagrammers, who capture absolutely stunning shots from angles that are near impossible, unless you have a device that can fly.

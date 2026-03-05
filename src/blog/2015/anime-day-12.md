@@ -7,7 +7,7 @@ image:
   alt: Gurren Lagann
 pubDate: 2015-09-26T00:00:00.000Z
 published: true
-tags: ['anime', '100-days-of-anime', 'guren-lagan']
+tags: ['anime', '100-days-of-anime']
 ---
 
 ![Gurren Lagann](images/GurenLagan.jpg)

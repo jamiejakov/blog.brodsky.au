@@ -7,7 +7,7 @@ image:
   alt: View of Burj Kulifa
 pubDate: 2015-04-18T00:00:00.000Z
 published: true
-tags: ['travel', 'abu-dhabi', 'dubai', 'ferrari', 'mosque', 'water-park']
+tags: ['travel']
 ---
 
 ![View of Burj Kulifa](images/BurjKhalifa.jpg)

@@ -7,7 +7,7 @@ image:
   alt: Takachihono
 pubDate: 2014-04-19T00:00:00.000Z
 published: true
-tags: ['travel', 'ics', 'kagoshima', 'mountain']
+tags: ['travel', 'ics', 'kagoshima']
 ---
 
 ![Takachihono](images/Takachihono.jpg)

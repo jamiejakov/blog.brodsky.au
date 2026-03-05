@@ -7,7 +7,7 @@ image:
   alt: International communication concept
 pubDate: 2013-10-05T00:00:00.000Z
 published: true
-tags: ['life', 'languages', 'learning']
+tags: ['life', 'languages']
 ---
 
 ![International communication concept](images/fll-globe-new.jpgpvc521029e9181a065.jpeg)

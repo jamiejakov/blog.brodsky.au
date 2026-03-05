@@ -1,16 +1,13 @@
 ---
 title: Lockdown
 author: Vadim Brodsky
-description: >-
-  It is now May 2020 and the whole world has been in shutdown for 2 months now.
-  Who would’ve imagined that our normal lives would come to such an abrupt stop
-  in March 2020.
+description: It is now May 2020 and the whole world has been in shutdown for 2 months now. Who would’ve imagined that our normal lives would come to such an abrupt stop in March 2020.
 image:
   src: images/E12EAE6C-4E54-4AC2-9927-F11B1DBE0DB7.jpeg
   alt: E12EAE6C-4E54-4AC2-9927-F11B1DBE0DB7
 pubDate: 2020-05-11T00:00:00.000Z
 published: true
-tags: ['life', 'isolation', 'lockdown', 'pandemic']
+tags: ['life']
 ---
 
 It is now May 2020 and the whole world has been in shutdown for 2 months now. Who would’ve imagined that our normal lives would come to such an abrupt stop in March 2020.

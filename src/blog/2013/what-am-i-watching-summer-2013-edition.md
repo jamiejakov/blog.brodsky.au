@@ -1,32 +1,13 @@
 ---
 title: What am I watching? - Summer 2013 edition
 author: Vadim Brodsky
-description: >-
-  The summer 2013 anime season is already in week 3 so I might as well say what
-  I am watching and give some recommendations, [just like I did in
-  2012](http://jamiejakov.lv/anime/recommended-summer-2012-anime/).
+description: 'The summer 2013 anime season is already in week 3 so I might as well say what I am watching and give some recommendations, [just like I did in 2012](http://jamiejakov.lv/anime/recommended-summer-2012-anime/).'
 image:
   src: images/WatamoteOP.png
   alt: watamote
 pubDate: 2013-07-18T00:00:00.000Z
 published: true
-tags:
-  [
-    'anime',
-    'anime-list',
-    'danganronpa',
-    'free',
-    'gatchaman',
-    'genshiken',
-    'ginnosaji',
-    'toarumajutsunoindex',
-    'kyoani',
-    'monogatari',
-    'recommendation',
-    'shingeki',
-    'twogok',
-    'watamote',
-  ]
+tags: ['anime', 'anime-list', 'danganronpa', 'free', 'genshiken', 'ginnosaji', 'toarumajutsunoindex', 'kyoani', 'monogatari', 'recommendation', 'twogok', 'watamote']
 ---
 
 ![watamote](images/WatamoteOP.png)

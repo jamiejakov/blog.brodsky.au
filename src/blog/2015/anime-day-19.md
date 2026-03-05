@@ -7,7 +7,7 @@ image:
   alt: ParanoiaAgent
 pubDate: 2015-10-04T00:00:00.000Z
 published: true
-tags: ['anime', '100-days-of-anime', 'paranoia-agent']
+tags: ['anime', '100-days-of-anime']
 ---
 
 ### Day 19 - Best anime villain

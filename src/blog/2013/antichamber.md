@@ -1,17 +1,13 @@
 ---
 title: Antichamber
 author: Vadim Brodsky
-description: >-
-  Today I finally finished this great game. Wow, just wow. I really love puzzle
-  games and I can say this is a very high quality puzzle game. It makes you
-  think out of the box (or should I say cube XD). I am talking of course about
-  [Antichamber](http://www.antichamber-game.com).
+description: 'Today I finally finished this great game. Wow, just wow. I really love puzzle games and I can say this is a very high quality puzzle game. It makes you think out of the box (or should I say cube XD). I am talking of course about [Antichamber](http://www.antichamber-game.com).'
 image:
   src: images/Antichamber.jpg
   alt: antichamber level
 pubDate: 2013-07-12T00:00:00.000Z
 published: true
-tags: ['games', 'antichamber', 'puzzle', 'review']
+tags: ['games', 'review']
 ---
 
 ![antichamber level](images/Antichamber.jpg)

@@ -1,12 +1,10 @@
 ---
 title: If the Internet was a High School
 author: Vadim Brodsky
-description: >-
-  <iframe src="https://www.youtube.com/embed/FHrzQgcZKqk" width="640"
-  height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+description: '<iframe src="https://www.youtube.com/embed/FHrzQgcZKqk" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>'
 pubDate: 2015-03-26T00:00:00.000Z
 published: true
-tags: ['internetz', 'facebook', 'google', 'high-school', 'internet', 'twitter', 'vine']
+tags: ['internetz', 'facebook', 'google', 'internet']
 ---
 
 <iframe src="https://www.youtube.com/embed/FHrzQgcZKqk" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

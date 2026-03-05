@@ -1,17 +1,13 @@
 ---
 title: Malaysia 2016
 author: Vadim Brodsky
-description: >-
-  And so I find myself in Kuala Lumpur International Airport, sitting at my
-  gate, having waved another goodbye to my parents, on my way back to university
-  and work life in Sydney. The holiday is over, even though it feels like it has
-  only just begun.
+description: 'And so I find myself in Kuala Lumpur International Airport, sitting at my gate, having waved another goodbye to my parents, on my way back to university and work life in Sydney. The holiday is over, even though it feels like it has only just begun.'
 image:
   src: images/IMG_0663.jpg
   alt: IMG_0663
 pubDate: 2016-03-17T00:00:00.000Z
 published: true
-tags: ['travel', 'malaysia']
+tags: ['travel']
 ---
 
 And so I find myself in Kuala Lumpur International Airport, sitting at my gate, having waved another goodbye to my parents, on my way back to university and work life in Sydney. The holiday is over, even though it feels like it has only just begun.

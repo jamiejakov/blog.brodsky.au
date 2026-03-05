@@ -1,20 +1,13 @@
 ---
 title: Game Masters Sydney
 author: Vadim Brodsky
-description: >-
-  When Amy was in New Zealand there was an exhibition of video games happening
-  there, but due to time constrains she couldn't go. But now that it has come to
-  Sydney she can! And we did! Located at the powerhouse museum, which is just a
-  few blocks away from my place, we got to experience and relive the memories of
-  the games that defined our generation. Games like the original Sonic the
-  Hedgehog, or Legend of Zelda, a lot of old retro arcade games, the Warcraft
-  series + other Blizzard games, Rock Band, Brütal Legend, Sims, etc etc.
+description: 'When Amy was in New Zealand there was an exhibition of video games happening there, but due to time constrains she couldn''t go. But now that it has come to Sydney she can! And we did! Located at the powerhouse museum, which is just a few blocks away from my place, we got to experience and relive the memories of the games that defined our generation. Games like the original Sonic the Hedgehog, or Legend of Zelda, a lot of old retro arcade games, the Warcraft series + other Blizzard games, Rock Band, Brütal Legend, Sims, etc etc.'
 image:
   src: images/20131114_game_masters_sydney_powerhouse.jpg
   alt: Game Masters
 pubDate: 2014-01-18T00:00:00.000Z
 published: true
-tags: ['games', 'powerhouse-museum', 'sega', 'wow']
+tags: ['games', 'powerhouse-museum', 'wow']
 ---
 
 ![Game Masters](images/20131114_game_masters_sydney_powerhouse.jpg)

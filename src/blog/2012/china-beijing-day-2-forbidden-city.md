@@ -7,7 +7,7 @@ image:
   alt: BeijingDay2
 pubDate: 2012-06-30T00:00:00.000Z
 published: true
-tags: ['travel', 'beijing', 'china_2012', 'china-dress', 'forbidden-city']
+tags: ['travel', 'beijing', 'china_2012']
 ---
 
 ![BeijingDay2](images/BeijingDay2.jpg)

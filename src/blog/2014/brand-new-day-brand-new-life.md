@@ -7,7 +7,7 @@ image:
   alt: Sakurajima
 pubDate: 2014-04-09T00:00:00.000Z
 published: true
-tags: ['life', 'bicycle', 'ics', 'japan-2014']
+tags: ['life', 'ics', 'japan-2014']
 ---
 
 素晴らしい日々よ感謝してまだまだいける

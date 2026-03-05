@@ -4,7 +4,7 @@ author: Vadim Brodsky
 description: 'https://www.youtube.com/watch?v=Mh5LY4Mz15o'
 pubDate: 2016-02-05T00:00:00.000Z
 published: true
-tags: ['internetz', 'history', 'japan']
+tags: ['internetz', 'japan']
 ---
 
 https://www.youtube.com/watch?v=Mh5LY4Mz15o

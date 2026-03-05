@@ -1,18 +1,13 @@
 ---
 title: Preparations for Japan - Packing
 author: Vadim Brodsky
-description: >-
-  Yesterday I started putting away all the figures that have made my shelves
-  their home. Now they are back in their cramped up boxes and those boxes are in
-  another box (Yo DAWG~). Now my shelves are so empty and soon my whole room
-  will be as well. It is sad to leave the place that you called home for over 3
-  years now, but I must look ahead and welcome my new place in Japan!
+description: 'Yesterday I started putting away all the figures that have made my shelves their home. Now they are back in their cramped up boxes and those boxes are in another box (Yo DAWG~). Now my shelves are so empty and soon my whole room will be as well. It is sad to leave the place that you called home for over 3 years now, but I must look ahead and welcome my new place in Japan!'
 image:
   src: images/packing.jpg
   alt: packing
 pubDate: 2014-02-27T00:00:00.000Z
 published: true
-tags: ['life', 'ics', 'japan-2014', 'packing']
+tags: ['life', 'ics', 'japan-2014']
 ---
 
 ![packing](images/packing.jpg)

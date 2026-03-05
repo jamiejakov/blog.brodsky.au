@@ -7,7 +7,7 @@ image:
   alt: Kirishima
 pubDate: 2014-11-22T00:00:00.000Z
 published: true
-tags: ['travel', 'autumn', 'gaijin-gang', 'ics', 'kagoshima', 'kirishima', 'leaves']
+tags: ['travel', 'gaijin-gang', 'ics', 'kagoshima']
 ---
 
 ![Kirishima](images/kirishima.jpg)

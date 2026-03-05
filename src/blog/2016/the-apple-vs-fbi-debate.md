@@ -1,19 +1,13 @@
 ---
 title: The Apple vs FBI debate
 author: Vadim Brodsky
-description: >-
-  You have probably heard about this case, but for those that haven't: the FBI
-  have ordered Apple to create a version of iOS that would allow the FBI to
-  access a terrorists smartphone in hopes of finding some valuable clues to the
-  case and possible links to other terrorists. What they affectively want is for
-  Apple to compromise their own security "for this one case" and then
-  "un-compromise" it again. Let that sink in.
+description: 'You have probably heard about this case, but for those that haven''t: the FBI have ordered Apple to create a version of iOS that would allow the FBI to access a terrorists smartphone in hopes of finding some valuable clues to the case and possible links to other terrorists. What they affectively want is for Apple to compromise their own security "for this one case" and then "un-compromise" it again. Let that sink in.'
 image:
   src: images/encryption_1.jpg
   alt: encryption_1
 pubDate: 2016-03-16T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'fbi', 'privacy', 'security']
+tags: ['technology', 'apple-2']
 ---
 
 You have probably heard about this case, but for those that haven't: the FBI have ordered Apple to create a version of iOS that would allow the FBI to access a terrorists smartphone in hopes of finding some valuable clues to the case and possible links to other terrorists. What they affectively want is for Apple to compromise their own security "for this one case" and then "un-compromise" it again. Let that sink in.

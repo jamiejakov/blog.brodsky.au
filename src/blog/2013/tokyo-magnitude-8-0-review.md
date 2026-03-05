@@ -7,7 +7,7 @@ image:
   alt: TokyoMagnitude1
 pubDate: 2013-02-18T00:00:00.000Z
 published: true
-tags: ['anime', 'review', 'tokyo-magnitude-8-0']
+tags: ['anime', 'review']
 ---
 
 ![TokyoMagnitude1](images/TokyoMagnitude1.jpg)

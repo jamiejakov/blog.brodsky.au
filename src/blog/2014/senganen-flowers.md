@@ -7,7 +7,7 @@ image:
   alt: Gayjin Gang
 pubDate: 2014-11-09T00:00:00.000Z
 published: true
-tags: ['life', 'festival', 'flowers', 'gaijin-gang', 'ics', 'kagoshima']
+tags: ['life', 'festival', 'gaijin-gang', 'ics', 'kagoshima']
 ---
 
 ![Gayjin Gang](images/DSC_0998.jpg)

@@ -111,6 +111,7 @@ export default defineConfig(
       '**/*.d.ts',
       '**/*.d.tsx',
       '**/old/**/*',
+      '**/scripts/**/*',
       '**/example/**/*',
       '**/*config.js*',
       '**/*config.mjs*',

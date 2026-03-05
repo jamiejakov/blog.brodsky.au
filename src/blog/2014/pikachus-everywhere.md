@@ -7,7 +7,7 @@ image:
   alt: obon-pikachu
 pubDate: 2014-08-18T00:00:00.000Z
 published: true
-tags: ['travel', 'amy', 'ics', 'pikachu', 'pokemon', 'yokohama']
+tags: ['travel', 'amy', 'ics', 'pokemon']
 ---
 
 ![obon-pikachu](images/obon-pikachu.jpg)

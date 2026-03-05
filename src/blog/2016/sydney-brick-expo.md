@@ -1,18 +1,13 @@
 ---
 title: Sydney Brick Expo
 author: Vadim Brodsky
-description: >-
-  Ever since I was a kid, I've loved LEGO. This simple, yet complex game of
-  building anything that your imagination can think of, has entertained me for
-  numerous years. Alas due to the move to Sydney, I could not bring my trusty
-  LEGO blocks with me and continue building (though I started building with the
-  power of software).
+description: 'Ever since I was a kid, I''ve loved LEGO. This simple, yet complex game of building anything that your imagination can think of, has entertained me for numerous years. Alas due to the move to Sydney, I could not bring my trusty LEGO blocks with me and continue building (though I started building with the power of software).'
 image:
   src: images/Lego.jpg
   alt: Lego
 pubDate: 2016-04-18T00:00:00.000Z
 published: true
-tags: ['life', 'amy', 'lego']
+tags: ['life', 'amy']
 ---
 
 Ever since I was a kid, I've loved LEGO. This simple, yet complex game of building anything that your imagination can think of, has entertained me for numerous years. Alas due to the move to Sydney, I could not bring my trusty LEGO blocks with me and continue building (though I started building with the power of software).

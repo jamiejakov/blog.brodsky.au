@@ -7,7 +7,7 @@ image:
   alt: Welcome to the NHK anime
 pubDate: 2012-07-09T00:00:00.000Z
 published: true
-tags: ['anime', 'hikimori', 'review', 'welcome-to-nhk']
+tags: ['anime', 'review']
 ---
 
 ![Welcome to the NHK anime](images/WelcomeToNHK.jpg)

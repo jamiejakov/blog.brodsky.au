@@ -1,16 +1,13 @@
 ---
 title: Pokemon on my Mac
 author: Vadim Brodsky
-description: >-
-  Because of all this talk about Pokemon in the [Anime@UTS](http://utsanime.net/
-  "Anime @ UTS") club lately, I fell into nostalgia mode and decided to replay
-  some of the classics.
+description: 'Because of all this talk about Pokemon in the [Anime@UTS](http://utsanime.net/ "Anime @ UTS") club lately, I fell into nostalgia mode and decided to replay some of the classics.'
 image:
   src: images/PokemonScreen.png
   alt: pokemon screen
 pubDate: 2012-06-17T00:00:00.000Z
 published: true
-tags: ['games', 'technology', 'utsanime', 'apple-2', 'gba', 'macos', 'pokemon']
+tags: ['games', 'technology', 'utsanime', 'apple-2', 'macos', 'pokemon']
 ---
 
 ![pokemon screen](images/PokemonScreen.png)

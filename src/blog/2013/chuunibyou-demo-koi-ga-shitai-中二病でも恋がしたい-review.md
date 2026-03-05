@@ -7,7 +7,7 @@ image:
   alt: Chunibyou demo koi ga shitai
 pubDate: 2013-02-08T00:00:00.000Z
 published: true
-tags: ['anime', 'chuunibyou', 'kyoani', 'review']
+tags: ['anime', 'kyoani', 'review']
 ---
 
 ![Chunibyou demo koi ga shitai](images/Chu2.jpg)

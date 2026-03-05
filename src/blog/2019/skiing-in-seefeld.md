@@ -1,18 +1,13 @@
 ---
 title: Skiing in Seefeld
 author: Vadim Brodsky
-description: >-
-  This Christmas & New Years I thought of giving my parents the best gift I
-  could - myself. I hatched a plan, to buy tickets home and surprise them.
-  However I needed to make sure that they wouldn't be traveling somewhere,
-  otherwise it would be a rather awkward situation. So I ended up collaborating
-  with my dad to make sure that this plan would work and we would surprise mom.
+description: 'This Christmas & New Years I thought of giving my parents the best gift I could - myself. I hatched a plan, to buy tickets home and surprise them. However I needed to make sure that they wouldn''t be traveling somewhere, otherwise it would be a rather awkward situation. So I ended up collaborating with my dad to make sure that this plan would work and we would surprise mom.'
 image:
   src: images/seefeld.jpg
   alt: seefeld
 pubDate: 2019-01-04T00:00:00.000Z
 published: true
-tags: ['travel', 'austria', 'mountains']
+tags: ['travel', 'austria']
 ---
 
 This Christmas & New Years I thought of giving my parents the best gift I could - myself. I hatched a plan, to buy tickets home and surprise them. However I needed to make sure that they wouldn't be traveling somewhere, otherwise it would be a rather awkward situation. So I ended up collaborating with my dad to make sure that this plan would work and we would surprise mom.

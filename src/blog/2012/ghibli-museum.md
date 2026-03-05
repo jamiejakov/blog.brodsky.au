@@ -7,7 +7,7 @@ image:
   alt: Ghiblli Museum
 pubDate: 2012-07-05T00:00:00.000Z
 published: true
-tags: ['travel', 'ghibli', 'japan_2012', 'museum', 'totoro']
+tags: ['travel', 'ghibli', 'japan_2012']
 ---
 
 ![Ghiblli Museum](images/Ghibli_Museum.jpg)

@@ -7,7 +7,7 @@ image:
   alt: Netbank app
 pubDate: 2013-08-09T00:00:00.000Z
 published: true
-tags: ['technology', 'commonwealth-bank', 'ios']
+tags: ['technology', 'ios']
 ---
 
 ![Netbank app](images/netbank.jpg)

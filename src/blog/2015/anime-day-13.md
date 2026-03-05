@@ -7,7 +7,7 @@ image:
   alt: Danish Koukousei No Nichijou
 pubDate: 2015-09-27T00:00:00.000Z
 published: true
-tags: ['anime', '100-days-of-anime', 'nichibros']
+tags: ['anime', '100-days-of-anime']
 ---
 
 ![Danish Koukousei No Nichijou](images/Danshi-Koukousei-no-Nichijou.jpg)

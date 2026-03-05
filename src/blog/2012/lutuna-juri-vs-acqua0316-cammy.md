@@ -1,12 +1,10 @@
 ---
 title: Lutuna (Juri) vs ACQUA0316 (Cammy)
 author: Vadim Brodsky
-description: >-
-  <iframe src="//www.youtube.com/embed/ffyw6qQmTZE" height="315" width="560"
-  allowfullscreen frameborder="0"></iframe>
+description: <iframe src="//www.youtube.com/embed/ffyw6qQmTZE" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 pubDate: 2012-06-02T00:00:00.000Z
 published: true
-tags: ['games', 'cammy', 'juri', 'street-fighter']
+tags: ['games', 'cammy', 'street-fighter']
 ---
 
 <iframe src="//www.youtube.com/embed/ffyw6qQmTZE" height="315" width="560" allowfullscreen frameborder="0"></iframe>

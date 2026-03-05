@@ -7,7 +7,7 @@ image:
   alt: Shinkansen
 pubDate: 2012-07-02T00:00:00.000Z
 published: true
-tags: ['travel', 'akiba', 'arcade', 'japan_2012', 'sky-tree', 'street-fighter', 'tokyo']
+tags: ['travel', 'akiba', 'arcade', 'japan_2012', 'street-fighter']
 ---
 
 ![Shinkansen](images/ShinkansenToTokyo.jpg)

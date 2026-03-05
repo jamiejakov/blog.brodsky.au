@@ -7,7 +7,7 @@ image:
   alt: GhostTrick
 pubDate: 2014-04-01T00:00:00.000Z
 published: true
-tags: ['games', 'amy', 'capcom', 'ghost-trick', 'ios', 'review']
+tags: ['games', 'amy', 'ios', 'review']
 ---
 
 ![GhostTrick](images/GhostTrick.jpg)

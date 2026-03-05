@@ -1,18 +1,13 @@
 ---
 title: AnoStyle - add color to your iPhone
 author: Vadim Brodsky
-description: >-
-  I was reading 9to5mac this morning when I saw a rather interesting article
-  about a [golden colored
-  iPhone](http://9to5mac.com/2013/02/26/hands-on-with-anostyle-gold-iphone-and-50-promo-code-photos/).
-  I checked out the website, and WOW was I amazed! Those colors look so pretty
-  on both the iPhones and iPad Minis, its just amazing.
+description: 'I was reading 9to5mac this morning when I saw a rather interesting article about a [golden colored iPhone](http://9to5mac.com/2013/02/26/hands-on-with-anostyle-gold-iphone-and-50-promo-code-photos/). I checked out the website, and WOW was I amazed! Those colors look so pretty on both the iPhones and iPad Minis, its just amazing.'
 image:
   src: images/Anostyle.jpg
   alt: Anostyle
 pubDate: 2013-02-28T00:00:00.000Z
 published: true
-tags: ['technology', 'anodizing', 'apple-2', 'color', 'iphone']
+tags: ['technology', 'apple-2', 'iphone']
 ---
 
 ![Anostyle](images/Anostyle.jpg)

@@ -1,26 +1,13 @@
 ---
 title: Outrage
 author: Vadim Brodsky
-description: >-
-  One of the most famous parts of the japanese culture are the japanese
-  gangsters or as they are called in the land of nippon: Yakuza
-  ([ヤクザ](http://en.wikipedia.org/wiki/Yakuza)). Takeshi Kitano directed the film
-  [Outrage]( http://en.wikipedia.org/wiki/Outrage_\(2010_film\)) and its sequel
-  Outrage Beyond, which portray the life of members of a large organized crime
-  syndicate - Sanno-kai led by Grand Yakuza leader Sekiuchi. [Takeshi
-  Kitano](http://www.imdb.com/name/nm0001429/?ref_=tt_ov_wr) not only directed
-  both movies he also stared in both as one of the main characters - Otomo, boss
-  of the Otomo clan. Since I have already started describing the plot, let me
-  just say that this movie does not have one set main character, however the
-  story revolves around the main Sanno-kai and the three small clans under the
-  Chairmans (Grand Yakuza leaders) control - the Murase clan, the Ikemoto clan,
-  and the Otomo clan.
+description: 'One of the most famous parts of the japanese culture are the japanese gangsters or as they are called in the land of nippon: Yakuza ([ヤクザ](http://en.wikipedia.org/wiki/Yakuza)). Takeshi Kitano directed the film [Outrage]( http://en.wikipedia.org/wiki/Outrage_\(2010_film\)) and its sequel Outrage Beyond, which portray the life of members of a large organized crime syndicate - Sanno-kai led by Grand Yakuza leader Sekiuchi. [Takeshi Kitano](http://www.imdb.com/name/nm0001429/?ref_=tt_ov_wr) not only directed both movies he also stared in both as one of the main characters - Otomo, boss of the Otomo clan. Since I have already started describing the plot, let me just say that this movie does not have one set main character, however the story revolves around the main Sanno-kai and the three small clans under the Chairmans (Grand Yakuza leaders) control - the Murase clan, the Ikemoto clan, and the Otomo clan.'
 image:
   src: images/Outrage.jpg
   alt: Outrage
 pubDate: 2013-08-16T00:00:00.000Z
 published: true
-tags: ['movies_tv', 'outrage', 'review', 'takeshi-kitano']
+tags: ['movies_tv', 'review']
 ---
 
 ![Outrage](images/Outrage.jpg)

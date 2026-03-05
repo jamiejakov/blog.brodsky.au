@@ -7,7 +7,7 @@ image:
   alt: wall of china
 pubDate: 2012-07-01T00:00:00.000Z
 published: true
-tags: ['travel', 'beijing', 'china_2012', 'game-of-thrones', 'panda', 'xian']
+tags: ['travel', 'beijing', 'china_2012', 'game-of-thrones', 'xian']
 ---
 
 ![wall of china](images/WallOfChina.jpg)

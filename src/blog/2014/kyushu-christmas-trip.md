@@ -1,18 +1,13 @@
 ---
 title: Kyushu Christmas trip
 author: Vadim Brodsky
-description: >-
-  This winter break being far away from home, far away from our families, Amy
-  and I went on an adventure around Kyushu to see everything it has to offer.
-  For our 6 day trip we, went to Nagasaki and the deserted island of Gunkanjima,
-  Huis Ten Bosch theme park, Beppu city and the town of Yufuin. I'll try to
-  write up as much as I can, but it is late and we are sleepy.
+description: 'This winter break being far away from home, far away from our families, Amy and I went on an adventure around Kyushu to see everything it has to offer. For our 6 day trip we, went to Nagasaki and the deserted island of Gunkanjima, Huis Ten Bosch theme park, Beppu city and the town of Yufuin. I''ll try to write up as much as I can, but it is late and we are sleepy.'
 image:
   src: images/HuisTenBosch.jpg
   alt: Huis Ten Bosch
 pubDate: 2014-12-30T00:00:00.000Z
 published: true
-tags: ['travel', 'amy', 'christmas', 'ics', 'kyushu', 'nagasaki', 'onsen', 'war-memorial']
+tags: ['travel', 'amy', 'christmas', 'ics', 'nagasaki', 'war-memorial']
 ---
 
 ![Huis Ten Bosch](images/HuisTenBosch.jpg)

@@ -1,19 +1,13 @@
 ---
 title: Milky Way Photography
 author: Vadim Brodsky
-description: >-
-  Night photography is something that I have always wanted to learn to do well,
-  but have failed over and over again. In the past, I wouldn't have a tripod, so
-  taking good night shots was near impossible. Then I had the technology, but
-  lacked the skills. Now I have finally started learning how to take photos of
-  the stars and what details to bring out in a photo, if I want to see beyond
-  the horizon. '
+description: 'Night photography is something that I have always wanted to learn to do well, but have failed over and over again. In the past, I wouldn''t have a tripod, so taking good night shots was near impossible. Then I had the technology, but lacked the skills. Now I have finally started learning how to take photos of the stars and what details to bring out in a photo, if I want to see beyond the horizon. '''
 image:
   src: images/ClovellyMilkyWay.jpg
   alt: ClovellyMilkyWay
 pubDate: 2016-05-07T00:00:00.000Z
 published: true
-tags: ['photo', 'milky-way', 'night-photography', 'stars']
+tags: ['photo', 'night-photography']
 ---
 
 Night photography is something that I have always wanted to learn to do well, but have failed over and over again. In the past, I wouldn't have a tripod, so taking good night shots was near impossible. Then I had the technology, but lacked the skills. Now I have finally started learning how to take photos of the stars and what details to bring out in a photo, if I want to see beyond the horizon. '

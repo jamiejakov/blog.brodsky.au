@@ -1,20 +1,13 @@
 ---
 title: I've Graduated
 author: Vadim Brodsky
-description: >-
-  What a long, strange trip its been... I came to Australia in 2010, when I was
-  only 17 years of age. I stayed with a homestay family and studied a foundation
-  course in UTS:Insearch. Then after a year of that, I was accepted into UTS to
-  start my 5 year double degree of IT and International Studies (Japan Major).
-  Then just 5 years later I find myself graduated with distinction, with a full
-  time job, living in a great apartment with an amazing housemate and surrounded
-  by people who are made me who I am today.
+description: 'What a long, strange trip its been... I came to Australia in 2010, when I was only 17 years of age. I stayed with a homestay family and studied a foundation course in UTS:Insearch. Then after a year of that, I was accepted into UTS to start my 5 year double degree of IT and International Studies (Japan Major). Then just 5 years later I find myself graduated with distinction, with a full time job, living in a great apartment with an amazing housemate and surrounded by people who are made me who I am today.'
 image:
   src: images/graduation.jpg
   alt: graduation
 pubDate: 2016-10-23T00:00:00.000Z
 published: true
-tags: ['life', 'amy', 'graduation', 'parents', 'ruben', 'seb', 'tac', 'uts']
+tags: ['life', 'amy', 'parents', 'ruben', 'seb', 'tac', 'uts']
 ---
 
 What a long, strange trip its been... I came to Australia in 2010, when I was only 17 years of age. I stayed with a homestay family and studied a foundation course in UTS:Insearch. Then after a year of that, I was accepted into UTS to start my 5 year double degree of IT and International Studies (Japan Major). Then just 5 years later I find myself graduated with distinction, with a full time job, living in a great apartment with an amazing housemate and surrounded by people who are made me who I am today.

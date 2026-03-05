@@ -7,7 +7,7 @@ image:
   alt: Takeo and Yamato
 pubDate: 2015-09-21T00:00:00.000Z
 published: true
-tags: ['anime', '100-days-of-anime', 'durarara', 'monogatari', 'ore-monogatari', 'toradora']
+tags: ['anime', '100-days-of-anime', 'durarara', 'monogatari', 'toradora']
 ---
 
 ![Takeo and Yamato](images/Takeo.png)

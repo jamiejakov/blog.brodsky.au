@@ -7,7 +7,7 @@ image:
   alt: Rainbow Lorikeet
 pubDate: 2012-08-12T00:00:00.000Z
 published: true
-tags: ['life', 'bird', 'urbanest']
+tags: ['life', 'urbanest']
 ---
 
 ![Rainbow Lorikeet](images/img_1229-1.jpg)

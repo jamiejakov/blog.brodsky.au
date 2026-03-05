@@ -1,15 +1,13 @@
 ---
 title: Vivid Sydney
 author: Vadim Brodsky
-description: >-
-  So on the 5th of June, [Saya](http://twitter.com/KSnpy) accompanied me to go
-  look at the Vivid light show in Circular Quay and Darling Harbour.
+description: 'So on the 5th of June, [Saya](http://twitter.com/KSnpy) accompanied me to go look at the Vivid light show in Circular Quay and Darling Harbour.'
 image:
   src: images/IMG_1617.jpg
   alt: Vivid Sydney
 pubDate: 2013-06-13T00:00:00.000Z
 published: true
-tags: ['life', 'sydney', 'sydney-opera-house', 'vivid']
+tags: ['life', 'sydney', 'sydney-opera-house']
 ---
 
 ![Vivid Sydney](images/IMG_1617.jpg)

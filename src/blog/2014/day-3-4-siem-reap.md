@@ -7,7 +7,7 @@ image:
   alt: Angkor Wat
 pubDate: 2014-03-12T00:00:00.000Z
 published: true
-tags: ['travel', 'temple', 'vietnam-cambodia-2014']
+tags: ['travel', 'vietnam-cambodia-2014']
 ---
 
 ![Angkor Wat](images/IMG_3465.jpg)

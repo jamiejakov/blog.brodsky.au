@@ -7,7 +7,7 @@ image:
   alt: SaSS
 pubDate: 2016-07-24T00:00:00.000Z
 published: true
-tags: ['technology', 'coding', 'cssw', 'web']
+tags: ['technology', 'coding']
 ---
 
 I've been designing and coding websites for a good 4 years now, but only as a hobby in my spare time, nothing serious or professional. It was all basically just simple HTML DOM together with a CSS file defining the look of my sites. Sometimes I would experiment with certain JS features to have menu bars and various animations, but hat was about it. Last year, when I [migrated my blog hosting](http://jamiejakov.lv/2016/02/jamiejakov-blog-4-0-りんごジュース/), I had to learn how to set up a web server from scratch using LAMP. And I did, twice: [jamiejakov.lv](http://jamiejakov.lv) and [utsanime.net](http://utsanime.net). Looking back now thats not a great achievement, especially with all the guides out there, but hey, when you don't know anything, even something as simple as setting up a LAMP can be hard.

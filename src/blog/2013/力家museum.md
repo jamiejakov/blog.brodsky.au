@@ -7,7 +7,7 @@ image:
   alt: powerhouse
 pubDate: 2013-11-18T00:00:00.000Z
 published: true
-tags: ['life', 'amy', 'powerhouse-museum', 'science']
+tags: ['life', 'amy', 'powerhouse-museum']
 ---
 
 ![powerhouse](images/powerhouse.jpg)

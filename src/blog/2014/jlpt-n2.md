@@ -7,7 +7,7 @@ image:
   alt: JLPT logo-2
 pubDate: 2014-01-30T00:00:00.000Z
 published: true
-tags: ['life', 'japanese', 'jlpt']
+tags: ['life', 'japanese']
 ---
 
 ![JLPT logo-2](images/JLPT-logo-2.jpg)

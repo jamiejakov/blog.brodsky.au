@@ -1,21 +1,13 @@
 ---
 title: Why I Make
 author: Vadim Brodsky
-description: >-
-  Adam Savage, one of the hosts of Mythbusters is in Sydney at the moment, so I
-  looked through his tweets and found [this
-  video](https://www.youtube.com/watch?v=JEGQMHvjWnI&feature=youtu.be) he stared
-  in. Adam starts off by saying that making, is creating something that didn't
-  exist in this world. That is right, we as humans have an incredible ability
-  to, literally, make anything possible. We can be all artsy and draw a
-  painting, shoot a movie, compose a music piece, or we could be scientific and
-  discover an element, calculate a physical value, compute code, etc...
+description: 'Adam Savage, one of the hosts of Mythbusters is in Sydney at the moment, so I looked through his tweets and found [this video](https://www.youtube.com/watch?v=JEGQMHvjWnI&feature=youtu.be) he stared in. Adam starts off by saying that making, is creating something that didn''t exist in this world. That is right, we as humans have an incredible ability to, literally, make anything possible. We can be all artsy and draw a painting, shoot a movie, compose a music piece, or we could be scientific and discover an element, calculate a physical value, compute code, etc...'
 image:
   src: images/AppleDesign.jpg
   alt: AppleDesign
 pubDate: 2016-06-21T00:00:00.000Z
 published: true
-tags: ['life', 'apple-2', 'creating', 'design', 'thoughts', 'video']
+tags: ['life', 'apple-2', 'design', 'video']
 ---
 
 Adam Savage, one of the hosts of Mythbusters is in Sydney at the moment, so I looked through his tweets and found [this video](https://www.youtube.com/watch?v=JEGQMHvjWnI&feature=youtu.be) he stared in. Adam starts off by saying that making, is creating something that didn't exist in this world. That is right, we as humans have an incredible ability to, literally, make anything possible. We can be all artsy and draw a painting, shoot a movie, compose a music piece, or we could be scientific and discover an element, calculate a physical value, compute code, etc...

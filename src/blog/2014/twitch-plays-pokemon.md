@@ -1,24 +1,13 @@
 ---
 title: Twitch Plays Pokemon
 author: Vadim Brodsky
-description: >-
-  If you don't know what this is, I think it is time to climb from under the
-  rock you have been hiding for the past 2 weeks and start watching &
-  participating! This is not just Pokemon, oh no, this is much more. As
-  [Wikipedia](http://en.wikipedia.org/wiki/Twitch_Plays_Pokémon) put it, Twitch
-  Plays Pokemon (TPP) is a social experiment, I'd say it has become a social
-  phenomenon. Basically what TPP is, it is a stream of a Pokemon Blue game
-  modified to accept the commands typed into the chat of the stream by the
-  people who are watching, thus making them the players. As this idea is new and
-  original, the concept became super popular and thus amassed over 70,000 people
-  to play at a time (though it has died down and only 30,000 are playing at the
-  moment, but still!).
+description: 'If you don''t know what this is, I think it is time to climb from under the rock you have been hiding for the past 2 weeks and start watching & participating! This is not just Pokemon, oh no, this is much more. As [Wikipedia](http://en.wikipedia.org/wiki/Twitch_Plays_Pokémon) put it, Twitch Plays Pokemon (TPP) is a social experiment, I''d say it has become a social phenomenon. Basically what TPP is, it is a stream of a Pokemon Blue game modified to accept the commands typed into the chat of the stream by the people who are watching, thus making them the players. As this idea is new and original, the concept became super popular and thus amassed over 70,000 people to play at a time (though it has died down and only 30,000 are playing at the moment, but still!).'
 image:
   src: images/TwitchPlaysPokemon.png
   alt: Twitch Plays Pokemon
 pubDate: 2014-02-28T00:00:00.000Z
 published: true
-tags: ['internetz', 'pokemon', 'twitchtv']
+tags: ['internetz', 'pokemon']
 ---
 
 ![Twitch Plays Pokemon](images/TwitchPlaysPokemon.png)

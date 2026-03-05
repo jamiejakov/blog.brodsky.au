@@ -7,7 +7,7 @@ image:
   alt: shamanKing
 pubDate: 2015-10-03T00:00:00.000Z
 published: true
-tags: ['anime', '100-days-of-anime', 'shaman-king']
+tags: ['anime', '100-days-of-anime']
 ---
 
 ### Day 18 - Favorite shone anime

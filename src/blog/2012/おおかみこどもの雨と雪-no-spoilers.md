@@ -7,7 +7,7 @@ image:
   alt: Wolf Children
 pubDate: 2012-07-23T00:00:00.000Z
 published: true
-tags: ['anime', 'mamoru-hosoda', 'review', 'toho-cinemas', 'wolf-children']
+tags: ['anime', 'mamoru-hosoda', 'review', 'wolf-children']
 ---
 
 ![Wolf Children](images/Wolf-Children.jpg)

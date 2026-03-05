@@ -7,7 +7,7 @@ image:
   alt: Beijing_Circus
 pubDate: 2012-06-30T00:00:00.000Z
 published: true
-tags: ['travel', 'acrobats', 'beijing', 'china_2012', 'duck']
+tags: ['travel', 'beijing', 'china_2012']
 ---
 
 ![Beijing_Circus](images/Beijing_Circus.jpg)

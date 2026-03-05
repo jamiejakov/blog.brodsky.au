@@ -1,38 +1,13 @@
 ---
 title: 'Stand in ALL the lines, buy ALL the things!'
 author: Vadim Brodsky
-description: >-
-  This has been a very expensive week for me, but I can honestly say that it was
-  worth it! [GTA V](http://www.rockstargames.com/V/), [iPhone
-  5s](http://www.apple.com/au/iphone-5s/) and the [Bower & Willkins
-  P3](http://www.bowers-wilkins.com/Headphones/Headphones/P3/explore.html)
-  headphones are all mine, and I sure as hell am enjoying all of them. I'll talk
-  about my purchases in chronological order, so first up I would like to start
-  with one of the best games (and definitely the most anticipated) of the year -
+description: 'This has been a very expensive week for me, but I can honestly say that it was worth it! [GTA V](http://www.rockstargames.com/V/), [iPhone 5s](http://www.apple.com/au/iphone-5s/) and the [Bower & Willkins P3](http://www.bowers-wilkins.com/Headphones/Headphones/P3/explore.html) headphones are all mine, and I sure as hell am enjoying all of them. I''ll talk about my purchases in chronological order, so first up I would like to start with one of the best games (and definitely the most anticipated) of the year -'
 image:
   src: images/iPhone_GTA.jpg
   alt: iPhone_GTA
 pubDate: 2013-09-21T00:00:00.000Z
 published: true
-tags:
-  [
-    'games',
-    'life',
-    'technology',
-    'angelbeats',
-    'apple-2',
-    'dick_figures',
-    'edenoftheeast',
-    'gta',
-    'hyouka',
-    'iphone',
-    'katanagatari',
-    'luckystar',
-    'monogatari',
-    'oreimo',
-    'toradora',
-    'usagidrop',
-  ]
+tags: ['games', 'life', 'technology', 'apple-2', 'dick_figures', 'edenoftheeast', 'iphone', 'monogatari', 'oreimo', 'toradora']
 ---
 
 ![iPhone_GTA](images/iPhone_GTA.jpg)

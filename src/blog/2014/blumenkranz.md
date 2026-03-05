@@ -7,7 +7,7 @@ image:
   alt: Blumenkranz
 pubDate: 2014-02-03T00:00:00.000Z
 published: true
-tags: ['anime', 'music', 'german', 'kill-la-kill', 'ost']
+tags: ['anime', 'music']
 ---
 
 ![Blumenkranz](images/Blumenkranz.jpg)

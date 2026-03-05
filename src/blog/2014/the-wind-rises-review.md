@@ -7,7 +7,7 @@ image:
   alt: KazeTachinu
 pubDate: 2014-02-16T00:00:00.000Z
 published: true
-tags: ['anime', 'movies_tv', 'ghibli', 'review', '宮崎監督']
+tags: ['anime', 'movies_tv', 'ghibli', 'review']
 ---
 
 ![KazeTachinu](images/KazeTachinu.png)

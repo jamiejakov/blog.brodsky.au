@@ -7,7 +7,7 @@ image:
   alt: Nichijou
 pubDate: 2015-09-23T00:00:00.000Z
 published: true
-tags: ['anime', '100-days-of-anime', 'nichijou']
+tags: ['anime', '100-days-of-anime']
 ---
 
 ![Nichijou](images/Nichijou.png)

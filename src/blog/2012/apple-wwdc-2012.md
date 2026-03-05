@@ -1,15 +1,13 @@
 ---
 title: Apple WWDC 2012
 author: Vadim Brodsky
-description: >-
-  This is a little late. I was a bit busy these days with playing CoD and
-  SSFIV:AE2012.
+description: 'This is a little late. I was a bit busy these days with playing CoD and SSFIV:AE2012.'
 image:
   src: images/MBPR.jpg
   alt: MBPR
 pubDate: 2012-06-13T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'facebook', 'ios', 'macbook_pro', 'macos', 'wwdc']
+tags: ['technology', 'apple-2', 'facebook', 'ios', 'macos', 'wwdc']
 ---
 
 This is a little late. I was a bit busy these days with playing CoD and SSFIV:AE2012.

@@ -1,18 +1,13 @@
 ---
 title: Guess who's back!
 author: Vadim Brodsky
-description: >-
-  Almost a year has passed since I left beautiful Sydney. And now I am back,
-  back to a new year of uni, new job, new apartment in Rhodes! But at the same
-  time I can now see all my good old friends, eat all the amazing food I have
-  been missing out on, and spend 3 times more then I should on daily
-  necessities! Yay for Sydney!
+description: 'Almost a year has passed since I left beautiful Sydney. And now I am back, back to a new year of uni, new job, new apartment in Rhodes! But at the same time I can now see all my good old friends, eat all the amazing food I have been missing out on, and spend 3 times more then I should on daily necessities! Yay for Sydney!'
 image:
   src: images/Rhodes.jpg
   alt: Rhodes
 pubDate: 2015-03-18T00:00:00.000Z
 published: true
-tags: ['life', 'ikea', 'rhodes', 'sydney']
+tags: ['life', 'rhodes', 'sydney']
 ---
 
 ![Rhodes](images/Rhodes.jpg)

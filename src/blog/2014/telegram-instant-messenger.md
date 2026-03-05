@@ -7,7 +7,7 @@ image:
   alt: telegram
 pubDate: 2014-03-26T00:00:00.000Z
 published: true
-tags: ['technology', 'app', 'vkontakte']
+tags: ['technology']
 ---
 
 ![telegram](images/telegram.png)

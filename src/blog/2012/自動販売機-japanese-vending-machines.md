@@ -7,7 +7,7 @@ image:
   alt: VendingMachinesJapan
 pubDate: 2012-07-13T00:00:00.000Z
 published: true
-tags: ['life', 'japan_2012', 'vending-machines', '自販機', '関西弁']
+tags: ['life', 'japan_2012']
 ---
 
 ![VendingMachinesJapan](images/VendingMachinesJapan.jpg)

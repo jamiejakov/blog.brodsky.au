@@ -1,11 +1,10 @@
 ---
 title: Farewell CityRail
 author: Vadim Brodsky
-description: >-
-  [![CityRail](images/CityRail.png)](http://web.archive.org/web/20130601172447/http://cityrail.info/)
+description: '[![CityRail](images/CityRail.png)](http://web.archive.org/web/20130601172447/http://cityrail.info/)'
 pubDate: 2013-06-30T00:00:00.000Z
 published: true
-tags: ['internetz', 'cityrail', 'sydneytrains']
+tags: ['internetz', 'sydneytrains']
 ---
 
 [![CityRail](images/CityRail.png)](http://web.archive.org/web/20130601172447/http://cityrail.info/)

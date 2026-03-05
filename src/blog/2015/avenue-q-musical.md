@@ -7,7 +7,7 @@ image:
   alt: Avenue Q poster
 pubDate: 2015-07-17T00:00:00.000Z
 published: true
-tags: ['life', 'amy', 'musical', 'theater']
+tags: ['life', 'amy']
 ---
 
 ![Avenue Q poster](images/AVENUE-q.jpg)

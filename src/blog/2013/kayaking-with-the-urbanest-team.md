@@ -7,7 +7,7 @@ image:
   alt: kayaking photo
 pubDate: 2013-04-07T00:00:00.000Z
 published: true
-tags: ['life', 'kayaking', 'urbanest']
+tags: ['life', 'urbanest']
 ---
 
 ![kayaking photo](images/KayakingUrbanest.png)

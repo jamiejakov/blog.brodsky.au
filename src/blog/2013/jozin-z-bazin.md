@@ -1,12 +1,10 @@
 ---
 title: Jožin z bažin
 author: Vadim Brodsky
-description: >-
-  <iframe src="//www.youtube.com/embed/5T_uxoV5FuQ" height="315" width="420"
-  allowfullscreen frameborder="0"></iframe>
+description: <iframe src="//www.youtube.com/embed/5T_uxoV5FuQ" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 pubDate: 2013-09-15T00:00:00.000Z
 published: true
-tags: ['internetz', 'music', 'humor', 'kvn', 'meme']
+tags: ['internetz', 'music', 'humor', 'kvn']
 ---
 
 <iframe src="//www.youtube.com/embed/5T_uxoV5FuQ" height="315" width="420" allowfullscreen frameborder="0"></iframe>

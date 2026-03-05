@@ -1,15 +1,13 @@
 ---
 title: Armikrog.
 author: Vadim Brodsky
-description: >-
-  YOU HAVE NO IDEA HOW EXITED I AM!!!! This is like the sequel to one of my
-  favorite childhood games: The Neverhood.
+description: 'YOU HAVE NO IDEA HOW EXITED I AM!!!! This is like the sequel to one of my favorite childhood games: The Neverhood.'
 image:
   src: images/photo-main1.png
   alt: Armikrog the game
 pubDate: 2013-05-30T00:00:00.000Z
 published: true
-tags: ['games', 'internetz', 'armikrog', 'kickstarter', 'neverhood']
+tags: ['games', 'internetz', 'kickstarter']
 ---
 
 ![Armikrog the game](images/photo-main1.png)

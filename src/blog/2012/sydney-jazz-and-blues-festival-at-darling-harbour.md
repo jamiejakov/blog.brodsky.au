@@ -7,7 +7,7 @@ image:
   alt: Jazz and Blues
 pubDate: 2012-06-10T00:00:00.000Z
 published: true
-tags: ['life', 'music', 'blues', 'clara', 'darling-harbour', 'james-morisson', 'jazz', 'ruben', 'seb', 'sydney']
+tags: ['life', 'music', 'clara', 'ruben', 'seb', 'sydney']
 ---
 
 ![Jazz and Blues](images/JazzAndBlues2012.jpg)

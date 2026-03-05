@@ -7,7 +7,7 @@ image:
   alt: Riot in Turkey
 pubDate: 2013-06-07T00:00:00.000Z
 published: true
-tags: ['life', 'anonymous', 'protests', 'social-media', 'turkey']
+tags: ['life', 'social-media']
 ---
 
 ![Riot in Turkey](images/TurkeyRiot.png)

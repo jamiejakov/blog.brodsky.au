@@ -7,7 +7,7 @@ image:
   alt: thelastofus
 pubDate: 2013-08-19T00:00:00.000Z
 published: true
-tags: ['games', 'naughtydog', 'review', 'the-last-of-us', 'uncharted']
+tags: ['games', 'review']
 ---
 
 ![thelastofus](images/HyLyQFr.jpg)

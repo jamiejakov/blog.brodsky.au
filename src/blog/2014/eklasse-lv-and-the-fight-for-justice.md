@@ -7,7 +7,7 @@ image:
   alt: e-klasse
 pubDate: 2014-01-22T00:00:00.000Z
 published: true
-tags: ['technology', 'chrome', 'copyright', 'extension', 'latvia', 'school']
+tags: ['technology', 'copyright', 'extension', 'latvia', 'school']
 ---
 
 ![e-klasse](images/e-klasse.png)

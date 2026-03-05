@@ -7,7 +7,7 @@ image:
   alt: Comiket
 pubDate: 2014-08-18T00:00:00.000Z
 published: true
-tags: ['anime', 'amy', 'comiket', 'dale', 'ics', 'tac']
+tags: ['anime', 'amy', 'dale', 'ics', 'tac']
 ---
 
 ![Comiket](images/Comiket.jpg)
