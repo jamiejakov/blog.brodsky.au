@@ -33,7 +33,7 @@ For the Nagoya venue we went with [Gajouen Nagoya.](http://www.gajouen.co.jp/) I
 
 So with the dates and venues decided, it was time to give all of our friends as "Save the Date" card for the date. And we came up with the best idea for that - a floppy disk. Its used as a "save" icon on a lot of modern day apps, and it's a lot more unique than a simple card. It was a great idea and everyone loved it. We also hid a file on the floppy disk itself, for those of our friends who happen to have a floppy disk reader available to them.
 
-![](images/IMG_2207-1024x761.jpeg)
+![](images/IMG_2207.jpeg)
 
  
 
