@@ -139,7 +139,7 @@
       @apply border border-gray-300 px-6 py-3 text-sm;
     }
     img {
-      @apply border-t border-b border-primary md:border;
+      @apply border border-primary;
     }
     iframe {
       @apply max-w-full border border-primary;
