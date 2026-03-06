@@ -33,7 +33,7 @@ export const PostReadMoreButton: React.FC<PostReadMoreButtonProps> = (props) => 
       className="rounded-full text-lg font-medium h-auto py-1 self-end no-underline"
     >
       <a href={`/posts/${id}/`}>
-        {label} <ArrowRightIcon className="size-6" />
+        {label} {hasExcerpt && <ArrowRightIcon className="size-6" />}
       </a>
     </Button>
   );

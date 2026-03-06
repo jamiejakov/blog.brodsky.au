@@ -7,7 +7,7 @@ image:
   alt: Maldives
 pubDate: 2015-04-29T00:00:00.000Z
 published: true
-tags: ['travel', 'family']
+tags: ['travel', 'parents']
 ---
 
 ![Maldives](images/Maldives.jpg)

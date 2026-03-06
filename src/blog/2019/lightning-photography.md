@@ -7,7 +7,8 @@ image:
   alt: lightning
 pubDate: 2019-02-12T00:00:00.000Z
 published: true
-tags: ['photo']
+category: Photography
+tags: ['lightning']
 ---
 
 Have you ever wondered what it feels like being under a lightning cloud while in the middle of a desert? Well neither did I, until I was under a lightning cloud in the middle of a desert!

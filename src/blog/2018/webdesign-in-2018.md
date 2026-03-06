@@ -11,7 +11,8 @@ image:
   alt: design
 pubDate: 2018-03-15T00:00:00.000Z
 published: true
-tags: ['technology', 'css', 'ui', 'ux']
+category: Software Engineering
+tags: ['css', 'design']
 ---
 
 Design is an ever evolving industry, and web design is no exception. The practices that were revolutionary in the beginning of the 21st century, seem archaic by modern design standards. Some may say it is hard to keep up, but there are always those that want to drive progress even further.

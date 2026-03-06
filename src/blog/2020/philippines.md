@@ -7,7 +7,8 @@ image:
   alt: philippines-2020
 pubDate: 2020-03-14T00:00:00.000Z
 published: true
-tags: ['travel', 'kotone']
+category: Travel
+tags: ['kotone', 'parents']
 ---
 
 Another year, another family holiday. This time, amid the spreading health epidemic, we ended up traveling to the beautiful tropical islands of the Philippines. Like always the Brodsky family focused on 2 things, learning about the land and its the people, and relaxing on beautiful beaches of paradise. However, there was one thing that was very different from all of our past trips. A certain Japanese girl joined us on this trip! Thats right, my beautiful girlfriend Kotone came along for two weeks of fun in the Philippines.

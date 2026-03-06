@@ -7,6 +7,7 @@ image:
   alt: E12EAE6C-4E54-4AC2-9927-F11B1DBE0DB7
 pubDate: 2020-05-11T00:00:00.000Z
 published: true
+category: Personal Life
 tags: ['life']
 ---
 

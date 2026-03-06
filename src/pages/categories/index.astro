@@ -20,8 +20,8 @@ const categoriesByPopularity = [...categoryCounts.entries()].sort((a, b) => b[1]
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
   <article>
     <h1 class="text-3xl font-bold mb-4">{pageTitle}</h1>
-    <p class="text-muted-foreground mb-6">Browse all posts by category.</p>
-    <ul class="flex flex-wrap gap-2 pl-0 list-none">
+    <p class="text-muted-foreground mb-6">Browse all posts by category:</p>
+    <ul class="flex flex-col gap-3 pl-0 list-none">
       {
         categoriesByPopularity.map(([category, count]) => (
           <li class="items-center gap-1">

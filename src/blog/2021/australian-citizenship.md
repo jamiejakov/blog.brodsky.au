@@ -12,7 +12,7 @@ image:
 pubDate: 2021-06-08T00:00:00.000Z
 published: true
 category: 'Personal Life'
-tags: ['life', 'australia']
+tags: ['australia']
 ---
 
 Not every day you become a citizen of a country! In fact for most folks this is once in a lifetime event. But for me, after spending 11 years in Australia living, studying, working, Australian citizenship was finally no longer a dream, but a completed life goal.

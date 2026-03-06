@@ -7,7 +7,8 @@ image:
   alt: GUTS
 pubDate: 2019-08-01T00:00:00.000Z
 published: true
-tags: ['technology', 'coding']
+category: Software Engineering
+tags: ['SMASH!', 'typescript', 'react', 'expressJs', 'mysql', 'sass', 'knex']
 ---
 
 SMASH!, the largest anime convention in Australia, with over 22,000 people coming annually. And to support this convention we have a range of systems: website, recruitment, and ticketing. And now, in 2019, we have to rewrite the ticketing system from scratch. As a bit of backstory, let me tell you how we ended up in this situation.

@@ -7,7 +7,8 @@ image:
   alt: wisecamping
 pubDate: 2019-05-07T00:00:00.000Z
 published: true
-tags: ['travel']
+category: Personal Life
+tags: ['work', 'camping']
 ---
 
 What better way to spend a weekend in May, than to go camping with your favourite coworkers! So we gathered Axle, Justin, Jordan, Josh, Cody, Mark, Tim, Kal, Steven, Sandra and myself together and set out to a campsite around Ulladulla.

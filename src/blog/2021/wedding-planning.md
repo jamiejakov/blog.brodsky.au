@@ -12,12 +12,15 @@ image:
   alt: IMG_0535
 pubDate: 2021-01-23T00:00:00.000Z
 published: true
-tags: ['life', 'kotone', 'wedding']
+category: Personal Life
+tags: ['kotone', 'wedding']
 ---
 
 There are so many parts to planning a wedding, we were quick to realise that. But that didn't deter us, as we decided to do 2 weddings: 1 in Sydney and 1 in Nagoya. This way we can have my friends attend the Sydney one, and have us legally be married in Australia first, and then have a reception in Nagoya for Kotone's family and friends to attend there.
 
 We decided early on that the wedding ceremony and receptions we wanted to focus on our family. The priority was to get our family to both of them, as we are so far from both our families for long periods of time. Also since we are doing 2 receptions, we figured the one in Sydney would be the western style one and for the one in Nagoya we would go full out traditional Japanese style.
+
+---
 
 We through about when to have these 2 celebrations, and thought that spacing them out would be inconvenient for my parents who need to fly from Europe, so we went with both being on the same week. But then which week, we needed to pick one. Summer and Winter seasons were ruled out quite quickly, as going from a winter Latvia to a summer Sydney then to a winter Nagoya would not be pleasant at all (same for the inverse). So it was spring or autumn. Since we started planning in Summer 2020, doing it in autumn was impossible, and spring was quite hard, so we went with Autumn 2020. And the day we chose for the ceremony was 4/4/22 (yes I love my repeating dates). Which was a Monday. And the Japanese reception would be the same week on the Saturday, 9th of April 2022.
 

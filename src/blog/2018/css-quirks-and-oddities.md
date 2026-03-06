@@ -9,7 +9,8 @@ image:
   alt: owls
 pubDate: 2018-03-15T00:00:00.000Z
 published: true
-tags: ['technology', 'css', 'ui']
+category: Software Engineering
+tags: ['css']
 ---
 
 CSS is a weird language. Some people don't even want to consider CSS as a programming language. However to me it will always be one.

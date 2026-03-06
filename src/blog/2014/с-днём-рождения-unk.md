@@ -12,7 +12,7 @@ image:
   alt: Image
 pubDate: 2014-04-28T00:00:00.000Z
 published: true
-tags: ['life', 'birthday', 'family']
+tags: ['life', 'birthday', 'parents']
 ---
 
 ![](images/unk1.jpg)

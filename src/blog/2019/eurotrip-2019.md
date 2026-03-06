@@ -7,7 +7,8 @@ image:
   alt: europe_2019
 pubDate: 2019-09-10T00:00:00.000Z
 published: true
-tags: ['travel']
+category: Travel
+tags: ['parents', 'germany', 'belgium', 'luxembourg', 'france']
 ---
 
 This year the Brodsky family decided to drive around Europe and visit 2 new countries: Belgium and Luxembourg. Being part of the family means, that I got to experience this as well and thus raised my country count to 56!
