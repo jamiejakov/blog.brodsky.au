@@ -1,20 +1,22 @@
 ---
+import { Category } from '../components/Category';
+import PostsByYearList from '../components/PostsByYearList.astro';
+import { ViewAllCategoriesButton, ViewAllTagsButton } from '../components/ViewAllButtons';
 import PageLayout from '../layouts/PageLayout.astro';
 import { exists } from '../lib/exists';
-import { groupPostsByYearThenMonth } from '../lib/postsByYearMonth';
 import { getPosts } from '../lib/sortedCollection';
 
 const pageTitle = 'Archive';
 const allPosts = await getPosts();
-const postsByYear = groupPostsByYearThenMonth(allPosts);
 
-const tagCounts = new Map<string, number>();
+const categoryCounts = new Map<string, number>();
 for (const post of allPosts) {
-  for (const tag of post.data.tags.filter(exists)) {
-    tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+  const category = post.data.category;
+  if (exists(category)) {
+    categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
   }
 }
-const tagsByPopularity = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
+const categoriesByPopularity = [...categoryCounts.entries()].sort((a, b) => b[1] - a[1]);
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
@@ -35,51 +37,27 @@ const tagsByPopularity = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
     </section>
   </article>
   <div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
-    <div class="flex flex-col gap-12 flex-1 min-w-0 order-2 lg:order-1">
-      {
-        postsByYear.map(({ year, months }) => (
-          <section class="flex flex-col gap-6">
-            <h2 class="text-2xl font-bold border-b border-primary/30 pb-2">{year}</h2>
-            <div class="flex flex-col gap-6 pl-0 md:pl-4">
-              {months.map(({ monthName, posts }) => (
-                <section class="flex flex-col gap-2">
-                  <h3 class="text-lg font-semibold text-muted-foreground">{monthName}</h3>
-                  <ul class="list-none pl-4 md:pl-6 space-y-2">
-                    {posts.map((post) => (
-                      <li>
-                        <span class="font-mono text-muted-foreground">
-                          {String(post.data.pubDate.getDate()).padStart(2, '0')}:
-                        </span>{' '}
-                        <a href={`/posts/${post.id}/`} class="hover:underline text-primary">
-                          {post.data.title}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </section>
-              ))}
-            </div>
-          </section>
-        ))
-      }
+    <div class="flex flex-col flex-1 min-w-0 order-2 lg:order-1">
+      <PostsByYearList posts={allPosts} />
     </div>
-    <section class="lg:w-48 shrink-0 order-1 lg:order-2">
-      <h2 class="text-xl font-bold mb-3">Tags</h2>
-      <ul class="flex flex-wrap lg:flex-col gap-2 list-none">
-        {
-          tagsByPopularity.map(([tag]) => (
-            <li>
-              <a
-                href={`/tags/${tag}`}
-                class="inline-flex rounded-full border border-primary px-2 py-1 text-primary no-underline
-                  hover:bg-primary/20 hover:no-underline dark:hover:bg-primary/40 dark:hover:text-accent-foreground"
-              >
-                {tag}
-              </a>
-            </li>
-          ))
-        }
-      </ul>
+    <section class="lg:w-48 shrink-0 order-1 lg:order-2 flex flex-col gap-10">
+      <div class="flex flex-col gap-4 items-start w-fit">
+        <h2 class="text-xl font-bold">Categories</h2>
+        <ul class="flex flex-wrap lg:flex-col gap-2 list-none mb-4">
+          {
+            categoriesByPopularity.map(([category]) => (
+              <li>
+                <Category category={category} client:load />
+              </li>
+            ))
+          }
+        </ul>
+        <ViewAllCategoriesButton client:load />
+      </div>
+      <div class="flex flex-col gap-4 items-start w-fit">
+        <h2 class="text-xl font-bold">Tags</h2>
+        <ViewAllTagsButton client:load />
+      </div>
     </section>
   </div>
 </PageLayout>

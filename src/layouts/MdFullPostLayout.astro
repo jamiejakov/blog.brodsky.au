@@ -2,6 +2,8 @@
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 
+import { Category } from '../components/Category';
+import Tag from '../components/Tag.astro';
 import PageLayout from './PageLayout.astro';
 
 type Props = {
@@ -25,19 +27,21 @@ const { post } = Astro.props;
     <h1 class="text-3xl font-bold">{post.data.title}</h1>
     <div>Published on: <span class="text-gray-500 italic">{post.data.pubDate.toLocaleDateString()}</span></div>
     <p class="mb-1">Written by: <span class="text-gray-500 italic">{post.data.author}</span></p>
+    {
+      post.data.category && (
+        <p class="mb-1">
+          Category: <Category category={post.data.category} client:load />
+        </p>
+      )
+    }
     <div class="flex items-center gap-2">
       <span>Tags:</span>
-      <ul class="flex flex-wrap gap-2 list-none m-0 pl-0">
+      <ul class="flex flex-wrap list-none m-0 pl-0">
         {
-          post.data.tags.map((tag: string) => (
-            <li>
-              <a
-                href={`/tags/${tag}`}
-                class="inline-flex rounded-full border border-primary px-2 py-1 text-primary no-underline
-                  hover:bg-primary/20 hover:no-underline dark:hover:bg-primary/40 dark:hover:text-accent-foreground"
-              >
-                {tag}
-              </a>
+          post.data.tags.map((tag: string, index: number) => (
+            <li class="flex gap-2">
+              {index > 0 && ', '}
+              <Tag tag={tag} />
             </li>
           ))
         }

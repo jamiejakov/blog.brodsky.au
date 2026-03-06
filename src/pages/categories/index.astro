@@ -1,0 +1,35 @@
+---
+import { Category } from '../../components/Category';
+import PageLayout from '../../layouts/PageLayout.astro';
+import { exists } from '../../lib/exists';
+import { getPosts } from '../../lib/sortedCollection';
+
+const pageTitle = 'Categories';
+const allPosts = await getPosts();
+
+const categoryCounts = new Map<string, number>();
+for (const post of allPosts) {
+  const category = post.data.category;
+  if (exists(category)) {
+    categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
+  }
+}
+const categoriesByPopularity = [...categoryCounts.entries()].sort((a, b) => b[1] - a[1]);
+---
+
+<PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
+  <article>
+    <h1 class="text-3xl font-bold mb-4">{pageTitle}</h1>
+    <p class="text-muted-foreground mb-6">Browse all posts by category.</p>
+    <ul class="flex flex-wrap gap-2 pl-0 list-none">
+      {
+        categoriesByPopularity.map(([category, count]) => (
+          <li class="items-center gap-1">
+            <Category category={category} client:load />
+            <span class="text-muted-foreground text-sm">({count})</span>
+          </li>
+        ))
+      }
+    </ul>
+  </article>
+</PageLayout>

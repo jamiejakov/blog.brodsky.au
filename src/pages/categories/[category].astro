@@ -7,20 +7,13 @@ import { exists } from '../../lib/exists';
 
 export async function getStaticPaths() {
   const allPosts = await getPosts();
-  const uniqueTags = [
-    ...new Set(
-      allPosts
-        .map((post) => post.data.tags)
-        .filter(exists)
-        .flat()
-    ),
-  ];
+  const uniqueCategories = [...new Set(allPosts.map((post) => post.data.category).filter(exists))];
 
-  return uniqueTags.map((tag) => {
-    const filteredPosts = allPosts.filter((post) => post.data.tags.includes(tag));
+  return uniqueCategories.map((category) => {
+    const filteredPosts = allPosts.filter((post) => post.data.category === category);
 
     return {
-      params: { tag },
+      params: { category },
       props: { posts: filteredPosts },
     };
   });
@@ -28,15 +21,15 @@ export async function getStaticPaths() {
 
 type Props = Awaited<ReturnType<typeof getStaticPaths>>[number]['props'];
 
-const { tag } = Astro.params;
+const { category } = Astro.params;
 const { posts } = Astro.props;
 
-const pageTitle = `Tag: ${tag}`;
+const pageTitle = `Category: ${category}`;
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
   <h2 class="text-2xl font-medium mb-3">
-    Explore all posts tagged with <strong>{tag}</strong>{' '}
+    Explore all posts in category <strong>{category}</strong>{' '}
     <span class="text-muted-foreground font-normal">({posts.length})</span>
   </h2>
   <PostsByYearList posts={posts} />

@@ -1,0 +1,47 @@
+---
+import { groupPostsByYearThenMonth } from '../lib/postsByYearMonth';
+
+type Post = {
+  data: {
+    pubDate: Date;
+    title: string;
+  };
+  id: string;
+};
+
+type Props = {
+  posts: Post[];
+};
+
+const { posts } = Astro.props;
+const postsByYear = groupPostsByYearThenMonth(posts);
+---
+
+<div class="flex flex-col gap-12">
+  {
+    postsByYear.map(({ year, months }) => (
+      <section class="flex flex-col gap-6">
+        <h2 class="text-2xl font-bold border-b border-primary/30 pb-2">{year}</h2>
+        <div class="flex flex-col gap-6 pl-0 md:pl-4">
+          {months.map(({ monthName, posts }) => (
+            <section class="flex flex-col gap-2">
+              <h3 class="text-lg font-semibold text-muted-foreground">{monthName}</h3>
+              <ul class="list-none pl-4 md:pl-6 space-y-2">
+                {posts.map((post) => (
+                  <li>
+                    <span class="font-mono text-muted-foreground">
+                      {String(post.data.pubDate.getDate()).padStart(2, '0')}:
+                    </span>{' '}
+                    <a href={`/posts/${post.id}/`} class="hover:underline text-primary">
+                      {post.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))}
+        </div>
+      </section>
+    ))
+  }
+</div>
