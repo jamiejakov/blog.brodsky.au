@@ -1,16 +1,33 @@
 ---
+import { cn } from '@/lib/utils';
+
 import BaseLayout from './BaseLayout.astro';
 
 type Props = {
   pageTitle: string;
   className?: string;
+  showBlogWelcome?: boolean;
 };
 
-const { pageTitle, className } = Astro.props;
+const { pageTitle, className, showBlogWelcome = false } = Astro.props;
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <main class={`${className} max-w-4xl w-full`}>
-    <slot />
+  <main class="relative w-full flex flex-col items-center">
+    <div class="header-clip-path bg-primary h-65 w-full -mt-50 mb-20 pt-10 pb-16 px-4 md:pb-12">
+      {
+        showBlogWelcome && (
+          <h1
+            class="text-background text-3xl md:text-4xl font-bold leading-1.2 tracking-[-0.1rem] font-weight-700
+              text-center"
+          >
+            Vadim Brodsky's Blog
+          </h1>
+        )
+      }
+    </div>
+    <div class={cn('max-w-4xl w-full', className)}>
+      <slot />
+    </div>
   </main>
 </BaseLayout>

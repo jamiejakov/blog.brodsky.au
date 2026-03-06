@@ -1,5 +1,4 @@
 header {
-  view-transition-name: header-transition;
   z-index: 99;
 }
 
@@ -7,11 +6,11 @@ header {
   box-shadow: 0px 2px 14px rgba(0, 0, 0, 0.15);
 }
 
-.header-clip-path {
-  clip-path: polygon(0 -600px, 100% -600px, 100% calc(100% - 30px), 0 100%);
-  -webkit-clip-path: polygon(0 -600px, 100% -600px, 100% calc(100% - 30px), 0 100%);
-}
-
-.navigation-button {
-  view-transition-name: match-element;
+.navigation::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: var(--color-primary);
+  border-radius: 9999px;
+  z-index: -1;
 }
