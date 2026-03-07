@@ -31,7 +31,7 @@ const ogImageSrc = post.data.image ? (await getImage(post.data.image)).src : und
   }
   <article class="flex flex-col px-6 mt-4 max-w-3xl w-full">
     <h1 class="text-3xl font-bold">{post.data.title}</h1>
-    <div>Published on: <span class="text-gray-500 italic">{post.data.pubDate.toLocaleDateString()}</span></div>
+    <div>Published on: <span class="text-gray-500 italic">{post.data.pubDate.toLocaleDateString('en-au')}</span></div>
     <p class="mb-1">Written by: <span class="text-gray-500 italic">{post.data.author}</span></p>
     {
       post.data.category && (
