@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+import { getImage, Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 
 import { Category } from '../components/Category';
@@ -11,9 +11,15 @@ type Props = {
 };
 
 const { post } = Astro.props;
+const ogImageSrc = post.data.image ? (await getImage(post.data.image)).src : undefined;
 ---
 
-<PageLayout pageTitle={post.data.title} className="flex flex-col items-center">
+<PageLayout
+  pageTitle={post.data.title}
+  className="flex flex-col items-center"
+  ogDescription={post.data.description}
+  ogImage={ogImageSrc}
+>
   {
     post.data.image && (
       <Image

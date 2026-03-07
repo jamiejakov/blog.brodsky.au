@@ -8,16 +8,35 @@ import '../main.css';
 
 type Props = {
   pageTitle: string;
+  ogDescription?: string;
+  ogImage?: string;
 };
 
-const { pageTitle } = Astro.props;
+const { pageTitle, ogDescription, ogImage } = Astro.props;
+const title = pageTitle ? `${pageTitle} | Brodsky Blog` : 'Brodsky Blog';
+const site = import.meta.env.SITE;
+const ogImageUrl = ogImage ? new URL(ogImage, site).href : undefined;
 ---
 
 <html lang="en">
   <head>
-    <title>{pageTitle}</title>
+    <title>{title}</title>
     <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="author" content="Vadim Brodsky" />
+    {
+      (ogDescription ?? ogImageUrl) && (
+        <>
+          <meta property="og:title" content={title} />
+          {ogDescription && <meta property="og:description" content={ogDescription} />}
+          {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+          <meta property="og:url" content={Astro.url.href} />
+          <meta property="og:type" content="website" />
+        </>
+      )
+    }
+    <link rel="alternate" type="application/rss+xml" href="/rss.xml" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <Analytics />
