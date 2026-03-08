@@ -16,6 +16,7 @@ image:
   alt: Australia-Day
 pubDate: 2014-01-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'australia', 'holiday']
 ---
 

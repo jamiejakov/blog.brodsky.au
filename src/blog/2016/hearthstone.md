@@ -7,6 +7,7 @@ image:
   alt: hearthstone1
 pubDate: 2016-02-07T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'amy', 'blizzard']
 ---
 

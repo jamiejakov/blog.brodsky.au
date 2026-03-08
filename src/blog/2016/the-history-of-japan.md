@@ -4,7 +4,8 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2016-02-05T00:00:00.000Z
 published: true
-tags: ['internetz', 'japan']
+categories: ['Fun']
+tags: ['japan']
 ---
 
 https://www.youtube.com/watch?v=Mh5LY4Mz15o

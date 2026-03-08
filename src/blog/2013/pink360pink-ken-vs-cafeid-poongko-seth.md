@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2013-06-09T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'street-fighter']
 ---
 

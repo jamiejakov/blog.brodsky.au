@@ -10,6 +10,7 @@ image:
   alt: cosplay
 pubDate: 2014-09-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'amy', 'utsanime', 'clara', 'cosplay', 'ruben']
 ---
 

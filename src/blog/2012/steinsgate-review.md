@@ -7,6 +7,7 @@ image:
   alt: Steins Gate
 pubDate: 2012-06-11T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'review', 'steinsgate', 'time-travel']
 ---
 

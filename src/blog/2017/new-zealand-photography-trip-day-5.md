@@ -12,7 +12,8 @@ image:
   alt: TasmanGlacier
 pubDate: 2017-04-20T00:00:00.000Z
 published: true
-tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
+categories: [Travel, 'Photography']
+tags: ['new-zealand']
 ---
 
 When we woke up this time, I didn’t feel cold, as I was wearing 4 layers of clothes while sleeping in my warm sleeping bag. But once we opened the tent, we quickly realised that it was around -2 as we could see the frost on the tent. Somehow our bodies have already gotten used to the early rises so waking up for the sunrise was not a challenge anymore.

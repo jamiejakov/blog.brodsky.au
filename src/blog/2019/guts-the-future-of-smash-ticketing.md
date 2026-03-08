@@ -7,7 +7,7 @@ image:
   alt: GUTS
 pubDate: 2019-08-01T00:00:00.000Z
 published: true
-category: Software Engineering
+categories: [Software Engineering]
 tags: ['SMASH!', 'typescript', 'react', 'expressJs', 'mysql', 'sass', 'knex']
 ---
 

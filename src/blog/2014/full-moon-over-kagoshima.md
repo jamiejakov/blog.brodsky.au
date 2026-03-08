@@ -7,6 +7,7 @@ image:
   alt: Full Moon over Sakurajima
 pubDate: 2014-04-15T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'ics', 'kagoshima']
 ---
 

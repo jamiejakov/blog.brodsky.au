@@ -7,6 +7,7 @@ image:
   alt: Eleanor Roosevelt photo
 pubDate: 2013-07-14T00:00:00.000Z
 published: true
+categories: []
 tags: ['life']
 ---
 

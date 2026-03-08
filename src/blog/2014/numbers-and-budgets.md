@@ -7,7 +7,8 @@ image:
   alt: Numbers
 pubDate: 2014-03-18T00:00:00.000Z
 published: true
-tags: ['life', 'technology', 'apple-2']
+categories: []
+tags: ['life', 'technology', 'apple']
 ---
 
 ![Numbers](images/Numbers.png)

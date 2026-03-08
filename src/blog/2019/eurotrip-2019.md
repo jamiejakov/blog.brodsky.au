@@ -7,7 +7,7 @@ image:
   alt: europe_2019
 pubDate: 2019-09-10T00:00:00.000Z
 published: true
-category: Travel
+categories: [Travel]
 tags: ['parents', 'germany', 'belgium', 'luxembourg', 'france']
 ---
 

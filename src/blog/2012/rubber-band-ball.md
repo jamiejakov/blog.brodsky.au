@@ -7,6 +7,7 @@ image:
   alt: rubber band ball made by blu
 pubDate: 2012-06-06T00:00:00.000Z
 published: true
+categories: []
 tags: ['life']
 ---
 

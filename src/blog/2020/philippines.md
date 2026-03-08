@@ -7,7 +7,7 @@ image:
   alt: philippines-2020
 pubDate: 2020-03-14T00:00:00.000Z
 published: true
-category: Travel
+categories: [Travel]
 tags: ['kotone', 'parents']
 ---
 

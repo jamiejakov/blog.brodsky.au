@@ -7,7 +7,8 @@ image:
   alt: MBPR
 pubDate: 2012-06-13T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'facebook', 'ios', 'macos', 'wwdc']
+categories: []
+tags: ['technology', 'apple', 'facebook', 'ios', 'macos', 'wwdc']
 ---
 
 This is a little late. I was a bit busy these days with playing CoD and SSFIV:AE2012.

@@ -7,6 +7,7 @@ image:
   alt: UTS
 pubDate: 2016-12-05T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'utsanime', 'uts']
 ---
 

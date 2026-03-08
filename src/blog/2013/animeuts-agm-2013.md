@@ -7,6 +7,7 @@ image:
   alt: uts anime 2013 exec team
 pubDate: 2013-10-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'utsanime', 'exec-team']
 ---
 

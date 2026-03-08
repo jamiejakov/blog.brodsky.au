@@ -7,6 +7,7 @@ image:
   alt: Miku
 pubDate: 2012-08-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'hatsune_miku', 'vocaloid']
 ---
 

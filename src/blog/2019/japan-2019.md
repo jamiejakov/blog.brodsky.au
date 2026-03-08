@@ -14,7 +14,7 @@ image:
   alt: japan_autumn
 pubDate: 2019-11-19T00:00:00.000Z
 published: true
-category: Travel
+categories: [Travel]
 tags: ['japan', 'kotone']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: PettoKanojo
 pubDate: 2012-06-16T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime']
 ---
 

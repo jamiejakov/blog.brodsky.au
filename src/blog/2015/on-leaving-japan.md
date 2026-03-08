@@ -11,6 +11,7 @@ image:
   alt: Kagoshima_Sakurjima
 pubDate: 2015-02-02T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'ics']
 ---
 

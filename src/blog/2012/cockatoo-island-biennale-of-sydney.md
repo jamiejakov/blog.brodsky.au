@@ -7,6 +7,7 @@ image:
   alt: Biennale in Sydney Art
 pubDate: 2012-08-17T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'utsanime', 'art']
 ---
 

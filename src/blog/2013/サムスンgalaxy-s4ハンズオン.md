@@ -9,6 +9,7 @@ image:
   alt: Samsung Galaxy S4
 pubDate: 2013-04-17T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'samsung', 'smartphone']
 ---
 

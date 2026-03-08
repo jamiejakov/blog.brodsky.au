@@ -7,6 +7,7 @@ image:
   alt: watamote
 pubDate: 2013-07-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'anime-list', 'danganronpa', 'free', 'genshiken', 'ginnosaji', 'toarumajutsunoindex', 'kyoani', 'monogatari', 'recommendation', 'twogok', 'watamote']
 ---
 

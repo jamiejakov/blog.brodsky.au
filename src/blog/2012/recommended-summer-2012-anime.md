@@ -10,6 +10,7 @@ image:
   alt: SAO
 pubDate: 2012-07-19T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'recommendation']
 ---
 

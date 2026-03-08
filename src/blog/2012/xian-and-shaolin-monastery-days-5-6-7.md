@@ -7,6 +7,7 @@ image:
   alt: Terracota_Army
 pubDate: 2012-07-01T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'china_2012', 'xian']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: IMG_6451
 pubDate: 2014-03-30T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'clara', 'farewell', 'ics', 'japan-2014', 'robbie', 'ruben', 'seb', 'tac']
 ---
 

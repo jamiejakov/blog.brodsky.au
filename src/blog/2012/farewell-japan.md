@@ -13,6 +13,7 @@ image:
   alt: Osaka Nipponbashi
 pubDate: 2012-07-28T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'farewell', 'japan_2012', 'nipponbashi', 'yuru-yuri']
 ---
 

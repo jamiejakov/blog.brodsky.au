@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: <iframe src="//www.youtube.com/embed/8ojNbMT3yxQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 pubDate: 2014-10-30T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'advertising']
 ---
 

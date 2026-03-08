@@ -7,6 +7,7 @@ image:
   alt: sochi 2014
 pubDate: 2014-02-09T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'russia', 'sport']
 ---
 

@@ -13,7 +13,8 @@ image:
   alt: ichitanda
 pubDate: 2012-09-23T00:00:00.000Z
 published: true
-tags: ['life', 'technology', 'apple-2', 'iphone', 'review']
+categories: []
+tags: ['life', 'technology', 'apple', 'iphone', 'review']
 ---
 
 ![ichitanda](images/ichitanda.png)

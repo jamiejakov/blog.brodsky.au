@@ -7,6 +7,7 @@ image:
   alt: summer
 pubDate: 2014-08-06T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'amy', 'holiday']
 ---
 

@@ -10,6 +10,7 @@ image:
   alt: Anime@UTS AGM
 pubDate: 2012-09-30T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'utsanime', 'exec-team']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: Path
 pubDate: 2013-07-24T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'latvia_2013']
 ---
 

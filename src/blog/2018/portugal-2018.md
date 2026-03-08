@@ -7,7 +7,7 @@ image:
   alt: lisbon
 pubDate: 2018-05-10T00:00:00.000Z
 published: true
-category: Travel
+categories: [Travel]
 tags: ['parents', 'portugal']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: Black Rock Shooter
 pubDate: 2012-07-29T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'figures']
 ---
 

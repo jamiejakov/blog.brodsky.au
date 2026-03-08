@@ -7,6 +7,7 @@ image:
   alt: durarara animie
 pubDate: 2012-06-04T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'durarara', 'review']
 ---
 

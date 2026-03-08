@@ -14,6 +14,7 @@ image:
   alt: Hatsune.Miku.full.270039
 pubDate: 2013-08-31T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'birthday', 'hatsune_miku', 'vocaloid']
 ---
 

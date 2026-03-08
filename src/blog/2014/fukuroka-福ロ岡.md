@@ -7,6 +7,7 @@ image:
   alt: owl
 pubDate: 2014-04-28T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'ics', 'japan-2014']
 ---
 

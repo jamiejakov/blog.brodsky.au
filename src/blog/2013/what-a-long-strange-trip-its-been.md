@@ -7,6 +7,7 @@ image:
   alt: Quantas A380
 pubDate: 2013-06-27T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'latvia_2013']
 ---
 

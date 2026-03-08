@@ -7,7 +7,8 @@ image:
   alt: sand
 pubDate: 2017-03-05T00:00:00.000Z
 published: true
-tags: ['photo']
+categories: [Photography]
+tags: []
 ---
 
 I figured it about time I upgrade my kit. I love landscape photography, but I was constrained by my camera and lenses. So before embarking on a new journey, I upgraded a bit of my kit. I ordered the [Canon EF 16-35mm f/2.8L III USM](https://www.canon.com.au/camera-lenses/ef-16-35mm-f-2-8l-iii-usm) from Amazon Japan. Its so much cheaper from Japan then here in Sydney, so happy with the cheaper price I got.

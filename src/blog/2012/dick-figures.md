@@ -7,6 +7,7 @@ image:
   alt: Dick Figures the movie
 pubDate: 2012-06-20T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'movies_tv', 'dick_figures', 'kickstarter']
 ---
 

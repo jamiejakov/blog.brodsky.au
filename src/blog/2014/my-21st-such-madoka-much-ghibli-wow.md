@@ -12,6 +12,7 @@ image:
   alt: Birthday_2014
 pubDate: 2014-02-03T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'birthday', 'blu_ray', 'dale', 'ghibli', 'madoka-magika', 'seb', 'tac']
 ---
 

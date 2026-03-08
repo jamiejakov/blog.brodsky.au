@@ -7,6 +7,7 @@ image:
   alt: Synology_DS1513_7
 pubDate: 2016-04-01T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'media', 'nas', 'plex', 'server']
 ---
 

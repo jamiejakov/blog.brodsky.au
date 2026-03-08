@@ -7,7 +7,8 @@ image:
   alt: NewZealand
 pubDate: 2016-10-31T00:00:00.000Z
 published: true
-tags: ['travel', 'parents', 'new-zealand']
+categories: ['Travel']
+tags: ['parents', 'new-zealand']
 ---
 
 And thus I have left my comfortable dwelling to go on an adventure to the land of Middle Earth New Zealand. For only a brief 8 days I wandered the uncharted lands of the two islands and explored vast valleys, steep mountains and lush forests.

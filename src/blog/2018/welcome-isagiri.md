@@ -11,7 +11,7 @@ image:
   alt: sagiri
 pubDate: 2018-12-21T00:00:00.000Z
 published: true
-category: Tech
+categories: [Tech]
 tags: ['ipad']
 ---
 

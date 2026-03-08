@@ -14,7 +14,8 @@ image:
   alt: MtRoy
 pubDate: 2017-04-22T00:00:00.000Z
 published: true
-tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
+categories: [Travel, 'Photography']
+tags: ['new-zealand', 'night-photography']
 ---
 
 The town of Wanaka in beautiful autumn colours. How better to capture it then to go to the world famous Wanaka Tree. We thought that we are the most prepared photographers, we got there a good hour before the sunrise. When we got to the tree itself, we quickly realised that this was a very popular spot as there were about 20-30 people gathered around the tree with their tripods. Anton and I tried our best to get a good view of the tree, but we found it to be impossible.
@@ -27,4 +28,4 @@ Then we set out to Roy's Peak, but little did we know that the next hike would b
 
 As you will see, the photos from the evening turned out fantastic, with a gorgeous display of colours and the stunning landscapes.
 
-[![flickr](images/flickr_logo.png)](/)
+[![flickr](images/flickr_logo.png)](https://www.flickr.com/photos/jamiejakov/albums/72157679873348594)

@@ -7,6 +7,7 @@ description: >-
   layout, so you can HNNNNNGGHHHH all night long!
 pubDate: 2013-04-03T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'internetz', 'reddit']
 ---
 

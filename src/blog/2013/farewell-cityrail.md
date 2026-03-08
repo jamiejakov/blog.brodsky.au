@@ -7,6 +7,7 @@ image:
   alt: CityRail
 pubDate: 2013-06-30T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'sydneytrains']
 ---
 

@@ -7,7 +7,8 @@ image:
   alt: leaked iPhone5
 pubDate: 2012-06-01T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'iphone']
+categories: []
+tags: ['technology', 'apple', 'iphone']
 ---
 
 ![leaked iPhone5](images/9to5macblackandwhite.png)

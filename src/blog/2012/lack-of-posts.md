@@ -7,6 +7,7 @@ description: >-
   stuff.
 pubDate: 2012-06-25T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'china_2012', 'firewall']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: ClovellyMilkyWay
 pubDate: 2016-05-07T00:00:00.000Z
 published: true
+categories: []
 tags: ['photo', 'night-photography']
 ---
 

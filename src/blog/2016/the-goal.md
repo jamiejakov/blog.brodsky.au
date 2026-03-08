@@ -1,28 +1,28 @@
 ---
 title: The Goal
 author: Vadim Brodsky
-description: "I don't really read many books, but when I do, they affect me in a big way. This book made me question the processes we follow and actions we take\_in our everyday lives, and evaluate their value in terms of achieving \"The Goal\". It was published in 1984, but the concepts that it covers are\_still relevant to this day. Personally, I strive for perfection and getting the most value out of everything I do and that happens around me. Trying to minimise wasted time and effort, and achieving most results with minimal expenses (financial and other)."
+description: "I don't really read many books, but when I do, they affect me in a big way. This book made me question the processes we follow and actions we take\_in our everyday lives, and evaluate their value in terms of achieving \"The Goal\"."
 image:
   src: images/goal.jpg
   alt: goal
 pubDate: 2016-01-16T00:00:00.000Z
 published: true
-tags: ['life', 'productivity', 'review']
+categories: ['Book']
+tags: ['productivity', 'review']
 ---
 
 I don't really read many books, but when I do, they affect me in a big way. This book made me question the processes we follow and actions we take in our everyday lives, and evaluate their value in terms of achieving "The Goal". It was published in 1984, but the concepts that it covers are still relevant to this day. Personally, I strive for perfection and getting the most value out of everything I do and that happens around me. Trying to minimise wasted time and effort, and achieving most results with minimal expenses (financial and other).
 
----The Goal is a novel, which tells the story of Alex, a plant manager somewhere in the USA. And through Alex, the author (Goldratt) shows us how to apply the Theory of Constraints to an organisation and increase its productivity. In the begging of the story Alex's plant is suffering major losses and he is told that it may have to shut down. However to battle this Alex needs to understand the problems that the plant is facing, aside from the obvious late shipments and loss of revenue. He accidentally bumps into his university professor (Jonah), who, as we find out later on, is a specialist in TOC, so he is able to guide Alex through the process of changing the daily operations of the plant and battle the dreadful situation that it is in.
+---
+
+The Goal is a novel, which tells the story of Alex, a plant manager somewhere in the USA. And through Alex, the author (Goldratt) shows us how to apply the Theory of Constraints to an organisation and increase its productivity. In the begging of the story Alex's plant is suffering major losses and he is told that it may have to shut down. However to battle this Alex needs to understand the problems that the plant is facing, aside from the obvious late shipments and loss of revenue. He accidentally bumps into his university professor (Jonah), who, as we find out later on, is a specialist in TOC, so he is able to guide Alex through the process of changing the daily operations of the plant and battle the dreadful situation that it is in.
 
 What makes the story interesting is that Jonah is very intelligent and does not give Alex all the answers on a silver platter, he makes Alex think about the reasons behind curtains events, and guides his thoughts towards the right answers, thus making Alex realise the importance of the concepts and willing to undertake change\*.  “Alex, if I simply told you what to do, ultimately you would fail. You have to gain the understanding for yourself in order to make the rules work,’’ Jonah says.
 
 \* Change is probably the hardest thing for us humans. We despise it, we fight it, we avoid it, and we definitely do not wilfully undertake it when someone tells us to. That is why it is of great importance that the person themselves realise the need for change, and want to change things around them in order to achieve their goals. Anyway back to the book.
 
- -----------------------------------
-
-**If you interested in reading the book, I would highly recommend that you stop reading right here as the next paragraphs will contain spoilers and will do the exact opposite of what Jonah did to Alex - give all the answers on a silver platter.**
-
- -----------------------------------
+> [!CAUTION]
+> If you interested in reading the book, I would highly recommend that you stop reading right here as the next paragraphs will contain spoilers and will do the exact opposite of what Jonah did to Alex - give all the answers on a silver platter.
 
 The first question Jonah asks is: **What is the goal**? It is very important to understand what the desired effect or outcome of any action is. As a business what do we want to achieve? By doing this particular thing, what is the purpose? This concept can apply to anything from waking up in the morning, to running a multi million dollar organisation.
 

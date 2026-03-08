@@ -7,6 +7,7 @@ image:
   alt: WataMote Anime
 pubDate: 2013-06-16T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'watamote']
 ---
 

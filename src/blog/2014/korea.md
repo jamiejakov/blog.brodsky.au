@@ -7,6 +7,7 @@ image:
   alt: DMZ
 pubDate: 2014-08-27T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'amy', 'dprk']
 ---
 

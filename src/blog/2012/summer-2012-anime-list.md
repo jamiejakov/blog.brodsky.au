@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: 'So here it is: the summer anime list.'
 pubDate: 2012-06-02T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'anime-list', 'wolf-children', 'yuru-yuri']
 ---
 

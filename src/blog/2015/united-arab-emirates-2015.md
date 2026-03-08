@@ -7,6 +7,7 @@ image:
   alt: View of Burj Kulifa
 pubDate: 2015-04-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel']
 ---
 

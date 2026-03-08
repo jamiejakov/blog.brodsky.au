@@ -7,7 +7,7 @@ image:
   alt: F8AAFEB3-F38D-4862-8E98-EC43A00E6E3C
 pubDate: 2018-10-23T00:00:00.000Z
 published: true
-category: Tech
+categories: [Tech]
 tags: ['iphone']
 ---
 

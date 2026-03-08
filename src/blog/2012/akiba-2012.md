@@ -7,6 +7,7 @@ image:
   alt: AkibaGames
 pubDate: 2012-07-03T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'akiba', 'japan_2012', 'monogatari', 'steinsgate']
 ---
 

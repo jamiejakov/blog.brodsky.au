@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2015-08-09T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'japan']
 ---
 

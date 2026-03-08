@@ -17,6 +17,7 @@ image:
   alt: south_park_the_stick_of_truth
 pubDate: 2014-06-02T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'review', 'southpark', 'ubisoft']
 ---
 

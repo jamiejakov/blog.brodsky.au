@@ -17,6 +17,7 @@ image:
   alt: kyary2016
 pubDate: 2016-06-25T00:00:00.000Z
 published: true
+categories: []
 tags: ['music', 'concert', 'j-pop', 'japanese', 'kyary']
 ---
 

@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: Ever since the smartphone boom in Japan there was a constant search for the best messaging app. And then there came LINE.
 pubDate: 2012-12-27T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'gangnam-style', 'review', 'smartphone']
 ---
 

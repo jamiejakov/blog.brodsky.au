@@ -17,6 +17,7 @@ image:
   alt: The cake is a lie
 pubDate: 2014-05-30T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'birthday', 'blog', 'css', 'design']
 ---
 

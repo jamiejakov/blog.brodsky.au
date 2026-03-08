@@ -7,6 +7,7 @@ image:
   alt: obon-pikachu
 pubDate: 2014-08-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'amy', 'ics', 'pokemon']
 ---
 

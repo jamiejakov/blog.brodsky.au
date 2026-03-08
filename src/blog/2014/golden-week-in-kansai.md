@@ -7,6 +7,7 @@ image:
   alt: Kinkakuji
 pubDate: 2014-05-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'amy', 'ics', 'japan-2014', 'kyoto', 'osaka']
 ---
 

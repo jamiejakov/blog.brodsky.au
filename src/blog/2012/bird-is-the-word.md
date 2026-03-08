@@ -7,6 +7,7 @@ image:
   alt: Rainbow Lorikeet
 pubDate: 2012-08-12T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'urbanest']
 ---
 

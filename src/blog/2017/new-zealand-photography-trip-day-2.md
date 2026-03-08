@@ -12,7 +12,8 @@ image:
   alt: Tekapo
 pubDate: 2017-04-17T00:00:00.000Z
 published: true
-tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
+categories: [Travel, 'Photography']
+tags: ['new-zealand', 'night-photography']
 ---
 
 Early to bed, early to rise right? Well, it was 5am and we had to be ready to hike up a mountain. Mount John was our first target. Apparently the whole lake would have been visible from the top, if it wasn’t covered in clouds… We only got a small glimpse above the layer of clouds and fog, until it consumed us as well.

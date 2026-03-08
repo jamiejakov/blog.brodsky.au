@@ -11,7 +11,7 @@ image:
   alt: IMG_0895-scaled
 pubDate: 2020-11-11T00:00:00.000Z
 published: true
-category: Personal Life
+categories: [Personal Life]
 tags: ['kotone', 'wedding']
 ---
 

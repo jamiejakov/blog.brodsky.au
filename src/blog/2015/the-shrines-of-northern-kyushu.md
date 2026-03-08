@@ -7,6 +7,7 @@ image:
   alt: Yutoku Inari
 pubDate: 2015-01-27T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'uts']
 ---
 

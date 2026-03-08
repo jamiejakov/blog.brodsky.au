@@ -7,6 +7,7 @@ image:
   alt: vongfong
 pubDate: 2014-10-13T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'ics']
 ---
 

@@ -34,9 +34,12 @@ const ogImageSrc = post.data.image ? (await getImage(post.data.image)).src : und
     <div>Published on: <span class="text-gray-500 italic">{post.data.pubDate.toLocaleDateString('en-au')}</span></div>
     <p class="mb-1">Written by: <span class="text-gray-500 italic">{post.data.author}</span></p>
     {
-      post.data.category && (
+      post.data.categories.length > 0 && (
         <p class="mb-1">
-          Category: <Category category={post.data.category} client:load />
+          {post.data.categories.length === 1 ? 'Category' : 'Categories'}:{' '}
+          {post.data.categories.map((cat: string) => (
+            <Category category={cat} client:load />
+          ))}
         </p>
       )
     }

@@ -7,6 +7,7 @@ image:
   alt: Vivid Sydney
 pubDate: 2013-06-13T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'sydney', 'sydney-opera-house']
 ---
 

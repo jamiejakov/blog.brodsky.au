@@ -19,7 +19,7 @@ const blog = defineCollection({
           alt: z.string(),
         })
         .optional(),
-      category: z.string().optional(),
+      categories: z.array(z.string()),
       tags: z.array(z.string()),
       published: z.boolean().optional(),
     }),

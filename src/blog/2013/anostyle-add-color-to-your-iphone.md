@@ -7,7 +7,8 @@ image:
   alt: Anostyle
 pubDate: 2013-02-28T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'iphone']
+categories: []
+tags: ['technology', 'apple', 'iphone']
 ---
 
 ![Anostyle](images/Anostyle.jpg)

@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: 'Blizzard has just released the official cinematic for the upcoming World of Warcraft: Mists of Pandaria. First impression: WOOOOOWWW that looks amazing, and funny!'
 pubDate: 2012-08-16T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'blizzard', 'wow']
 ---
 

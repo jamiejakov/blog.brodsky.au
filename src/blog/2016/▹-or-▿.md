@@ -9,6 +9,7 @@ image:
   alt: arrowDebate
 pubDate: 2016-09-07T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'design', 'ui']
 ---
 

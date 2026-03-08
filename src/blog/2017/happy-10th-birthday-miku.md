@@ -7,7 +7,8 @@ image:
   alt: Miku10
 pubDate: 2017-08-31T00:00:00.000Z
 published: true
-tags: ['anime', 'birthday', 'hatsune_miku', 'video', 'vocaloid']
+categories: ['Music']
+tags: ['anime', 'birthday', 'hatsune_miku']
 ---
 
 31st of August 2007 brought you into our world, and since then you have continuously blessed us with your beautiful voice and gorgeous looks. I can't believe that I have listened to 10 years of your songs, it feels like only yesterday I became aware of your existence and instantly fell in love. Since then I've bought numerous goods and CDs, and even came to see you live in Osaka in 2014.

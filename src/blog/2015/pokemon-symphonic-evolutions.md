@@ -7,6 +7,7 @@ image:
   alt: IMG_0332
 pubDate: 2015-11-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['music', 'pokemon', 'sydney-opera-house']
 ---
 

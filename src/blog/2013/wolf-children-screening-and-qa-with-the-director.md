@@ -7,6 +7,7 @@ image:
   alt: Wolf_Children_BD
 pubDate: 2013-04-15T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'life', 'movies_tv', 'mamoru-hosoda', 'wolf-children']
 ---
 

@@ -4,7 +4,7 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2020-07-07T00:00:00.000Z
 published: true
-category: Music
+categories: [Music]
 tags: ['mongolia']
 ---
 

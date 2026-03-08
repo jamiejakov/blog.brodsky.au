@@ -7,6 +7,7 @@ image:
   alt: PsychoPassMovie
 pubDate: 2015-01-20T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'review']
 ---
 

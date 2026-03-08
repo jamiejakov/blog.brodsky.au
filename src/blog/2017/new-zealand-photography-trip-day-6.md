@@ -14,7 +14,8 @@ image:
   alt: MtCookPukaki
 pubDate: 2017-04-21T00:00:00.000Z
 published: true
-tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
+categories: [Travel, 'Photography']
+tags: ['new-zealand']
 ---
 
 Our next destination is the lakeside town of Wanaka, so we set off for there. But first we had to take one final look at Mt. Cook, this time from the other end of lake Pukaki. We stumbled upon a Chinese photography tour group and decided to tag along and see what they are up to. They led us up to this hill, which had a stunning view of Mt Cook and all its surroundings. That morning was definitely worth the time to wake up early, drive for about 40 minutes and then take these great shots.

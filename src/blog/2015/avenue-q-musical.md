@@ -7,6 +7,7 @@ image:
   alt: Avenue Q poster
 pubDate: 2015-07-17T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy']
 ---
 

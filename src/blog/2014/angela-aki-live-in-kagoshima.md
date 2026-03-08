@@ -7,6 +7,7 @@ image:
   alt: AngelaAki
 pubDate: 2014-07-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['music', 'amy', 'concert', 'kagoshima']
 ---
 

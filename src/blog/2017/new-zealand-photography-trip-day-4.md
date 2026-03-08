@@ -9,7 +9,8 @@ image:
   alt: MtCook
 pubDate: 2017-04-19T00:00:00.000Z
 published: true
-tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'photography']
+categories: [Travel, 'Photography']
+tags: ['new-zealand', 'night-photography']
 ---
 
 Just when I thought it couldn’t get any colder… 0° tonight. It's 5am again, and we're off for another sunrise photoshoot.

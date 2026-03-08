@@ -12,6 +12,7 @@ image:
   alt: RigoJuice
 pubDate: 2016-01-31T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'blog', 'css', 'design']
 ---
 

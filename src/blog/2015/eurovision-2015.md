@@ -16,6 +16,7 @@ image:
   alt: esc2015_logo
 pubDate: 2015-05-28T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'australia', 'austria', 'eurovision', 'sweden']
 ---
 

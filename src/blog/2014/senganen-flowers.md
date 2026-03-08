@@ -7,6 +7,7 @@ image:
   alt: Gayjin Gang
 pubDate: 2014-11-09T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'festival', 'gaijin-gang', 'ics', 'kagoshima']
 ---
 

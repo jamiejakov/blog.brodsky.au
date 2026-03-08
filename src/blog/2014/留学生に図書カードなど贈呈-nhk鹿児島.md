@@ -6,6 +6,7 @@ description: >-
 
 pubDate: 2014-06-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'ics', 'kagoshima']
 ---
 

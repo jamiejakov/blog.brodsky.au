@@ -7,6 +7,7 @@ image:
   alt: Comiket
 pubDate: 2014-08-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'amy', 'dale', 'ics', 'tac']
 ---
 

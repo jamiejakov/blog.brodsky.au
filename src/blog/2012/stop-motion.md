@@ -7,6 +7,7 @@ image:
   alt: MGM
 pubDate: 2012-08-09T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'technology', 'youtube']
 ---
 

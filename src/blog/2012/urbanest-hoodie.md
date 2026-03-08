@@ -11,6 +11,7 @@ image:
   alt: urbanestHoodie
 pubDate: 2012-06-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'urbanest']
 ---
 

@@ -8,6 +8,7 @@ description: >-
   "We don't speak like that!"
 pubDate: 2014-12-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'japanese', 'languages']
 ---
 

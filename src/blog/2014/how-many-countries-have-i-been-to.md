@@ -7,6 +7,7 @@ image:
   alt: 48 countries map
 pubDate: 2014-05-28T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'map', 'world']
 ---
 

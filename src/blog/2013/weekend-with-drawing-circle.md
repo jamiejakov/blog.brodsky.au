@@ -7,6 +7,7 @@ image:
   alt: DC_Goya
 pubDate: 2013-11-10T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'utsanime', 'art', 'drawingcircle', 'jass', 'pokemon']
 ---
 

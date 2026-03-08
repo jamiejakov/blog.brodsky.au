@@ -7,6 +7,7 @@ image:
   alt: Game Masters
 pubDate: 2014-01-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'powerhouse-museum', 'wow']
 ---
 

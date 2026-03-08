@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2015-10-01T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', '100-days-of-anime', 'utsanime']
 ---
 

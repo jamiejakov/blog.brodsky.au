@@ -9,6 +9,7 @@ image:
   alt: UTS Anime Club on Ice
 pubDate: 2013-05-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'utsanime', 'ice-skating']
 ---
 

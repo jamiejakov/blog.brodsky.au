@@ -1,13 +1,14 @@
 ---
 title: The hype for September 9th
 author: Vadim Brodsky
-description: 'We all knew it was coming, but we probably have no idea how little know, and what to expect. I am of course talking about the September 9th Apple Keynote. Every year Apple has held a Keynote around this time in September to introduce their new hardware, more specifically new iPhones. We (by we I mean all the denizens of the internet and beyond) were all guessing that this year won''t be different. Oh boy, were we wrong. Well I can''t say for a fact yet, but come September 10th 2-4am Japan time, and I will be able to say that we were.'
+description: "We all knew it was coming, but we probably have no idea how little know, and what to expect. I am of course talking about the September 9th Apple Keynote. Every year Apple has held a Keynote around this time in September to introduce their new hardware, more specifically new iPhones. We (by we I mean all the denizens of the internet and beyond) were all guessing that this year won't be different. Oh boy, were we wrong. Well I can't say for a fact yet, but come September 10th 2-4am Japan time, and I will be able to say that we were."
 image:
   src: images/AppleCountdown.png
   alt: AppleCountdown
 pubDate: 2014-09-05T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'iphone']
+categories: []
+tags: ['technology', 'apple', 'iphone']
 ---
 
 ![AppleCountdown](images/AppleCountdown.png)

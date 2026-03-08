@@ -9,6 +9,7 @@ image:
   alt: Cherry Blossom
 pubDate: 2012-08-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'utsanime', 'bbq', 'cherry-blossom', 'picnic']
 ---
 

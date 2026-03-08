@@ -7,6 +7,7 @@ image:
   alt: 'Riga '
 pubDate: 2013-06-28T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'latvia_2013', 'riga']
 ---
 

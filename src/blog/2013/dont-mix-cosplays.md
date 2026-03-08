@@ -6,6 +6,7 @@ description: >-
 
 pubDate: 2013-08-19T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'cosplay']
 ---
 

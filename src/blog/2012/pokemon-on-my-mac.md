@@ -7,7 +7,8 @@ image:
   alt: pokemon screen
 pubDate: 2012-06-17T00:00:00.000Z
 published: true
-tags: ['games', 'technology', 'utsanime', 'apple-2', 'macos', 'pokemon']
+categories: []
+tags: ['games', 'technology', 'utsanime', 'apple', 'macos', 'pokemon']
 ---
 
 ![pokemon screen](images/PokemonScreen.png)

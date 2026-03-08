@@ -7,6 +7,7 @@ image:
   alt: Ghiblli Museum
 pubDate: 2012-07-05T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'ghibli', 'japan_2012']
 ---
 

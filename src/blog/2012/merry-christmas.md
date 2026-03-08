@@ -6,6 +6,7 @@ description: >-
   Merry Christmas!!!
 pubDate: 2012-12-25T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'music', 'christmas', 'hatsune_miku']
 ---
 

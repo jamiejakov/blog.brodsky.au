@@ -7,6 +7,7 @@ image:
   alt: KagoshimaBlueSky
 pubDate: 2014-07-20T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'ics']
 ---
 

@@ -10,6 +10,7 @@ image:
   alt: Kurisu
 pubDate: 2014-12-25T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'christmas', 'nagasaki']
 ---
 

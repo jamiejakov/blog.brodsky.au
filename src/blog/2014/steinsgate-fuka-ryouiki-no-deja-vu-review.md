@@ -7,6 +7,7 @@ image:
   alt: Steins Gate Movie
 pubDate: 2014-01-19T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'blu_ray', 'review', 'steinsgate', 'time-travel']
 ---
 

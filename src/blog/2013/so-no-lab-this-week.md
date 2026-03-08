@@ -7,6 +7,7 @@ image:
   alt: jazz down
 pubDate: 2013-08-16T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'uts']
 ---
 

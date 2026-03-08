@@ -12,7 +12,7 @@ image:
   alt: IMG_0535
 pubDate: 2021-01-23T00:00:00.000Z
 published: true
-category: Personal Life
+categories: [Personal Life]
 tags: ['kotone', 'wedding']
 ---
 

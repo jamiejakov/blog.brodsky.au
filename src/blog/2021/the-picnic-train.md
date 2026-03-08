@@ -7,7 +7,7 @@ image:
   alt: Picnic train steam train
 pubDate: 2021-12-18
 posted: false
-category: Personal Life
+categories: [Personal Life]
 tags: ['train']
 ---
 

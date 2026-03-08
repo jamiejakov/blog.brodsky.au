@@ -7,6 +7,7 @@ image:
   alt: KyotoTemple
 pubDate: 2012-07-15T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'arcade', 'japan_2012', 'kyoto']
 ---
 

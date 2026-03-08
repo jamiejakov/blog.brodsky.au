@@ -7,6 +7,7 @@ image:
   alt: DSLR
 pubDate: 2013-01-25T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'birthday', 'melbourne_fiji_2013', 'photography']
 ---
 

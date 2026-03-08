@@ -7,6 +7,7 @@ description: >-
   doubt you have seen anything as cute as this. Cat SYNCH!
 pubDate: 2014-07-10T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'cats']
 ---
 

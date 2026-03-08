@@ -7,7 +7,8 @@ image:
   alt: JapaneseApp
 pubDate: 2012-05-30T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'ios', 'japanese', 'update']
+categories: []
+tags: ['technology', 'apple', 'ios', 'japanese', 'update']
 ---
 
 ![JapaneseApp](images/Banner1.png)

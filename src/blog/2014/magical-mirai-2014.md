@@ -11,6 +11,7 @@ image:
   alt: Magical Mirai 2014
 pubDate: 2014-08-31T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'concert', 'dale', 'hatsune_miku', 'tac']
 ---
 

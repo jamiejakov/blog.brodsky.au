@@ -9,6 +9,7 @@ image:
   alt: 'Firewall of China'
 pubDate: 2012-06-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'china_2012', 'firewall', 'japan_2012']
 ---
 

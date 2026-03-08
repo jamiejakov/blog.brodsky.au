@@ -7,7 +7,8 @@ image:
   alt: SMASH 2013
 pubDate: 2013-08-11T00:00:00.000Z
 published: true
-tags: ['anime', 'life', 'utsanime', 'claris', 'cosplay', 'toarumajutsunoindex', 'smash', 'vocaloid']
+categories: []
+tags: ['anime', 'life', 'utsanime', 'claris', 'cosplay', 'toarumajutsunoindex', 'SMASH!', 'vocaloid']
 ---
 
 ![SMASH 2013](images/smash2013poster.jpg)

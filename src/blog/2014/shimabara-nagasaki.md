@@ -12,6 +12,7 @@ image:
   alt: samurai road
 pubDate: 2014-10-20T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'ics', 'nagasaki', 'tac']
 ---
 

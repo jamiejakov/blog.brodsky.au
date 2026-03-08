@@ -4,10 +4,11 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2016-01-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'madoka', 'monogatari', 'toradora']
 ---
 
-https://www.youtube.com/watch?v=eQQLOJhGUYY
+https://www.youtube.com/watch?v=P4BgZcpGb9k
 
 For Shafts 40th anniversary they made a special promotion called Madogatari, where they crossed Madoka and Monogatari. Which spawned some [truly amazing art](images/QBnobu.png) and merch. I wish I was in Japan to experience it, but alas.
 

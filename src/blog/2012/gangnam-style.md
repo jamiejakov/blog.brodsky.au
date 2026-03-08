@@ -11,6 +11,7 @@ description: >-
 
 pubDate: 2012-08-03T00:00:00.000Z
 published: true
+categories: []
 tags: ['music', 'gangnam-style', 'k-pop', 'psy']
 ---
 

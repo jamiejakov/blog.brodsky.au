@@ -7,6 +7,7 @@ image:
   alt: 'Tenacious D Old school acoustic style, Australia'
 pubDate: 2013-05-13T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'music', 'concert', 'sydney-opera-house']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: Mononoke and Cat Returns
 pubDate: 2014-01-02T00:00:00.000Z
 published: true
+categories: []
 tags: ['movies_tv', 'blu_ray', 'ghibli']
 ---
 

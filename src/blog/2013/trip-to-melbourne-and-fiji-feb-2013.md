@@ -7,6 +7,7 @@ image:
   alt: IMG_0691
 pubDate: 2013-01-31T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'melbourne_fiji_2013']
 ---
 

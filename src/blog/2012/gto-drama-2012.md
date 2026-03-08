@@ -7,6 +7,7 @@ image:
   alt: GTO Drama
 pubDate: 2012-07-10T00:00:00.000Z
 published: true
+categories: []
 tags: ['movies_tv', 'japan_2012']
 ---
 

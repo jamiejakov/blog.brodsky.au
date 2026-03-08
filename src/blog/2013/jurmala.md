@@ -7,6 +7,7 @@ image:
   alt: jurmala
 pubDate: 2013-07-06T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'beach', 'latvia_2013']
 ---
 

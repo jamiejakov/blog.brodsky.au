@@ -6,6 +6,7 @@ description: >-
 
 pubDate: 2012-06-11T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'cammy', 'street-fighter']
 ---
 

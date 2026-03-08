@@ -7,7 +7,8 @@ image:
   alt: DasKeyboard 4 Mac
 pubDate: 2015-06-28T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'update', 'wow']
+categories: []
+tags: ['technology', 'apple', 'update', 'wow']
 ---
 
 ![DasKeyboard 4 Mac](images/daskeyboard-4-professional-for-mac-2.jpg)

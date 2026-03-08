@@ -7,6 +7,7 @@ image:
   alt: Kyoto Sushi
 pubDate: 2012-07-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'japan_2012', 'kyoto', 'street-fighter']
 ---
 

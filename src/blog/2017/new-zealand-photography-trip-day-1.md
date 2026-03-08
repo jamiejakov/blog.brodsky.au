@@ -12,7 +12,8 @@ image:
   alt: camera
 pubDate: 2017-04-16T00:00:00.000Z
 published: true
-tags: ['photo', 'travel', 'new-zealand', 'new-zealand-2017', 'night-photography', 'photography']
+categories: [Travel, 'Photography']
+tags: ['new-zealand', 'night-photography']
 ---
 
 I recently got myself a new Camera - [Canon 5D Mark IV](https://www.canon.com.au/cameras/eos-5d-mark-iv). So of course I need to test it out by taking photos of the most beautiful landscapes in the world - New Zealand.

@@ -10,6 +10,7 @@ image:
   alt: SkatingBD
 pubDate: 2013-02-12T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'birthday', 'ice-skating', 'presents']
 ---
 

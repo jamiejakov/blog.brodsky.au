@@ -7,6 +7,7 @@ image:
   alt: ParanoiaAgent
 pubDate: 2015-10-04T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', '100-days-of-anime']
 ---
 

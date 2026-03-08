@@ -7,6 +7,7 @@ image:
   alt: citiesSkylines
 pubDate: 2016-08-09T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'riga']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: TokyoMagnitude1
 pubDate: 2013-02-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'review']
 ---
 

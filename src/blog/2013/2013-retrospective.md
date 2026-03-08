@@ -11,6 +11,7 @@ image:
   alt: Image
 pubDate: 2013-12-31T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'new-year', 'retrospective', 'wordle']
 ---
 

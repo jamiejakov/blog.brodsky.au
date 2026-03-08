@@ -7,6 +7,7 @@ image:
   alt: onsen for foreigners
 pubDate: 2014-05-15T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'hot-spring', 'ics', 'japan-2014']
 ---
 

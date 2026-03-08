@@ -7,6 +7,7 @@ image:
   alt: IMG_0663
 pubDate: 2016-03-17T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel']
 ---
 

@@ -2,11 +2,11 @@
 title: 'Everything is a Remix, even iOS'
 author: Vadim Brodsky
 description: >-
-  
 
 pubDate: 2013-12-13T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'remix']
+categories: []
+tags: ['technology', 'apple', 'remix']
 ---
 
 <iframe src="//player.vimeo.com/video/81745843" height="394" width="700" allowfullscreen frameborder="0"></iframe>

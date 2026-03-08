@@ -4,6 +4,7 @@ author: Vadim Brodsky
 description: <iframe src="//www.youtube.com/embed/BKorP55Aqvg" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 pubDate: 2014-08-27T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'video']
 ---
 

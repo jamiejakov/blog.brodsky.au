@@ -7,6 +7,7 @@ image:
   alt: Lego
 pubDate: 2016-04-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy']
 ---
 

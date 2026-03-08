@@ -7,6 +7,7 @@ image:
   alt: Acchi Kocchi
 pubDate: 2015-09-23T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', '100-days-of-anime', 'acchikocchi']
 ---
 

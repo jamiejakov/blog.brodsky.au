@@ -14,6 +14,7 @@ image:
   alt: Sculptures
 pubDate: 2015-11-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'art', 'drawingcircle']
 ---
 

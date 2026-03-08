@@ -14,6 +14,7 @@ image:
   alt: Tatami Galaxy
 pubDate: 2012-08-03T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'review', 'tatami-galaxy']
 ---
 

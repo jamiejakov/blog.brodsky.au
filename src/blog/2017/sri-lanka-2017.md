@@ -1,13 +1,14 @@
 ---
 title: Sri Lanka 2017
 author: Vadim Brodsky
-description: 'Another year, another country ticked off the list. #53 - Sri Lanka. Its been over a year since I''ve seen my parents, so this reunion was well overdue.'
+description: "Another year, another country ticked off the list. #53 - Sri Lanka. Its been over a year since I've seen my parents, so this reunion was well overdue."
 image:
   src: images/sriLanka.jpg
   alt: sriLanka
 pubDate: 2017-10-31T00:00:00.000Z
 published: true
-tags: ['travel']
+categories: [Travel]
+tags: ['sri lanka']
 ---
 
 Another year, another country ticked off the list. #53 - Sri Lanka. Its been over a year since I've seen my parents, so this reunion was well overdue.

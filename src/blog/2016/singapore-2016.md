@@ -10,6 +10,7 @@ image:
   alt: Singapore
 pubDate: 2016-03-06T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: Rhodes
 pubDate: 2015-03-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'rhodes', 'sydney']
 ---
 

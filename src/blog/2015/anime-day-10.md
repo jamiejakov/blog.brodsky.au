@@ -7,6 +7,7 @@ image:
   alt: Bakemonogatari
 pubDate: 2015-09-24T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', '100-days-of-anime', 'monogatari']
 ---
 

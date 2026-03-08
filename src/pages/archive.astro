@@ -3,7 +3,6 @@ import { Category } from '../components/Category';
 import PostsByYearList from '../components/PostsByYearList.astro';
 import { ViewAllCategoriesButton, ViewAllTagsButton } from '../components/ViewAllButtons';
 import PageLayout from '../layouts/PageLayout.astro';
-import { exists } from '../lib/exists';
 import { getPosts } from '../lib/sortedCollection';
 
 const pageTitle = 'Archive';
@@ -11,8 +10,7 @@ const allPosts = await getPosts();
 
 const categoryCounts = new Map<string, number>();
 for (const post of allPosts) {
-  const category = post.data.category;
-  if (exists(category)) {
+  for (const category of post.data.categories) {
     categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
   }
 }

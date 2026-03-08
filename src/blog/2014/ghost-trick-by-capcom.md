@@ -7,6 +7,7 @@ image:
   alt: GhostTrick
 pubDate: 2014-04-01T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'amy', 'ios', 'review']
 ---
 

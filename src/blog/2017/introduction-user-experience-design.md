@@ -13,7 +13,8 @@ image:
   alt: ux
 pubDate: 2017-06-20T00:00:00.000Z
 published: true
-tags: ['technology', 'design', 'ui', 'ux']
+categories: ['Software Engineering']
+tags: ['design']
 ---
 
 User experience (UX) design is a relatively new field and only came around with the mass adoption of computers and digital technology. It has evolved over the years and is now an essential part of the digital product development cycle. The core mission of UX is to craft digital experiences that not only empower, but also delight users. In this digital era, innovation never stops and with it more and more opportunities for creating user experiences arise.

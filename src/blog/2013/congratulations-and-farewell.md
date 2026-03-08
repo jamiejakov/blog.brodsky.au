@@ -7,6 +7,7 @@ image:
   alt: Farewell Dinner
 pubDate: 2013-11-24T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'farewell', 'urbanest']
 ---
 

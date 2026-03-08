@@ -7,6 +7,7 @@ image:
   alt: Plex
 pubDate: 2016-04-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['movies_tv', 'technology', 'media', 'nas', 'plex', 'server']
 ---
 

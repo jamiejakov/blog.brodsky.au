@@ -7,6 +7,7 @@ image:
   alt: Tsukiko
 pubDate: 2013-10-15T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'figures']
 ---
 

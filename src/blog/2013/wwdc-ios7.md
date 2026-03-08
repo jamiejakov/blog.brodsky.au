@@ -7,7 +7,8 @@ image:
   alt: Apple iOS7
 pubDate: 2013-06-11T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'ios', 'wwdc']
+categories: []
+tags: ['technology', 'apple', 'ios', 'wwdc']
 ---
 
 ![Apple iOS7](images/iOS7.png)

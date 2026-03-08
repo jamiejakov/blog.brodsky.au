@@ -7,6 +7,7 @@ image:
   alt: Jazz and Blues
 pubDate: 2012-06-10T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'music', 'clara', 'ruben', 'seb', 'sydney']
 ---
 

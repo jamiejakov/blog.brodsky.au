@@ -12,6 +12,7 @@ image:
   alt: MU
 pubDate: 2013-06-20T00:00:00.000Z
 published: true
+categories: []
 tags: ['movies_tv', 'disney', 'pixar', 'review']
 ---
 

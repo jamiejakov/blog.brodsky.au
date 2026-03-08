@@ -10,7 +10,8 @@ image:
   alt: iPhone5
 pubDate: 2012-09-17T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'iphone']
+categories: []
+tags: ['technology', 'apple', 'iphone']
 ---
 
 ![iPhone5](images/iPhone5.png)

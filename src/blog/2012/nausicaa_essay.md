@@ -7,6 +7,7 @@ image:
   alt: Nausicaä
 pubDate: 2012-06-07T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'movies_tv', 'ghibli', 'review']
 ---
 

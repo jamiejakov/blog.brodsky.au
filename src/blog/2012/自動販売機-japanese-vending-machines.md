@@ -7,6 +7,7 @@ image:
   alt: VendingMachinesJapan
 pubDate: 2012-07-13T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'japan_2012']
 ---
 

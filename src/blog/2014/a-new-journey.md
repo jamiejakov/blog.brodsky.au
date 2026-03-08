@@ -11,6 +11,7 @@ image:
   alt: vietnam
 pubDate: 2014-03-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'vietnam-cambodia-2014']
 ---
 

@@ -4,7 +4,8 @@ author: Vadim Brodsky
 description: Yesterday I saw this very interesting TED Talk about copyright and remixing. It was made to give the idea of why most copyright and patent laws are dumb and the Apple vs Samsung & Android case is a bit too much
 pubDate: 2012-08-12T00:00:00.000Z
 published: true
-tags: ['technology', 'apple-2', 'copyright', 'remix', 'samsung']
+categories: []
+tags: ['technology', 'apple', 'copyright', 'remix', 'samsung']
 ---
 
 Yesterday I saw this very interesting TED Talk about copyright and remixing. It was made to give the idea of why most copyright and patent laws are dumb and the Apple vs Samsung & Android case is a bit too much

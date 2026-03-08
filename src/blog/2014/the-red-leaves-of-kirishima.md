@@ -7,6 +7,7 @@ image:
   alt: Kirishima
 pubDate: 2014-11-22T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'gaijin-gang', 'ics', 'kagoshima']
 ---
 

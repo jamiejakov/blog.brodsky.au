@@ -7,6 +7,7 @@ image:
   alt: telegram
 pubDate: 2014-03-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology']
 ---
 

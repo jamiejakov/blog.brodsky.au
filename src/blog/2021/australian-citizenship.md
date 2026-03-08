@@ -11,7 +11,7 @@ image:
   alt: IMG_2361
 pubDate: 2021-06-08T00:00:00.000Z
 published: true
-category: 'Personal Life'
+categories: ['Personal Life']
 tags: ['australia']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: EB Expo
 pubDate: 2012-10-06T00:00:00.000Z
 published: true
+categories: []
 tags: ['games', 'life', 'assassins_creed', 'cosplay', 'southpark', 'ubisoft']
 ---
 

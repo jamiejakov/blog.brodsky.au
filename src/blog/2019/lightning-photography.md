@@ -7,7 +7,7 @@ image:
   alt: lightning
 pubDate: 2019-02-12T00:00:00.000Z
 published: true
-category: Photography
+categories: [Photography]
 tags: ['lightning']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: AntiqueCar
 pubDate: 2016-01-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'australia']
 ---
 

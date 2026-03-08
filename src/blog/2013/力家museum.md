@@ -7,6 +7,7 @@ image:
   alt: powerhouse
 pubDate: 2013-11-18T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'powerhouse-museum']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: e-klasse
 pubDate: 2014-01-22T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'copyright', 'extension', 'latvia', 'school']
 ---
 

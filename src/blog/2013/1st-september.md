@@ -10,6 +10,7 @@ image:
   alt: den_znaniy
 pubDate: 2013-09-01T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'holiday', 'school']
 ---
 

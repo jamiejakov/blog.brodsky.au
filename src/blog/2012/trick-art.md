@@ -7,6 +7,7 @@ image:
   alt: TrickArt
 pubDate: 2012-07-26T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'japan_2012', 'osaka']
 ---
 

@@ -21,6 +21,7 @@ image:
   alt: Kyari
 pubDate: 2014-03-24T00:00:00.000Z
 published: true
+categories: []
 tags: ['music', 'amy', 'clara', 'concert', 'j-pop', 'japanese', 'kyary', 'robbie', 'ruben', 'seb']
 ---
 

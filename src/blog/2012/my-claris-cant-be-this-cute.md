@@ -10,6 +10,7 @@ image:
   alt: ClariS
 pubDate: 2012-10-03T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'music', 'utsanime', 'claris', 'hatsune_miku', 'madoka-magika', 'monogatari', 'oreimo']
 ---
 

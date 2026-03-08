@@ -14,6 +14,7 @@ image:
   alt: Sakurajima Shiroyama
 pubDate: 2014-12-31T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'new-year', 'retrospective', 'wordle']
 ---
 

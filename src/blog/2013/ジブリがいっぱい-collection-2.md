@@ -7,6 +7,7 @@ image:
   alt: Ghibli BluRay disks
 pubDate: 2013-02-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'blu_ray', 'ghibli']
 ---
 

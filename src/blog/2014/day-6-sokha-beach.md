@@ -7,6 +7,7 @@ image:
   alt: Borei Angkor
 pubDate: 2014-03-15T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'beach', 'vietnam-cambodia-2014']
 ---
 

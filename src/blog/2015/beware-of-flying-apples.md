@@ -7,6 +7,7 @@ image:
   alt: Flying Apples
 pubDate: 2015-07-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'rhodes']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: SnowFestival
 pubDate: 2015-02-10T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'travel', 'amy', 'hatsune_miku', 'ics', 'madoka']
 ---
 

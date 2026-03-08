@@ -13,6 +13,7 @@ image:
   alt: Ghbilbi BD Collection
 pubDate: 2013-08-06T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'blu_ray', 'ghibli']
 ---
 

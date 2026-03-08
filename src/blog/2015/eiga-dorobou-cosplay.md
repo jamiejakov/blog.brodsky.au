@@ -13,7 +13,8 @@ image:
   alt: EigaDorobou
 pubDate: 2015-10-07T00:00:00.000Z
 published: true
-tags: ['anime', 'amy', 'cosplay', 'smash']
+categories: []
+tags: ['anime', 'amy', 'cosplay', 'SMASH!']
 ---
 
 I'd say this was one of my most successful cosplays, if not THE. I have cosplayed a number of different characters in the past, as outlines in [this post](/posts/2014/cosplaying/ 'Cosplaying') about cosplay. But our joint NO MORE Eiga Dorobou (NO MORE映画泥棒) with Amy definitely tops the list.

@@ -7,7 +7,7 @@ image:
   alt: drone
 pubDate: 2019-07-29T00:00:00.000Z
 published: true
-category: Tech
+categories: [Tech, Photography]
 tags: ['camera', 'drone']
 ---
 

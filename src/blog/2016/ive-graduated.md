@@ -7,6 +7,7 @@ image:
   alt: graduation
 pubDate: 2016-10-23T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'amy', 'parents', 'ruben', 'seb', 'tac', 'uts']
 ---
 

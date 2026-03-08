@@ -11,6 +11,7 @@ image:
   alt: thoughts
 pubDate: 2013-12-09T00:00:00.000Z
 published: true
+categories: []
 tags: ['internetz', 'technology', 'blog']
 ---
 

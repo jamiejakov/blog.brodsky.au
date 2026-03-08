@@ -7,6 +7,7 @@ image:
   alt: TrelloLogo
 pubDate: 2013-09-07T00:00:00.000Z
 published: true
+categories: []
 tags: ['technology', 'ruben']
 ---
 

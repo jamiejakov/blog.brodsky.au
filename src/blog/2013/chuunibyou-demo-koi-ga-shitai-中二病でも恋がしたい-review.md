@@ -7,6 +7,7 @@ image:
   alt: Chunibyou demo koi ga shitai
 pubDate: 2013-02-08T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'kyoani', 'review']
 ---
 

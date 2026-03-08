@@ -7,6 +7,7 @@ image:
   alt: IMG_3189
 pubDate: 2014-01-27T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'drawingcircle', 'jass']
 ---
 

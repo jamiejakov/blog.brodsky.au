@@ -11,7 +11,7 @@ image:
   alt: design
 pubDate: 2018-03-15T00:00:00.000Z
 published: true
-category: Software Engineering
+categories: [Software Engineering]
 tags: ['css', 'design']
 ---
 

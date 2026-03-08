@@ -7,6 +7,7 @@ image:
   alt: International communication concept
 pubDate: 2013-10-05T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'languages']
 ---
 

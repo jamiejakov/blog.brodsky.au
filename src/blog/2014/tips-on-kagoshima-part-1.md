@@ -7,6 +7,7 @@ image:
   alt: KagoshimaRoad
 pubDate: 2014-06-04T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'ics', 'japan-2014']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: Pixar
 pubDate: 2013-07-15T00:00:00.000Z
 published: true
+categories: []
 tags: ['movies_tv', 'pixar', 'time-travel']
 ---
 

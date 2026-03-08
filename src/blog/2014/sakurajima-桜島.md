@@ -7,6 +7,7 @@ image:
   alt: sakurajima
 pubDate: 2014-12-21T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'gaijin-gang', 'ics', 'kagoshima']
 ---
 

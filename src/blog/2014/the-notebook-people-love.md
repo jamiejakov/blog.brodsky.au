@@ -7,7 +7,8 @@ image:
   alt: MacBookAirSticker
 pubDate: 2014-07-23T00:00:00.000Z
 published: true
-tags: ['technology', 'advertising', 'apple-2']
+categories: []
+tags: ['technology', 'advertising', 'apple']
 ---
 
 ![MacBookAirSticker](images/MacBookAirSticker.png)

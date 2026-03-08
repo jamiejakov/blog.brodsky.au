@@ -9,6 +9,7 @@ image:
   alt: Durarara
 pubDate: 2012-08-25T00:00:00.000Z
 published: true
+categories: []
 tags: ['anime', 'blu_ray', 'durarara']
 ---
 

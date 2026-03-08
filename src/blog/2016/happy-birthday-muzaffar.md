@@ -7,6 +7,7 @@ image:
   alt: MuzaBirthday
 pubDate: 2016-11-06T00:00:00.000Z
 published: true
+categories: []
 tags: ['life', 'beach', 'photography', 'russian']
 ---
 

@@ -7,6 +7,7 @@ image:
   alt: Huis Ten Bosch
 pubDate: 2014-12-30T00:00:00.000Z
 published: true
+categories: []
 tags: ['travel', 'amy', 'christmas', 'ics', 'nagasaki', 'war-memorial']
 ---
 
