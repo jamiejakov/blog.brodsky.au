@@ -7,7 +7,7 @@ image:
   alt: goal
 pubDate: 2016-01-16T00:00:00.000Z
 published: true
-categories: ['Book']
+categories: ['Books']
 tags: ['productivity', 'review']
 ---
 

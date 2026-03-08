@@ -7,8 +7,8 @@ image:
   alt: IMG_0663
 pubDate: 2016-03-17T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel']
+categories: ['Travel']
+tags: ['parents', 'malaysia']
 ---
 
 And so I find myself in Kuala Lumpur International Airport, sitting at my gate, having waved another goodbye to my parents, on my way back to university and work life in Sydney. The holiday is over, even though it feels like it has only just begun.

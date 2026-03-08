@@ -7,8 +7,8 @@ image:
   alt: 51Countries
 pubDate: 2016-03-06T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'map', 'world']
+categories: ['Travel']
+tags: ['map']
 ---
 
 Last time I updated my visit country list, [it was at 47](/posts/2014/how-many-countries-have-i-been-to/). Well as of today, I've passed the 50 mark. Now I shall enjoy my holiday in unique country that is Malaysia. Expect photos!

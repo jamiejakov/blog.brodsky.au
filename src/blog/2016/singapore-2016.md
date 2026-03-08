@@ -10,8 +10,8 @@ image:
   alt: Singapore
 pubDate: 2016-03-06T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel']
+categories: ['Travel']
+tags: ['singapore']
 ---
 
 For my family travels this year, we decided to head over to Malaysia. However, on the way there, I got a great opportunity to visit my friends in the small island-country-city - Singapore.

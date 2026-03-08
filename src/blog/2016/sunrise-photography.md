@@ -15,8 +15,8 @@ image:
   alt: IMG_0928
 pubDate: 2016-03-25T00:00:00.000Z
 published: true
-categories: []
-tags: ['photo', 'beach', 'photography']
+categories: ['Photography']
+tags: ['sunrise-photography', 'beach']
 ---
 
 Ever since I got a new DSLR and lenses, I have been intrigued by the opportunities it has given me in terms of my photography. I have been trying out various angles, lighting, scenery (whenever I travel) and try get photos that would leave my viewers amazed. And I thought I was doing pretty well. But as with anything, there will always be someone who is better then you. Even though that sounds discouraging, I believe that its important to befriend that person and ask them to teach, to mentor you until you acquire skills similar to theirs.
