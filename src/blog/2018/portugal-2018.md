@@ -15,7 +15,7 @@ Its been a while since I've been in Europe, but here I am flying to Portugal (Co
 
 Portugal is one of the few European countries that I haven't visited during my teen years, but I am glad I got to go there now. Why? Because of the most delicious drink you can have - Sangria. Thats right, this drink is what my parents and I drank pretty much every day for lunch or dinner, alongside some garlic bread and a seafood dish. Coming back to Sydney, I've realised how much I miss Sangria.
 
-The first few days in Lisbon touring the city centre and eating delicious foods. Then we flew to the island of Madeira, which is famous for its wine, levada irrigation systems, poncho alcohol and Cristiano Ronaldo.
+The first few days in Lisbon touring the city centre and eating delicious foods. Then we flew to the island of Madeira, which is famous for its wine, levada irrigation systems, poncha alcohol and Cristiano Ronaldo.
 
 We spent all our days there exploring the island via various tours. May I say its amazing how many different and exciting things a small island like that had.
 

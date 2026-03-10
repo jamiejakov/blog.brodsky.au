@@ -27,4 +27,4 @@ Overall I am very satisfied with both Outrage and Outrage Beyond and I think Tak
 
 **8/10** 
 
-Also, without spoiling to much I just want to add that you shouldn't mess with a yakuza, because you will lose more then just a pinky.
+Also, without spoiling too much I just want to add that you shouldn't mess with a yakuza, because you will lose more than just a pinky.

@@ -25,11 +25,11 @@ Every day for lunch Jiro would it Mackerel, not just because he liked the taste,
 
 ![kaze-tachinu-poster](images/kaze-tachinu-poster.jpg)
 
-When going on vacation to a hotel in the mountains there was a beautiful girl standing a top of a hill painting. With the rising wind, fate has brought Jiro together with Naoko, the girl that he helped more then 10 years ago during the earthquake. Not too long after they got engaged and soon after married. But Naoko was sick with Tuberculosis and that was very sad and painful for both of them. But she stayed strong and spent as much time as she could with the love of her life - an aviation engineer.
+When going on vacation to a hotel in the mountains there was a beautiful girl standing a top of a hill painting. With the rising wind, fate has brought Jiro together with Naoko, the girl that he helped more than 10 years ago during the earthquake. Not too long after they got engaged and soon after married. But Naoko was sick with Tuberculosis and that was very sad and painful for both of them. But she stayed strong and spent as much time as she could with the love of her life - an aviation engineer.
 
 **Overview:**
 
-As I mentioned before, this movie is rather different from the other Miyazaki films. The Wind Rises is meant for adults. It has serious themes such as future dreams, carrier prospects, love, family, health, and the thin balance of your own career versus spending time with your loved ones. It felt, however that this is the movie that Miyazaki wanted to make. His previous works were amazing and inspirational, but they were more oriented towards the people watching. Whereas with The Wind Rises, it felt as if Miyazaki made it because he himself wanted to watch this movie. This movie is more then just a biography of an engineer, its a story of love and dreams.
+As I mentioned before, this movie is rather different from the other Miyazaki films. The Wind Rises is meant for adults. It has serious themes such as future dreams, career prospects, love, family, health, and the thin balance of your own career versus spending time with your loved ones. It felt, however that this is the movie that Miyazaki wanted to make. His previous works were amazing and inspirational, but they were more oriented towards the people watching. Whereas with The Wind Rises, it felt as if Miyazaki made it because he himself wanted to watch this movie. This movie is more than just a biography of an engineer, its a story of love and dreams.
 
 **Soundtrack:**
 

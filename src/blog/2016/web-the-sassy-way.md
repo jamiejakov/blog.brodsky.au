@@ -1,7 +1,7 @@
 ---
 title: 'Web, the SASSy way'
 author: Vadim Brodsky
-description: "I've been designing and coding websites for a good 4 years now, but only as a hobby in my spare time, nothing serious or professional. It was all basically just simple HTML DOM together with a_CSS file defining the look of my sites. Sometimes I would experiment with certain JS features to have menu bars and various animations, but hat was about it. Last year, when I migrated my blog hosting, I had to learn how to set up a web server from scratch using LAMP. And I did, twice: jamiejakov.lv and utsanime.net. Looking back now thats not a great achievement, especially with all the guides out there, but hey, when you don't know anything, even something as simple as setting up a LAMP can be hard."
+description: "I've been designing and coding websites for a good 4 years now, but only as a hobby in my spare time, nothing serious or professional. It was all basically just simple HTML DOM together with a_CSS file defining the look of my sites. Sometimes I would experiment with certain JS features to have menu bars and various animations, but that was about it. Last year, when I migrated my blog hosting, I had to learn how to set up a web server from scratch using LAMP. And I did, twice: jamiejakov.lv and utsanime.net. Looking back now thats not a great achievement, especially with all the guides out there, but hey, when you don't know anything, even something as simple as setting up a LAMP can be hard."
 image:
   src: images/SaSS.png
   alt: SaSS
@@ -11,7 +11,7 @@ categories: ['Software Engineering']
 tags: ['css', 'sass']
 ---
 
-I've been designing and coding websites for a good 4 years now, but only as a hobby in my spare time, nothing serious or professional. It was all basically just simple HTML DOM together with a CSS file defining the look of my sites. Sometimes I would experiment with certain JS features to have menu bars and various animations, but hat was about it. Last year, when I [migrated my blog hosting](/posts/2016/jamiejakov-blog-4-0-りんごジュース/), I had to learn how to set up a web server from scratch using LAMP. And I did, twice: [jamiejakov.lv](/) and [utsanime.net](http://utsanime.net). Looking back now thats not a great achievement, especially with all the guides out there, but hey, when you don't know anything, even something as simple as setting up a LAMP can be hard.
+I've been designing and coding websites for a good 4 years now, but only as a hobby in my spare time, nothing serious or professional. It was all basically just simple HTML DOM together with a CSS file defining the look of my sites. Sometimes I would experiment with certain JS features to have menu bars and various animations, but that was about it. Last year, when I [migrated my blog hosting](/posts/2016/jamiejakov-blog-4-0-りんごジュース/), I had to learn how to set up a web server from scratch using LAMP. And I did, twice: [jamiejakov.lv](/) and [utsanime.net](http://utsanime.net). Looking back now thats not a great achievement, especially with all the guides out there, but hey, when you don't know anything, even something as simple as setting up a LAMP can be hard.
 
 And now I think its time for me to learn more about web programming, about the frameworks that are used, about the nifty things that have been developed to make our lives easier and create intuitive and beautiful user experiences. And the first think I am going to learn is [SASS](http://sass-lang.com).
 

@@ -17,7 +17,7 @@ This winter break being far away from home, far away from our families, Amy and 
 
 ---**Day 1 (23rd Dec) - Nagasaki**
 
-After reaching Nagasaki at around 4pm and checking into the hotel, we were thinking of what to do, where to go. Luckily [this little website](http://www.japan-guide.com) had an answer ready for us. They say that the night view of Nagasaki city is worth a million yen, maybe for some, but for others I think it is worth a bit less then a few thousand. It is definitely gorgeous; all the shining lights in different colours looked like stars in the distance.
+After reaching Nagasaki at around 4pm and checking into the hotel, we were thinking of what to do, where to go. Luckily [this little website](http://www.japan-guide.com) had an answer ready for us. They say that the night view of Nagasaki city is worth a million yen, maybe for some, but for others I think it is worth a bit less than a few thousand. It is definitely gorgeous; all the shining lights in different colours looked like stars in the distance.
 
 ![Untitled](images/15518026763_f2eba52de8_c.jpg)
 

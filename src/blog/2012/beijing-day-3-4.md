@@ -42,7 +42,7 @@ Plan for the day:
 - ????
 - profit
 
-Beijing Zoo! To get there, we took the subway. WOW the subway system in Beijing is soooo neat and tidy. I was very impressed, I even thing that the trains themselves are better than the ones in Japan. They had screens with maps and all the stations were announced in Chinese and Engrish.
+Beijing Zoo! To get there, we took the subway. WOW the subway system in Beijing is soooo neat and tidy. I was very impressed, I even think that the trains themselves are better than the ones in Japan. They had screens with maps and all the stations were announced in Chinese and Engrish.
 
 ![panda](images/PandainChina.jpg)
 

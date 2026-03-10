@@ -1,7 +1,7 @@
 ---
 title: The Internet.... Here and There
 author: Vadim Brodsky
-description: 'The Internet... Its such a magnificent thing! I can not imagine living without it. Everything I do during the day revolves around using the internet in one way or another. May it be Skyping with my parents back home, or checking into a restaurant on Foursquare, or simply checking my Twitter feed and replying to chat messages in Line. Its amazing how much we can do on the web these days, and it makes our lives just a bit more colorful. But you know what annoys me more then anything? SLOW CONNECTION SPEED AND LOW BANDWIDTH!'
+description: 'The Internet... Its such a magnificent thing! I can not imagine living without it. Everything I do during the day revolves around using the internet in one way or another. May it be Skyping with my parents back home, or checking into a restaurant on Foursquare, or simply checking my Twitter feed and replying to chat messages in Line. Its amazing how much we can do on the web these days, and it makes our lives just a bit more colorful. But you know what annoys me more than anything? SLOW CONNECTION SPEED AND LOW BANDWIDTH!'
 image:
   src: images/Fiber.jpg
   alt: Fiber
@@ -11,7 +11,7 @@ categories: []
 tags: ['internetz', 'technology', 'australia', 'internet', 'latvia']
 ---
 
-The Internet... Its such a magnificent thing! I can not imagine living without it. Everything I do during the day revolves around using the internet in one way or another. May it be Skyping with my parents back home, or checking into a restaurant on Foursquare, or simply checking my Twitter feed and replying to chat messages in Line. Its amazing how much we can do on the web these days, and it makes our lives just a bit more colorful. But you know what annoys me more then anything? SLOW CONNECTION SPEED AND LOW BANDWIDTH!
+The Internet... Its such a magnificent thing! I can not imagine living without it. Everything I do during the day revolves around using the internet in one way or another. May it be Skyping with my parents back home, or checking into a restaurant on Foursquare, or simply checking my Twitter feed and replying to chat messages in Line. Its amazing how much we can do on the web these days, and it makes our lives just a bit more colorful. But you know what annoys me more than anything? SLOW CONNECTION SPEED AND LOW BANDWIDTH!
 
 ---
 

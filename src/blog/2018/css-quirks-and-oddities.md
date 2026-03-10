@@ -15,7 +15,7 @@ tags: ['css']
 
 CSS is a weird language. Some people don't even want to consider CSS as a programming language. However to me it will always be one.
 
-Of course CSS can only be used to style your webpages, but it evolved into the one thing that defines a pleasant user experience. Without styles there would be no layout, without styles there would be no hierarchy, animations, responsiveness, interactions, etc. Of course the majority of these can be executed with javascript, but it never going to be as performant as pure CSS.
+Of course CSS can only be used to style your webpages, but it evolved into the one thing that defines a pleasant user experience. Without styles there would be no layout, without styles there would be no hierarchy, animations, responsiveness, interactions, etc. Of course the majority of these can be executed with javascript, but it's never going to be as performant as pure CSS.
 
 However it has its quirks... Some things in CSS just don't perform the way you'd expect them to in certain situations. I stumbled upon this article by Medium about [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb), and there they go into detail about some of the weirder things.
 

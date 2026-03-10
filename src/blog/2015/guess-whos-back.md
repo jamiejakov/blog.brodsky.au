@@ -1,7 +1,7 @@
 ---
 title: Guess who's back!
 author: Vadim Brodsky
-description: 'Almost a year has passed since I left beautiful Sydney. And now I am back, back to a new year of uni, new job, new apartment in Rhodes! But at the same time I can now see all my good old friends, eat all the amazing food I have been missing out on, and spend 3 times more then I should on daily necessities! Yay for Sydney!'
+description: 'Almost a year has passed since I left beautiful Sydney. And now I am back, back to a new year of uni, new job, new apartment in Rhodes! But at the same time I can now see all my good old friends, eat all the amazing food I have been missing out on, and spend 3 times more than I should on daily necessities! Yay for Sydney!'
 image:
   src: images/Rhodes.jpg
   alt: Rhodes
@@ -13,7 +13,7 @@ tags: ['life', 'rhodes', 'sydney']
 
 ![Rhodes](images/Rhodes.jpg)
 
-Almost a year has passed since I left beautiful Sydney. And now I am back, back to a new year of uni, new job, new apartment in Rhodes! But at the same time I can now see all my good old friends, eat all the amazing food I have been missing out on, and spend 3 times more then I should on daily necessities! Yay for Sydney!
+Almost a year has passed since I left beautiful Sydney. And now I am back, back to a new year of uni, new job, new apartment in Rhodes! But at the same time I can now see all my good old friends, eat all the amazing food I have been missing out on, and spend 3 times more than I should on daily necessities! Yay for Sydney!
 
 But seriously, I came back on the 17th of February, which is a month ago. I've been very busy with buying furniture (from IKEA), seeing friends, going to uni again and 20 hours of work a week. All I can say I am happy to be back, but at the same time I do miss certain things about Japan. Right now I am trying to hunt down a place where I can buy a simple bicycle for a decent price (not in the 1k range). Aside from that, the apartment is mostly furnished, just waiting on dining table and sofa.
 

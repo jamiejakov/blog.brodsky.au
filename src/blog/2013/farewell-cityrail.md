@@ -15,7 +15,7 @@ This afternoon (night in Sydney) my friends were complaining about another chang
 
 ---
 
-People don't like change, it doesn't really matter if the change is to the best or worst, but its done, get used to it. In this case, they didnt change the functionality, they only changed the color scheme and the logo, so really its not that big of a deal.
+People don't like change, it doesn't really matter if the change is to the best or worst, but its done, get used to it. In this case, they didn't change the functionality, they only changed the color scheme and the logo, so really its not that big of a deal.
 
 Also what my good friend [Cindy](http://twitter.com/adasifs) said on twitter: "It's the reason why they had to do trackwork - website revamps". If this is true, god bless Australia.
 
