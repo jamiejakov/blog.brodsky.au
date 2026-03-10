@@ -4,8 +4,8 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2016-01-18T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'madoka', 'monogatari', 'toradora']
+categories: ['Anime']
+tags: ['madoka', 'monogatari', 'toradora']
 ---
 
 https://www.youtube.com/watch?v=P4BgZcpGb9k

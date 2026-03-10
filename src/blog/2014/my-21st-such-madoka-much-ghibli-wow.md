@@ -20,7 +20,9 @@ tags: ['life', 'amy', 'birthday', 'blu_ray', 'dale', 'ghibli', 'madoka-magika', 
 
 This year I have officially become an adult (in every country); I turned 21! Every year up until now I got to spend this special day with my 2 most special people - my mommy and my daddy, but this year we did not get the chance to meet up to celebrate it together, but nevertheless I had a great day with my friends - yay!
 
----**Part 1 - Madoka**
+---
+
+**Part 1 - Madoka**
 
 1st of February did not only mark my 21st birthday, but also the first time the _[third Madoka movie - Rebellion](http://myanimelist.net/anime/11981/)_ was screened in Australia. The anime clubs of both UTS and UNSW attended this event and we all lined up at the cinema at 12 to pick up our very own signed boards! I got [Godoka](http://www.flickr.com/photos/sebasu_tan/12265772186/in/set-72157640415513774) /so happy. The movie was amazing to say the least, [Ruben](http://rubenerd.com/madoka-magica-rebellion/) and [Clara](http://kirinyan.net/madoka-magica-rebellion-vadim-s-birthday/) have both blogged about it, so you can read up on their impressions. There was also a cosplay competition, which the didn't announce, but I was ready for it anyway, some people dressed up as [madoka characters](http://www.flickr.com/photos/sebasu_tan/12265641934/in/set-72157640415513774) and I won the grand prize (BluRays of the Madoka series signed by the english VAs) with my [Kyuubey cosplay](http://www.flickr.com/photos/jamiejakov/12285623753/).
 

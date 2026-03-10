@@ -19,7 +19,9 @@ Mentioning this to people who have yet to travel outside of their home country o
 
 Here I would like to list all the countries I have been to so far in an order from left to right, based 0n the image above. Whenever I visit a new country, I will make a new map and a new post, so you can see the evolution of my travels.
 
----Lets begin:
+---
+
+Lets begin:
 
 1. **Canada**
 2. United States of America

@@ -15,7 +15,9 @@ tags: ['life', 'technology', 'amy', 'blog', 'css', 'design']
 
 I have had my blog for a year and a half now, [first post](/posts/2012/japanese-app-update-first-blog-post/) being on the 20th of May 2012. In this time I have managed to change web hosts and themes. Now I believe is the perfect time to improve the design I have been using ever since I moved from wordpress.com to private web hosting - Wild Flower. Today, on the 25th of December, I would like to present my new blog theme **Ring-O.**
 
----But before I go into more detail about the style I would like to take a trip down memory lane and talk about the previous designs I was using. First was when I was still using jamiejakov.com hosted on wordpress.com. The theme is called [iTheme2](http://theme.wordpress.com/themes/itheme2/) and it is a free theme on wordpress.com. With a few slight modifications I made it my own.
+---
+
+But before I go into more detail about the style I would like to take a trip down memory lane and talk about the previous designs I was using. First was when I was still using jamiejakov.com hosted on wordpress.com. The theme is called [iTheme2](http://theme.wordpress.com/themes/itheme2/) and it is a free theme on wordpress.com. With a few slight modifications I made it my own.
 
 ![WordpressBlog](images/WordpressBlog.png)
 

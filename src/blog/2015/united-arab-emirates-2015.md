@@ -7,15 +7,17 @@ image:
   alt: View of Burj Kulifa
 pubDate: 2015-04-18T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel']
+categories: ['Travel']
+tags: ['parents', 'uae']
 ---
 
 ![View of Burj Kulifa](images/BurjKhalifa.jpg)
 
 Welcome to another exciting episode of: 'Vadim goes traveling around the world'. This time he is visiting the land of sand and oil - United Arab Emirates. What did our young traveler find in this distant Arabian land? Find out after the break.
 
----Hope you liked that intro, anyway let me tell you about Dubai, Abu Dhabi and the desert. After arriving in Dubai, taking the metro to the city and checking into the Warwick hotel near the financial district, I had some time to stroll around the city while waiting for my parents arrival on a later flight. The city is big, like seriously huge, there is a 14 lane freeway in the middle of it for gods sake. It boggles my mind to event think that all of this was built in the last 20 years on top of sand and water. Dubai as a city is very rich and expensive, you can see luxurious cars and clothes everywhere. Honestly though, the price of some items is exactly the same as in Sydney (looking at tech prices).
+---
+
+Hope you liked that intro, anyway let me tell you about Dubai, Abu Dhabi and the desert. After arriving in Dubai, taking the metro to the city and checking into the Warwick hotel near the financial district, I had some time to stroll around the city while waiting for my parents arrival on a later flight. The city is big, like seriously huge, there is a 14 lane freeway in the middle of it for gods sake. It boggles my mind to event think that all of this was built in the last 20 years on top of sand and water. Dubai as a city is very rich and expensive, you can see luxurious cars and clothes everywhere. Honestly though, the price of some items is exactly the same as in Sydney (looking at tech prices).
 
 When my parents arrived we went to the heart of the city - [Dubai Mall](http://www.thedubaimall.com/en/Index.aspx). This place is like the campus of USyd filled with shops, stalls, boutiques, parlours, restaurants, and an aquarium. The mall is huge and has 1200 different shops. In the evening they have a beautiful fountain show. It goes from 6pm till 10pm every 30 minutes. I would highly recommend watching one or two of them as they are all different and very pretty.
 

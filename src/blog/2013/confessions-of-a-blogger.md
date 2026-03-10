@@ -23,7 +23,9 @@ My friend [Sebastian](http://alonelyseptember.org) mentioned me in a tweet sayin
 
 My first blog post dates back to May 20th 2012, however I did write up a few anime reviews on my Google+ account, which I later on transferred here so that people can read. Why? .... hmmmm I guess because In the first year of uni I meat [Ruben](http://rubenerd.com) and he showed me his awesome blog. Ruben is my sempai and I respect him a lot, in him I saw someone who I wanted to be when I was his age (IT wise), and so I started little by little - from making a blog to writing small apps as a hobby.
 
----**Have you had any past online presence?**
+---
+
+**Have you had any past online presence?**
 
 Facebook yes, a bit of Google+, YouTube comments?... Otherwise not really, I was not the type of person who would voice their opinions on the internet. I think that has changed a bit over the years.
 

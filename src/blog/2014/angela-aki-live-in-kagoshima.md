@@ -17,7 +17,9 @@ Angela Aki is very popular Japanese singer and composer, who also plays piano an
 
 Angela Aki is also a very unique performer for Japan as she is not fully Japanese. Her mother was American and father Japanese, but she was born and brought up in Tokushima, Japan. But nevertheless Japan loves her.
 
----So on the 20th of July (last week), Amy and I went to her concert here in Kagoshima. It is one of her last concerts as she is planning to take a break from preforming and go to America to study music so she can write even better songs in the future. The concert was very nice and Angela even had a small talk-show segment where she told us about her past, about her grandmother and mother, and her days in school.
+---
+
+So on the 20th of July (last week), Amy and I went to her concert here in Kagoshima. It is one of her last concerts as she is planning to take a break from preforming and go to America to study music so she can write even better songs in the future. The concert was very nice and Angela even had a small talk-show segment where she told us about her past, about her grandmother and mother, and her days in school.
 
 Great concert, would go again!
 

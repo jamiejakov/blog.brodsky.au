@@ -15,7 +15,9 @@ tags: ['internetz', 'pokemon']
 
 If you don't know what this is, I think it is time to climb from under the rock you have been hiding for the past 2 weeks and start watching & participating! This is not just Pokemon, oh no, this is much more. As [Wikipedia](http://en.wikipedia.org/wiki/Twitch_Plays_Pokémon) put it, Twitch Plays Pokemon (TPP) is a social experiment, I'd say it has become a social phenomenon. Basically what TPP is, it is a stream of a Pokemon Blue game modified to accept the commands typed into the chat of the stream by the people who are watching, thus making them the players. As this idea is new and original, the concept became super popular and thus amassed over 70,000 people to play at a time (though it has died down and only 30,000 are playing at the moment, but still!).
 
----![c5269e8c90cb66cfc8a5302ee1e7ed3d-the-majesty-of-twitch-plays-pokemon](images/c5269e8c90cb66cfc8a5302ee1e7ed3d-the-majesty-of-twitch-plays-pokemon.jpg)
+---
+
+![c5269e8c90cb66cfc8a5302ee1e7ed3d-the-majesty-of-twitch-plays-pokemon](images/c5269e8c90cb66cfc8a5302ee1e7ed3d-the-majesty-of-twitch-plays-pokemon.jpg)
 
 If you have played Pokemon when you were young, you would know how hard it is to beat the gym leaders, how complicated some of the mazes are and how much time it requires to pass the whole game. Well now imagine that there are another 49,999 people playing the same character together with you, and each one of them has a different idea of what we should do. Thus resulting in utter chaos and confusion, but also massive fun!
 

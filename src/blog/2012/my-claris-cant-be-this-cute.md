@@ -24,7 +24,9 @@ If you have you seen Ore Imo, Madoka Magika or Nisemonogatari you should be fami
 
 ClariS is a japanese pop music duo, consisting of high school girls Clara and Alice. The duo was formed in 2009 when the girls did a cover of the Vocaloid song "**Step to You**".
 
----ClariS became popular because they were uploading their songs to the japanese video sharing website Niko Niko Douga.
+---
+
+ClariS became popular because they were uploading their songs to the japanese video sharing website Niko Niko Douga.
 
 After being signed by the Japanese record label SME Records, ClariS released their first major debut single "**Irony**" - The opening theme for [Ore Imo](http://myanimelist.net/anime/8769/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai). It was so successful that The Good Smile Company even released Nendroid versions of Clara and Alice.
 

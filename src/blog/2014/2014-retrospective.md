@@ -22,7 +22,9 @@ tags: ['life', 'amy', 'new-year', 'retrospective', 'wordle']
 
 Wow, that went by rather quick. I remember how I was writing up the [2013 retrospective](/posts/2013/2013-retrospective/), as if it was yesterday. Why did the year fly by so quickly? Well I guess it is due to me being in Kagoshima, Japan! A new region to explore, a whole new bunch of Pokemon to catch! ... wait a minute, wrong world. Anyway, lets see what the most memorable events were this year.
 
----Lets make it a list, shall we:
+---
+
+Lets make it a list, shall we:
 
 - In January I found out that I passed [JLPT N2](/posts/2014/jlpt-n2/ 'JLPT N2 Passed!'). That was a great achievement, which I am super proud of. Thought I highly doubt that I will ever take N1, even thought I feel my Japanese has greatly improved while living here for 1 year.
 - I turned [21 this year](/posts/2014/my-21st-such-madoka-much-ghibli-wow/), and I got to celebrate my birthday by winning a cosplay competition and watching the 3rd Madoka Movie. Of course there was a proper celebration as well, with much food and really good presents.

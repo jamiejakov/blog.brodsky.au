@@ -7,8 +7,8 @@ image:
   alt: smash2017
 pubDate: 2017-08-25T00:00:00.000Z
 published: true
-categories: ['Personal Life']
-tags: ['anime', 'cosplay', 'SMASH!']
+categories: ['Personal Life', 'Anime']
+tags: ['cosplay', 'SMASH!']
 ---
 
 Every year I go to [SMASH!](https://www.smash.org.au) and every year I cosplay. This year instead of the usual "dress up as the character you like", I did something different. I actually brought the anime character into the real world! I brought [Inferno Cop](https://myanimelist.net/anime/16774/Inferno_Cop) to life.

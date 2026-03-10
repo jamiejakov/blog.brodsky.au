@@ -19,7 +19,9 @@ This post will be separated into 3 parts (上中下), which will be released whe
 
 Lets get to it:
 
----**Paperwork**
+---
+
+**Paperwork**
 
 ![papers](images/papers.jpg)Japan is very pedantic about paperwork, you have to fill out everything that is required with absolutely correct details (even though none can tell if you fudge something, if you write one thing in one place and different thing in another, they may call you up). For any and all papers there you need to write your name, full name. Yes, middle name, chinese name, etc. full passport name. In my case I have to write Vadims Brodskis everywhere, other people may have to write Melanie Xiang Yan Tay for example. Some forms have a separation by Name and Surname, in Japan you can't have a middle name, so you have to split your middle name and add it either to your name or surname (recommend adding to your name as they will address you by your surname). If you don't have a phone number to give them, make sure to tell them that you just arrived and have yet to make one. If they ask for your address back home, make sure to write it fully with the country and postcode.
 

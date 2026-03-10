@@ -15,7 +15,9 @@ tags: ['games', 'pokemon']
 
 It has been 16 years since the first Pokemon game came out in Japan in 1996, wow thats a long lifespan for a game! While some might say that the hype has died down over the course of time, other still believe that Pokemon is as popular as ever especially with the release of X&Y last Saturday which brings gamers the 6th generation and into a completely new region: Kalos and around [60 new cute little critters](http://www.serebii.net/pokedex-xy/300.shtml) to catch.
 
----My girlfriend - [Amy](http://twitter.com/dekopatchi) got Pokemon X on Saturday and has been playing it ever since. Now at 5 badges and going strong with her Delphox named Homra. I watched my friend Darrell play it when he got it on the day as well. There are graphic improvement, a new story, some new mechanics, but the core mechanics of the game are still there, so a Pokemon-illiterate person like me (cause I have only played though half of first gen) could understand pretty much everything that happened.
+---
+
+My girlfriend - [Amy](http://twitter.com/dekopatchi) got Pokemon X on Saturday and has been playing it ever since. Now at 5 badges and going strong with her Delphox named Homra. I watched my friend Darrell play it when he got it on the day as well. There are graphic improvement, a new story, some new mechanics, but the core mechanics of the game are still there, so a Pokemon-illiterate person like me (cause I have only played though half of first gen) could understand pretty much everything that happened.
 
 ![](images/9OMlMqN.jpg)
 
