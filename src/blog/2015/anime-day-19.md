@@ -1,5 +1,5 @@
 ---
-title: Anime Day 19
+title: Anime Day 19 - Best anime villain
 author: Vadim Brodsky
 description: '### Day 19 - Best anime villain'
 image:
@@ -7,11 +7,9 @@ image:
   alt: ParanoiaAgent
 pubDate: 2015-10-04T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', '100-days-of-anime']
+categories: ['Anime']
+tags: ['100-days-of-anime', 'paranoia-agent']
 ---
-
-### Day 19 - Best anime villain
 
 Who is the best villain? Well to answer this question, we must first identify who is a villain? Does he have to be human? How bad are his deeds supposed to be for us to decide wether he is a "bad guy" or a "good guy"? These questions are rather hard to answer on the spot, but I can definitely say that for me a villain is a character that acts against social norms, but not just for the sake of it, but because they have a good reason behind it. For example [Lelouch](http://kirinyan.net/day-19-of-anime/) is a great villain, because he has seen the world, wanted to change in, and accomplished his mission, even though he kinda screwed everyone over in the process. I like characters like that, as they have a good motive for their actions, and ultimately want change.  \*SPOILERS AHEAD\*
 

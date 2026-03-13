@@ -7,11 +7,9 @@ image:
   alt: Rhodes
 pubDate: 2015-03-18T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'rhodes', 'sydney']
+categories: ['Personal Life']
+tags: ['sydney', 'home']
 ---
-
-![Rhodes](images/Rhodes.jpg)
 
 Almost a year has passed since I left beautiful Sydney. And now I am back, back to a new year of uni, new job, new apartment in Rhodes! But at the same time I can now see all my good old friends, eat all the amazing food I have been missing out on, and spend 3 times more than I should on daily necessities! Yay for Sydney!
 

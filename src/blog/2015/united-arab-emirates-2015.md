@@ -11,8 +11,6 @@ categories: ['Travel']
 tags: ['parents', 'uae']
 ---
 
-![View of Burj Kulifa](images/BurjKhalifa.jpg)
-
 Welcome to another exciting episode of: 'Vadim goes traveling around the world'. This time he is visiting the land of sand and oil - United Arab Emirates. What did our young traveler find in this distant Arabian land? Find out after the break.
 
 ---

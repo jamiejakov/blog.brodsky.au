@@ -15,6 +15,6 @@ tags: ['anime', 'birthday', 'hatsune_miku']
 
 Lets look back at all the amazing songs you've brought to us - the creators using Miku and other Vocaloids to entertain and empower fans all over the world!
 
-https://www.youtube.com/watch?v=Kp58Moyvxyc&feature=youtu.be
+https://www.youtube.com/watch?v=Kp58Moyvxyc
 
 And if you are curious to where the cover photo is from, its from a song I'm obsessed about right now, called [大江戸ジュリアナイト (Ohedo Julia-Night)](https://www.youtube.com/watch?v=y3yyYYLyVzw)

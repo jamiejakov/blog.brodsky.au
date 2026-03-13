@@ -7,11 +7,9 @@ image:
   alt: Maldives
 pubDate: 2015-04-29T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'parents']
+categories: ['Travel']
+tags: ['parents', 'maldives']
 ---
-
-![Maldives](images/Maldives.jpg)
 
 Ah the crystal clear azure sea, the white sand of the beach and the green trees, so beautiful, so tranquil - these are the Maldives.
 

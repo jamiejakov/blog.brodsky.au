@@ -4,18 +4,15 @@ author: Vadim Brodsky
 description: >-
   My 10 months in Japan is almost over and it is time to pack up and fly back to
   Sydney. What can I say, it's been a wild ride. A lot of events, celebrations,
-  and great experiences overall. But now its time to say goodbye, time to leave
-  Japan for a while, time to go back to my proper studies in UTS.
+  and great experiences overall. But now its time to say goodbye.
 image:
   src: images/Kagoshima_Sakurjima.jpg
   alt: Kagoshima_Sakurjima
 pubDate: 2015-02-02T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'ics']
+categories: ['Personal Life']
+tags: ['ics', 'japan']
 ---
-
-![Kagoshima_Sakurjima](images/Kagoshima_Sakurjima.jpg)
 
 My 10 months in Japan is almost over and it is time to pack up and fly back to Sydney. What can I say, it's been a wild ride. A lot of events, celebrations, and great experiences overall. But now its time to say goodbye, time to leave Japan for a while, time to go back to my proper studies in UTS.
 

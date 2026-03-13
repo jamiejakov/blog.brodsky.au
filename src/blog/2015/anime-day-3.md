@@ -1,19 +1,15 @@
 ---
-title: Anime Day 3
+title: Anime Day 3 - Your anime crush
 author: Vadim Brodsky
 description: '### Day 3 - Your anime crush'
 image:
   src: images/Taiga2.png
   alt: Aisaka Taiga
-pubDate: 2015-09-18T00:00:00.000Z
+pubDate: 2015-09-18T04:00:00.000Z
 published: true
-categories: []
-tags: ['anime', '100-days-of-anime', 'toradora']
+categories: ['Anime']
+tags: ['100-days-of-anime', 'toradora']
 ---
-
-![Aisaka Taiga](images/Taiga2.png)
-
-### Day 3 - Your anime crush
 
 What is love? Baby don't hurt me, don't hurt me, no more.
 

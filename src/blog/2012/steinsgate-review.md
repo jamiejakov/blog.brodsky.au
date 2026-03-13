@@ -8,7 +8,7 @@ image:
 pubDate: 2012-06-11T00:00:00.000Z
 published: true
 categories: []
-tags: ['anime', 'review', 'steinsgate', 'time-travel']
+tags: ['anime', 'review', 'Steins;Gate', 'time-travel']
 ---
 
 ![Steins Gate](images/SteinsGate.png)

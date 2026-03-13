@@ -1,19 +1,18 @@
 ---
-title: Anime Day 8
+title: Anime Day 8 - Anime you remember most fondly
 author: Vadim Brodsky
 description: '### Day 8 - Anime you remember most fondly'
 image:
   src: images/AcchiKocchi.png
   alt: Acchi Kocchi
-pubDate: 2015-09-23T00:00:00.000Z
+pubDate: 2015-09-23T03:00:00.000Z
 published: true
-categories: []
-tags: ['anime', '100-days-of-anime', 'acchikocchi']
+categories: ['Anime']
+tags: ['100-days-of-anime', 'acchikocchi']
 ---
 
-![Acchi Kocchi](images/AcchiKocchi.png)
-
-### Day 8 - Anime you remember most fondly
+> [!NOTE]
+> Vadim from 2026 here: I totally missunderstood the question lol, I think I wrote about the anime that is most comfy?
 
 Of course the answer to this question would be a slice of life anime. Slice of life anime are very fuwafuwa (fluffy) and light hearted. Some are funny, other make you tear up, but [Acchi Kocchi](http://anilist.co/anime/12291/AcchiKocchi) makes you go awwwwwwwww. Based on a 4 coma manga, each episode of Acchi Kocchi presents us with a number of gags, misunderstandings, and just silly moments in the relationships (friendships) of the above 5. And then we got Io and Tsumiki, who are like the perfect couple, but are too shy to admit they have feelings for each other. Oh and did I mention that Tsumiki is a cat? Like whenever Io pats her on the head, she grows cat ears and a :3 mouth.
 

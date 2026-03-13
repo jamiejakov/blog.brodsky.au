@@ -14,8 +14,8 @@ image:
   alt: Sculptures
 pubDate: 2015-11-08T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'art', 'drawingcircle']
+categories: ['Personal Life']
+tags: ['art', 'sydney']
 ---
 
 Every year the creative minds of Sydney gather together and present a number of exhibitions at the cove between Bondi and Bronte beaches. This event is called [Sculptures by the Sea](http://www.sculpturesbythesea.com.au). UTS Drawing Circle, being the more creative club, organised an outing to this event, and since I have friends there and I don't want to miss out on an opportunity to practice taking photos with my DSLR, I obviously joined in.

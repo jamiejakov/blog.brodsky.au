@@ -8,7 +8,7 @@ image:
 pubDate: 2012-07-01T00:00:00.000Z
 published: true
 categories: []
-tags: ['travel', 'japan_2012', 'nipponbashi', 'osaka', 'steinsgate', 'tac']
+tags: ['travel', 'japan_2012', 'nipponbashi', 'osaka', 'Steins;Gate', 'tac']
 ---
 
 ![Nyaru Exhibition](images/NyarukoExhibitionNipponbashi.jpg)

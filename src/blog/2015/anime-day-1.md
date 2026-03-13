@@ -1,5 +1,5 @@
 ---
-title: 100 anime days - Day 1
+title: 100 anime days - Day 1 - Very first anime
 author: Vadim Brodsky
 description: >-
   In 2013 when I just became an exec in anime@UTS, Anthony and I started this
@@ -7,23 +7,19 @@ description: >-
   the new and existing members would reply to. These questions ranged from
   favourite anime characters, to most hated moments, but were always related to
   anime. We called it 100 days of anime. Now, almost 3 years later, the list has
-  found me again (thanks to a certain
-  kiri bird), and I decided, why not do
-  it again, this time on my blog. It would give it new life, and honestly when
+  found me again (thanks to a certain kiri bird), and I decided, why not do  it again, this time on my blog. It would give it new life, and honestly when
   was the last time I blogged about anything anime related?
 
 image:
   src: images/Chobits.jpg
   alt: Chobits
-pubDate: 2015-09-16T00:00:00.000Z
+pubDate: 2015-09-16T04:00:00.000Z
 published: true
-categories: []
-tags: ['anime', '100-days-of-anime', 'chobits', 'clara']
+categories: ['Anime']
+tags: ['100-days-of-anime', 'chobits', 'clara']
 ---
 
 In 2013 when I just became an exec in anime@UTS, Anthony and I started this "game" where every day we would post 1 question on the club FB group and all the new and existing members would reply to. These questions ranged from favourite anime characters, to most hated moments, but were always related to anime. We called it 100 days of anime. Now, almost 3 years later, the list has found me again (thanks to a certain [kiri](http://kirinyan.net/day-1-of-anime/) bird), and I decided, why not do it again, this time on my blog. It would give it new life, and honestly when was the last time I blogged about anything anime related?
-
-![Chobits](images/Chobits.jpg)
 
 ### Day 1 - Very first anime
 

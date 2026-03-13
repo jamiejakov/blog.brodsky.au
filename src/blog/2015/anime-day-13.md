@@ -1,5 +1,5 @@
 ---
-title: Anime Day 13
+title: Anime Day 13 - Favorite anime attending high school
 author: Vadim Brodsky
 description: '### Day 13 - Favorite anime attending high school'
 image:
@@ -7,13 +7,9 @@ image:
   alt: Danish Koukousei No Nichijou
 pubDate: 2015-09-27T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', '100-days-of-anime']
+categories: ['Anime']
+tags: ['100-days-of-anime', 'danshi koukousei no nichijou']
 ---
-
-![Danish Koukousei No Nichijou](images/Danshi-Koukousei-no-Nichijou.jpg)
-
-### Day 13 - Favorite anime attending high school
 
 Thats pretty much all anime out there. Junior high, high school and even university, thats the general setting for a large number of anime out there. Picking one out of such a large pool would be very hard, but I'd say that that [Nichibros](http://anilist.co/anime/11843/DanshiKoukouseinoNichijou) (Danshi Koukousei no Nichijou).
 

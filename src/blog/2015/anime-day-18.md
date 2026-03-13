@@ -1,17 +1,15 @@
 ---
-title: Anime Day 18
+title: Anime Day 18 - Favorite shounen anime
 author: Vadim Brodsky
-description: '### Day 18 - Favorite shone anime'
+description: '### Day 18 - Favorite shounen anime'
 image:
   src: images/shamanKing.jpg
   alt: shamanKing
 pubDate: 2015-10-03T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', '100-days-of-anime']
+categories: ['Anime']
+tags: ['100-days-of-anime', 'shaman king']
 ---
-
-### Day 18 - Favorite shone anime
 
 Shounen eh... Thats a genre of anime that I rarely watch. I haven't seen any of the big 3 (Naruto, Bleach, One Piece) and have ignored most of the shounen stuff that would come out in every season (with the exception of Haikyuu of course). Thats is why picking a favourite would be most challenging, if it were not for [Shaman King](http://myanimelist.net/anime/154/Shaman_King). This was one of my first anime, actually before my first first anime, because I watched it in Russian/English dub.
 

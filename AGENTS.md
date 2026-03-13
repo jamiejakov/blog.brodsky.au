@@ -10,6 +10,10 @@ This repository hosts a personal blog at [blog.brodsky.au](https://blog.brodsky.
 - **Vercel** – Hosting and deployment
 - **pnpm** – Package manager (use `pnpm`, not npm)
 
+## YouTube embeds
+
+Bare YouTube URLs become embeds; markdown links `[text](https://youtube.com/...)` stay as links. A custom plugin at `scripts/remark-youtube-explicit.js` converts only standalone URLs (on their own line), not inline links.
+
 ## Instructions
 
 The role of this file is to describe common mistakes and

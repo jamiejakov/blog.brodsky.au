@@ -8,7 +8,7 @@ categories: [Music]
 tags: ['mongolia']
 ---
 
-https://www.youtube.com/watch?v=p\_5yt5IX38I
+https://www.youtube.com/watch?v=p_5yt5IX38I
 
 You know that country between Russia and China? That country that no-one really talks about at all, and the last time was involved in something was in the 1200s. I am of course talking about Mongolia.
 

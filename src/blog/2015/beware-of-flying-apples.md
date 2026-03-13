@@ -1,17 +1,15 @@
 ---
 title: Beware of flying apples
 author: Vadim Brodsky
-description: 'You know how much I love Apple and apples. I love the tech and I love eating all sorts of delicious fruit. What I don''t like, is when apples start flying. Now that, my friends, is terrifying.'
+description: "You know how much I love Apple and apples. I love the tech and I love eating all sorts of delicious fruit. What I don't like, is when apples start flying. Now that, my friends, is terrifying."
 image:
   src: images/flyingapples.jpg
   alt: Flying Apples
 pubDate: 2015-07-21T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'rhodes']
+categories: ['Personal Life']
+tags: []
 ---
-
-![Flying Apples](images/flyingapples.jpg)
 
 You know how much I love Apple and apples. I love the tech and I love eating all sorts of delicious fruit. What I don't like, is when apples start flying. Now that, my friends, is terrifying.
 

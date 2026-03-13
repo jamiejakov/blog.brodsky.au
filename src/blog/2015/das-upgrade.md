@@ -7,11 +7,9 @@ image:
   alt: DasKeyboard 4 Mac
 pubDate: 2015-06-28T00:00:00.000Z
 published: true
-categories: []
-tags: ['technology', 'apple', 'update', 'wow']
+categories: ['Tech']
+tags: ['apple', 'logitech']
 ---
-
-![DasKeyboard 4 Mac](images/daskeyboard-4-professional-for-mac-2.jpg)
 
 Ever since coming back from Japan, I have been upgrading my life. I got a new apartment, a whole lot of great furniture, new job (upgraded version of old job), new clothes, a 5k iMac, and now some more shiny new things. For years now I have been longing for batter typing experience - a mechanical keyboard. But since I was going to Japan and then in Japan, I could never really get one, cause they are heavy and bulky. Fast track to the beginning of the month. My WoW Cataclysm gaming mouse, which served me well for 5 years, has started to show signs of death, it may not be dead yet, but definitely breathing its last breaths, so I started searching for a worthy replacement.
 
@@ -27,6 +25,6 @@ The main feature of any mechanical keyboard is of course the clicky keys. I sele
 
 **Logitech MX Master Review:**
 
-I am very happy with this mouse. It embeds everything I desired in a mouse for my iMac station - bluetooth, back and forward buttons and smooth scrolling. In the end though, I got so much more. The mouse has Mac gesture support which is activated by pressing the button under your thumb and drawing the mouse in one of the four directions. It has a very very nice scrollwheel, with 2 modes, slow and tactile, or fast and smooth. I switch between the 2 regularly depending on the task that I am preforming. The mouse also has the capabilities to work with up to 3 different computers, so I have already paired it with my iMac and MacBook Air. Charge wise, it has been a good week and I have yet to charge it once, so I am very pleased with that. One down side is that the bottom pads get scratched super easily. After a week of use, they look like I have used them non stop for 4 years. But since you don't look at the bottom that often, I am not too worried about it.
+I am very happy with this mouse. It embeds everything I desired in a mouse for my iMac station - bluetooth, back and forward buttons and smooth scrolling. In the end though, I got so much more. The mouse has Mac gesture support which is activated by pressing the button under your thumb and drawing the mouse in one of the four directions. It has a very very nice scroll wheel, with 2 modes, slow and tactile, or fast and smooth. I switch between the 2 regularly depending on the task that I am preforming. The mouse also has the capabilities to work with up to 3 different computers, so I have already paired it with my iMac and MacBook Air. Charge wise, it has been a good week and I have yet to charge it once, so I am very pleased with that. One down side is that the bottom pads get scratched super easily. After a week of use, they look like I have used them non stop for 4 years. But since you don't look at the bottom that often, I am not too worried about it.
 
-Overall I am extremely pleased with my upgrades and looking forward to getting new the OS X software, new iOS software and perhaps even a new iPhone in September.
+Overall I am extremely pleased with my upgrades and looking forward to the new OS X software, new iOS software and perhaps even a new iPhone in September.

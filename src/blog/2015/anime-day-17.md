@@ -1,5 +1,5 @@
 ---
-title: Anime Day 17
+title: Anime Day 17 - Favorite tsundere
 author: Vadim Brodsky
 description: '### Day 17 - Favorite tsundere'
 image:
@@ -7,13 +7,9 @@ image:
   alt: tsundere
 pubDate: 2015-10-02T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', '100-days-of-anime', 'steinsgate']
+categories: ['Anime']
+tags: ['100-days-of-anime', 'Steins;Gate']
 ---
-
-![tsundere](images/tsundere.png)
-
-### Day 17 - Favorite tsundere
 
 Ah "tsunderes" (or as autocorrect always tries to correct me: thunders), this personality trope exists in pretty much every anime out there. And my 19 year old self was completely in love with them. Why? Because they abused the main character all the time, but deep down they actually loved them. I found that sweet (or maybe I am just an M, who knows).
 
