@@ -14,7 +14,9 @@ for (const post of allPosts) {
     categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
   }
 }
-const categoriesByPopularity = [...categoryCounts.entries()].sort((a, b) => b[1] - a[1]);
+const categoriesByPopularity = [...categoryCounts.entries()]
+  .filter(([, count]) => count > 8)
+  .sort((a, b) => b[1] - a[1]);
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
