@@ -1,5 +1,5 @@
 ---
-title: Inspiring quote
+title: What to discuss
 author: Vadim Brodsky
 description: '> "Great minds discuss ideas; average minds discuss events; small minds discuss people."'
 image:
@@ -7,10 +7,14 @@ image:
   alt: Eleanor Roosevelt photo
 pubDate: 2013-07-14T00:00:00.000Z
 published: true
-categories: []
-tags: ['life']
+categories: ['Thoughts']
+tags: []
 ---
 
-![Eleanor Roosevelt photo](images/EleanorRoosevelt.jpg)
+> "Great minds discuss ideas;
+>
+> average minds discuss events;
+>
+> small minds discuss people."
 
-> "Great minds discuss ideas; average minds discuss events; small minds discuss people."
+-- Eleanor Roosevelt

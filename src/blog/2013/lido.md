@@ -7,11 +7,9 @@ image:
   alt: Lido
 pubDate: 2013-07-07T00:00:00.000Z
 published: true
-categories: []
-tags: ['music', 'travel', 'latvia_2013']
+categories: ['Personal Life']
+tags: ['latvia_2013']
 ---
-
-![Lido](images/Lido.jpg)
 
 For lunch today my parents took me to Lido. Lido is a restaurant and a small amusement center located 10 minutes away from the center of Riga. Not only does it look like a building from the countryside of Latvia, but the food there is also traditional and specific to the more rural regions of Latvia. And of course it is extremely delicious!
 

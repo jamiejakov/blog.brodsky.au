@@ -7,23 +7,9 @@ image:
   alt: iPhone_GTA
 pubDate: 2013-09-21T00:00:00.000Z
 published: true
-categories: []
-tags:
-  [
-    'games',
-    'life',
-    'technology',
-    'apple',
-    'dick_figures',
-    'edenoftheeast',
-    'iphone',
-    'monogatari',
-    'oreimo',
-    'toradora',
-  ]
+categories: ['Tech', 'Games']
+tags: ['games', 'life', 'technology', 'apple', 'edenoftheeast', 'iphone', 'monogatari', 'oreimo']
 ---
-
-![iPhone_GTA](images/iPhone_GTA.jpg)
 
 This has been a very expensive week for me, but I can honestly say that it was worth it! [GTA V](http://www.rockstargames.com/V/), [iPhone 5s](http://www.apple.com/au/iphone-5s/) and the [Bower & Willkins P3](http://www.bowers-wilkins.com/Headphones/Headphones/P3/explore.html) headphones are all mine, and I sure as hell am enjoying all of them. I'll talk about my purchases in chronological order, so first up I would like to start with one of the best games (and definitely the most anticipated) of the year -
 
@@ -39,7 +25,7 @@ When walking out of the store I could see the number of people standing in line 
 
 Next up is my story of how I got myself the latest gadget to come from Apple. After selling [my iPhone 5 (iChitanda)](/posts/2012/my-new-iphone-5/) to my high school IT teacher - Natalia Ivanovna Rodina, when I went [back to Latvia](/posts/2013/tadaima-im-home/) in July, I have been left without a smartphone. For 3 months I was walking around with a 5 year old Samsung brick. I am not complaining. I actually did enjoy not being on Twitter and Facebook all the time, but stuff like my japanese dictionary and train timetables were greatly missed.
 
-Anyway, at 4am me, Wilmer and his friend went to the Chatswood Apple store (Wilmer was nice enough to drive us there on his car, yay!). 4:30am we line up in front of the store and wait until they open up at 8am. During that time I managed to finish watching [Dick Figures The Movie](/posts/2012/dick-figures/), and may I saw it was awesome, and a japanese talk-show about halves (ハーフ) - people, who have 1 japanese parent and one foreigner, and about their life in japan, especially if they don't know english. 8am I get my new phone, all is good (some minor complications with my credit card, but got that sorted out). $869 for the phone, $79 AppleCare extended warranty, $48 Red leather case, $269 P3 Headphones. So here it is my beauty:
+Anyway, at 4am me, Wilmer and his friend went to the Chatswood Apple store (Wilmer was nice enough to drive us there on his car, yay!). 4:30am we line up in front of the store and wait until they open up at 8am. During that time I managed to finish watching [Dick Figures The Movie](/posts/2012/dick-figures/), and may I saw it was awesome, and a japanese talk-show about hafu (ハーフ) - people, who have 1 japanese parent and one foreigner, and about their life in japan, especially if they don't know english. 8am I get my new phone, all is good (some minor complications with my credit card, but got that sorted out). $869 for the phone, $79 AppleCare extended warranty, $48 Red leather case, $269 P3 Headphones. So here it is my beauty:
 
 ![iShinobu](images/iShinobu.jpg)
 

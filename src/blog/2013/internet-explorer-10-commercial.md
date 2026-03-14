@@ -4,8 +4,8 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2013-05-07T00:00:00.000Z
 published: true
-categories: []
-tags: ['internetz']
+categories: ['Tech']
+tags: []
 ---
 
 https://www.youtube.com/watch?v=qkM6RJf15cg

@@ -1,19 +1,17 @@
 ---
 title: Happy-go-lucky
 author: Vadim Brodsky
-description: "_Sunday Movie Night_ is an event I organize at urba**nest** every week at 8pm. The movie I chose for this week was _Happy-Go-Lucky__because I came across this term at some point somewhere and thought that it was rather suiting for my own personality, and because apparently there is a movie with the same name and same theme, I chose it for the screening."
+description: '_Sunday Movie Night_ is an event I organize at urbanest every week at 8pm. The movie I chose for this week was _Happy-Go-Lucky__because I came across this term at some point somewhere and thought that it was rather suiting for my own personality, and because apparently there is a movie with the same name and same theme, I chose it for the screening.'
 image:
   src: images/happy-go-lucky.jpg
   alt: happy-go-lucky
 pubDate: 2013-09-09T00:00:00.000Z
 published: true
-categories: []
-tags: ['movies_tv', 'review']
+categories: ['Movies']
+tags: ['review']
 ---
 
-![happy-go-lucky](images/happy-go-lucky.jpg)
-
-_Sunday Movie Night_ is an event I organize at [urba**nest**](http://www.urbanest.com.au) every week at 8pm. The movie I chose for this week was *[Happy-Go-Lucky](http://www.imdb.com/title/tt1045670/)* because I came across this term at some point somewhere and thought that it was rather suiting for my own personality, and because apparently there is a movie with the same name and same theme, I chose it for the screening.
+_Sunday Movie Night_ is an event I organize at [urbanest](http://www.urbanest.com.au) every week at 8pm. The movie I chose for this week was *[Happy-Go-Lucky](http://www.imdb.com/title/tt1045670/)* because I came across this term at some point somewhere and thought that it was rather suiting for my own personality, and because apparently there is a movie with the same name and same theme, I chose it for the screening.
 
 The story revolves around Poppy, a 30 year old girl who is living with her flatmate Zoe and working as a primary school teacher. Why is she so special? because her character is "happy go lucky". She always looks at the bright sight of things, she is always happy and acts silly and jokes around about things most of the time. Poppy is trying to make everyone around her happy by making jokes and smiling, but that doesn't always work. Still she doesn't frown, she doesn't cry she just continues being herself.
 

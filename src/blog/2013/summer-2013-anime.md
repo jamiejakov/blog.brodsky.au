@@ -10,9 +10,8 @@ image:
   alt: free!
 pubDate: 2013-07-04T00:00:00.000Z
 published: true
-categories: []
-tags:
-  ['anime', 'anime-list', 'danganronpa', 'free', 'genshiken', 'ginnosaji', 'kyoani', 'monogatari', 'twogok', 'watamote']
+categories: ['Anime']
+tags: ['anime', 'danganronpa', 'free', 'genshiken', 'ginnosaji', 'kyoani', 'monogatari', 'twogok', 'watamote']
 ---
 
 ![free!](images/free.png)

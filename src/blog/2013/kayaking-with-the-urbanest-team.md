@@ -7,11 +7,9 @@ image:
   alt: kayaking photo
 pubDate: 2013-04-07T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'urbanest']
+categories: ['Personal Life']
+tags: ['urbanest']
 ---
-
-![kayaking photo](images/KayakingUrbanest.png)
 
 Here at urbanest Quay Street we have 4 and 6 bedroom apartments where everyone gets their own en-suit room and you share the kitchen and living room area with your flatmates. Book now we only have a few rooms left!!! ....
 

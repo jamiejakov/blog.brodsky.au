@@ -7,11 +7,9 @@ image:
   alt: 'Tenacious D Old school acoustic style, Australia'
 pubDate: 2013-05-13T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'music', 'concert', 'sydney-opera-house']
+categories: ['Music']
+tags: ['concert', 'sydney-opera-house']
 ---
-
-![Tenacious D Old school acoustic style, Australia](images/tenaciousD.png)
 
 The D is here!!! And they will rock your socks off!!
 

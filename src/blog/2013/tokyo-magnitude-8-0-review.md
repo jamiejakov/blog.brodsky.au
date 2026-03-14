@@ -1,14 +1,14 @@
 ---
 title: Tokyo Magnitude 8.0 Review
 author: Vadim Brodsky
-description: "Last thing I fully watched was Tokyo Magnitude 8.0 so I decided to write up a small review about it._I was warned that it is that kind of series that will make you feel very emotional for the characters. I can say one thing.... IT WAS!"
+description: 'Last thing I fully watched was Tokyo Magnitude 8.0 so I decided to write up a small review about it._I was warned that it is that kind of series that will make you feel very emotional for the characters. I can say one thing.... IT WAS!'
 image:
   src: images/TokyoMagnitude1.jpg
   alt: TokyoMagnitude1
 pubDate: 2013-02-18T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'review']
+categories: ['Anime']
+tags: ['review']
 ---
 
 ![TokyoMagnitude1](images/TokyoMagnitude1.jpg)

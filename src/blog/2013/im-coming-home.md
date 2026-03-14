@@ -7,11 +7,9 @@ image:
   alt: Path
 pubDate: 2013-07-24T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'latvia_2013']
+categories: ['Travel']
+tags: ['latvia_2013']
 ---
-
-![Path](images/Path.jpg)
 
 My holiday is over, its time to go back to Sydney, my current home, where my friends and loved ones are eagerly awaiting my return. It was fun, this month flew by very quickly. I got to see my parents and meet some of my high school friends as well as my best friend [German (Herman - Гера)](http://twitter.com/gexgrino). He left for Austria, I left for Australia.
 

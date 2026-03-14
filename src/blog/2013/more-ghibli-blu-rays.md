@@ -13,11 +13,9 @@ image:
   alt: Ghbilbi BD Collection
 pubDate: 2013-08-06T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'blu_ray', 'ghibli']
+categories: ['Anime']
+tags: ['blu_ray', 'ghibli']
 ---
-
-![Ghbilbi BD Collection](images/GhibliCollection5.jpg)
 
 I am collecting the Blu-rays for the Studio Ghibli movies. I love the studio and most of their movies, so I have set out to collect all of their BluRays! I mentioned [in a post](/posts/2013/ジブリがいっぱい-collection-2/) before as to how I started my collection, and now when Porco Rosso arrived I can blog about how my collection has grown.
 

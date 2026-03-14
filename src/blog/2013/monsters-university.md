@@ -12,13 +12,11 @@ image:
   alt: MU
 pubDate: 2013-06-20T00:00:00.000Z
 published: true
-categories: []
-tags: ['movies_tv', 'disney', 'pixar', 'review']
+categories: ['Movies']
+tags: ['disney', 'pixar', 'review']
 ---
 
-![MU](images/MU.png)
-
-Hey, have you heard? There is a new movie out by Pixar called Monsters University! Yea that right its a prequel to Monsters Inc. Why am I telling you this? Well today is the day it got screened in Australia and I went to watch it with [Saya](http://twitter.com/KSnpy).
+Hey, have you heard? There is a new movie out by Pixar called Monsters University! Yea that right its a prequel to Monsters Inc. Why am I telling you this? Well today is the day it got screened in Australia and I went to watch it.
 
 ---
 

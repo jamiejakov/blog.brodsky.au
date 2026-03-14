@@ -7,11 +7,9 @@ image:
   alt: WataMote Anime
 pubDate: 2013-06-16T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'watamote']
+categories: ['Anime']
+tags: ['watamote']
 ---
-
-![WataMote Anime](images/WataMoteAnime.png)
 
 There was this one manga which wasn't really that popular in good old Japan, but then everything changed when the gaijin attached! The guys from [4chans /a/](http://boards.4chan.org/a/) just fell in love with this manga. People started buying multiple copies and thus dramatically improving its sales. It got so popular that they even started printing that its a huge hit on the western 2chan on the cover of it (as can be seen on the picture below). And this manga is of course [Watashi ga Motenai no wa dou Kangaetemo Omaera ga Warui!](http://www.watamote.jp) or Wata Mote for short.
 

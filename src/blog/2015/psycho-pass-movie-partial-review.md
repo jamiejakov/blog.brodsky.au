@@ -17,7 +17,8 @@ For those who have seen the previous seasons, they will be pleased to hear the G
 
 ---
 
-**\*\*\*\*\* SPOILERS\*\*\*\*\***
+> [!CAUTION]
+> SPOILERS AHEAD!!!
 
 First please take a look at the trailer for the movie as it sort of explains the setting and what is happening.
 

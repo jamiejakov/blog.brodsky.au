@@ -11,11 +11,9 @@ image:
   alt: thoughts
 pubDate: 2013-12-09T00:00:00.000Z
 published: true
-categories: []
-tags: ['internetz', 'technology', 'blog']
+categories: ['Thoughts']
+tags: ['technology', 'blog']
 ---
-
-![thoughts](images/thoughts.jpg)
 
 My friend [Sebastian](http://alonelyseptember.org) mentioned me in a tweet saying that I should also write up a post describing my blog life. After a week or so of contemplating, I decided why the hell not.
 

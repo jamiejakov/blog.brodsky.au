@@ -1,17 +1,15 @@
 ---
 title: Trello.com
 author: Vadim Brodsky
-description: 'Today I''d like to talk about Trello. Trello is a cloud based organsation and collaboration software which can be used in creating personal plans and schedules as well as work on projects with a team. With an extremely easy to use interface and a vast set of features I say safely say that I will be using Trello in the future a lot!'
+description: "Today I'd like to talk about Trello. Trello is a cloud based organsation and collaboration software which can be used in creating personal plans and schedules as well as work on projects with a team. With an extremely easy to use interface and a vast set of features I say safely say that I will be using Trello in the future a lot!"
 image:
   src: images/TrelloLogo.png
   alt: TrelloLogo
 pubDate: 2013-09-07T00:00:00.000Z
 published: true
-categories: []
-tags: ['technology', 'ruben']
+categories: ['Tech']
+tags: ['ruben', 'productivity']
 ---
-
-![TrelloLogo](images/TrelloLogo.png)
 
 Today I'd like to talk about [Trello](http://trello.com). Trello is a cloud based organsation and collaboration software which can be used in creating personal plans and schedules as well as work on projects with a team. With an extremely easy to use interface and a vast set of features I say safely say that I will be using Trello in the future a lot!
 

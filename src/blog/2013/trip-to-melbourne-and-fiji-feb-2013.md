@@ -7,11 +7,9 @@ image:
   alt: IMG_0691
 pubDate: 2013-01-31T00:00:00.000Z
 published: true
-categories: []
+categories: ['Travel']
 tags: ['travel', 'melbourne_fiji_2013']
 ---
-
-![IMG_0691](images/Fiji.jpg)
 
 This year for my birthday my parents took me to Melbourne and then later on to Fiji. It was an amazing trip and I took a lot of gorgeous photos.
 

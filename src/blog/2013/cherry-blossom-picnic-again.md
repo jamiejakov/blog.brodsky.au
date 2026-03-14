@@ -15,11 +15,9 @@ image:
   alt: cherryBlossom2013
 pubDate: 2013-08-25T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'utsanime', 'bbq', 'cherry-blossom', 'picnic']
+categories: ['Personal Life']
+tags: ['utsanime', 'bbq', 'cherry-blossom', 'picnic']
 ---
-
-![cherryBlossom2013](images/cherryBlossom2013.jpg)
 
 1 year ago my close friends [Cindy](http://twitter.com/adasifs) and [Sashin](http://sashinexists.com) organized an event to see the cherry blossoms in Auburn (and [I blogged about it](/posts/2012/cherry-blossom-picnic-2012/)). It was amazing, even though we were a bit late and most of the flowers have already finished blooming and had fallen, but we had lots of fun nevertheless. Well this year was even better!
 

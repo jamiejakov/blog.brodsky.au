@@ -7,11 +7,9 @@ image:
   alt: AnimeHalloween
 pubDate: 2013-10-29T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'utsanime', 'jass']
+categories: ['Personal Life']
+tags: ['utsanime', 'jass']
 ---
-
-![AnimeHalloween](images/PqvydsEh.jpg)
 
 Tonight, just a few days before Halloween itself, Anime@UTS & JASS held its first ever horror movie screening! With around 40-60 people there, I would say that this event was a huge success.
 

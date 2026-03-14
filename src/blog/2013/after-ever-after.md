@@ -4,8 +4,8 @@ author: Vadim Brodsky
 description: ''
 pubDate: 2013-03-14T00:00:00.000Z
 published: true
-categories: []
-tags: ['internetz', 'music', 'disney']
+categories: ['Fun']
+tags: ['comedy', 'music', 'disney']
 ---
 
 https://www.youtube.com/watch?v=diU70KshcjA

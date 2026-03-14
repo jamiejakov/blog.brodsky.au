@@ -1,17 +1,15 @@
 ---
 title: Kill Bill
 author: Vadim Brodsky
-description: "Why have I not seen this movie up until now? Its a Quentin Tarantino movie, yet I have just watched it last week! Well, to be honest, I haven't seen any of his other movies, but I have heard very good things about them and some people even say that he is a genius when it comes to film making. There is no reason why it took me so long to watch Kill Bill, but I am grateful to German_for making me watch it (just like that: \"we are watching this movie now, no buts!\"). I will just give a brief overview of the show and wont get into much detail, so there will be no spoilers."
+description: 'Why have I not seen this movie up until now? Its a Quentin Tarantino movie, yet I have just watched it last week! Well, to be honest, I haven''t seen any of his other movies, but I have heard very good things about them and some people even say that he is a genius when it comes to film making. There is no reason why it took me so long to watch Kill Bill, but I am grateful to German_for making me watch it (just like that: "we are watching this movie now, no buts!"). I will just give a brief overview of the show and wont get into much detail, so there will be no spoilers.'
 image:
   src: images/wgpirQq.jpg
   alt: Kill Bill yellow poster
 pubDate: 2013-07-31T00:00:00.000Z
 published: true
-categories: []
-tags: ['movies_tv', 'review']
+categories: ['Movies']
+tags: ['review']
 ---
-
-![Kill Bill yellow poster](images/wgpirQq.jpg)
 
 Why have I not seen this movie up until now? Its a [Quentin Tarantino](http://en.wikipedia.org/wiki/Quentin_Tarantino) movie, yet I have just watched it last week! Well, to be honest, I haven't seen any of his other movies, but I have heard very good things about them and some people even say that he is a genius when it comes to film making. There is no reason why it took me so long to watch [Kill Bill](http://www.imdb.com/title/tt0266697/ 'Kill Bill IMDB'), but I am grateful to [German](http://twitter.com/gexgrino) for making me watch it (just like that: "we are watching this movie now, no buts!"). I will just give a brief overview of the show and wont get into much detail, so there will be no spoilers.
 

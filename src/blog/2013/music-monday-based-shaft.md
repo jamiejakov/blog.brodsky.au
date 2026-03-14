@@ -7,11 +7,9 @@ image:
   alt: agm.image
 pubDate: 2013-09-23T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'music', 'utsanime', 'monogatari']
+categories: ['Anime', 'Music']
+tags: ['utsanime', 'monogatari']
 ---
-
-![agm.image](images/iR8jZ4W.png)
 
 Each of their shows is filled with character development, engaging dialogue, thought provoking themes, deep plot, intelligent humor, symbolism ([meanwhile at shaft](http://i.imgur.com/ApGFIRk.jpg)).
 

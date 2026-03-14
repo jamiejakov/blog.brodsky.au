@@ -7,11 +7,9 @@ image:
   alt: JapaneseApp
 pubDate: 2012-05-30T00:00:00.000Z
 published: true
-categories: []
-tags: ['technology', 'apple', 'ios', 'japanese', 'update']
+categories: ['Tech']
+tags: ['app', 'apple', 'ios', 'update']
 ---
-
-![JapaneseApp](images/Banner1.png)
 
 When I woke up today I was in for a surprise.
 
@@ -25,4 +23,6 @@ This makes me want an iPad even more now :)
 
 ![word lookup](images/JapaneseDict_Word.png)
 
-![in-app search](images/JapaneseDict_Search.png) ![handwriting tool](images/JapaneseDict_Handwriting.png)
+![in-app search](images/JapaneseDict_Search.png)
+
+![handwriting tool](images/JapaneseDict_Handwriting.png)

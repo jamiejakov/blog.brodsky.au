@@ -1,13 +1,11 @@
 ---
 title: The Weirdest Thing on the Internet Today
 author: Vadim Brodsky
-description: >-
-  
-
+description: 'The internet produces some weird videos at times'
 pubDate: 2013-07-09T00:00:00.000Z
 published: true
-categories: []
-tags: ['internetz']
+categories: ['Fun']
+tags: []
 ---
 
 <iframe src="http://player.vimeo.com/video/12628788" height="319" width="566" allowfullscreen frameborder="0"></iframe>

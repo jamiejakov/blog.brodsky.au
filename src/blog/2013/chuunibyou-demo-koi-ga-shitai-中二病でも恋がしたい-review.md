@@ -1,19 +1,22 @@
 ---
 title: Chuunibyou demo Koi ga Shitai! Review
 author: Vadim Brodsky
-description: '**\*\*\*\*\*\*\*\*\* CAUTION SPOILERS\*\*\*\*\*\*\*\*\*\*\***'
+description: 'When I initially saw the preview for this show ([Chu2](http://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai!/ "MAL")) I though: "Hmmm Kyoto Animation (KyoAni) is making a action anime with super national battles?! Woah!" And then upon watching the first episode I realized: "nope, no action here, just cute girls doing cute things". But boooooy was I off the bat with that!'
 image:
   src: images/Chu2.jpg
   alt: Chunibyou demo koi ga shitai
 pubDate: 2013-02-08T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'kyoani', 'review']
+categories: ['Anime']
+tags: ['kyoani', 'review']
 ---
 
 ![Chunibyou demo koi ga shitai](images/Chu2.jpg)
 
-**\*\*\*\*\*\*\*\*\* CAUTION SPOILERS\*\*\*\*\*\*\*\*\*\*\***
+> [!CAUTION]
+> SPOILERS AHEAD!!!
+>
+> TL;DR: 9/10
 
 When I initially saw the preview for this show ([Chu2](http://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai!/ 'MAL')) I though: "Hmmm Kyoto Animation (KyoAni) is making a action anime with super national battles?! Woah!" And then upon watching the first episode I realized: "nope, no action here, just cute girls doing cute things". But boooooy was I off the bat with that!
 

@@ -7,11 +7,9 @@ image:
   alt: Super Hexagon game
 pubDate: 2013-07-22T00:00:00.000Z
 published: true
-categories: []
-tags: ['games', 'review']
+categories: ['Games']
+tags: ['review', 'super hexagon']
 ---
-
-![Super Hexagon game](images/SuperHexagon_Game.png)
 
  I was introduced to this game by my friend Patrick. I remember that day well, it was before one of our club karaoke sessions, Pat came over and said something along these lines: "Hey Vadim, I know you love [juBeat](http://en.wikipedia.org/wiki/Jubeat), here is a game that will test your skills even more. Its called [Super Hexagon](http://superhexagon.com)."
 

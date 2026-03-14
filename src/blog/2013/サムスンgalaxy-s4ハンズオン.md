@@ -9,11 +9,9 @@ image:
   alt: Samsung Galaxy S4
 pubDate: 2013-04-17T00:00:00.000Z
 published: true
-categories: []
-tags: ['technology', 'samsung', 'smartphone']
+categories: ['Tech']
+tags: ['technology', 'samsung', 'smartphone', '日本語']
 ---
-
-![Samsung Galaxy S4](images/SamsungGalaxyS4.png)
 
 [http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html](http://www.gizmodo.jp/2013/03/galaxy_s_iv_10.html)
 

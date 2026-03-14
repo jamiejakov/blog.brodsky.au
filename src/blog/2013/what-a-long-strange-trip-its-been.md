@@ -1,5 +1,5 @@
 ---
-title: 'What a Long, Strange Trip It''s Been'
+title: "What a Long, Strange Trip It's Been"
 author: Vadim Brodsky
 description: (That is not my plane)
 image:
@@ -7,11 +7,9 @@ image:
   alt: Qantas A380
 pubDate: 2013-06-27T00:00:00.000Z
 published: true
-categories: []
+categories: ['Travel']
 tags: ['travel', 'latvia_2013']
 ---
-
-![Qantas A380](images/QA380.png)
 
 (That is not my plane)
 

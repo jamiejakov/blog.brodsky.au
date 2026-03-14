@@ -7,11 +7,9 @@ image:
   alt: SMASH 2013
 pubDate: 2013-08-11T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'life', 'utsanime', 'claris', 'cosplay', 'toarumajutsunoindex', 'SMASH!', 'vocaloid']
+categories: ['Personal Life', 'Anime']
+tags: ['utsanime', 'claris', 'cosplay', 'toarumajutsunoindex', 'SMASH!', 'vocaloid']
 ---
-
-![SMASH 2013](images/smash2013poster.jpg)
 
 [SMASH!](http://www.smash.org.au 'SMASH!') \- the Sydney Manga and Anime SHow is a convention happening every year in Sydney, and its goal is to celebrate the culture of Anime, Manga, Video games, and Cosplay. Saturday, August 10th 2013 at 9am the Sydney Exhibition Center Darling Harbour opened its doors for over 7000 pop culture fans from around Australia and even overseas. Aside from big companies like [Madman](http://www.madman.com.au/) and [KingsComics](http://www.kingscomics.com) smaller circles and clubs were given stalls to sell their own merchandise; [Anime@UTS](http://utsanime.net) was no exception. We had badges, post cards, phone charms, even panda hats.
 
