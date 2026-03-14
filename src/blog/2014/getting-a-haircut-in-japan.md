@@ -1,17 +1,15 @@
 ---
 title: Getting a haircut in Japan
 author: Vadim Brodsky
-description: 'A lot of things a very different in Japan compared to the West, such as their manners, the convenience of everything around you and of course the superb customer service. So when I decided to get a haircut, my first haircut in Japan, I was pleasantly surprised with the service. They sat me down and asked me what kind of cut I wanted while showing me a magazine with various mens cuts which I could chose from. Then once I decided to go with short (like some guy named Kenta in the photo of the magazine) they sat me down on this chair that automatically lowers and rises (adjusts) to the hair washing sink. So he started cutting my hair, very carefully and diligently as my hair is really thick and he didn''t want to hurt me. We spent the whole 40 minutes chatting about me and why I am in Kagoshima, with he complimenting me multiple times on my level of Japanese.'
+description: 'A lot of things a very different in Japan compared to the West, such as their manners, the convenience of everything around you and of course the superb customer service. So when I decided to get a haircut, my first haircut in Japan, I was pleasantly surprised with the service.'
 image:
   src: images/KagoshimaBlueSky.jpg
   alt: KagoshimaBlueSky
 pubDate: 2014-07-20T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'ics']
+categories: ['Personal Life']
+tags: ['ics']
 ---
-
-![KagoshimaBlueSky](images/KagoshimaBlueSky.jpg)
 
 A lot of things a very different in Japan compared to the West, such as their manners, the convenience of everything around you and of course the superb customer service. So when I decided to get a haircut, my first haircut in Japan, I was pleasantly surprised with the service. They sat me down and asked me what kind of cut I wanted while showing me a magazine with various mens cuts which I could chose from. Then once I decided to go with short (like some guy named Kenta in the photo of the magazine) they sat me down on this chair that automatically lowers and rises (adjusts) to the hair washing sink. So he started cutting my hair, very carefully and diligently as my hair is really thick and he didn't want to hurt me. We spent the whole 40 minutes chatting about me and why I am in Kagoshima, with he complimenting me multiple times on my level of Japanese.
 

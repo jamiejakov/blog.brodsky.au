@@ -7,11 +7,9 @@ image:
   alt: iPhone6
 pubDate: 2014-09-10T00:00:00.000Z
 published: true
-categories: []
-tags: ['technology', 'apple', 'iphone']
+categories: ['Tech']
+tags: ['apple', 'iphone']
 ---
-
-![iPhone6](images/iPhone6.png)
 
 Yesterday Apple announced the new generation iPhone and they had one more thing to say. The [new iPhone](http://www.apple.com/iphone-6/) comes in 2 models the iPhone6 and the 6+ with 4.7' and 5.5' screens respectively. They got a spec bump over the previous generation and a new slimmer design. Thats pretty much it. For features Apple introduced [Pay](http://www.apple.com/iphone-6/apple-pay/), a service which will replace all your credit cards and allow you to pay with your iPhone using NFC. That's awesome, but only available in the US for now.
 

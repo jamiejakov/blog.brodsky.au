@@ -7,11 +7,9 @@ image:
   alt: JLPT logo-2
 pubDate: 2014-01-30T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'japanese']
+categories: ['Personal Life']
+tags: ['japanese']
 ---
-
-![JLPT logo-2](images/JLPT-logo-2.jpg)
 
 In Autumn of 2013 (March) I set myself a goal. That goal was to buy textbooks, study them thoroughly, take the Japanese Language Proficiency Test and pass it. I am very grateful, that I realized this so early in the year and had more than enough time to prepare for the exam which was on the 1st of December.  And now I got my results back, and guess what - I PASSED!
 

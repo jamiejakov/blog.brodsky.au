@@ -7,11 +7,9 @@ image:
   alt: obon-pikachu
 pubDate: 2014-08-18T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'amy', 'ics', 'pokemon']
+categories: ['Travel']
+tags: ['ics', 'pokemon']
 ---
-
-![obon-pikachu](images/obon-pikachu.jpg)
 
 The rest of my trip to Tokyo this year included seeing, touching, hugging, eating and buying Pikachus. Im serious, I did everything imaginable to those pikachus.
 

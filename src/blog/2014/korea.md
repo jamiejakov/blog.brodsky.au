@@ -1,19 +1,17 @@
 ---
 title: The two Koreas
 author: Vadim Brodsky
-description: "For the past 5 days I have been traveling around Korea with my girlfriend and her mother. We visited the port and beach town of Busan, the capital Seoul and took a tour to visit the_Korean Demilitarized Zone (DMZ) at the border with North Korea."
+description: 'For the past 5 days I have been traveling around Korea. We visited the port and beach town of Busan, the capital Seoul and took a tour to visit the_Korean Demilitarized Zone (DMZ) at the border with North Korea.'
 image:
   src: images/DMZ.jpg
   alt: DMZ
 pubDate: 2014-08-27T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'amy', 'dprk']
+categories: ['Travel']
+tags: ['south korea', 'dprk']
 ---
 
-![DMZ](images/DMZ.jpg)
-
-For the past 5 days I have been traveling around Korea with my girlfriend and her mother. We visited the port and beach town of Busan, the capital Seoul and took a tour to visit the [Korean Demilitarized Zone](http://en.wikipedia.org/wiki/Korean_Demilitarized_Zone) (DMZ) at the border with North Korea.
+For the past 5 days I have been traveling around Korea. We visited the port and beach town of Busan, the capital Seoul and took a tour to visit the [Korean Demilitarized Zone](http://en.wikipedia.org/wiki/Korean_Demilitarized_Zone) (DMZ) at the border with North Korea.
 
 ---
 

@@ -11,11 +11,9 @@ image:
   alt: Magical Mirai 2014
 pubDate: 2014-08-31T00:00:00.000Z
 published: true
-categories: []
-tags: ['technology', 'concert', 'dale', 'hatsune_miku', 'tac']
+categories: ['Music']
+tags: ['concert', 'hatsune_miku']
 ---
-
-![Magical Mirai 2014](images/MagicalMirai.jpg)
 
 [Happy birthday Miku](/posts/2013/happy-6th-birthday-miku/ 'Happy 6th Birthday Miku!')!! You have been with us for the past 7 years, singing amazing songs which we will remember forever. And of course good work with the concert yesterday. It was amazing!
 

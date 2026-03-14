@@ -7,7 +7,7 @@ image:
   alt: FIFA 2018 logo
 pubDate: 2014-10-31T00:00:00.000Z
 published: true
-categories: ['Sport']
+categories: ['Sports']
 tags: ['russia', 'football']
 ---
 

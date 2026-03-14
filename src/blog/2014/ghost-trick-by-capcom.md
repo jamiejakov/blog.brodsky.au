@@ -1,19 +1,17 @@
 ---
 title: Ghost Trick by Capcom
 author: Vadim Brodsky
-description: "Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called _Ghost Trick.__It was recommended to me by my puzzle loving girlfriend (at the time)_Amy_a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you."
+description: "Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called _Ghost Trick.__It was recommended to me by my puzzle loving friend a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you."
 image:
   src: images/GhostTrick.jpg
   alt: GhostTrick
 pubDate: 2014-04-01T00:00:00.000Z
 published: true
-categories: []
-tags: ['games', 'amy', 'ios', 'review']
+categories: ['Games']
+tags: ['review', 'ios']
 ---
 
-![GhostTrick](images/GhostTrick.jpg)
-
-Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called *Ghost Trick.* It was recommended to me by my puzzle loving girlfriend (at the time) [Amy](http://ocarda.wordpress.com) a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you.
+Capcom makes a lot of good games like Street Fighter and Super Street Fighter and Ultra Street Fighter, and .... well you get the gist. Nah, of course they have more good games and one of them is this puzzle detective game called *Ghost Trick.* It was recommended to me by my puzzle loving friend a while back and now I have finally finished it! It was a very interesting story with a nice plot twist at the end. I wouldn't call it the best puzzle game, but it is definitely worth the time. I will write up a mini review without spoilers, because what fun is it playing a puzzle game when the story has been spoiled for you.
 
 ---
 
@@ -25,4 +23,4 @@ Overall its a great game which was originally made for the Nintendo DS, and now 
 
 Here is a nice trailer of the game to get you interested.
 
-https://www.youtube.com/watch?v=LwH4ZRyN2B0
+https://www.youtube.com/watch?v=USeyaeClNhs

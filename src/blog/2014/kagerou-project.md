@@ -7,8 +7,8 @@ image:
   alt: Kagerou_Days
 pubDate: 2014-06-29T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'review', 'vocaloid']
+categories: ['Music', 'Anime']
+tags: ['review', 'vocaloid']
 ---
 
 ![Kagerou_Days](images/Kagerou_Days.png)

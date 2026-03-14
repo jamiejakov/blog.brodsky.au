@@ -7,11 +7,9 @@ image:
   alt: Numbers
 pubDate: 2014-03-18T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'technology', 'apple']
+categories: ['Tech']
+tags: ['apple', 'budgets']
 ---
-
-![Numbers](images/Numbers.png)
 
 My new years resolution was to be more organised and get more control over my money. And the one thing that helped me achieve this goal was the App - [Numbers](https://itunes.apple.com/au/app/numbers/id409203825?mt=12).
 
