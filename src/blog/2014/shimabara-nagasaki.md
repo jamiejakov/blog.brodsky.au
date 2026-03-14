@@ -12,11 +12,9 @@ image:
   alt: samurai road
 pubDate: 2014-10-20T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'ics', 'nagasaki', 'tac']
+categories: ['Travel']
+tags: ['ics', 'nagasaki', 'tac']
 ---
-
-![samurai road](images/Samurai-Road.jpg)
 
 This weekend I spent together with my good friend [Tac](http://tacyip.com), who is currently working as a English teacher in the city of Shimabara as part of the [JET program](http://tacyip.com/?p=47). We went around the city, a nearby hot spring and Nagasaki city.
 

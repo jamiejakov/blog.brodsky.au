@@ -1,5 +1,5 @@
 ---
-title: Tips on Kagoshima 上
+title: Tips on living in Kagoshima
 author: Vadim Brodsky
 description: "So I've been in Kagoshima for a month and a half now, so I believe that I can give some tips for my kouhais, future UTS students coming to Kagoshima for exchange. Please note, this post will be updated numerous times throughout my ICS period. I also really envy my kouhais, cause I will make sure they get almost everything that I have bought here, as I won't be taking this stuff back to Australia, with the exception of my monitor and rice cooker."
 image:
@@ -11,11 +11,9 @@ categories: []
 tags: ['life', 'ics']
 ---
 
-![KagoshimaRoad](images/KagoshimaRoad.jpg)
-
 So I've been in Kagoshima for a month and a half now, so I believe that I can give some tips for my kouhais, future UTS students coming to Kagoshima for exchange. Please note, this post will be updated numerous times throughout my ICS period. I also really envy my kouhais, cause I will make sure they get almost everything that I have bought here, as I won't be taking this stuff back to Australia, with the exception of my monitor and rice cooker.
 
-This post will be separated into 3 parts (上中下), which will be released when I have time to write them up.
+~This post will be separated into 3 parts (上中下), which will be released when I have time to write them up.~
 
 Lets get to it:
 

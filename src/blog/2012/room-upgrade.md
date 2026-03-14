@@ -17,4 +17,4 @@ Now that Im back from Japan and have taken out all the anime related stuff which
 
 ---
 
-<iframe src="http://imgur.com/a/QxsAK/embed" height="550" width="100%" frameborder="0"></iframe>
+https://imgur.com/a/QxsAK

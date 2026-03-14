@@ -7,11 +7,9 @@ image:
   alt: KazeTachinu
 pubDate: 2014-02-16T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'movies_tv', 'ghibli', 'review']
+categories: ['Anime']
+tags: ['ghibli', 'review']
 ---
-
-![KazeTachinu](images/KazeTachinu.png)
 
 When thinking of the works of award winning director - Hayao Miyazaki you would normally think of his amazing fairy tale type movies like _[My Neighbour Totoro](http://myanimelist.net/anime/523/Tonari_no_Totoro)_, [_Spirited Away_](http://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi) or *[Howls Moving Castle](http://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro).* They are all similar in the sense that they are set out in a somewhat realistic world with elements of magic and mystery and these become the predominant aspects of the story, which create the unforgettable feeling of a Studio Ghibli Movie. *[The Wind Rises](http://myanimelist.net/anime/16662/Kaze_Tachinu)* (風立ちぬ), however differs from the tradition fantasy genre and is based on a true story of a [Jiro Horikoshi](http://en.wikipedia.org/wiki/Jiro_Horikoshi), an aerospace engineer, who's dream was to create beautiful planes that would surpass the German designs in both speed and power. Even though the setting is in real life World War I and then World War II Japan, this touching story of a young boys dream, dedication to work, search for perfection, love and despair is one of the best works of Director Miyazaki. It really shows us, just how fragile a human life really is.
 

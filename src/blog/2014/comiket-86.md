@@ -27,8 +27,8 @@ At the end of the day we went to maid cafe to celebrate a successful day and we 
 
 My photos from Comiket and of the loot I managed to gather:
 
-<iframe class="imgur-album" src="//imgur.com/a/BxF0i/embed" width="100%" height="550" frameborder="0"></iframe>
+https://imgur.com/a/BxF0i
 
 [Tac's](http://tacyip.com) photos of the cosplayers and the event in general:
 
-<iframe class="imgur-album" src="//imgur.com/a/M2EIf/embed" width="100%" height="550" frameborder="0"></iframe>
+https://imgur.com/a/M2EIf

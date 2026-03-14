@@ -7,8 +7,8 @@ image:
   alt: MacBookAirSticker
 pubDate: 2014-07-23T00:00:00.000Z
 published: true
-categories: []
-tags: ['technology', 'advertising', 'apple']
+categories: ['Tech']
+tags: ['apple', 'advertising']
 ---
 
 ![MacBookAirSticker](images/MacBookAirSticker.png)
@@ -17,4 +17,4 @@ Apple just released a new ad showing their MacBook lineup. But not like other te
 
 And thats exactly why I love Apple.
 
-Here is the video: [Stickers](http://www.apple.com/macbook-air/stickers/index.html#video-stickers)
+https://www.youtube.com/watch?v=Y4D-LpTG1hg

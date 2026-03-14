@@ -19,12 +19,12 @@ So where did this obscure nickname come from? It all began a long time ago when 
 
 One of my sempai's from the school - Oleg, one day decided that my name is too awkward to pronounce, and made it his goal to find me a more.... English nickname. One day he proclaimed that I look like Jamie, talk like Jamie and act like Jamie, so I must be Jamie! That puzzled me greatly, as I had no clue what he was talking about. After a detailed explanation that the Jamie he was referring to is from the Cartoon Network show [_MegasXLR_](http://en.wikipedia.org/wiki/Megas_XLR), I understood where he was going with that. At first I opposed, I didn't like it, but my fate was sealed. From then on in, I was known as Jamie. That became my nickname which I used in games on my PC.
 
-https://www.youtube.com/watch?v=MIwcMx6QxnU
+https://www.youtube.com/watch?v=iwTydFBtdBY
 
 Somewhere around that time I finally got an internet connection in my house and I started playing games online. I quickly came to realisation that my nickname, Jamie, has been taken pretty much on every website and online game. Once again I found myself with a problem in need of solving.
 
 "What can I do to still keep Jamie, but to make it more unique?" - I thought to myself. Then it hit me! I needed an extension to my nickname. I didn't want numbers at the end, and none of that randomness. "So where should I look for a good extension to Jamie?" - I kept on thinking.
 
-![jakovasaur](images/304_00027.jpg)Around that time I also started watching _[South Park](http://www.southparkstudios.com)._ In season 3 episode 5, a certain creature named Jakovasaur made its appearance. That's when it hit me.  Jamie Jakov - JJ. PERFECT! It was unique, it was easy to remember, easy to pronounce (if needed), so I kept it. From that point on all my online presence was summed up with this nickname - jamiejakov.
+![jakovasaur](images/304_00027.jpg) Around that time I also started watching _[South Park](http://www.southparkstudios.com)._ In season 3 episode 5, a certain creature named Jakovasaur made its appearance. That's when it hit me.  Jamie Jakov - JJ. PERFECT! It was unique, it was easy to remember, easy to pronounce (if needed), and Jakov had jewish roots, and my grandpa was apparently jewish, so I kept it. From that point on all my online presence was summed up with this nickname - jamiejakov.
 
 People say they are sometimes embarrassed of the nicknames and later on - emails, which they created for themselves when they were younger, when the internet was just picking up. I am not. I am proud of how it turned out and that I am still using it and will be using it in the foreseeable future.

@@ -21,4 +21,4 @@ For food there ware cupcakes, candy and pizza. Movies we watched were _Ju-on the
 
 Here are some photos of the event, most taken by [Sebasu_tan](http://alonelyseptember.org):
 
-<iframe src="http://imgur.com/a/0uQIf/embed" height="550" width="100%" frameborder="0"></iframe>
+https://imgur.com/a/0uQIf

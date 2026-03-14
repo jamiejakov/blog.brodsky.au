@@ -27,4 +27,4 @@ Last, but not least, was our outing today to **Bronte → Bondi** for the **[Sc
 
 And here are some of the photos I took:
 
-<iframe src="http://imgur.com/a/pLa9L/embed" height="550" width="100%" frameborder="0"></iframe>
+https://imgur.com/a/pLa9L

@@ -1,17 +1,17 @@
 ---
 title: Saga International Balloon Fiesta
 author: Vadim Brodsky
-description: This weekend there was a big balloon festival in Saga and of course Amy and I went there to check it out. Only problem was that there were no balloons.
+description: This weekend there was a big balloon festival in Saga and of course I went there to check it out. Only problem was that there were no balloons.
 image:
   src: images/whaloon.jpg
   alt: whaloon
 pubDate: 2014-11-03T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'amy', 'festival', 'ics']
+categories: ['Personal Life']
+tags: ['festival', 'ics']
 ---
 
-![whaloon](images/whaloon.jpg) This weekend there was a big balloon festival in Saga and of course Amy and I went there to check it out. Only problem was that there were no balloons.
+![whaloon](images/whaloon.jpg) This weekend there was a big balloon festival in Saga and of course I went there to check it out. Only problem was that there were no balloons.
 
 ---
 

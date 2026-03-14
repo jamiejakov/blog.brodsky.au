@@ -7,8 +7,8 @@ image:
   alt: sakurajima
 pubDate: 2014-12-21T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'gaijin-gang', 'ics', 'kagoshima']
+categories: ['Personal Life']
+tags: ['gaijin-gang', 'ics', 'kagoshima']
 ---
 
 What are your first thoughts when you hear the words active volcano? Mine used to be: "run away as fast as I can". But ever since I came to Kagoshima these words have changed to something more calm. Thats right, even though Sakurajima volcano is active and erupts about 3 times a day, it is still fairly safe and there are even people living on the used-to-be island. In 1914 a great eruption happened, and thus Sakurajima was connected to the peninsula and lost its status as an island, but the name remains and literally means Cherry Blossom Island.

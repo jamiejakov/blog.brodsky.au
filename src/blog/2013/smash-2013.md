@@ -23,4 +23,4 @@ Overall the day was amazing, I cosplayed Accelerator from [Index](http://myanime
 
 NHK news made a small article about it, so if you can read japanese [here is a link](http://www3.nhk.or.jp/news/html/20130810/k10013688581000.html).
 
-<iframe src="http://imgur.com/a/3Xg9g/embed" height="550" width="100%" frameborder="0"></iframe>
+https://imgur.com/a/3Xg9g

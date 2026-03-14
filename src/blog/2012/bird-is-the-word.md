@@ -23,4 +23,4 @@ We decided that I would take care of him and leave him in some sort of cage in m
 
 This morning Nishi and Wilmer took him to one of the locations where they take care of animals. So now he is gone. But I did get some pictures:
 
-<iframe src="http://imgur.com/a/eEvHP/embed" height="550" width="100%" frameborder="0"></iframe>
+https://imgur.com/a/eEvHP

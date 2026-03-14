@@ -2,7 +2,6 @@
 title: 留学生に図書カードなど贈呈 - NHK鹿児島
 author: Vadim Brodsky
 description: >-
-  
 
 pubDate: 2014-06-26T00:00:00.000Z
 published: true

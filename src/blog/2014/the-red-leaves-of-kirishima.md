@@ -7,11 +7,9 @@ image:
   alt: Kirishima
 pubDate: 2014-11-22T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'gaijin-gang', 'ics', 'kagoshima']
+categories: ['Personal Life']
+tags: ['gaijin-gang', 'ics', 'kagoshima']
 ---
-
-![Kirishima](images/kirishima.jpg)
 
 One day, I receive a message from our Turkish gaijin Burak saying that we are going to Kirishima. It was rather spontaneous, but I am not the kind of person to decline an invitation to a trip, especially if I have never been to the place before. The reason for this trip was simple: to see the beautiful red leaves that cover Japanese trees in Autumn. And so we hired a car and drove to the Kirishima Jingu (shrine). Another trip together with the Gaijin Gang.
 

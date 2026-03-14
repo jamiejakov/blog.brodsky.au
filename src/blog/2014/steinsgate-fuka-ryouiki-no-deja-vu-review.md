@@ -7,15 +7,16 @@ image:
   alt: Steins Gate Movie
 pubDate: 2014-01-19T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'blu_ray', 'review', 'Steins;Gate', 'time-travel']
+categories: ['Anime']
+tags: ['review', 'blu_ray', 'Steins;Gate', 'time-travel']
 ---
-
-![Steins Gate Movie](images/steinsgate_movie.png)
 
 Back in 2011 [I wrote a review](/posts/2012/steinsgate-review/) of _Steins;Gate_, a series that I really enjoyed watching and gave it a 10 straight away and I even said that it was the best time travel story told in anime. Now, 2 years later, 7 months after the movie came out in cinemas I ordered the Blu-Ray and today we had a screening with the anime clubs of UTS, USyd and UNSW. It was a grand event, around 50 people showed up to watch this awesome movie. Anyway to the review.
 
-**\*\*\*\* CAUTION SPOILERS AHEAD \*\*\*\***
+> [!CAUTION]
+> SPOILERS AHEAD!!!
+>
+> TL;DR: 8/10
 
 ---
 

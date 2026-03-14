@@ -1,17 +1,15 @@
 ---
 title: Senganen Flowers
 author: Vadim Brodsky
-description: "Kagoshima city may be small in comparison to Tokyo or Osaka, but because of that you can enjoy traditional Japan much more, than if you were in a metropolis. Todays outing_was just that, a trip to the traditional gardens of senganen in the north of Kagoshima, where they are currently holding_a chrysanthemum festival."
+description: 'Kagoshima city may be small in comparison to Tokyo or Osaka, but because of that you can enjoy traditional Japan much more, than if you were in a metropolis. Todays outing_was just that, a trip to the traditional gardens of senganen in the north of Kagoshima, where they are currently holding_a chrysanthemum festival.'
 image:
   src: images/DSC_0998.jpg
   alt: Gayjin Gang
 pubDate: 2014-11-09T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'festival', 'gaijin-gang', 'ics', 'kagoshima']
+categories: ['Personal Life']
+tags: ['festival', 'gaijin-gang', 'ics', 'kagoshima']
 ---
-
-![Gayjin Gang](images/DSC_0998.jpg)
 
 Kagoshima city may be small in comparison to Tokyo or Osaka, but because of that you can enjoy traditional Japan much more, than if you were in a metropolis. Todays outing was just that, a trip to the traditional gardens of [senganen](http://www.senganen.jp/en/top/) in the north of Kagoshima, where they are currently holding a chrysanthemum festival.
 

@@ -5,6 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 import { remarkAlert } from 'remark-github-blockquote-alert';
 import { remarkYoutubeExplicit } from './scripts/remark-youtube-explicit.js';
+import { remarkImgurAlbum } from './scripts/remark-imgur-album.js';
 
 // https://astro.build/config
 export default defineConfig({
@@ -19,7 +20,7 @@ export default defineConfig({
   site: 'https://blog.brodsky.au',
   integrations: [react()],
   markdown: {
-    remarkPlugins: [remarkAlert, remarkYoutubeExplicit],
+    remarkPlugins: [remarkAlert, remarkYoutubeExplicit, remarkImgurAlbum],
   },
   vite: {
     plugins: [tailwindcss()],

@@ -4,8 +4,8 @@ author: Vadim Brodsky
 description: https://www.youtube.com/watch?v=BKorP55Aqvg
 pubDate: 2014-08-27T00:00:00.000Z
 published: true
-categories: []
-tags: ['internetz', 'video']
+categories: ['Software Engineering', 'Fun']
+tags: ['comedy']
 ---
 
 https://www.youtube.com/watch?v=BKorP55Aqvg

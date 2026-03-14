@@ -13,11 +13,9 @@ image:
   alt: '!Ruben'
 pubDate: 2014-06-15T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'utsanime', 'clara', 'kyary', 'ruben', 'seb']
+categories: ['Personal Life']
+tags: ['utsanime', 'clara', 'kyary', 'ruben', 'seb']
 ---
-
-![!Ruben](images/bowRuben.jpg)
 
 I don't write about people, heck I don't even talk to people unless we have something in common. There are only a few people that have had a big influence on my life, I call them my sempais, my shishos, my senseis, my mentors. This post is kind of like a [reply](http://rubenerd.com/vadim-brodski/) post, but also as a thank you post.
 
