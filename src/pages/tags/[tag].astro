@@ -13,6 +13,7 @@ export async function getStaticPaths() {
         .map((post) => post.data.tags)
         .filter(exists)
         .flat()
+        .filter((tag) => typeof tag === 'string' && tag.length > 0)
     ),
   ];
 
