@@ -13,7 +13,9 @@ tags: ['apple']
 
 Apple recently released the MacBook Neo, the cheapest MacBook ever made, but a lot better than the majority of computers in the same price bracket. People are calling it the Chromebook killer, and the conquerer of the education market.
 
-It is definitely a disruptive machine, but one thing the reviewers are focusing too much on is who this laptop is or isn't for. Saying things like: “if you want to edit videos, photos, code on big projects, this laptop isn’t for you”. And while I don’t disagree with them, I much more agree with this article: [“This Is Not The Computer For You” · Sam Henri Gold](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/), saying that as a kid using a computer, you know it’s probably not the right tool for what you are trying to do and it doesn’t matter, it never did. I would always push my computer to its max, learning about hardware and software limitations and the cost of upgrades.
+It is definitely a disruptive machine, but one thing the reviewers are focusing too much on is who this laptop is or isn't for. Saying things like: “if you want to edit videos, photos, code on big projects, this laptop isn’t for you”. And while I don’t disagree with them, I much more agree with this article: [“This Is Not The Computer For You” · Sam Henri Gold](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/), saying that as a kid using a computer, you know it’s probably not the right tool for what you are trying to do and it doesn’t matter, it never did.
+
+> Nobody starts in the right place. You don’t begin with the correct tool and work sensibly within its constraints until you organically graduate to a more capable one. That is not how obsession works. Obsession works by taking whatever is available and pressing on it until it either breaks or reveals something. The machine’s limits become a map of the territory. You learn what computing actually costs by paying too much of it on hardware that can barely afford it.
 
 ---
 
