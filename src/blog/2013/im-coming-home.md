@@ -25,6 +25,6 @@ The title reminded me of the opening song of the TV series [Superjail!](http://e
 
 **(DO NOT WATCH IF YOU CANT HANDLE GORE AND PEOPLE DYING)**
 
-<iframe src="//www.youtube.com/embed/2UlM3wOt6R8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=2UlM3wOt6R8
 
 See you guys in Sydney soon. Im arriving on Friday in the morning, but will most likely be dead, so I will see people either on the weekend, or once semester starts.

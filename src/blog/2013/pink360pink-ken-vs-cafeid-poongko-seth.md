@@ -8,6 +8,6 @@ categories: []
 tags: ['games', 'street-fighter']
 ---
 
-<iframe src="http://www.youtube.com/embed/-tblpeK3kdc" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=-tblpeK3kdc
 
 And this is exactly why I love watching Poongko matches.

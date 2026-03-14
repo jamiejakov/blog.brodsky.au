@@ -25,7 +25,7 @@ I like her; I love her optimism; I love her lifestyle; she is happy; she doesn't
 
 Here is a trailer of the movie:
 
-<iframe src="//www.youtube.com/embed/cMwD7Zy6Vno" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=cMwD7Zy6Vno
 
 I would recommend everyone to watch this interesting movie, as I am sure it will show you what it is to be around a person who is constantly happy and cheerful.
 

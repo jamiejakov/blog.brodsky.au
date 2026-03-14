@@ -8,7 +8,7 @@ image:
 pubDate: 2014-03-30T00:00:00.000Z
 published: true
 categories: []
-tags: ['life', 'amy', 'clara', 'farewell', 'ics', 'japan-2014', 'robbie', 'ruben', 'seb', 'tac']
+tags: ['life', 'amy', 'clara', 'farewell', 'ics', 'robbie', 'ruben', 'seb', 'tac']
 ---
 
 ![IMG_6451](images/Farewells.jpg)
@@ -29,4 +29,4 @@ Well, I'm gonna go now. See you people in February 2015. I'll keep posting, so p
 
 PS: This Kyary song sums up my feelings for leaving perfectly. Its not goodbye, it see you soon ([Lyrics](http://www.jpopasia.com/celebrity/kyarypamyupamyu/lyrics/pamyu-pamyu-revolution/chan-chaka-chan-chan::120228.html)).
 
-<iframe src="//www.youtube.com/embed/0j9ddmHa2Fg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=0j9ddmHa2Fg

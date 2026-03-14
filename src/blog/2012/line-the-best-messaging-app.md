@@ -18,4 +18,4 @@ Unlike normal emoji which get old pretty quickly, these stickers are constantly 
 
 I use this app a lot and recommend it to all my friends. Here is a promotional video:
 
-<iframe src="//www.youtube.com/embed/nqdI34iZ4js" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=nqdI34iZ4js

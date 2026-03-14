@@ -10,7 +10,7 @@ categories: []
 tags: ['movies_tv', 'game-of-thrones']
 ---
 
-<iframe src="//www.youtube.com/embed/xZY43QSx3Fk" height="360" width="640" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=xZY43QSx3Fk
 
 6th of April is date,
 

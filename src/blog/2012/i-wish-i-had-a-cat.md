@@ -1,11 +1,11 @@
 ---
 title: I wish I had a cat
 author: Vadim Brodsky
-description: <iframe width="560" height="315" src="//www.youtube.com/embed/TbUGwA_woCE" frameborder="0" allowfullscreen></iframe>
+description: https://www.youtube.com/watch?v=TbUGwA_woCE
 pubDate: 2012-12-26T00:00:00.000Z
 published: true
 categories: []
 tags: ['internetz', 'cats']
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/TbUGwA_woCE" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=TbUGwA_woCE

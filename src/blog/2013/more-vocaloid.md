@@ -10,4 +10,4 @@ categories: []
 tags: ['internetz', 'music', 'vocaloid']
 ---
 
-<iframe src="//www.youtube.com/embed/oEcRVB7BwMo" height="310" width="640" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=oEcRVB7BwMo

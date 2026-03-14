@@ -8,7 +8,7 @@ image:
 pubDate: 2014-02-27T00:00:00.000Z
 published: true
 categories: []
-tags: ['life', 'ics', 'japan-2014']
+tags: ['life', 'ics']
 ---
 
 ![packing](images/packing.jpg)

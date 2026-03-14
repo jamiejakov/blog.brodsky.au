@@ -19,10 +19,10 @@ Hatsune Miku - the 16 year old blue haired twintailed virtual idol, the perfect 
 
 Ever since her birth on the 31st of August 2007 (and yes she is eternally 16), she has become one of the most popular idols in japan and got well known around the world as well. And the best part about her: she is not subjected to all the gossip and other dirt that real idols have. She is a pure maiden who is made entirely by her fans. The people make Miku - Miku! The people make the songs, and then the people listen to them. Here are some of my favorites:
 
-<iframe src="//www.youtube.com/embed/NlZptJOD5vY" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=NlZptJOD5vY
 
-<iframe src="//www.youtube.com/embed/IR3cJ_yYzhA" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=IR3cJ_yYzhA
 
-<iframe src="//www.youtube.com/embed/uRQTZC3uNW4" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=uRQTZC3uNW4
 
 Also the people over at [Kotaku.com have written up a great post](http://kotaku.com/5936200/why-hatsune-miku-is-the-worlds-most-popular-virtual-idol) about Miku and her history.

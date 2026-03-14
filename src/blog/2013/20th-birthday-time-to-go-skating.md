@@ -26,7 +26,7 @@ So this years victims... \*cough\* guests were: [Mrs President Alex](http://twit
 
 Some of us have skated before, some have done it once or twice, and for others it was their first time! We all had a lot of fun teaching each other some tricks, some even tried spinning, breaking and skating backwards. It was a very enjoyable afternoon.
 
-<iframe src="//www.youtube.com/embed/bTuLWO3RBV8" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=bTuLWO3RBV8
 
 After a quick train ride back to central we went to KuraKura for dinner where we met up with Onigirikiri Clara, PythonOnRails Ruben (I just made that nickname up), and Cameraman Tac. What better way to finish of the day then having a nice japanese dinner, no? NO~! Off to my place we go, Bear Grills we watch! Whyyyy did we turn on the TV..... So we spent the evening watching Bear Grills survive in the desert by eating bugs and drinking his own.... well you know.
 

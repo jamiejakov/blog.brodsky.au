@@ -12,4 +12,4 @@ In Super Street Fighter IV some special moves can be preformed by canceling of o
 
 Notable examples of Kara moves are Ken's kara-grab, Sagat's kara-uppercut and Akuma/EvilRyu/Oni 's raging demon. Here is a video tutorial explaining how to execute Oni's kara-demon through normal moves.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/9ume_hi1VB4" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=9ume_hi1VB4

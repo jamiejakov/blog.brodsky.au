@@ -19,7 +19,7 @@ Now that I am free from studying, exams and all this other stuff that had to be 
 
 Here is a the trailer for those who don't know what it is all about:
 
-<iframe src="//www.youtube.com/embed/CZ5xW-Yo720" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=CZ5xW-Yo720
 
 So what I liked about the game:
 

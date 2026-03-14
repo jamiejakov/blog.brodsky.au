@@ -19,7 +19,7 @@ So where did this obscure nickname come from? It all began a long time ago when 
 
 One of my sempai's from the school - Oleg, one day decided that my name is too awkward to pronounce, and made it his goal to find me a more.... English nickname. One day he proclaimed that I look like Jamie, talk like Jamie and act like Jamie, so I must be Jamie! That puzzled me greatly, as I had no clue what he was talking about. After a detailed explanation that the Jamie he was referring to is from the Cartoon Network show [_MegasXLR_](http://en.wikipedia.org/wiki/Megas_XLR), I understood where he was going with that. At first I opposed, I didn't like it, but my fate was sealed. From then on in, I was known as Jamie. That became my nickname which I used in games on my PC.
 
-<iframe src="//www.youtube.com/embed/MIwcMx6QxnU" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=MIwcMx6QxnU
 
 Somewhere around that time I finally got an internet connection in my house and I started playing games online. I quickly came to realisation that my nickname, Jamie, has been taken pretty much on every website and online game. Once again I found myself with a problem in need of solving.
 

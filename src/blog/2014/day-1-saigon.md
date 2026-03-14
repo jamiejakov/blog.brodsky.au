@@ -7,11 +7,9 @@ image:
   alt: Saigon Palace
 pubDate: 2014-03-09T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'vietnam-cambodia-2014']
+categories: ['Travel']
+tags: ['vietnam-cambodia-2014']
 ---
-
-![Saigon Palace](images/IMG_3230.jpg)
 
 The city of Saigon, or as it is currently known: Ho Chi Minh City is one of the largest cities in Vietnam and has a long history of occupation, war and freedom. Today we had our tour around the most famous parts of the city, such as the Independence Palace, Chinatown, and the War Remnants Museum (you can check [my Foursquare](https://foursquare.com/jamiejakovbot) for the exact locations of the places we visit).
 

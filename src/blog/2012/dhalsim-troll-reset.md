@@ -10,4 +10,4 @@ tags: ['games', 'street-fighter']
 
 A very trollish dhalsim reset. Hope I never fall for that one....
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/3fpKP78NAgE" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=3fpKP78NAgE

@@ -10,11 +10,9 @@ image:
   alt: cosplay
 pubDate: 2014-09-21T00:00:00.000Z
 published: true
-categories: []
-tags: ['anime', 'amy', 'utsanime', 'clara', 'cosplay', 'ruben']
+categories: ['Personal Life', 'Anime']
+tags: ['utsanime', 'cosplay', 'ruben']
 ---
-
-![cosplay](images/cosplay.jpg)
 
 Cosplay, its an art of dressing up as a character from a TV series, movie, game or any other form of media. You get to pretend to be your favourite character, maybe act out a scene or two from the show/game.
 
@@ -43,10 +41,10 @@ My friends from [anime@uts](http://utsanime.net) and [JASS](http://www.jass-uts
 
 - None yet, pretty happy with all my cosplays so far.
 
-**Upcoming:**
+**Future:**
 
 - [Nudist Beach](http://anilist.co/character/87610/Aikurou-Mikisugi) - [Kill La Kill](http://anilist.co/anime/18679), cause why not!
 - [Hoshi](http://anilist.co/character/30444/Hoshi-) - [Arakawa under the bridge](http://anilist.co/anime/7647), he is cool and easy to cosplay, just need a guitar.
 - [Araragi](http://anilist.co/character/22036/Koyomi-Araragi) - [Bakemonogatari](http://anilist.co/anime/5081), will only do if someone will cosplay as my Shinobu
 
-So now that you have heard about my cosplaying history, thoughts and future. I would like to hear yours: [Ruben](http://rubenerd.com), [Clara](http://kirinyan.net), and [Amy](http://twitter.com/dekopatchi).
+So now that you have heard about my cosplaying history, thoughts and future. I would like to hear yours: [Ruben](http://rubenerd.com), [Clara](http://kirinyan.net).

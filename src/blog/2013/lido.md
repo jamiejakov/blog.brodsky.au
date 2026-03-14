@@ -19,7 +19,7 @@ For lunch today my parents took me to Lido. Lido is a restaurant and a small amu
 
 The atmosphere both outside and inside is very calm and beautiful. Plus since the song and dance festival of Latvia is happening right now, everything has more traditional themes then usual. And there was a group from the city Rezekne who was singing some folk songs and tunes, here is a video:
 
-<iframe src="//www.youtube.com/embed/Or1x7NlOwVc" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=Or1x7NlOwVc
 
 Album with photos (scroll half way):
 

@@ -11,11 +11,9 @@ image:
   alt: vietnam
 pubDate: 2014-03-08T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'vietnam-cambodia-2014']
+categories: ['Travel']
+tags: ['vietnam-cambodia-2014', 'parents']
 ---
-
-![vietnam](images/vietnam.jpg)
 
 From today till the 22nd of March, my family and me will be visiting the mysterious lands of Vietnam and Cambodia. We have decided to embark on this journey not only to experience the culture and traditions that these countries keep hidden, but also to relax and enjoy our long overdue vacation.
 

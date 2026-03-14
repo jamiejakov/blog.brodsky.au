@@ -10,7 +10,7 @@ categories: []
 tags: ['games', 'cammy', 'street-fighter']
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Zj3acx-rZ10" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Zj3acx-rZ10
 
 dat combo at 0:25!!
 

@@ -10,7 +10,7 @@ categories: []
 tags: ['life', 'advertising', 'urbanest']
 ---
 
-<iframe src="//www.youtube.com/embed/F_6lHe7Yt5I" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=F_6lHe7Yt5I
 
 This video was sent to my email today. I thought it was something about rebooking for next semester at urba**nest** or something like that.
 

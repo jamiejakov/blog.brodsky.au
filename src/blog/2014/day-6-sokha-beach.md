@@ -7,11 +7,9 @@ image:
   alt: Borei Angkor
 pubDate: 2014-03-15T00:00:00.000Z
 published: true
-categories: []
-tags: ['travel', 'beach', 'vietnam-cambodia-2014']
+categories: ['Travel']
+tags: ['beach', 'vietnam-cambodia-2014']
 ---
-
-![Borei Angkor](images/IMG_3643.jpg)
 
 (above image is from our previous hotel: Borei Angkor)
 

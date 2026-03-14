@@ -23,11 +23,11 @@ At first we met up at the UTS tower at 3:30 and just went towards Darling Harbou
 
 James Morrison, an Australian music legend, live on stage! It was marvelous. Here are 3 videos that i managed to film with my iPhone.
 
-<iframe src="//www.youtube.com/embed/OGI3_PaK-lU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=OGI3_PaK-lU
 
-<iframe src="//www.youtube.com/embed/9zDFRq3WF9I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=9zDFRq3WF9I
 
-<iframe src="//www.youtube.com/embed/uy9_vSh-2WA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=uy9_vSh-2WA
 
 Also here are some quotes that James Morrison said in between the pieces:
 

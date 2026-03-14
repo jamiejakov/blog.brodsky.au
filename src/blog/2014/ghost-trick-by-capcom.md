@@ -25,4 +25,4 @@ Overall its a great game which was originally made for the Nintendo DS, and now 
 
 Here is a nice trailer of the game to get you interested.
 
-<iframe src="//www.youtube.com/embed/LwH4ZRyN2B0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=LwH4ZRyN2B0

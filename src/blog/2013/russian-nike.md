@@ -1,11 +1,11 @@
 ---
 title: Russian Nike
 author: Vadim Brodsky
-description: <iframe src="//www.youtube.com/embed/RzRm9--UmPw" height="360" width="640" allowfullscreen frameborder="0"></iframe>
+description: https://www.youtube.com/watch?v=RzRm9--UmPw
 pubDate: 2013-11-30T00:00:00.000Z
 published: true
 categories: []
 tags: ['internetz', 'advertising', 'russia']
 ---
 
-<iframe src="//www.youtube.com/embed/RzRm9--UmPw" height="360" width="640" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=RzRm9--UmPw

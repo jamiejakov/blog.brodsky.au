@@ -14,4 +14,4 @@ I would like to wish all my friends, mates, pals, bros and buddies a very very M
 
 Here is a vid of Miku singing Merry Christmas and thank you.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/KnG5f9trnmo" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=KnG5f9trnmo

@@ -23,4 +23,4 @@ The story is about a 15 year old high school girl who is a complete shut in and 
 
 So far 3 volumes have been released (and of course I own all 3) and the 4th one coming in July (already preordered). But whats more important is that this glorious manga is getting an anime adaptation! Woah right? [Next season (summer 2013)](http://www.animenewsnetwork.com/news/2013-06-05/watamote-anime-1st-promo-with-izumi-kitta-song-streamed) this show will have 23min episode every week for 12 weeks. Well all I can say is that I am seriously looking forward to see how they animate it, but judging by the PV, it looks awesome. Also the VA fits the role perfectly!
 
-<iframe src="http://www.youtube.com/embed/WPNaCGQjDFc" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=WPNaCGQjDFc

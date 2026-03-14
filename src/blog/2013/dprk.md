@@ -28,4 +28,4 @@ Being born right after the fall of the Soviet Union, I did not get to experience
 
 Here is the video:
 
-<iframe src="http://www.youtube.com/embed/oULO3i5Xra0" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=oULO3i5Xra0

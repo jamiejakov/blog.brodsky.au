@@ -21,7 +21,7 @@ It is a story of a collage drop-out NEET [hikikomori](http://en.wikipedia.org/w
 
  
 
-<iframe src="//www.youtube.com/embed/tg8Jahz6RM4" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=tg8Jahz6RM4
 
 Overall I really enjoyed the show! The characters were solid, the plot was consistent and the art was ok for a 2006 anime. What let me down a little was that there was a little too much depression for me. I do understand that its a important aspect of the show, but id like to see a happier conclusion....
 

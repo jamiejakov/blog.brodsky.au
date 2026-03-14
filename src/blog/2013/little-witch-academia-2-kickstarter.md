@@ -29,7 +29,7 @@ Later on there were even discussions on how Japanese otaku don't like this syste
 
 Oh you can also view the episode here on YouTube, but they said they will take it down at some point:
 
-<iframe src="//www.youtube.com/embed/RBlqxEIJ_Cg" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=RBlqxEIJ_Cg
 
 **So what do I think about this?** 
 

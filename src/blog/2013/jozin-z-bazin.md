@@ -1,14 +1,14 @@
 ---
 title: Jožin z bažin
 author: Vadim Brodsky
-description: <iframe src="//www.youtube.com/embed/5T_uxoV5FuQ" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+description: https://www.youtube.com/watch?v=5T_uxoV5FuQ
 pubDate: 2013-09-15T00:00:00.000Z
 published: true
 categories: []
 tags: ['internetz', 'music', 'humor', 'kvn']
 ---
 
-<iframe src="//www.youtube.com/embed/5T_uxoV5FuQ" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=5T_uxoV5FuQ
 
 Watching KVN when suddenly this. [Jožin z bažin](http://knowyourmeme.com/memes/jožin-z-bažin)
 

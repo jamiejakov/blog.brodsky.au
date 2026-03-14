@@ -8,7 +8,7 @@ image:
 pubDate: 2014-08-12T00:00:00.000Z
 published: true
 categories: []
-tags: ['travel', 'holiday', 'hot-spring', 'ics']
+tags: ['travel', 'holiday', 'onsen', 'ics']
 ---
 
 ![sand baths](images/sand-baths.jpg)

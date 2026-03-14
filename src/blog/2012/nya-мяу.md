@@ -10,4 +10,4 @@ tags: ['internetz', 'cats']
 
 And today the internet brings you, Rock Cat:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Ns7Z8ag4oSY" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Ns7Z8ag4oSY

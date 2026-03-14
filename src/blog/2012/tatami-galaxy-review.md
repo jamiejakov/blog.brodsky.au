@@ -38,4 +38,4 @@ Overall this series had solid characters, a very interesting plot, unique art st
 
 Rating: **9/10**
 
-<iframe src="//www.youtube.com/embed/VyYCYd2wHY4" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=VyYCYd2wHY4

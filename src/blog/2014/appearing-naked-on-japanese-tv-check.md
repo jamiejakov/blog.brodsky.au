@@ -1,17 +1,15 @@
 ---
 title: Appearing naked on Japanese TV - check!
 author: Vadim Brodsky
-description: "Onsen (温泉) is the Japanese word for hot spring and public bath. These bath houses are a_very essential part of Japanese culture and there is even a fictional story about it (Thermae Romae). The reason I came to Japan was to experience_all of its cultural aspects, and so I find myself going to an event for foreign exchange students to learn about the culture of Onsen."
+description: 'Onsen (温泉) is the Japanese word for hot spring and public bath. These bath houses are a_very essential part of Japanese culture and there is even a fictional story about it (Thermae Romae). The reason I came to Japan was to experience_all of its cultural aspects, and so I find myself going to an event for foreign exchange students to learn about the culture of Onsen.'
 image:
   src: images/Onsen.jpg
   alt: onsen for foreigners
 pubDate: 2014-05-15T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'hot-spring', 'ics', 'japan-2014']
+categories: ['Personal Life']
+tags: ['onsen', 'ics']
 ---
-
-![onsen for foreigners](images/Onsen.jpg)
 
 Onsen (温泉) is the Japanese word for hot spring and public bath. These bath houses are a very essential part of Japanese culture and there is even a fictional story about it ([Thermae Romae](http://en.wikipedia.org/wiki/Thermae_Romae)). The reason I came to Japan was to experience all of its cultural aspects, and so I find myself going to an event for foreign exchange students to learn about the culture of Onsen.
 
@@ -23,11 +21,11 @@ Well anyway, we were on TV! And on the NHK [website](http://www3.nhk.or.jp/lnews
 
 Here are the videos:
 
-<iframe src="//www.youtube.com/embed/YKm3IwlrA30" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=YKm3IwlrA30
 
-<iframe src="//www.youtube.com/embed/R4Mtw_5_-As" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=R4Mtw_5_-As
 
-<iframe src="//www.youtube.com/embed/p5oIcfVc1KA" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=p5oIcfVc1KA
 
 At the end of this whole thing we were given a small lecture on how to make and pour real Japanese green tea. And we got a free teapot at the end! Its so pretty!
 
@@ -54,3 +52,5 @@ Original from NHK:
 >
 > ソース： [NHK](http://www3.nhk.or.jp/news/html/20140515/k10014471251000.html)    
 > 画像： [image](http://www3.nhk.or.jp/news/html/20140515/K10044712511_1405151540_1405151540_01.jpg)
+
+![Onsen Gaijin News Article](images/onsengaijin.jpg)

@@ -23,6 +23,6 @@ Using stop motion, [Joe Penna (better know online as MysteryGuitarMan)](http://e
 
 Inspired by MysteryGuitarMan me and my friends back home in Latvia made our own stop motion video. Photos were taken by my best friend back home Gexgrino. Our video is nothing compared to MysteryGuitarMan, but we tried and actually made something!
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/k8uRObWpgZk" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=k8uRObWpgZk
 
 Making the video was a lot of fun, and maybe I might do something similar again in the future.

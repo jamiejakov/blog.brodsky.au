@@ -29,11 +29,11 @@ After that delicious dinner, we went to a Chinese Acrobat show. My father filmed
 
 - Part of the hat juggling performance
 
-<iframe src="//www.youtube.com/embed/tv7MJB40W5Y" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=tv7MJB40W5Y
 
 - Motorbikes in a giant metal ball
 
-<iframe src="//www.youtube.com/embed/CcpotCbkKiw" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=CcpotCbkKiw
 
 It is pretty hard to impress me, but WOW! that show was just amazing.
 

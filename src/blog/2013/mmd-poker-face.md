@@ -8,4 +8,4 @@ categories: []
 tags: ['internetz', 'music', 'hatsune_miku', 'vocaloid']
 ---
 
-<iframe src="http://www.youtube.com/embed/vsTyOGf4w70" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=vsTyOGf4w70

@@ -23,7 +23,7 @@ The mechanics are rather simple: turn the small triangle in the middle around th
 
 You don't think its hard? Well take a look at the trailer.
 
-<iframe src="//www.youtube.com/embed/2sz0mI_6tLQ" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=2sz0mI_6tLQ
 
 The game is available for [PC, Mac, iOS, Android and BlackBerry](http://superhexagon.com).
 

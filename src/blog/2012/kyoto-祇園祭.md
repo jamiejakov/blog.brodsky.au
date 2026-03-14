@@ -33,7 +33,7 @@ Anyway back to the real world. So after spending an hour or so in the arcade, we
 
 Here is a video of a guy painting a painting..... that sounds kinda weird, but i have no idea how to explain it in more detail....
 
-<iframe src="//www.youtube.com/embed/OiGM4YdVBis" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=OiGM4YdVBis
 
 So once we walked around for a good 3 hours, it was time for dinner. Kosukes father came along and we went to have some shabu shabu. It was delicious to say the least. Also Kosukes dad is a very nice person, we managed to talk a lot about the difference in cultures, my study and overall life in Australia. I was also treated to some [Umeshu](http://en.wikipedia.org/wiki/Umeshu), which great as well.
 

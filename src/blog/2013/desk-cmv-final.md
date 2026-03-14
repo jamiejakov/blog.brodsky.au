@@ -10,4 +10,4 @@ tags: ['games', 'street-fighter']
 
 Another amazing combo video by Desk. Apparently the last one he will be doing in the current version of Street Fighter IV. All we have to do now is wait for the update.
 
-<iframe src="http://www.youtube.com/embed/6CpBhUDp6Bo" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=6CpBhUDp6Bo

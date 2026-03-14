@@ -10,4 +10,4 @@ tags: ['internetz']
 
 This is Хорошо это программа которая обозревает вирусние видео на YouTube. Я на TiX наткнулся когда выходил еще 20й выпуск (сейчас уже вышел 203й), и мне сразу понравилось то что кто-то в рунете занимается этим (в английском интернете этим занимается Ray William Johnson со своей программой _\=3_). Ребята молодцы! Продолжайте в том-же духе, и пусть у вас будет все больше и больше подписчиков.
 
-<iframe src="http://www.youtube.com/embed/-pRRKJRRj5M" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+https://www.youtube.com/watch?v=-pRRKJRRj5M

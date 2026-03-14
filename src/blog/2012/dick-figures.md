@@ -25,6 +25,6 @@ Each episode is 5 mins or so and there are 4 seasons so far, and a [movie coming
 
 Here is a link to my favorite episode:
 
-<iframe src="http://www.youtube.com/embed/Ly3OTtXdJEg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=Ly3OTtXdJEg
 
 And now you are hooked on it and you want to watch [all the episodes](http://www.youtube.com/show?p=qKrZOTKMhto 'Dick Figures Show') of it and donate money to their kickstarter!
