@@ -7,8 +7,8 @@ image:
   alt: Armikrog the game
 pubDate: 2013-05-30T00:00:00.000Z
 published: true
-categories: []
-tags: ['games', 'internetz', 'kickstarter']
+categories: ['Games']
+tags: ['kickstarter']
 ---
 
 ![Armikrog the game](images/photo-main1.png)

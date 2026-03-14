@@ -10,11 +10,9 @@ image:
   alt: den_znaniy
 pubDate: 2013-09-01T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'holiday', 'school']
+categories: ['Culture']
+tags: ['holiday', 'school', 'russian']
 ---
-
-![den_znaniy](images/den_znaniy.jpg)
 
 1е сентября - международный день знаний, день, когда дети в первый раз идут в первый класс, день, когда ученики всех остальных классов вспоминают что каникулы кончились и что, блин… надо опять учиться.
 

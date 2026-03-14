@@ -7,8 +7,8 @@ image:
   alt: 9YpuZX3
 pubDate: 2014-01-04T00:00:00.000Z
 published: true
-categories: []
-tags: ['internetz', 'life', 'southpark']
+categories: ['Personal Life']
+tags: ['megas xlr', 'southpark', '']
 ---
 
 I have been asked this question multiple times, and would always give a tl;dr version. Now I can finally tell the story in full.

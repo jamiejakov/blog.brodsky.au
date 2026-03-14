@@ -9,11 +9,9 @@ image:
   alt: UTS Anime Club on Ice
 pubDate: 2013-05-26T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'utsanime', 'ice-skating']
+categories: ['Personal Life']
+tags: ['utsanime', 'ice-skating']
 ---
-
-![UTS Anime Club on Ice](images/utsanimeOnIce.png)
 
 Second time going ice skating in 3 months, awesome! This time its with more great folk from the club.
 

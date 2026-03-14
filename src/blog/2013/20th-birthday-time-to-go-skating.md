@@ -10,11 +10,9 @@ image:
   alt: SkatingBD
 pubDate: 2013-02-12T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'birthday', 'ice-skating', 'presents']
+categories: ['Personal Life']
+tags: ['birthday', 'ice-skating', 'presents']
 ---
-
-![SkatingBD](images/SkatingBD.jpg)
 
 On the 1st of February at 11:38pm I turned 20. As usual my parents and I went traveling, this time to Melbourne and Fiji, thus I celebrated my birthday in a tropical style on Mana Island Fiji.
 

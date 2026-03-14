@@ -7,8 +7,8 @@ image:
   alt: Fiber
 pubDate: 2013-04-03T00:00:00.000Z
 published: true
-categories: []
-tags: ['internetz', 'technology', 'australia', 'internet', 'latvia']
+categories: ['Technology']
+tags: ['australia', 'internet', 'latvia']
 ---
 
 The Internet... Its such a magnificent thing! I can not imagine living without it. Everything I do during the day revolves around using the internet in one way or another. May it be Skyping with my parents back home, or checking into a restaurant on Foursquare, or simply checking my Twitter feed and replying to chat messages in Line. Its amazing how much we can do on the web these days, and it makes our lives just a bit more colorful. But you know what annoys me more than anything? SLOW CONNECTION SPEED AND LOW BANDWIDTH!

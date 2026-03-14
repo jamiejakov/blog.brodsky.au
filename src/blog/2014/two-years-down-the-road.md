@@ -17,11 +17,9 @@ image:
   alt: The cake is a lie
 pubDate: 2014-05-30T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'birthday', 'blog', 'css', 'design']
+categories: ['Personal Life']
+tags: ['birthday', 'ruben']
 ---
-
-![The cake is a lie](images/Cake.png)
 
 Wow, I can't believe that it has already been 2 years since I set up this blog and made [my first post](/posts/2012/japanese-app-update-first-blog-post/). It has been a long ride, and I can only look back the past with sweet memories of writing up these blog posts that mostly consist of my own opinions or just random cool stuff. Like for example last year instead of celebrating a year of blogging, I was too busy being excited for [Armikrog](/posts/2013/armikrog/)! (which still hasn't come out)
 

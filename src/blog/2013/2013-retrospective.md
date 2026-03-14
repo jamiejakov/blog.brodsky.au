@@ -11,11 +11,9 @@ image:
   alt: Image
 pubDate: 2013-12-31T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'new-year', 'retrospective', 'wordle']
+categories: ['Personal Life']
+tags: ['new-year', 'retrospective']
 ---
-
-![](images/3G5e7P4.jpg)
 
 2013 is almost over, just a few hours left in this year, and I can say it was an amazing year. So much has happened in my life, so many things have changed and I continue to expand my skills and to improve on what I already have. Lets go over the events that happened so far.
 
@@ -35,6 +33,6 @@ Otherwise I played Pokemon Y, GTA V, The Last of Us, and of course I managed to 
 
 'twas a good year. Happy New Year! Lets have a good one again next year.
 
-Thanks to [Ruben](http://rubenerd.com) I now know of this amazing website called [Wordle](http://www.wordle.net), which allows you to compile your most used words. So these are mine for 2013 based on archive titles.
+Thanks to [Ruben](http://rubenerd.com) I now know of this amazing website called [Wordle](http://www.wordle.net), which allows you to compile a word cloud of your most used words. So these are mine for 2013 based on archive titles.
 
 ![wordle](images/wordle.png)

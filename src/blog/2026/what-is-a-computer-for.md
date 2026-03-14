@@ -7,7 +7,7 @@ image:
   alt: View of Burj Kulifa
 pubDate: 2026-03-13
 published: true
-categories: ['Technology', 'Personal Life']
+categories: ['Technology', 'Personal Life', 'Thoughts']
 tags: ['apple']
 ---
 

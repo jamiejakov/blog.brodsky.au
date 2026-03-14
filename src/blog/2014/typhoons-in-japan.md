@@ -7,11 +7,9 @@ image:
   alt: vongfong
 pubDate: 2014-10-13T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'ics']
+categories: ['Personal Life']
+tags: ['ics']
 ---
-
-![vongfong](images/vongfong.png)
 
 Another day another typhoon warning. And believe it or not, this is normal in Japan. Typhoon VongFong has made landfall onto Kyuushu at 9am this morning and is slowly making its way towards the rest of Japan. This is the 19th typhoon to affect Japan this year. Trust me, thats a lot.
 
