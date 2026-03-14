@@ -7,11 +7,9 @@ image:
   alt: fujisan
 pubDate: 2014-04-02T00:00:00.000Z
 published: true
-categories: []
-tags: ['life', 'ics', 'kagoshima']
+categories: ['Personal Life']
+tags: ['ics', 'kagoshima']
 ---
-
-![fujisan](images/FujiSan.jpg)
 
 (Photo from the window of my plane, you can see Mt. Fuji)
 
