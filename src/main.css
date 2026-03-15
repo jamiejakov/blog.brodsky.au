@@ -145,7 +145,7 @@
       @apply border border-primary;
     }
     iframe {
-      @apply mb-4 max-w-full border border-primary;
+      @apply mb-4 aspect-video h-auto w-full max-w-full border border-primary;
     }
     :not(pre) > code {
       @apply mx-0.5 rounded-sm bg-accent px-1 py-0.5 text-primary;
