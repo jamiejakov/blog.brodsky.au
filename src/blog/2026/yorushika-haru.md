@@ -1,5 +1,5 @@
 ---
-title: Yorishika - Haru
+title: Yorushika - Haru
 author: Vadim Brodsky
 description: 'Apple recently released the MacBook Neo and the reviewers are focusing too much on is who this laptop is for'
 pubDate: 2026-03-15
