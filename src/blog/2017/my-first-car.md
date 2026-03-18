@@ -1,9 +1,9 @@
 ---
-title: Driving my first car
+title: My first car
 author: Vadim Brodsky
 description: ''
 image:
-  src: images/Honda.jpg
+  src: images/honda-car.jpg
   alt: Vadim & his first car
 pubDate: 2017-12-15
 published: true
