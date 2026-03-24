@@ -4,7 +4,7 @@ author: Vadim Brodsky
 description: 'Apple recently released the MacBook Neo and the reviewers are focusing too much on is who this laptop is for'
 image:
   src: images/2008PC.jpg
-  alt: View of Burj Kulifa
+  alt: Vadim's new computer in 2008
 pubDate: 2026-03-13
 published: true
 categories: ['Technology', 'Personal Life', 'Thoughts']
