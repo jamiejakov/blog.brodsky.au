@@ -110,6 +110,47 @@
   }
 
   article {
+    &.full-post {
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        @apply relative;
+
+        &:before {
+          @apply absolute right-full mr-2 font-light text-primary opacity-70;
+        }
+      }
+
+      h2 {
+        @apply mt-15;
+      }
+      h3 {
+        @apply mt-10;
+      }
+
+      h1:before {
+        content: '#';
+      }
+      h2:before {
+        content: '##';
+      }
+      h3:before {
+        content: '###';
+      }
+      h4:before {
+        content: '####';
+      }
+      h5:before {
+        content: '#####';
+      }
+      h6:before {
+        content: '######';
+      }
+    }
+
     h2 {
       @apply mt-4 mb-4 text-3xl font-bold;
     }
@@ -117,7 +158,7 @@
       @apply mt-4 mb-4 text-2xl font-bold;
     }
     h4 {
-      @apply mt-2 mb-4 text-lg font-semibold opacity-70;
+      @apply mt-5 mb-4 text-lg font-semibold opacity-70;
     }
     a {
       @apply font-medium text-primary hover:underline;
