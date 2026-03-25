@@ -3,6 +3,7 @@ import { getImage, Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 
 import { Category } from '../components/Category';
+import PhotoSwipeClient from '../components/PhotoSwipeClient';
 import Tag from '../components/Tag.astro';
 import PageLayout from './PageLayout.astro';
 
@@ -67,6 +68,8 @@ const ogImageSrc = post.data.image ? (await getImage(post.data.image)).src : und
       <slot />
     </div>
   </article>
+
+  <PhotoSwipeClient client:load />
 </PageLayout>
 
 <script
