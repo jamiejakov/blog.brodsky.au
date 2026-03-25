@@ -3,6 +3,7 @@ import Analytics from '@vercel/analytics/astro';
 
 import Footer from '../components/Footer.astro';
 import Header from '../components/header/Header.astro';
+import PostHog from '../components/posthog.astro';
 
 import '../main.css';
 
@@ -40,6 +41,7 @@ const ogImageUrl = ogImage ? new URL(ogImage, site).href : undefined;
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <Analytics />
+    <PostHog />
   </head>
   <body class="flex flex-col items-center">
     <Header />
@@ -47,3 +49,16 @@ const ogImageUrl = ogImage ? new URL(ogImage, site).href : undefined;
     <Footer />
   </body>
 </html>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+      link.addEventListener('click', function () {
+        window.posthog?.capture('external_link_clicked', {
+          url: link.getAttribute('href'),
+          text: link.textContent?.trim(),
+        });
+      });
+    });
+  });
+</script>

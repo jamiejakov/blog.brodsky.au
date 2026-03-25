@@ -6,4 +6,12 @@ type Props = {
 const { tag } = Astro.props;
 ---
 
-<a href={`/tags/${tag}`}>{tag}</a>
+<a href={`/tags/${tag}`} data-tag={tag} class="posthog-tag-link">{tag}</a>
+
+<script is:inline>
+  document.querySelectorAll('.posthog-tag-link').forEach(function (el) {
+    el.addEventListener('click', function () {
+      window.posthog?.capture('tag_clicked', { tag: el.getAttribute('data-tag') });
+    });
+  });
+</script>

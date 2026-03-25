@@ -68,3 +68,20 @@ const ogImageSrc = post.data.image ? (await getImage(post.data.image)).src : und
     </div>
   </article>
 </PageLayout>
+
+<script
+  is:inline
+  define:vars={{
+    postTitle: post.data.title,
+    postAuthor: post.data.author,
+    postCategories: post.data.categories,
+    postTags: post.data.tags,
+  }}
+>
+  window.posthog?.capture('post_viewed', {
+    title: postTitle,
+    author: postAuthor,
+    categories: postCategories,
+    tags: postTags,
+  });
+</script>

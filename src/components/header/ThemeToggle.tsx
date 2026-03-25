@@ -50,6 +50,7 @@ export const ThemeToggle: React.FC = () => {
 
     applyTheme(newTheme);
     localStorage.setItem('theme', newTheme);
+    window.posthog?.capture('theme_toggled', { theme: newTheme });
   };
 
   return (
