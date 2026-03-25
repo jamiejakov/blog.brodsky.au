@@ -7,8 +7,8 @@ image:
   alt: Sony a7V with 3 lenses
 pubDate: 2025-12-22
 published: true
-categories: [Blog Updates]
-tags: []
+categories: [Tech, Photography]
+tags: [camera, sony]
 ---
 
 In April 2017, I got myself the top-of-the-line Canon DSLR, the 5D Mark IV. And it has been my workhorse for the past 9 years. I've taken so many beautiful photos with it that you can find on my [Flickr](https://www.flickr.com/photos/jamiejakov/albums).
