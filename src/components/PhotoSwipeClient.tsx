@@ -55,19 +55,19 @@ export default function PhotoSwipeClient() {
         continue;
       }
 
-      // Wrap the image with an anchor so PhotoSwipe can treat it as a gallery item.
-      const a = document.createElement('a');
-      a.href = pswpSrc;
-      a.dataset.pswpSrc = pswpSrc;
-      a.style.textDecoration = 'none';
-      a.style.cursor = 'zoom-in';
-      a.style.display = 'inline-block';
+      // Wrap the image in a button (PhotoSwipe only reads data-pswp-* from <a> by default;
+      // we bridge buttons via the `domItemData` filter below).
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.dataset.pswpSrc = pswpSrc;
+      btn.style.cursor = 'zoom-in';
+      btn.setAttribute('aria-label', img.alt.trim() ? `View larger: ${img.alt}` : 'View larger image');
 
       const w = img.naturalWidth;
       const h = img.naturalHeight;
       if (w && h) {
-        a.dataset.pswpWidth = String(w);
-        a.dataset.pswpHeight = String(h);
+        btn.dataset.pswpWidth = String(w);
+        btn.dataset.pswpHeight = String(h);
       } else {
         img.addEventListener(
           'load',
@@ -75,21 +75,22 @@ export default function PhotoSwipeClient() {
             const w2 = img.naturalWidth;
             const h2 = img.naturalHeight;
             if (w2 && h2) {
-              a.dataset.pswpWidth = String(w2);
-              a.dataset.pswpHeight = String(h2);
+              btn.dataset.pswpWidth = String(w2);
+              btn.dataset.pswpHeight = String(h2);
             }
           },
           { once: true }
         );
       }
 
-      img.replaceWith(a);
-      a.appendChild(img);
+      img.replaceWith(btn);
+      btn.appendChild(img);
     }
 
     const lightbox = new PhotoSwipeLightbox({
       gallery: article,
-      children: 'a',
+      // Annotated image triggers only: our <button> wrappers + markdown links around images.
+      children: 'button[data-pswp-src], a[data-pswp-src]',
       pswpModule: () => import('photoswipe'),
       // Hide built-in UI controls (you can still swipe/drag or click the image).
       arrowPrev: false,
@@ -97,6 +98,30 @@ export default function PhotoSwipeClient() {
       counter: false,
       // Prevent left/right navigation via keyboard arrows.
       arrowKeys: false,
+    });
+
+    lightbox.addFilter('domItemData', (itemData, element) => {
+      if (element instanceof HTMLButtonElement && element.dataset.pswpSrc && !element.querySelector('a')) {
+        const width = element.dataset.pswpWidth ? parseInt(element.dataset.pswpWidth, 10) : 0;
+        const height = element.dataset.pswpHeight ? parseInt(element.dataset.pswpHeight, 10) : 0;
+        const thumbnailEl = element.querySelector('img');
+        return {
+          ...itemData,
+          element,
+          src: element.dataset.pswpSrc,
+          width,
+          height,
+          w: width,
+          h: height,
+          ...(thumbnailEl
+            ? {
+                msrc: thumbnailEl.currentSrc || thumbnailEl.src,
+                alt: thumbnailEl.getAttribute('alt') ?? '',
+              }
+            : {}),
+        };
+      }
+      return itemData;
     });
 
     lightbox.init();
