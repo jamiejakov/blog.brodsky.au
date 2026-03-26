@@ -35,9 +35,8 @@ I highly recommend you read Nicole's article and watch Theo's video, and also re
 
 ## Intro
 
-Using a boolean is practically always a sign of lack of an understanding of the existing system, and a lack of foresight into how that system may evolve.
-It is the easy option - "this thing should not look like this under condition X, ok, let's make a boolean `isX` and pass that around".
-This "simple" solution will technically work, but it will not allow the system to grow and scale, nor will it let new features be built around it easily.
+Reaching for a boolean is often a sign that we’re encoding **logic as data**. It’s the easy option: “this thing should not look like this under condition X, ok, let’s make a boolean `isX` and pass it around”.
+This _works_, but it makes evolution harder: once you ship a boolean in your data model or API, you’ve committed to a two-state worldview, and you’ve hidden the underlying meaning.
 
 Let's look at the reasons why booleans don't work for us as well as some may think they do, and I'll outline alternatives as well.
 
@@ -115,7 +114,7 @@ With booleans like these it is never clear which is the "negative" because there
 
 ## Boolean code is hard to parse
 
-Up until the advent of AI coding tools, code was meant to be read by other humans. So making it easy to read was essential.
+Code is still primarily read by humans. So making it easy to read is essential.
 Would you rather deal with figuring out:
 
 ```ts
@@ -217,5 +216,5 @@ Which generally leads to more refactoring, or introduction of more functions, wi
 
 ## To wrap up
 
-I believe booleans should be avoided as much as possible, and every time I see a boolean I heavily scrutinize it, trying every way I can to remove it.
+I believe booleans should be treated as a design smell. But the smell isn’t “a boolean exists”, it’s “a boolean became part of the data model or public API, and now it’s carrying hidden meaning”. Every time I see one there, I scrutinize it and ask: “what is the underlying concept I’m trying to model?”
 Good luck coding folks!
