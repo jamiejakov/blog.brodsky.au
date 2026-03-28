@@ -1,7 +1,7 @@
 ---
 title: There are no such things as requirements
 author: Vadim Brodsky
-description: 'Engineers treat requirements as if they were set in stone, but in reality they are not, and its our responsibility to discuss and sometimes challenge them.'
+description: "Engineers treat requirements as if they were set in stone, but in reality they are not, and it's our responsibility to discuss and sometimes challenge them."
 image:
   src: images/requirements.jpg
   alt: Matrix red pill or blue pill boolean choice
@@ -21,7 +21,7 @@ Software Engineering as a profession is solving user problems by creating progra
 
 The problem that I want to discuss here is that to a lot of engineers, especially less tenured ones, these steps are linear, 1 → 5. They accept that whatever they got from their product and design leads before step 1 is final and cannot be changed, that building exactly what was defined is a requirement.
 
-I will admin I thought the same way! I received requirements and then tried to figure out how to build what they asked. And if another engineer pushed back on the changes I proposed to their code, I’d simply say: “That is the requirement”. Well I did that to some code that one of Canva’s Distinguished Engineer owned, and got this response:
+I will admit I thought the same way! I received requirements and then tried to figure out how to build what they asked. And if another engineer pushed back on the changes I proposed to their code, I’d simply say: “That is the requirement”. Well I did that to some code that one of Canva’s Distinguished Engineers owned, and got this response:
 
 ---
 
