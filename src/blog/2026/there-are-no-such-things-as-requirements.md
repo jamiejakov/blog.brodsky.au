@@ -1,27 +1,27 @@
 ---
-title: There are no such things as requirements
+title: There is no such thing as requirements
 author: Vadim Brodsky
-description: "Engineers treat requirements as if they were set in stone, but in reality they are not, and it's our responsibility to discuss and sometimes challenge them."
+description: 'Many engineers treat product handoffs as fixed requirements. They are not—and it is our job to refine asks with feasibility in mind, not to hide behind the word when trade-offs get uncomfortable.'
 image:
   src: images/requirements.jpg
-  alt: Matrix red pill or blue pill boolean choice
+  alt: Folder tab labelled requirements, evoking specs treated as frozen rather than negotiable
 pubDate: 2026-03-28
 published: true
 categories: ['Software Engineering']
 tags: ['best practices', 'product']
 ---
 
-Software Engineering as a profession is solving user problems by creating programs. The problems can be clear and the problems can be vague, but regardless, the steps we take are the same:
+For many engineers, especially earlier in their careers, the work looks like a straight line: step 1 → 5. Whatever product and design gave you before step 1 might as well be carved in stone; shipping exactly what was written down feels like the real requirement.
 
-1. break down the problem into smaller chunks
-2. Assess how they fit into existing systems / and what changes need to be made
-3. Weigh out alternatives
-4. Estimate the time it would take to build
-5. Build
+The steps themselves are familiar:
 
-The problem that I want to discuss here is that to a lot of engineers, especially less tenured ones, these steps are linear, 1 → 5. They accept that whatever they got from their product and design leads before step 1 is final and cannot be changed, that building exactly what was defined is a requirement.
+1. Break the problem into smaller chunks.
+2. Assess how they fit into existing systems and what needs to change.
+3. Weigh alternatives.
+4. Estimate what it will take to build.
+5. Build it!
 
-I will admit I thought the same way! I received requirements and then tried to figure out how to build what they asked. And if another engineer pushed back on the changes I proposed to their code, I’d simply say: “That is the requirement”. Well I did that to some code that one of Canva’s Distinguished Engineers owned, and got this response:
+The trouble is treating that sequence as strictly linear and the initial brief as immutable. I will admit I used to think the same way. I received requirements and tried to build what was asked. If another engineer were to push back on changes I proposed, I’d say: “That is the requirement.” I said it in a review on code one of Canva’s Distinguished Engineers owned and instead of understanding, I got this response:
 
 ---
 
@@ -31,10 +31,8 @@ I will admit I thought the same way! I received requirements and then tried to f
 >
 > There are only asks/desires/ideas, and it's engineering's job to refine every proposal through the lens of feasibility, in order to pick the most deliverable option that essentially addresses whatever the underlying need or hypothesis is.
 
-That completely broke my understanding of the relationship engineers had with the product leads and the responsibilities we had. This made me realise that engineers are not just bots that convert requirements into code. We are custodians of the code and need to communicate the constraints we have to product and design leads to find paths to build experiences that would be loved by users, while maintaining the quality and extensibility of our codebase.
+That instantly rewired how I saw the relationship between engineering and product. Engineers are not bots that turn requirements into code; we are custodians of the codebase, we manage it's complexity. Part of the job is to explain constraints early, work with product and design on feasibility, and steer toward experiences users will love without sacrificing quality or extensibility.
 
-As software engineers we have a responsibility to have a conversation with the product and design leads about the issues we see with their requirements ideas and together figure out what approaches we can take to mitigate the risks and deliver.
+Doing that means treating early asks as hypotheses, not marching orders; having the conversation about risks, options, and trade-offs before commitment sets in. You become a co-owner of the experience - you can and should raise concerns and opinions. The strongest engineers I know pair deep technical judgment with product sense; they make trade-offs that leads trust rather than fear.
 
-By doing this we become co-owners of the experience and we are allowed to voice our concerns and provide opinions on it. I believe that understanding the product is a key skill for any software engineer. The best engineers I know deeply understand both the technical side and the user experience, and can make good calls and trade offs that don’t scare the product leads.
-
-So this is a lesson I share with all the engineers that attempt to use the word _requirements_ as justification for poor architectural decisions or shortcuts they are making. And I hope this lesson has the same impact it had on me, making me think about things a bit more and ultimately helping me work better and more collaboratively with product and design leads.
+So I share this whenever someone uses _requirements_ to justify a poor architectural call or a convenient shortcut. I hope it lands the way it landed for me - less automatic deference to the spec, more honest collaboration with product and design.
