@@ -8,13 +8,13 @@ image:
 pubDate: 2026-03-24
 published: true
 categories: ['Software Engineering']
-tags: ['best practices']
+tags: ['best practices', 'types']
 ---
 
 Booleans are the core of all software: the combination of `true` and `false` or `1` and `0` is what powers all modern computing.
 But in Software Engineering, the higher-level kind, booleans are seldom the tool that us programmers should be reaching for.
 
-As my mentor and Distinguished Engineer at Canva **Dave Hearnden** so eloquently put it:
+As my mentor at Canva so eloquently put it:
 
 > Booleans are bad, nobody likes booleans,
 >
