@@ -25,6 +25,8 @@ Somewhere around that time I finally got an internet connection in my house and 
 
 "What can I do to still keep Jamie, but to make it more unique?" - I thought to myself. Then it hit me! I needed an extension to my nickname. I didn't want numbers at the end, and none of that randomness. "So where should I look for a good extension to Jamie?" - I kept on thinking.
 
-![jakovasaur](images/304_00027.jpg) Around that time I also started watching _[South Park](http://www.southparkstudios.com)._ In season 3 episode 5, a certain creature named Jakovasaur made its appearance. That's when it hit me.  Jamie Jakov - JJ. PERFECT! It was unique, it was easy to remember, easy to pronounce (if needed), and Jakov had jewish roots, and my grandpa was apparently jewish, so I kept it. From that point on all my online presence was summed up with this nickname - jamiejakov.
+![jakovasaur](images/304_00027.jpg)
+
+Around that time I also started watching _[South Park](http://www.southparkstudios.com)._ In season 3 episode 5, a certain creature named Jakovasaur made its appearance. That's when it hit me.  Jamie Jakov - JJ. PERFECT! It was unique, it was easy to remember, easy to pronounce (if needed), and allowed me to get JJ. From that point on all my online presence was summed up with this nickname - jamiejakov.
 
 People say they are sometimes embarrassed of the nicknames and later on - emails, which they created for themselves when they were younger, when the internet was just picking up. I am not. I am proud of how it turned out and that I am still using it and will be using it in the foreseeable future.
