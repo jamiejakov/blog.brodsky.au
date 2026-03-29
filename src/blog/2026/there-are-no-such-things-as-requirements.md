@@ -1,7 +1,7 @@
 ---
 title: There is no such thing as requirements
 author: Vadim Brodsky
-description: 'Many engineers treat product handoffs as fixed requirements. They are not—and it is our job to refine asks with feasibility in mind, not to hide behind the word when trade-offs get uncomfortable.'
+description: 'Many engineers treat product handoffs as fixed requirements. They are not - and it is our job to refine asks with feasibility in mind, not to hide behind the word when trade-offs get uncomfortable.'
 image:
   src: images/requirements.jpg
   alt: Folder tab labelled requirements, evoking specs treated as frozen rather than negotiable
