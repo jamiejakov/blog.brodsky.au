@@ -15,7 +15,7 @@ COVID times hit global travel hard. People couldn’t leave their own homes for 
 
 Dubai is one of the only places in the world that actually accepts tourists right now and it has the other large convenience of being right in the middle between Riga, where my parents are, and Sydney, where Koto and I are.
 
-While I’ve already been there, this will be the first time for Koto, first time in the Middle East even. Koto is very open minded about travel and very curious to learn and experience different cultures (that’s why we are getting married [proposal here]), so she was keen to go. The Arab world is not really a travel destination that many Japanese people choose, it’s just not that popular. So by going, Koto is going to score some sweet bragging rights to her friends and relatives.
+While I’ve already been there, this will be the first time for Koto, first time in the Middle East even. Koto is very open minded about travel and very curious to learn and experience different cultures ([that’s why we are getting married](http://localhost:4321/posts/2020/the-proposal/)), so she was keen to go. The Arab world is not really a travel destination that many Japanese people choose, it’s just not that popular. So by going, Koto is going to score some sweet bragging rights to her friends and relatives.
 
 ---
 
