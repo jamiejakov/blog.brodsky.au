@@ -67,7 +67,9 @@ Oh and one more thing, Dubai was hosting the world expo at the time. It was actu
 
 This time around not only did I take a lot of photos with my DSLR and iPhone, but Koto and I took a lot of videos as well, creating a beautiful travel vlog.
 
-Here is the short version:
+Photos are on my [Flickr](https://www.flickr.com/photos/jamiejakov/albums/72177720296528802/) as always.
+
+Here is the short version video:
 
 https://www.youtube.com/watch?v=OOIm8G94DgM
 
