@@ -1,0 +1,17 @@
+---
+import { WishlistIsland } from '../../components/wishlist/WishlistIsland';
+import PageLayout from '../../layouts/PageLayout.astro';
+---
+
+<PageLayout pageTitle="Wishlist" className="px-6 pb-16">
+  <section class="flex flex-col gap-6">
+    <div>
+      <h1 class="text-3xl font-bold">My Wishlist</h1>
+      <p class="mt-2 text-muted-foreground">
+        Things I'd love to receive. Reserve an item so others know you're getting it for me.
+      </p>
+    </div>
+
+    <WishlistIsland client:load />
+  </section>
+</PageLayout>
