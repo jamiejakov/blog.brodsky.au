@@ -2,7 +2,7 @@
   "name": "blog.brodsky.au",
   "private": true,
   "version": "1.0.0",
-  "packageManager": "pnpm@10.26.2",
+  "packageManager": "pnpm@11.20.0",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
