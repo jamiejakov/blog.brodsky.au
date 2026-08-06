@@ -190,6 +190,7 @@ export default defineConfig(
       ...commonRules,
 
       'react/prop-types': 'off',
+      'react/jsx-no-bind': 'error',
       'react/jsx-boolean-value': ['error', 'always'],
       'react/jsx-curly-brace-presence': ['error', 'never'],
       'react/display-name': 'off',
