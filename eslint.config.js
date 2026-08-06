@@ -105,6 +105,7 @@ export default defineConfig(
       '**/vendor/**/*',
       '**/coverage/**/*',
       '**/dist/**/*',
+      '**/convex/_generated/**/*',
       '**/.vscode/**/*',
       '**/.storybook/**/*',
       '**/storybook-static/**/*',
