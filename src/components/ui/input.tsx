@@ -1,51 +1,24 @@
 import { cn } from '@/lib/utils';
 import * as React from 'react';
 
-type InputFieldProps = React.ComponentProps<'input'> & {
-  label: React.ReactNode;
-};
-
-export const InputField: React.FC<InputFieldProps> = (props) => {
-  const { label, className, ...rest } = props;
-
+function Input({ className, type, ...props }: React.ComponentProps<'input'>) {
   return (
-    <FieldLabel label={label}>
-      <input data-slot="input" className={cn(inputClassName, className)} {...rest} />
-    </FieldLabel>
+    <input
+      type={type}
+      data-slot="input"
+      className={cn(
+        `h-9 w-full min-w-0 rounded-md border border-input bg-transparent px-3 py-1 text-base shadow-xs
+        transition-[color,box-shadow] outline-none selection:bg-primary selection:text-primary-foreground
+        file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground
+        placeholder:text-muted-foreground disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50
+        md:text-sm dark:bg-input/30`,
+        'focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50',
+        'aria-invalid:border-destructive aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40',
+        className
+      )}
+      {...props}
+    />
   );
-};
+}
 
-type TextAreaFieldProps = React.ComponentProps<'textarea'> & {
-  label: React.ReactNode;
-};
-
-export const TextAreaField: React.FC<TextAreaFieldProps> = (props) => {
-  const { label, className, ...rest } = props;
-
-  return (
-    <FieldLabel label={label}>
-      <textarea data-slot="textarea" className={cn(inputClassName, 'resize-y', className)} {...rest} />
-    </FieldLabel>
-  );
-};
-
-type FieldLabelProps = {
-  label: React.ReactNode;
-  children: React.ReactNode;
-};
-
-const FieldLabel: React.FC<FieldLabelProps> = (props) => {
-  const { label, children } = props;
-
-  return (
-    <label className="flex flex-col gap-1.5 text-sm">
-      <span className="font-medium">{label}</span>
-      {children}
-    </label>
-  );
-};
-
-const inputClassName = cn(
-  'rounded-md border border-input bg-background px-3 py-2 text-sm',
-  'outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]'
-);
+export { Input };
