@@ -1,44 +1,46 @@
-import { Field, FieldLabel } from '@/components/ui/field';
+import { Field, FieldError, FieldLabel } from '@/components/ui/field';
 import { Input } from '@/components/ui/input';
 import type { ChangeEvent } from 'react';
 import { useCallback, useId } from 'react';
+import { type FieldPath, type FieldValues, useController, useFormContext } from 'react-hook-form';
 
-type FormItemFieldProps<T> = Omit<React.InputHTMLAttributes<HTMLInputElement>, 'onChange'> & {
+type FormItemFieldProps<T extends FieldValues> = Omit<React.InputHTMLAttributes<HTMLInputElement>, 'name'> & {
   label: string;
-  field: keyof T;
-  onChange(field: keyof T, type: HTMLInputElement['type'], value: string): void;
+  name: FieldPath<T>;
 };
 
-export const FormItemField = <T,>(props: FormItemFieldProps<T>) => {
-  const { label, field, onChange, ...rest } = props;
+export const FormItemField = <T extends FieldValues>(props: FormItemFieldProps<T>) => {
+  const { label, name, type, ...rest } = props;
   const id = useId();
+  const { control } = useFormContext<T>();
+  const { field, fieldState } = useController({ name, control });
 
   const handleChange = useCallback(
     (event: ChangeEvent<HTMLInputElement>) => {
-      onChange(field, event.target.type, event.target.value);
+      if (type === 'number') {
+        const next = event.target.value;
+        field.onChange(next === '' ? undefined : event.target.valueAsNumber);
+        return;
+      }
+
+      field.onChange(event);
     },
-    [field, onChange]
+    [field, type]
   );
 
   return (
-    <FieldWrapper label={label} id={id}>
-      <Input {...rest} id={id} onChange={handleChange} />
-    </FieldWrapper>
-  );
-};
-
-type FormWrapperProps = React.PropsWithChildren & {
-  label: string;
-  id: string;
-};
-
-const FieldWrapper: React.FC<FormWrapperProps> = (props) => {
-  const { children, label, id } = props;
-
-  return (
-    <Field>
+    <Field data-invalid={fieldState.invalid}>
       <FieldLabel htmlFor={id}>{label}</FieldLabel>
-      {children}
+      <Input
+        {...rest}
+        {...field}
+        id={id}
+        type={type}
+        value={field.value ?? ''}
+        aria-invalid={fieldState.invalid}
+        onChange={handleChange}
+      />
+      {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
     </Field>
   );
 };
