@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 import { Spinner } from '@/components/ui/spinner';
 import { useAuthActions } from '@convex-dev/auth/react';
 import { useMutation, useQuery } from 'convex/react';
-import { LogOut, Trash2 } from 'lucide-react';
+import { LogOut } from 'lucide-react';
 import { useCallback, useState } from 'react';
 
 import { api } from '../../../../convex/_generated/api';
@@ -10,6 +10,7 @@ import type { Id } from '../../../../convex/_generated/dataModel';
 import { ItemCard } from '../ItemCard';
 import { NothingOnList } from '../NothingOnList';
 import type { WishlistItem } from '../WishlistItemCard';
+import { ItemDeleteDialog } from './ItemDeleteDialog';
 import { ItemEditDialog, ItemNewDialog } from './ItemEditDialog';
 import type { ItemFormState } from './ItemEditForm';
 
@@ -67,7 +68,6 @@ export const AdminDashboard: React.FC = () => {
         </Button>
       </div>
       {items.length === 0 && <NothingOnList />}
-
       <AdminItemSection
         title="Reserved items"
         items={reservedItems}
@@ -82,7 +82,6 @@ export const AdminDashboard: React.FC = () => {
         onRemove={removeItem}
         onUnreserve={unreserveItem}
       />
-
       <div className="flex justify-center px-4 lg:px-0">
         <ItemNewDialog createItem={handleCreate} />
       </div>
@@ -140,12 +139,6 @@ function AdminItemRow(props: AdminItemRowProps) {
     [item._id, updateItem]
   );
 
-  const handleRemove = useCallback(() => {
-    if (window.confirm(`Delete "${item.title}"?`)) {
-      void onRemove({ id: item._id });
-    }
-  }, [item._id, item.title, onRemove]);
-
   const handleUnreserve = useCallback(() => {
     void onUnreserve({ itemId: item._id });
   }, [item._id, onUnreserve]);
@@ -156,13 +149,10 @@ function AdminItemRow(props: AdminItemRowProps) {
       sideButtons={
         <div className="flex gap-2">
           <ItemEditDialog item={item} updateItem={handleEdit} />
-          <Button type="button" variant="destructive" size="sm" onClick={handleRemove}>
-            <Trash2 aria-hidden={true} />
-            <span className="sr-only">Delete</span>
-          </Button>
+          <ItemDeleteDialog item={item} onRemove={onRemove} />
         </div>
       }
-      bottomButtons={
+      bottomContent={
         item.reservation && (
           <div className="flex gap-2 place-content-between rounded-lg bg-muted/60 p-3 text-sm">
             <div>
