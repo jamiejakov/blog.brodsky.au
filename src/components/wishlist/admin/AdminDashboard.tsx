@@ -7,6 +7,7 @@ import { useCallback, useState } from 'react';
 
 import { api } from '../../../../convex/_generated/api';
 import type { Id } from '../../../../convex/_generated/dataModel';
+import { NothingOnList } from '../NothingOnList';
 import type { WishlistItem } from '../WishlistItemCard';
 import { ItemEditDialog, ItemNewDialog } from './ItemEditDialog';
 import type { ItemFormState } from './ItemEditForm';
@@ -50,7 +51,7 @@ export const AdminDashboard: React.FC = () => {
   }
 
   return (
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col gap-4">
       <div className="px-4 lg:px-0 flex flex-col-reverse gap-4 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h2 className="text-xl font-semibold">Wishlist admin</h2>
@@ -62,20 +63,24 @@ export const AdminDashboard: React.FC = () => {
         </Button>
       </div>
 
-      <div className="px-4 lg:px-0">
-        <ItemNewDialog createItem={handleCreate} />
-      </div>
+      {items.length > 0 ? (
+        <div className="flex flex-col gap-4">
+          {items.map((item) => (
+            <AdminItemRow
+              key={item._id}
+              item={item}
+              updateItem={handleUpdate}
+              onRemove={removeItem}
+              onUnreserve={unreserveItem}
+            />
+          ))}
+        </div>
+      ) : (
+        <NothingOnList />
+      )}
 
-      <div className="flex flex-col gap-4">
-        {items.map((item) => (
-          <AdminItemRow
-            key={item._id}
-            item={item}
-            updateItem={handleUpdate}
-            onRemove={removeItem}
-            onUnreserve={unreserveItem}
-          />
-        ))}
+      <div className="flex justify-center px-4 lg:px-0">
+        <ItemNewDialog createItem={handleCreate} />
       </div>
     </div>
   );

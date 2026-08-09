@@ -9,6 +9,7 @@ import {
   DialogTrigger,
 } from '@/components/ui/dialog';
 import { Plus } from 'lucide-react';
+import { useCallback } from 'react';
 
 import type { WishlistItem } from '../WishlistItemCard';
 import { ItemEditForm, type ItemFormState } from './ItemEditForm';
@@ -67,13 +68,36 @@ export const ItemNewDialog: React.FC<ItemNewDialogProps> = (props) => {
         </Button>
       </DialogTrigger>
       <DialogContent className="max-h-[calc(100vh-2rem)] overflow-y-auto sm:max-w-lg">
-        <DialogHeader>
-          <DialogTitle>Create new item</DialogTitle>
-          <DialogDescription>Add a new item to the wishlist.</DialogDescription>
-        </DialogHeader>
-        <ItemEditForm onSubmit={createItem} cancelButton={<CancelButton />} />
+        {({ close }) => <Content createItem={createItem} close={close} />}
       </DialogContent>
     </Dialog>
+  );
+};
+
+type ContentProps = {
+  createItem: (values: ItemFormState) => Promise<void>;
+  close: () => void;
+};
+
+const Content: React.FC<ContentProps> = (props) => {
+  const { createItem, close } = props;
+
+  const handleSubmit = useCallback(
+    async (values: ItemFormState) => {
+      await createItem(values);
+      close();
+    },
+    [createItem, close]
+  );
+
+  return (
+    <>
+      <DialogHeader>
+        <DialogTitle>Create new item</DialogTitle>
+        <DialogDescription>Add a new item to the wishlist.</DialogDescription>
+      </DialogHeader>
+      <ItemEditForm onSubmit={handleSubmit} cancelButton={<CancelButton />} />
+    </>
   );
 };
 

@@ -74,7 +74,11 @@ export const ItemEditForm: React.FC<ItemEditFormProps> = (props) => {
 
       <DialogFooter>
         {cancelButton}
-        <Button type="submit" loading={form.formState.isSubmitting}>
+        <Button
+          type="submit"
+          loading={form.formState.isSubmitting}
+          disabled={form.formState.isSubmitted || !form.formState.isValid}
+        >
           Save
         </Button>
       </DialogFooter>
