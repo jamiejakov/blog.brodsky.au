@@ -60,6 +60,9 @@ export const ItemEditForm: React.FC<ItemEditFormProps> = (props) => {
     [form, onSubmit]
   );
 
+  const { isSubmitted, isValid, isSubmitting, errors, isDirty } = form.formState;
+  const canSave = !isSubmitted && isValid && isDirty;
+
   return (
     <ValidationForm form={form} onSubmit={handleSubmit} className="flex flex-col gap-3">
       <FormItemField label="Title *" name="title" />
@@ -70,15 +73,11 @@ export const ItemEditForm: React.FC<ItemEditFormProps> = (props) => {
       <FormItemField label="Notes" name="notes" />
       <FormItemField label="Priority" name="priority" />
 
-      {form.formState.errors.root && <FieldError>{form.formState.errors.root.message}</FieldError>}
+      {errors.root && <FieldError>{errors.root.message}</FieldError>}
 
       <DialogFooter>
         {cancelButton}
-        <Button
-          type="submit"
-          loading={form.formState.isSubmitting}
-          disabled={form.formState.isSubmitted || !form.formState.isValid}
-        >
+        <Button type="submit" loading={isSubmitting} disabled={!canSave}>
           Save
         </Button>
       </DialogFooter>
