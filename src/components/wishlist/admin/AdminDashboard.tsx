@@ -140,7 +140,7 @@ function AdminItemRow(props: AdminItemRowProps) {
           <ItemEditDialog item={item} updateItem={handleEdit} />
           <Button type="button" variant="destructive" size="sm" onClick={handleRemove}>
             <Trash2 aria-hidden={true} />
-            Delete
+            <span className="sr-only">Delete</span>
           </Button>
         </div>
       </div>

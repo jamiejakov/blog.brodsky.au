@@ -62,7 +62,7 @@ export const ItemNewDialog: React.FC<ItemNewDialogProps> = (props) => {
   return (
     <Dialog>
       <DialogTrigger asChild={true}>
-        <Button type="button" variant="default" size="sm">
+        <Button type="button" variant="default">
           <Plus aria-hidden={true} />
           Create new
         </Button>
