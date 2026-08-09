@@ -7,6 +7,7 @@ import { useCallback, useState } from 'react';
 
 import { api } from '../../../../convex/_generated/api';
 import type { Id } from '../../../../convex/_generated/dataModel';
+import { ItemCard } from '../ItemCard';
 import { NothingOnList } from '../NothingOnList';
 import type { WishlistItem } from '../WishlistItemCard';
 import { ItemEditDialog, ItemNewDialog } from './ItemEditDialog';
@@ -50,6 +51,9 @@ export const AdminDashboard: React.FC = () => {
     );
   }
 
+  const reservedItems = items.filter((item) => item.reservation != null);
+  const availableItems = items.filter((item) => item.reservation == null);
+
   return (
     <div className="flex flex-col gap-4">
       <div className="px-4 lg:px-0 flex flex-col-reverse gap-4 sm:flex-row sm:items-center sm:justify-between">
@@ -62,21 +66,40 @@ export const AdminDashboard: React.FC = () => {
           Sign out
         </Button>
       </div>
+      {items.length === 0 && <NothingOnList />}
 
-      {items.length > 0 ? (
-        <div className="flex flex-col gap-4">
-          {items.map((item) => (
-            <AdminItemRow
-              key={item._id}
-              item={item}
-              updateItem={handleUpdate}
-              onRemove={removeItem}
-              onUnreserve={unreserveItem}
-            />
-          ))}
+      {reservedItems.length > 0 && (
+        <div className="flex flex-col gap-2">
+          <h3 className="px-4 lg:px-0 text-lg font-semibold">Reserved items</h3>
+          <div className="flex flex-col gap-4">
+            {reservedItems.map((item) => (
+              <AdminItemRow
+                key={item._id}
+                item={item}
+                updateItem={handleUpdate}
+                onRemove={removeItem}
+                onUnreserve={unreserveItem}
+              />
+            ))}
+          </div>
         </div>
-      ) : (
-        <NothingOnList />
+      )}
+
+      {availableItems.length > 0 && (
+        <div className="flex flex-col gap-2">
+          <h3 className="px-4 lg:px-0 text-lg font-semibold">Available items</h3>
+          <div className="flex flex-col gap-4">
+            {availableItems.map((item) => (
+              <AdminItemRow
+                key={item._id}
+                item={item}
+                updateItem={handleUpdate}
+                onRemove={removeItem}
+                onUnreserve={unreserveItem}
+              />
+            ))}
+          </div>
+        </div>
       )}
 
       <div className="flex justify-center px-4 lg:px-0">
@@ -115,27 +138,9 @@ function AdminItemRow(props: AdminItemRowProps) {
   }, [item._id, onUnreserve]);
 
   return (
-    <article className="rounded-xl border border-border bg-card p-4 shadow-sm">
-      <div className="flex flex-wrap items-start justify-between gap-3">
-        <div>
-          <h3 className="text-lg font-semibold">{item.title}</h3>
-          <p className="text-sm text-muted-foreground">
-            {[item.price, item.notes, item.priority ? `Priority: ${item.priority}` : null]
-              .filter(Boolean)
-              .join(' · ') || 'No details'}
-          </p>
-          {item.url && (
-            <a
-              href={item.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-1 inline-block text-sm text-primary underline-offset-4 hover:underline"
-            >
-              {item.url}
-            </a>
-          )}
-        </div>
-
+    <ItemCard
+      item={item}
+      sideButtons={
         <div className="flex gap-2">
           <ItemEditDialog item={item} updateItem={handleEdit} />
           <Button type="button" variant="destructive" size="sm" onClick={handleRemove}>
@@ -143,22 +148,23 @@ function AdminItemRow(props: AdminItemRowProps) {
             <span className="sr-only">Delete</span>
           </Button>
         </div>
-      </div>
-
-      {item.reservation ? (
-        <div className="mt-4 rounded-lg bg-muted/60 p-3 text-sm">
-          <p className="font-medium text-primary">Reserved by {item.reservation.reservedBy}</p>
-          {item.reservation.comment && (
-            <p className="mt-2 whitespace-pre-wrap text-foreground">Comment: {item.reservation.comment}</p>
-          )}
-          <Button type="button" variant="outline" size="sm" className="mt-3" onClick={handleUnreserve}>
-            Clear reservation
-          </Button>
-        </div>
-      ) : (
-        <p className="mt-4 text-sm text-muted-foreground">Available</p>
-      )}
-    </article>
+      }
+      bottomButtons={
+        item.reservation && (
+          <div className="flex gap-2 place-content-between rounded-lg bg-muted/60 p-3 text-sm">
+            <div>
+              <p className="font-bold">Reserved by {item.reservation.reservedBy}</p>
+              {item.reservation.comment && (
+                <p className="mb-0 whitespace-pre-wrap text-foreground">Comment: {item.reservation.comment}</p>
+              )}
+            </div>
+            <Button type="button" variant="outline" size="sm" className="mt-3" onClick={handleUnreserve}>
+              Clear reservation
+            </Button>
+          </div>
+        )
+      }
+    />
   );
 }
 
