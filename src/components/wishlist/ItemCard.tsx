@@ -5,11 +5,11 @@ import type { WishlistItem } from './WishlistItemCard';
 type ItemCardProps = {
   item: WishlistItem;
   sideButtons?: React.ReactNode;
-  bottomButtons?: React.ReactNode;
+  bottomContent?: React.ReactNode;
 };
 
 export const ItemCard: React.FC<ItemCardProps> = (props) => {
-  const { item, sideButtons, bottomButtons } = props;
+  const { item, sideButtons, bottomContent } = props;
 
   return (
     <div className="flex flex-col gap-4 rounded-xl border border-border bg-card p-4 shadow-sm">
@@ -45,7 +45,7 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
         </div>
         {sideButtons}
       </div>
-      {bottomButtons}
+      {bottomContent}
     </div>
   );
 };
