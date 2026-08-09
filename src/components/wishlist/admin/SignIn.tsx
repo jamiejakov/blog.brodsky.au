@@ -1,11 +1,11 @@
+import { ValidationForm } from '@/components/form/ValidationForm';
 import { Button } from '@/components/ui/button';
 import { Field, FieldError, FieldGroup, FieldLabel } from '@/components/ui/field';
 import { Input } from '@/components/ui/input';
 import { useAuthActions } from '@convex-dev/auth/react';
 import { zodResolver } from '@hookform/resolvers/zod';
-import type { SubmitEvent } from 'react';
 import { useCallback, useState } from 'react';
-import { FormProvider, useController, useForm, useFormContext } from 'react-hook-form';
+import { useController, useForm, useFormContext } from 'react-hook-form';
 import * as z from 'zod';
 
 const passwordField = z.string().min(8, 'Password must be at least 8 characters');
@@ -57,13 +57,6 @@ export const SignInForm: React.FC = () => {
     [form, signIn, step]
   );
 
-  const handleSubmit = useCallback(
-    (event: SubmitEvent<HTMLFormElement>) => {
-      void form.handleSubmit(onSubmit)(event);
-    },
-    [form, onSubmit]
-  );
-
   const handleToggleStep = useCallback(() => {
     setStep((current) => (current === 'signIn' ? 'signUp' : 'signIn'));
     form.clearErrors();
@@ -73,26 +66,22 @@ export const SignInForm: React.FC = () => {
     <div className="mx-auto max-w-md rounded-xl border border-border bg-card p-6 shadow-sm">
       <h2 className="text-xl font-semibold">Admin sign in</h2>
 
-      <FormProvider {...form}>
-        <form className="mt-6" noValidate={true} onSubmit={handleSubmit}>
-          <FieldGroup className="gap-4">
-            <EmailField />
-            <PasswordField type={step === 'signUp' ? 'new' : 'current'} />
-            {step === 'signUp' && <ConfirmPasswordField />}
-
-            {form.formState.errors.root && <FieldError>{form.formState.errors.root.message}</FieldError>}
-
-            <Field>
-              <Button type="submit" loading={form.formState.isSubmitting}>
-                {submitButtonLabel[step]}
-              </Button>
-              <Button type="button" variant="ghostPrimary" onClick={handleToggleStep}>
-                {toggleButtonLabel[step]}
-              </Button>
-            </Field>
-          </FieldGroup>
-        </form>
-      </FormProvider>
+      <ValidationForm form={form} className="mt-6" onSubmit={onSubmit}>
+        <FieldGroup className="gap-4">
+          <EmailField />
+          <PasswordField type={step === 'signUp' ? 'new' : 'current'} />
+          {step === 'signUp' && <ConfirmPasswordField />}
+          {form.formState.errors.root && <FieldError>{form.formState.errors.root.message}</FieldError>}
+          <Field>
+            <Button type="submit" loading={form.formState.isSubmitting}>
+              {submitButtonLabel[step]}
+            </Button>
+            <Button type="button" variant="ghostPrimary" onClick={handleToggleStep}>
+              {toggleButtonLabel[step]}
+            </Button>
+          </Field>
+        </FieldGroup>
+      </ValidationForm>
     </div>
   );
 };

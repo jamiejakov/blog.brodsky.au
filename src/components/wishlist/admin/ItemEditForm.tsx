@@ -1,19 +1,26 @@
 import { FormItemField } from '@/components/form/FromField';
+import { ValidationForm } from '@/components/form/ValidationForm';
 import { Button } from '@/components/ui/button';
 import { DialogFooter } from '@/components/ui/dialog';
-import { FieldError, FieldGroup } from '@/components/ui/field';
-import type { SubmitEvent } from 'react';
-import { useCallback, useState } from 'react';
+import { FieldError } from '@/components/ui/field';
+import { zodResolver } from '@hookform/resolvers/zod';
+import { useCallback } from 'react';
+import { useForm } from 'react-hook-form';
+import * as z from 'zod';
 
-export type ItemFormState = {
-  title: string;
-  url: string;
-  imageUrl: string;
-  notes: string;
-  price: string;
-  priority: string;
-  position: number;
-};
+const optionalUrl = z.union([z.literal(''), z.url('Enter a valid URL')]);
+
+const itemFormSchema = z.object({
+  title: z.string().trim().min(1, 'Title is required'),
+  url: optionalUrl,
+  imageUrl: optionalUrl,
+  notes: z.string(),
+  price: z.string(),
+  priority: z.string(),
+  position: z.number({ error: 'Enter a valid position' }),
+});
+
+export type ItemFormState = z.infer<typeof itemFormSchema>;
 
 const emptyForm: ItemFormState = {
   title: '',
@@ -33,58 +40,44 @@ type ItemEditFormProps = {
 
 export const ItemEditForm: React.FC<ItemEditFormProps> = (props) => {
   const { initial = emptyForm, onSubmit, cancelButton } = props;
-  const [values, setValues] = useState(initial);
-  const [submitting, setSubmitting] = useState(false);
-  const [error, setError] = useState<string | null>(null);
 
-  const setField = useCallback((field: keyof ItemFormState, type: HTMLInputElement['type'], value: string) => {
-    const formattedValue = type === 'number' ? Number(value) : value;
-    setValues((current) => ({ ...current, [field]: formattedValue }));
-  }, []);
+  const form = useForm<ItemFormState>({
+    resolver: zodResolver(itemFormSchema),
+    mode: 'onBlur',
+    defaultValues: initial,
+  });
 
   const handleSubmit = useCallback(
-    (event: SubmitEvent<HTMLFormElement>) => {
-      event.preventDefault();
-      setSubmitting(true);
-      setError(null);
-      void onSubmit(values)
-        .catch((caught: unknown) => {
-          setError(caught instanceof Error ? caught.message : 'Could not save item');
-        })
-        .finally(() => {
-          setSubmitting(false);
+    async (data: ItemFormState) => {
+      try {
+        await onSubmit(data);
+      } catch (caught: unknown) {
+        form.setError('root', {
+          message: caught instanceof Error ? caught.message : 'Could not save item',
         });
+      }
     },
-    [onSubmit, values]
+    [form, onSubmit]
   );
 
   return (
-    <form onSubmit={handleSubmit}>
-      <FieldGroup className="gap-3">
-        <FormItemField label="Title *" field="title" value={values.title} onChange={setField} />
-        <FormItemField
-          label="Position *"
-          field="position"
-          type="number"
-          required={true}
-          value={values.position}
-          onChange={setField}
-        />
-        <FormItemField label="URL" field="url" value={values.url} onChange={setField} />
-        <FormItemField label="Image URL" field="imageUrl" value={values.imageUrl} onChange={setField} />
-        <FormItemField label="Price" field="price" value={values.price} onChange={setField} />
-        <FormItemField label="Notes" field="notes" value={values.notes} onChange={setField} />
-        <FormItemField label="Priority" field="priority" value={values.priority} onChange={setField} />
+    <ValidationForm form={form} onSubmit={handleSubmit} className="flex flex-col gap-3">
+      <FormItemField label="Title *" name="title" />
+      <FormItemField label="Position *" name="position" type="number" required={true} />
+      <FormItemField label="URL" name="url" />
+      <FormItemField label="Image URL" name="imageUrl" />
+      <FormItemField label="Price" name="price" />
+      <FormItemField label="Notes" name="notes" />
+      <FormItemField label="Priority" name="priority" />
 
-        {error && <FieldError>{error}</FieldError>}
+      {form.formState.errors.root && <FieldError>{form.formState.errors.root.message}</FieldError>}
 
-        <DialogFooter>
-          {cancelButton}
-          <Button type="submit" disabled={submitting || !values.title.trim()} loading={submitting}>
-            Save
-          </Button>
-        </DialogFooter>
-      </FieldGroup>
-    </form>
+      <DialogFooter>
+        {cancelButton}
+        <Button type="submit" loading={form.formState.isSubmitting}>
+          Save
+        </Button>
+      </DialogFooter>
+    </ValidationForm>
   );
 };
