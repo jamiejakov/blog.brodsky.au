@@ -1,11 +1,11 @@
+import { FormItemField } from '@/components/form/FromField';
 import { ValidationForm } from '@/components/form/ValidationForm';
 import { Button } from '@/components/ui/button';
-import { Field, FieldError, FieldGroup, FieldLabel } from '@/components/ui/field';
-import { Input } from '@/components/ui/input';
+import { Field, FieldError, FieldGroup } from '@/components/ui/field';
 import { useAuthActions } from '@convex-dev/auth/react';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useCallback, useState } from 'react';
-import { useController, useForm, useFormContext } from 'react-hook-form';
+import { useForm } from 'react-hook-form';
 import * as z from 'zod';
 
 const passwordField = z.string().min(8, 'Password must be at least 8 characters');
@@ -68,9 +68,21 @@ export const SignInForm: React.FC = () => {
 
       <ValidationForm form={form} className="mt-6" onSubmit={onSubmit}>
         <FieldGroup className="gap-4">
-          <EmailField />
-          <PasswordField type={step === 'signUp' ? 'new' : 'current'} />
-          {step === 'signUp' && <ConfirmPasswordField />}
+          <FormItemField label="Email" name="email" type="email" autoComplete="email" />
+          <FormItemField
+            label="Password"
+            name="password"
+            type="password"
+            autoComplete={step === 'signUp' ? 'new-password' : 'current-password'}
+          />
+          {step === 'signUp' && (
+            <FormItemField
+              label="Confirm password"
+              name="confirmPassword"
+              type="password"
+              autoComplete="new-password"
+            />
+          )}
           {form.formState.errors.root && <FieldError>{form.formState.errors.root.message}</FieldError>}
           <Field>
             <Button type="submit" loading={form.formState.isSubmitting}>
@@ -95,54 +107,3 @@ const toggleButtonLabel = {
   signIn: 'First time? Create your account',
   signUp: 'Already have an account? Sign in',
 };
-
-function EmailField() {
-  const { control } = useFormContext<FormValues>();
-  const { field, fieldState } = useController({ name: 'email', control });
-
-  return (
-    <Field data-invalid={fieldState.invalid}>
-      <FieldLabel htmlFor="admin-email">Email</FieldLabel>
-      <Input {...field} id="admin-email" type="email" autoComplete="email" aria-invalid={fieldState.invalid} />
-      {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
-    </Field>
-  );
-}
-
-function PasswordField({ type }: { type: 'new' | 'current' }) {
-  const { control } = useFormContext<FormValues>();
-  const { field, fieldState } = useController({ name: 'password', control });
-
-  return (
-    <Field data-invalid={fieldState.invalid}>
-      <FieldLabel htmlFor="admin-password">Password</FieldLabel>
-      <Input
-        {...field}
-        id="admin-password"
-        type="password"
-        autoComplete={type === 'new' ? 'new-password' : 'current-password'}
-        aria-invalid={fieldState.invalid}
-      />
-      {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
-    </Field>
-  );
-}
-
-function ConfirmPasswordField() {
-  const { control } = useFormContext<FormValues>();
-  const { field, fieldState } = useController({ name: 'confirmPassword', control });
-
-  return (
-    <Field data-invalid={fieldState.invalid}>
-      <FieldLabel htmlFor="admin-confirm-password">Confirm password</FieldLabel>
-      <Input
-        {...field}
-        id="admin-confirm-password"
-        type="password"
-        autoComplete="new-password"
-        aria-invalid={fieldState.invalid}
-      />
-      {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
-    </Field>
-  );
-}
