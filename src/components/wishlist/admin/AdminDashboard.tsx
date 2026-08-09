@@ -13,6 +13,7 @@ import type { WishlistItem } from '../WishlistItemCard';
 import { ItemDeleteDialog } from './ItemDeleteDialog';
 import { ItemEditDialog, ItemNewDialog } from './ItemEditDialog';
 import type { ItemFormState } from './ItemEditForm';
+import { ItemUnreserveDialog } from './ItemUnreserveDialog';
 
 export const AdminDashboard: React.FC = () => {
   const { signOut } = useAuthActions();
@@ -139,10 +140,6 @@ function AdminItemRow(props: AdminItemRowProps) {
     [item._id, updateItem]
   );
 
-  const handleUnreserve = useCallback(() => {
-    void onUnreserve({ itemId: item._id });
-  }, [item._id, onUnreserve]);
-
   return (
     <ItemCard
       item={item}
@@ -161,9 +158,7 @@ function AdminItemRow(props: AdminItemRowProps) {
                 <p className="mb-0 whitespace-pre-wrap text-foreground">Comment: {item.reservation.comment}</p>
               )}
             </div>
-            <Button type="button" variant="outline" size="sm" className="mt-3" onClick={handleUnreserve}>
-              Clear reservation
-            </Button>
+            <ItemUnreserveDialog item={item} onUnreserve={onUnreserve} />
           </div>
         )
       }
