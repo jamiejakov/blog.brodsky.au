@@ -55,7 +55,7 @@ export const AdminDashboard: React.FC = () => {
   const availableItems = items.filter((item) => item.reservation == null);
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-6">
       <div className="px-4 lg:px-0 flex flex-col-reverse gap-4 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h2 className="text-xl font-semibold">Wishlist admin</h2>
@@ -68,39 +68,20 @@ export const AdminDashboard: React.FC = () => {
       </div>
       {items.length === 0 && <NothingOnList />}
 
-      {reservedItems.length > 0 && (
-        <div className="flex flex-col gap-2">
-          <h3 className="px-4 lg:px-0 text-lg font-semibold">Reserved items</h3>
-          <div className="flex flex-col gap-4">
-            {reservedItems.map((item) => (
-              <AdminItemRow
-                key={item._id}
-                item={item}
-                updateItem={handleUpdate}
-                onRemove={removeItem}
-                onUnreserve={unreserveItem}
-              />
-            ))}
-          </div>
-        </div>
-      )}
-
-      {availableItems.length > 0 && (
-        <div className="flex flex-col gap-2">
-          <h3 className="px-4 lg:px-0 text-lg font-semibold">Available items</h3>
-          <div className="flex flex-col gap-4">
-            {availableItems.map((item) => (
-              <AdminItemRow
-                key={item._id}
-                item={item}
-                updateItem={handleUpdate}
-                onRemove={removeItem}
-                onUnreserve={unreserveItem}
-              />
-            ))}
-          </div>
-        </div>
-      )}
+      <AdminItemSection
+        title="Reserved items"
+        items={reservedItems}
+        updateItem={handleUpdate}
+        onRemove={removeItem}
+        onUnreserve={unreserveItem}
+      />
+      <AdminItemSection
+        title="Available items"
+        items={availableItems}
+        updateItem={handleUpdate}
+        onRemove={removeItem}
+        onUnreserve={unreserveItem}
+      />
 
       <div className="flex justify-center px-4 lg:px-0">
         <ItemNewDialog createItem={handleCreate} />
@@ -109,10 +90,42 @@ export const AdminDashboard: React.FC = () => {
   );
 };
 
+type AdminItemSectionProps = {
+  title: string;
+  items: WishlistItem[];
+  updateItem: (itemId: Id<'items'>, values: ItemFormState) => Promise<void>;
+  onRemove: (args: { id: Id<'items'> }) => Promise<unknown>;
+  onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
+};
+
+function AdminItemSection(props: AdminItemSectionProps) {
+  const { title, items, updateItem, onRemove, onUnreserve } = props;
+
+  if (items.length === 0) {
+    return null;
+  }
+
+  return (
+    <div className="flex flex-col gap-2">
+      <h3 className="px-4 lg:px-0 text-lg font-semibold">{title}</h3>
+      <div className="flex flex-col gap-4">
+        {items.map((item) => (
+          <AdminItemRow
+            key={item._id}
+            item={item}
+            updateItem={updateItem}
+            onRemove={onRemove}
+            onUnreserve={onUnreserve}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+
 type AdminItemRowProps = {
   item: WishlistItem;
   updateItem: (itemId: Id<'items'>, values: ItemFormState) => Promise<void>;
-
   onRemove: (args: { id: Id<'items'> }) => Promise<unknown>;
   onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
 };
