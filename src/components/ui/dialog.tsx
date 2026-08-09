@@ -1,11 +1,47 @@
 import { Button } from '@/components/ui/button';
+import { useRequiredContext } from '@/lib/requiredContext';
 import { cn } from '@/lib/utils';
 import { XIcon } from 'lucide-react';
 import { Dialog as DialogPrimitive } from 'radix-ui';
 import * as React from 'react';
 
-function Dialog({ ...props }: React.ComponentProps<typeof DialogPrimitive.Root>) {
-  return <DialogPrimitive.Root data-slot="dialog" {...props} />;
+type DialogContextValue = {
+  open: boolean;
+  setOpen: (open: boolean) => void;
+  close: () => void;
+};
+
+const DialogContext = React.createContext<DialogContextValue | undefined>(undefined);
+
+function Dialog({
+  open: openProp,
+  defaultOpen = false,
+  onOpenChange,
+  ...props
+}: React.ComponentProps<typeof DialogPrimitive.Root>) {
+  const [uncontrolledOpen, setUncontrolledOpen] = React.useState(defaultOpen);
+  const isControlled = openProp !== undefined;
+  const open = isControlled ? openProp : uncontrolledOpen;
+
+  const setOpen = React.useCallback(
+    (next: boolean) => {
+      if (!isControlled) {
+        setUncontrolledOpen(next);
+      }
+      onOpenChange?.(next);
+    },
+    [isControlled, onOpenChange]
+  );
+
+  const close = React.useCallback(() => {
+    setOpen(false);
+  }, [setOpen]);
+
+  return (
+    <DialogContext value={{ open, setOpen, close }}>
+      <DialogPrimitive.Root data-slot="dialog" open={open} onOpenChange={setOpen} {...props} />
+    </DialogContext>
+  );
 }
 
 function DialogTrigger({ ...props }: React.ComponentProps<typeof DialogPrimitive.Trigger>) {
@@ -34,14 +70,20 @@ function DialogOverlay({ className, ...props }: React.ComponentProps<typeof Dial
   );
 }
 
+type DialogContentChildren = React.ReactNode | ((props: { close: () => void }) => React.ReactNode);
+
 function DialogContent({
   className,
   children,
   showCloseButton = true,
   ...props
-}: React.ComponentProps<typeof DialogPrimitive.Content> & {
+}: Omit<React.ComponentProps<typeof DialogPrimitive.Content>, 'children'> & {
   showCloseButton?: boolean;
+  children?: DialogContentChildren;
 }) {
+  const { close } = useRequiredContext(DialogContext, 'Dialog components must be used within <Dialog>');
+  const content = typeof children === 'function' ? children({ close }) : children;
+
   return (
     <DialogPortal data-slot="dialog-portal">
       <DialogOverlay />
@@ -56,7 +98,7 @@ function DialogContent({
         )}
         {...props}
       >
-        {children}
+        {content}
         {showCloseButton && (
           <DialogPrimitive.Close
             asChild={true}
