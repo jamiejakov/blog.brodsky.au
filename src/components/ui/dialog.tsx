@@ -59,14 +59,17 @@ function DialogContent({
         {children}
         {showCloseButton && (
           <DialogPrimitive.Close
+            asChild={true}
             data-slot="dialog-close"
-            className="absolute top-4 right-4 rounded-xs opacity-70 ring-offset-background transition-opacity
-              hover:opacity-100 focus:ring-2 focus:ring-ring focus:ring-offset-2 focus:outline-hidden
-              disabled:pointer-events-none data-[state=open]:bg-accent data-[state=open]:text-muted-foreground
-              [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4"
+            className="absolute top-4 right-4 opacity-70 ring-offset-background transition-opacity hover:opacity-100
+              focus:ring-2 focus:ring-ring focus:ring-offset-2 focus:outline-hidden disabled:pointer-events-none
+              data-[state=open]:bg-accent data-[state=open]:text-muted-foreground [&_svg]:pointer-events-none
+              [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4"
           >
-            <XIcon />
-            <span className="sr-only">Close</span>
+            <Button variant="ghostPrimary" size="icon-sm">
+              <XIcon />
+              <span className="sr-only">Close</span>
+            </Button>
           </DialogPrimitive.Close>
         )}
       </DialogPrimitive.Content>
@@ -95,7 +98,7 @@ function DialogFooter({
   return (
     <div
       data-slot="dialog-footer"
-      className={cn('flex flex-col-reverse gap-2 sm:flex-row sm:justify-end', className)}
+      className={cn('flex flex-col-reverse gap-2 mt-5 sm:flex-row sm:justify-end', className)}
       {...props}
     >
       {children}
@@ -122,7 +125,7 @@ function DialogDescription({ className, ...props }: React.ComponentProps<typeof 
   return (
     <DialogPrimitive.Description
       data-slot="dialog-description"
-      className={cn('text-sm text-muted-foreground', className)}
+      className={cn('text-sm text-muted-foreground mb-0', className)}
       {...props}
     />
   );
