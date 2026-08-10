@@ -1,3 +1,4 @@
+import { cn } from '@/lib/utils';
 import { Gift } from 'lucide-react';
 
 import type { Id } from '../../../convex/_generated/dataModel';
@@ -22,13 +23,20 @@ type ItemCardProps = {
   item: WishlistItem;
   sideButtons?: React.ReactNode;
   bottomContent?: React.ReactNode;
+  showReservedRibbon?: boolean;
 };
 
 export const ItemCard: React.FC<ItemCardProps> = (props) => {
-  const { item, sideButtons, bottomContent } = props;
+  const { item, sideButtons, bottomContent, showReservedRibbon = false } = props;
 
   return (
-    <div className="flex flex-col gap-4 rounded-xl border border-border bg-card p-4 shadow-sm">
+    <div
+      className={cn(
+        'relative flex flex-col gap-4 rounded-xl border border-border bg-card p-4 overflow-hidden shadow-sm',
+        showReservedRibbon && item.reservation != null && 'opacity-90'
+      )}
+    >
+      {showReservedRibbon && item.reservation != null && <ReservedRibbon reservedBy={item.reservation.reservedBy} />}
       <div className="flex gap-4 place-content-between">
         <div className="flex gap-4">
           <div className="size-20 shrink-0 overflow-hidden rounded-lg bg-muted">
@@ -62,6 +70,26 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
         {sideButtons}
       </div>
       {bottomContent}
+    </div>
+  );
+};
+
+type ReservedRibbonProps = {
+  reservedBy: string;
+};
+
+const ReservedRibbon: React.FC<ReservedRibbonProps> = (props) => {
+  const { reservedBy } = props;
+
+  return (
+    <div className="pointer-events-none absolute -right-8 top-5 z-10 flex w-36 rotate-45 flex-col items-center gap-0.5">
+      <div
+        className="w-full bg-green-800 py-1 text-center text-xs font-semibold uppercase tracking-wide
+          text-primary-foreground shadow-sm"
+      >
+        Reserved
+      </div>
+      <p className="mb-0 text-center text-sm font-light text-muted-foreground">by {reservedBy}</p>
     </div>
   );
 };
