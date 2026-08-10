@@ -7,9 +7,9 @@ import { useCallback, useState } from 'react';
 
 import { api } from '../../../../convex/_generated/api';
 import type { Id } from '../../../../convex/_generated/dataModel';
+import type { WishlistItem } from '../ItemCard';
 import { ItemCard } from '../ItemCard';
 import { NothingOnList } from '../NothingOnList';
-import type { WishlistItem } from '../WishlistItemCard';
 import { ItemDeleteDialog } from './ItemDeleteDialog';
 import { ItemEditDialog, ItemNewDialog } from './ItemEditDialog';
 import type { ItemFormState } from './ItemEditForm';

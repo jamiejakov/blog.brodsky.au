@@ -1,6 +1,22 @@
 import { Gift } from 'lucide-react';
 
-import type { WishlistItem } from './WishlistItemCard';
+import type { Id } from '../../../convex/_generated/dataModel';
+
+export type WishlistItem = {
+  _id: Id<'items'>;
+  title: string;
+  url?: string;
+  imageUrl?: string;
+  notes?: string;
+  price?: string;
+  priority?: string;
+  position: number;
+  reservation: {
+    reservedBy: string;
+    _creationTime: number;
+    comment?: string;
+  } | null;
+};
 
 type ItemCardProps = {
   item: WishlistItem;
