@@ -1,11 +1,12 @@
-import { Spinner } from '@/components/ui/spinner';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { useMutation, useQuery } from 'convex/react';
+import { Authenticated, AuthLoading, Unauthenticated, useMutation, useQuery } from 'convex/react';
 
 import { api } from '../../../convex/_generated/api';
 import type { Id } from '../../../convex/_generated/dataModel';
 import { ConvexClient } from '../ConvexClient';
+import { AdminDashboard } from './admin/AdminDashboard';
 import { ItemCard, type WishlistItem } from './ItemCard';
+import { ListLoading } from './ListLoading';
 import { NothingOnList } from './NothingOnList';
 import {
   countItemsForPerson,
@@ -19,7 +20,15 @@ import { ReserveDialog } from './ReserveDialog';
 
 export const WishlistIsland: React.FC = () => (
   <ConvexClient>
-    <Wishlist />
+    <AuthLoading>
+      <Wishlist />
+    </AuthLoading>
+    <Unauthenticated>
+      <Wishlist />
+    </Unauthenticated>
+    <Authenticated>
+      <AdminDashboard />
+    </Authenticated>
   </ConvexClient>
 );
 
@@ -28,21 +37,27 @@ const Wishlist: React.FC = () => {
   const reserveItem = useMutation(api.reservations.reserve);
 
   return (
-    <Tabs defaultValue={DEFAULT_WISHLIST_PERSON} className="gap-4">
-      <TabsList className="mx-4 w-[calc(100%-2rem)] lg:mx-0 lg:w-full">
+    <div className="flex flex-col gap-6">
+      <div className="px-4 lg:px-0">
+        <h1 className="text-3xl font-bold">Brodsky Family Wishlist</h1>
+      </div>
+
+      <Tabs defaultValue={DEFAULT_WISHLIST_PERSON} className="gap-4">
+        <TabsList className="mx-4 w-[calc(100%-2rem)] lg:mx-0 lg:w-full">
+          {WISHLIST_PEOPLE.map((person) => (
+            <TabsTrigger key={person} value={person}>
+              {WISHLIST_PERSON_LABELS[person]} ({countItemsForPerson(items ?? [], person)})
+            </TabsTrigger>
+          ))}
+        </TabsList>
         {WISHLIST_PEOPLE.map((person) => (
-          <TabsTrigger key={person} value={person}>
-            {WISHLIST_PERSON_LABELS[person]} ({countItemsForPerson(items ?? [], person)})
-          </TabsTrigger>
+          <TabsContent key={person} value={person} className="flex flex-col gap-6">
+            <WishlistPersonIntro person={person} />
+            <PersonList person={person} items={items} onReserve={reserveItem} />
+          </TabsContent>
         ))}
-      </TabsList>
-      {WISHLIST_PEOPLE.map((person) => (
-        <TabsContent key={person} value={person} className="flex flex-col gap-6">
-          <WishlistPersonIntro person={person} />
-          <PersonList person={person} items={items} onReserve={reserveItem} />
-        </TabsContent>
-      ))}
-    </Tabs>
+      </Tabs>
+    </div>
   );
 };
 
@@ -56,14 +71,7 @@ const PersonList: React.FC<PersonTabProps> = (props) => {
   const { person, items, onReserve } = props;
 
   if (items == null) {
-    return (
-      <div
-        className="flex justify-center rounded-xl border border-dashed border-border bg-card px-6 py-10 text-center
-          text-muted-foreground"
-      >
-        <Spinner className="size-8" aria-label="Loading wishlist" />
-      </div>
-    );
+    return <ListLoading />;
   }
 
   const personItems = items.filter((item) => item.requestedBy === person);

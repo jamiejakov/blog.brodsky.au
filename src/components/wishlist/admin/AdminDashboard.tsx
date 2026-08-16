@@ -1,5 +1,4 @@
 import { Button } from '@/components/ui/button';
-import { Spinner } from '@/components/ui/spinner';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { useAuthActions } from '@convex-dev/auth/react';
 import { useMutation, useQuery } from 'convex/react';
@@ -10,6 +9,7 @@ import { api } from '../../../../convex/_generated/api';
 import type { Id } from '../../../../convex/_generated/dataModel';
 import type { WishlistItem } from '../ItemCard';
 import { ItemCard } from '../ItemCard';
+import { ListLoading } from '../ListLoading';
 import { NothingOnList } from '../NothingOnList';
 import {
   countItemsForPerson,
@@ -53,14 +53,6 @@ export const AdminDashboard: React.FC = () => {
     [updateItem]
   );
 
-  if (items == null) {
-    return (
-      <div className="flex justify-center py-10">
-        <Spinner className="size-8" />
-      </div>
-    );
-  }
-
   return (
     <div className="flex flex-col gap-6">
       <div className="px-4 lg:px-0 flex flex-col-reverse gap-4 sm:flex-row sm:items-center sm:justify-between">
@@ -69,26 +61,27 @@ export const AdminDashboard: React.FC = () => {
         </div>
         <Button type="button" variant="outline" loading={signingOut} onClick={handleSignOut}>
           <LogOut aria-hidden={true} />
-          Sign out
+          Log out
         </Button>
       </div>
       <Tabs defaultValue={DEFAULT_WISHLIST_PERSON} className="gap-4">
         <TabsList className="mx-4 w-[calc(100%-2rem)] lg:mx-0 lg:w-full">
           {WISHLIST_PEOPLE.map((person) => (
             <TabsTrigger key={person} value={person}>
-              {WISHLIST_PERSON_LABELS[person]} ({countItemsForPerson(items, person)})
+              {WISHLIST_PERSON_LABELS[person]} ({countItemsForPerson(items ?? [], person)})
             </TabsTrigger>
           ))}
         </TabsList>
         {WISHLIST_PEOPLE.map((person) => (
-          <PersonAdminTab
-            key={person}
-            person={person}
-            items={items}
-            updateItem={handleUpdate}
-            onRemove={removeItem}
-            onUnreserve={unreserveItem}
-          />
+          <TabsContent key={person} value={person} className="flex flex-col gap-6">
+            <PersonAdminTab
+              person={person}
+              items={items}
+              updateItem={handleUpdate}
+              onRemove={removeItem}
+              onUnreserve={unreserveItem}
+            />
+          </TabsContent>
         ))}
       </Tabs>
       <div className="flex justify-center px-4 lg:px-0">
@@ -100,7 +93,7 @@ export const AdminDashboard: React.FC = () => {
 
 type PersonAdminTabProps = {
   person: WishlistPerson;
-  items: WishlistItem[];
+  items: WishlistItem[] | undefined;
   updateItem: (itemId: Id<'items'>, values: ItemFormState) => Promise<void>;
   onRemove: (args: { id: Id<'items'> }) => Promise<unknown>;
   onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
@@ -108,25 +101,20 @@ type PersonAdminTabProps = {
 
 function PersonAdminTab(props: PersonAdminTabProps) {
   const { person, items, updateItem, onRemove, onUnreserve } = props;
+
+  if (items == null) {
+    return <ListLoading />;
+  }
+
   const personItems = items.filter((item) => item.requestedBy === person);
 
-  return (
-    <TabsContent value={person} className="flex flex-col gap-6">
-      {personItems.length === 0 ? (
-        <NothingOnList />
-      ) : (
-        personItems.map((item) => (
-          <AdminItemRow
-            key={item._id}
-            item={item}
-            updateItem={updateItem}
-            onRemove={onRemove}
-            onUnreserve={onUnreserve}
-          />
-        ))
-      )}
-    </TabsContent>
-  );
+  if (personItems.length === 0) {
+    return <NothingOnList />;
+  }
+
+  return personItems.map((item) => (
+    <AdminItemRow key={item._id} item={item} updateItem={updateItem} onRemove={onRemove} onUnreserve={onUnreserve} />
+  ));
 }
 
 type AdminItemRowProps = {

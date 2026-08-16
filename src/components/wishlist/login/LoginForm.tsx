@@ -10,7 +10,7 @@ import * as z from 'zod';
 
 const passwordField = z.string().min(8, 'Password must be at least 8 characters');
 
-const signInSchema = z.object({
+const loginSchema = z.object({
   email: z.email('Enter a valid email'),
   password: passwordField,
   confirmPassword: z.string(),
@@ -27,14 +27,14 @@ const signUpSchema = z
     path: ['confirmPassword'],
   });
 
-type FormValues = z.infer<typeof signInSchema>;
+type FormValues = z.infer<typeof loginSchema>;
 
-export const SignInForm: React.FC = () => {
+export const LoginForm: React.FC = () => {
   const { signIn } = useAuthActions();
-  const [step, setStep] = useState<'signIn' | 'signUp'>('signIn');
+  const [step, setStep] = useState<'login' | 'signUp'>('login');
 
   const form = useForm<FormValues>({
-    resolver: zodResolver(step === 'signUp' ? signUpSchema : signInSchema),
+    resolver: zodResolver(step === 'signUp' ? signUpSchema : loginSchema),
     mode: 'onBlur',
     defaultValues: { email: '', password: '', confirmPassword: '' },
   });
@@ -44,13 +44,13 @@ export const SignInForm: React.FC = () => {
       const formData = new FormData();
       formData.set('email', data.email);
       formData.set('password', data.password);
-      formData.set('flow', step);
+      formData.set('flow', step === 'login' ? 'signIn' : 'signUp');
 
       try {
         await signIn('password', formData);
       } catch (caught: unknown) {
         form.setError('root', {
-          message: caught instanceof Error ? caught.message : 'Sign in failed',
+          message: caught instanceof Error ? caught.message : 'Login failed',
         });
       }
     },
@@ -58,13 +58,13 @@ export const SignInForm: React.FC = () => {
   );
 
   const handleToggleStep = useCallback(() => {
-    setStep((current) => (current === 'signIn' ? 'signUp' : 'signIn'));
+    setStep((current) => (current === 'login' ? 'signUp' : 'login'));
     form.clearErrors();
   }, [form]);
 
   return (
     <div className="mx-auto max-w-md rounded-xl border border-border bg-card p-6 shadow-sm">
-      <h2 className="text-xl font-semibold">Admin sign in</h2>
+      <h2 className="text-xl font-semibold">Admin login</h2>
 
       <ValidationForm form={form} className="mt-6" onSubmit={onSubmit}>
         <FieldGroup className="gap-4">
@@ -99,11 +99,11 @@ export const SignInForm: React.FC = () => {
 };
 
 const submitButtonLabel = {
-  signIn: 'Sign in',
+  login: 'Log in',
   signUp: 'Create account',
 };
 
 const toggleButtonLabel = {
-  signIn: 'First time? Create your account',
-  signUp: 'Already have an account? Sign in',
+  login: 'First time? Create your account',
+  signUp: 'Already have an account? Log in',
 };
