@@ -1,5 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Spinner } from '@/components/ui/spinner';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { useAuthActions } from '@convex-dev/auth/react';
 import { useMutation, useQuery } from 'convex/react';
 import { LogOut } from 'lucide-react';
@@ -10,6 +11,13 @@ import type { Id } from '../../../../convex/_generated/dataModel';
 import type { WishlistItem } from '../ItemCard';
 import { ItemCard } from '../ItemCard';
 import { NothingOnList } from '../NothingOnList';
+import {
+  countItemsForPerson,
+  DEFAULT_WISHLIST_PERSON,
+  WISHLIST_PEOPLE,
+  WISHLIST_PERSON_LABELS,
+  type WishlistPerson,
+} from '../people';
 import { ItemDeleteDialog } from './ItemDeleteDialog';
 import { ItemEditDialog, ItemNewDialog } from './ItemEditDialog';
 import type { ItemFormState } from './ItemEditForm';
@@ -53,9 +61,6 @@ export const AdminDashboard: React.FC = () => {
     );
   }
 
-  const reservedItems = items.filter((item) => item.reservation != null);
-  const availableItems = items.filter((item) => item.reservation == null);
-
   return (
     <div className="flex flex-col gap-6">
       <div className="px-4 lg:px-0 flex flex-col-reverse gap-4 sm:flex-row sm:items-center sm:justify-between">
@@ -68,27 +73,66 @@ export const AdminDashboard: React.FC = () => {
           Sign out
         </Button>
       </div>
-      {items.length === 0 && <NothingOnList />}
-      <AdminItemSection
-        title="Reserved items"
-        items={reservedItems}
-        updateItem={handleUpdate}
-        onRemove={removeItem}
-        onUnreserve={unreserveItem}
-      />
-      <AdminItemSection
-        title="Available items"
-        items={availableItems}
-        updateItem={handleUpdate}
-        onRemove={removeItem}
-        onUnreserve={unreserveItem}
-      />
+      <Tabs defaultValue={DEFAULT_WISHLIST_PERSON} className="gap-4">
+        <TabsList className="mx-4 w-[calc(100%-2rem)] lg:mx-0 lg:w-full">
+          {WISHLIST_PEOPLE.map((person) => (
+            <TabsTrigger key={person} value={person}>
+              {WISHLIST_PERSON_LABELS[person]} ({countItemsForPerson(items, person)})
+            </TabsTrigger>
+          ))}
+        </TabsList>
+        {WISHLIST_PEOPLE.map((person) => (
+          <PersonAdminTab
+            key={person}
+            person={person}
+            items={items}
+            updateItem={handleUpdate}
+            onRemove={removeItem}
+            onUnreserve={unreserveItem}
+          />
+        ))}
+      </Tabs>
       <div className="flex justify-center px-4 lg:px-0">
         <ItemNewDialog createItem={handleCreate} />
       </div>
     </div>
   );
 };
+
+type PersonAdminTabProps = {
+  person: WishlistPerson;
+  items: WishlistItem[];
+  updateItem: (itemId: Id<'items'>, values: ItemFormState) => Promise<void>;
+  onRemove: (args: { id: Id<'items'> }) => Promise<unknown>;
+  onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
+};
+
+function PersonAdminTab(props: PersonAdminTabProps) {
+  const { person, items, updateItem, onRemove, onUnreserve } = props;
+  const personItems = items.filter((item) => item.requestedBy === person);
+  const reservedItems = personItems.filter((item) => item.reservation != null);
+  const availableItems = personItems.filter((item) => item.reservation == null);
+
+  return (
+    <TabsContent value={person} className="flex flex-col gap-6">
+      {personItems.length === 0 && <NothingOnList />}
+      <AdminItemSection
+        title="Reserved items"
+        items={reservedItems}
+        updateItem={updateItem}
+        onRemove={onRemove}
+        onUnreserve={onUnreserve}
+      />
+      <AdminItemSection
+        title="Available items"
+        items={availableItems}
+        updateItem={updateItem}
+        onRemove={onRemove}
+        onUnreserve={onUnreserve}
+      />
+    </TabsContent>
+  );
+}
 
 type AdminItemSectionProps = {
   title: string;
@@ -178,5 +222,6 @@ function toItemArgs(values: ItemFormState) {
     price: values.price.trim() || undefined,
     priority: values.priority.trim() || undefined,
     position: values.position,
+    requestedBy: values.requestedBy,
   };
 }

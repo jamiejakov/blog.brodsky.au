@@ -1,8 +1,9 @@
-import { FormInputField } from '@/components/form/FromField';
+import { FormInputField, FormRadioGroupField } from '@/components/form/FromField';
 import { ValidationForm } from '@/components/form/ValidationForm';
 import { Button } from '@/components/ui/button';
 import { DialogFooter } from '@/components/ui/dialog';
 import { FieldError } from '@/components/ui/field';
+import { DEFAULT_WISHLIST_PERSON, WISHLIST_PEOPLE, WISHLIST_PERSON_OPTIONS } from '@/components/wishlist/people';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useCallback } from 'react';
 import { useForm } from 'react-hook-form';
@@ -18,6 +19,7 @@ const itemFormSchema = z.object({
   price: z.string(),
   priority: z.string(),
   position: z.number({ error: 'Enter a valid position' }),
+  requestedBy: z.enum(WISHLIST_PEOPLE),
 });
 
 export type ItemFormState = z.infer<typeof itemFormSchema>;
@@ -30,6 +32,7 @@ const emptyForm: ItemFormState = {
   price: '',
   priority: '',
   position: 0,
+  requestedBy: DEFAULT_WISHLIST_PERSON,
 };
 
 type ItemEditFormProps = {
@@ -66,6 +69,7 @@ export const ItemEditForm: React.FC<ItemEditFormProps> = (props) => {
   return (
     <ValidationForm form={form} onSubmit={handleSubmit} className="flex flex-col gap-3">
       <FormInputField label="Title *" name="title" />
+      <FormRadioGroupField label="Requested by *" name="requestedBy" options={WISHLIST_PERSON_OPTIONS} />
       <FormInputField label="Position *" name="position" type="number" required={true} />
       <FormInputField label="URL" name="url" />
       <FormInputField label="Image URL" name="imageUrl" />
