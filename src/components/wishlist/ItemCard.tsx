@@ -2,6 +2,7 @@ import { cn } from '@/lib/utils';
 import { Gift } from 'lucide-react';
 
 import type { Id } from '../../../convex/_generated/dataModel';
+import type { WishlistPerson } from './people';
 
 export type WishlistItem = {
   _id: Id<'items'>;
@@ -12,6 +13,7 @@ export type WishlistItem = {
   price?: string;
   priority?: string;
   position: number;
+  requestedBy: WishlistPerson;
   reservation: {
     reservedBy: string;
     _creationTime: number;
