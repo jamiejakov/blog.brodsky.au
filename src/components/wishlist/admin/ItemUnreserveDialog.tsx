@@ -12,7 +12,7 @@ import {
 import { useCallback } from 'react';
 
 import type { Id } from '../../../../convex/_generated/dataModel';
-import type { WishlistItem } from '../WishlistItemCard';
+import type { WishlistItem } from '../ItemCard';
 
 type ItemUnreserveDialogProps = {
   item: WishlistItem;
@@ -25,7 +25,7 @@ export const ItemUnreserveDialog: React.FC<ItemUnreserveDialogProps> = (props) =
   return (
     <Dialog>
       <DialogTrigger asChild={true}>
-        <Button type="button" variant="outline" size="sm" className="mt-3">
+        <Button type="button" variant="outline" size="sm">
           Clear reservation
         </Button>
       </DialogTrigger>

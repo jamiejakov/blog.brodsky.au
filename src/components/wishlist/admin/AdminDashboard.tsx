@@ -151,11 +151,14 @@ function AdminItemRow(props: AdminItemRowProps) {
       }
       bottomContent={
         item.reservation && (
-          <div className="flex gap-2 place-content-between rounded-lg bg-muted/60 p-3 text-sm">
-            <div>
-              <p className="font-bold">Reserved by {item.reservation.reservedBy}</p>
+          <div
+            className="flex flex-col sm:flex-row gap-2 items-start sm:items-center sm:place-content-between rounded-lg
+              bg-muted/60 p-3 text-sm"
+          >
+            <div className="flex flex-col gap-1">
+              <span className="font-bold">Reserved by {item.reservation.reservedBy}</span>
               {item.reservation.comment && (
-                <p className="mb-0 whitespace-pre-wrap text-foreground">Comment: {item.reservation.comment}</p>
+                <span className="mb-0 whitespace-pre-wrap text-foreground">Comment: {item.reservation.comment}</span>
               )}
             </div>
             <ItemUnreserveDialog item={item} onUnreserve={onUnreserve} />
