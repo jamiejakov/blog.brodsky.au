@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useCallback, useEffect, useRef } from 'react';
 
 import { Button } from '../ui/button';
 
@@ -43,7 +43,7 @@ export const ThemeToggle: React.FC = () => {
   }, []);
 
   // Handle theme toggle - direct DOM manipulation, no state
-  const handleToggleClick = () => {
+  const handleToggleClick = useCallback(() => {
     const element = document.documentElement;
     const isDark = element.style.colorScheme === 'dark';
     const newTheme = isDark ? 'light' : 'dark';
@@ -51,7 +51,7 @@ export const ThemeToggle: React.FC = () => {
     applyTheme(newTheme);
     localStorage.setItem('theme', newTheme);
     window.posthog?.capture('theme_toggled', { theme: newTheme });
-  };
+  }, []);
 
   return (
     <Button id="themeToggle" aria-label="Toggle theme" variant="ghost" size="icon" onClick={handleToggleClick}>
