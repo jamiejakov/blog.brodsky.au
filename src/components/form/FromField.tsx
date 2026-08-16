@@ -1,5 +1,6 @@
 import { Field, FieldError, FieldLabel } from '@/components/ui/field';
 import { Input } from '@/components/ui/input';
+import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { Textarea } from '@/components/ui/textarea';
 import type { ChangeEvent } from 'react';
 import { useCallback, useId } from 'react';
@@ -44,6 +45,42 @@ export const FormInputField = <T extends FieldValues>(props: FormInputFieldProps
         aria-invalid={fieldState.invalid}
         onChange={handleChange}
       />
+      {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
+    </Field>
+  );
+};
+
+type FormRadioGroupOption = {
+  value: string;
+  label: string;
+};
+
+type FormRadioGroupFieldProps<T extends FieldValues> = FormFieldBaseProps<T> & {
+  options: readonly FormRadioGroupOption[];
+};
+
+export const FormRadioGroupField = <T extends FieldValues>(props: FormRadioGroupFieldProps<T>) => {
+  const { label, name, options } = props;
+  const id = useId();
+  const { control } = useFormContext<T>();
+  const { field, fieldState } = useController({ name, control });
+
+  return (
+    <Field data-invalid={fieldState.invalid}>
+      <FieldLabel id={`${id}-label`}>{label}</FieldLabel>
+      <RadioGroup
+        className="w-full"
+        value={field.value}
+        onValueChange={field.onChange}
+        aria-labelledby={`${id}-label`}
+        aria-invalid={fieldState.invalid}
+      >
+        {options.map((option) => (
+          <RadioGroupItem key={option.value} value={option.value}>
+            {option.label}
+          </RadioGroupItem>
+        ))}
+      </RadioGroup>
       {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
     </Field>
   );
