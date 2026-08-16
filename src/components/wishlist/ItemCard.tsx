@@ -1,25 +1,10 @@
 import { cn } from '@/lib/utils';
+import type { FunctionReturnType } from 'convex/server';
 import { Gift } from 'lucide-react';
 
-import type { Id } from '../../../convex/_generated/dataModel';
-import type { WishlistPerson } from './people';
+import type { api } from '../../../convex/_generated/api';
 
-export type WishlistItem = {
-  _id: Id<'items'>;
-  title: string;
-  url?: string;
-  imageUrl?: string;
-  notes?: string;
-  price?: string;
-  priority?: string;
-  position: number;
-  requestedBy: WishlistPerson;
-  reservation: {
-    reservedBy: string;
-    _creationTime: number;
-    comment?: string;
-  } | null;
-};
+export type WishlistItem = FunctionReturnType<typeof api.items.listAdmin>[number];
 
 type ItemCardProps = {
   item: WishlistItem;
