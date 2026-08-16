@@ -1,6 +1,4 @@
-header {
-  z-index: 99;
-}
+
 
 /* iOS Safari: use top-0 for sticky header (avoids gap with dynamic browser chrome) */
 @supports (-webkit-touch-callout: none) {
