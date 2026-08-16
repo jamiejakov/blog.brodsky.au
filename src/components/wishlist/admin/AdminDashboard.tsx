@@ -64,9 +64,8 @@ export const AdminDashboard: React.FC = () => {
   return (
     <div className="flex flex-col gap-6">
       <div className="px-4 lg:px-0 flex flex-col-reverse gap-4 sm:flex-row sm:items-center sm:justify-between">
-        <div>
-          <h2 className="text-xl font-semibold">Wishlist admin</h2>
-          <p className="text-sm mb-0 text-muted-foreground">Manage items and read reservation comments.</p>
+        <div className="px-4 lg:px-0">
+          <h1 className="text-3xl font-bold">Wishlist Admin</h1>
         </div>
         <Button type="button" variant="outline" loading={signingOut} onClick={handleSignOut}>
           <LogOut aria-hidden={true} />
@@ -110,50 +109,13 @@ type PersonAdminTabProps = {
 function PersonAdminTab(props: PersonAdminTabProps) {
   const { person, items, updateItem, onRemove, onUnreserve } = props;
   const personItems = items.filter((item) => item.requestedBy === person);
-  const reservedItems = personItems.filter((item) => item.reservation != null);
-  const availableItems = personItems.filter((item) => item.reservation == null);
 
   return (
     <TabsContent value={person} className="flex flex-col gap-6">
-      {personItems.length === 0 && <NothingOnList />}
-      <AdminItemSection
-        title="Reserved items"
-        items={reservedItems}
-        updateItem={updateItem}
-        onRemove={onRemove}
-        onUnreserve={onUnreserve}
-      />
-      <AdminItemSection
-        title="Available items"
-        items={availableItems}
-        updateItem={updateItem}
-        onRemove={onRemove}
-        onUnreserve={onUnreserve}
-      />
-    </TabsContent>
-  );
-}
-
-type AdminItemSectionProps = {
-  title: string;
-  items: WishlistItem[];
-  updateItem: (itemId: Id<'items'>, values: ItemFormState) => Promise<void>;
-  onRemove: (args: { id: Id<'items'> }) => Promise<unknown>;
-  onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
-};
-
-function AdminItemSection(props: AdminItemSectionProps) {
-  const { title, items, updateItem, onRemove, onUnreserve } = props;
-
-  if (items.length === 0) {
-    return null;
-  }
-
-  return (
-    <div className="flex flex-col gap-2">
-      <h3 className="px-4 lg:px-0 text-lg font-semibold">{title}</h3>
-      <div className="flex flex-col gap-4">
-        {items.map((item) => (
+      {personItems.length === 0 ? (
+        <NothingOnList />
+      ) : (
+        personItems.map((item) => (
           <AdminItemRow
             key={item._id}
             item={item}
@@ -161,9 +123,9 @@ function AdminItemSection(props: AdminItemSectionProps) {
             onRemove={onRemove}
             onUnreserve={onUnreserve}
           />
-        ))}
-      </div>
-    </div>
+        ))
+      )}
+    </TabsContent>
   );
 }
 

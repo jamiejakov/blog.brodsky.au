@@ -86,7 +86,6 @@ function WishlistItemRow(props: WishlistItemRowProps) {
   return (
     <ItemCard
       item={item}
-      showReservedRibbon={true}
       sideButtons={item.reservation == null ? <ReserveDialog item={item} onReserve={onReserve} /> : undefined}
     />
   );

@@ -10,20 +10,19 @@ type ItemCardProps = {
   item: WishlistItem;
   sideButtons?: React.ReactNode;
   bottomContent?: React.ReactNode;
-  showReservedRibbon?: boolean;
 };
 
 export const ItemCard: React.FC<ItemCardProps> = (props) => {
-  const { item, sideButtons, bottomContent, showReservedRibbon = false } = props;
+  const { item, sideButtons, bottomContent } = props;
 
   return (
     <div
       className={cn(
         'relative flex flex-col gap-4 rounded-xl border border-border bg-card p-4 overflow-hidden shadow-sm',
-        showReservedRibbon && item.reservation != null && 'opacity-90'
+        item.reservation != null && 'opacity-90'
       )}
     >
-      {showReservedRibbon && item.reservation != null && <ReservedRibbon reservedBy={item.reservation.reservedBy} />}
+      {item.reservation != null && <ReservedRibbon reservedBy={item.reservation.reservedBy} />}
       <div className="flex flex-wrap gap-4 place-content-between">
         <div className="flex flex-col sm:flex-row gap-4">
           <div className="size-20 shrink-0 overflow-hidden rounded-lg bg-muted">
@@ -54,7 +53,7 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
             {item.notes && <p className="mb-0 font-light">{item.notes}</p>}
           </div>
         </div>
-        {sideButtons}
+        {sideButtons != null && <div className={cn(item.reservation != null && 'pr-20')}>{sideButtons}</div>}
       </div>
       {bottomContent}
     </div>
