@@ -10,6 +10,7 @@ export const itemSchema = v.object({
   price: v.optional(v.string()),
   priority: v.optional(v.string()),
   position: v.number(),
+  requestedBy: v.union(v.literal('vadim'), v.literal('kotone'), v.literal('haru')),
 });
 
 export const reservationSchema = v.object({

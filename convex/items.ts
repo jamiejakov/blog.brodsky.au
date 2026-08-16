@@ -79,6 +79,7 @@ async function getItemsWithReservations(ctx: QueryCtx, includeComments: boolean)
         price: item.price,
         priority: item.priority,
         position: item.position,
+        requestedBy: item.requestedBy,
         reservation: reservation ? buildReservation(reservation, includeComments) : null,
       };
     })
