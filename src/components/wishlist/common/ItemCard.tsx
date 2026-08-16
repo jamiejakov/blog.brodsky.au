@@ -2,7 +2,7 @@ import { cn } from '@/lib/utils';
 import type { FunctionReturnType } from 'convex/server';
 import { Gift } from 'lucide-react';
 
-import type { api } from '../../../convex/_generated/api';
+import type { api } from '../../../../convex/_generated/api';
 
 export type WishlistItem = FunctionReturnType<typeof api.items.listAdmin>[number];
 

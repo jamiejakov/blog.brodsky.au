@@ -12,7 +12,7 @@ import {
 import { useCallback } from 'react';
 
 import type { Id } from '../../../../convex/_generated/dataModel';
-import type { WishlistItem } from '../ItemCard';
+import type { WishlistItem } from '../common/ItemCard';
 
 type ItemUnreserveDialogProps = {
   item: WishlistItem;

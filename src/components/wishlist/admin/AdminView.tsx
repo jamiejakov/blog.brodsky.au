@@ -7,23 +7,23 @@ import { useCallback, useState } from 'react';
 
 import { api } from '../../../../convex/_generated/api';
 import type { Id } from '../../../../convex/_generated/dataModel';
-import type { WishlistItem } from '../ItemCard';
-import { ItemCard } from '../ItemCard';
-import { ListLoading } from '../ListLoading';
-import { NothingOnList } from '../NothingOnList';
+import type { WishlistItem } from '../common/ItemCard';
+import { ItemCard } from '../common/ItemCard';
+import { ListLoading } from '../common/ListLoading';
+import { NothingOnList } from '../common/NothingOnList';
 import {
   countItemsForPerson,
   DEFAULT_WISHLIST_PERSON,
   WISHLIST_PEOPLE,
   WISHLIST_PERSON_LABELS,
   type WishlistPerson,
-} from '../people';
+} from '../common/people';
 import { ItemDeleteDialog } from './ItemDeleteDialog';
 import { ItemEditDialog, ItemNewDialog } from './ItemEditDialog';
 import type { ItemFormState } from './ItemEditForm';
 import { ItemUnreserveDialog } from './ItemUnreserveDialog';
 
-export const AdminDashboard: React.FC = () => {
+export const AdminView: React.FC = () => {
   const { signOut } = useAuthActions();
   const items = useQuery(api.items.listAdmin);
   const createItem = useMutation(api.items.create);

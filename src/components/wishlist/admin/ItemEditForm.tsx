@@ -3,7 +3,7 @@ import { ValidationForm } from '@/components/form/ValidationForm';
 import { Button } from '@/components/ui/button';
 import { DialogFooter } from '@/components/ui/dialog';
 import { FieldError } from '@/components/ui/field';
-import { DEFAULT_WISHLIST_PERSON, WISHLIST_PEOPLE, WISHLIST_PERSON_OPTIONS } from '@/components/wishlist/people';
+import { DEFAULT_WISHLIST_PERSON, WISHLIST_PEOPLE, WISHLIST_PERSON_OPTIONS } from '@/components/wishlist/common/people';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useCallback } from 'react';
 import { useForm } from 'react-hook-form';

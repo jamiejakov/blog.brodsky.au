@@ -1,4 +1,4 @@
-import { type WishlistPerson } from './people';
+import { type WishlistPerson } from '../common/people';
 
 export const WishlistPersonIntro: React.FC<{ person: WishlistPerson }> = (props) => {
   const { person } = props;

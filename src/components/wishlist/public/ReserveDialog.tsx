@@ -10,8 +10,8 @@ import {
 } from '@/components/ui/dialog';
 import { useCallback } from 'react';
 
-import type { Id } from '../../../convex/_generated/dataModel';
-import type { WishlistItem } from './ItemCard';
+import type { Id } from '../../../../convex/_generated/dataModel';
+import type { WishlistItem } from '../common/ItemCard';
 import { ReserveForm, type ReserveFormState } from './ReserveForm';
 
 type ReserveDialogProps = {

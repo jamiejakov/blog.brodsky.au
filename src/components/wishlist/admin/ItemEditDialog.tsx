@@ -11,7 +11,7 @@ import {
 import { Plus } from 'lucide-react';
 import { useCallback } from 'react';
 
-import type { WishlistItem } from '../ItemCard';
+import type { WishlistItem } from '../common/ItemCard';
 import { ItemEditForm, type ItemFormState } from './ItemEditForm';
 
 type ItemEditDialogProps = {

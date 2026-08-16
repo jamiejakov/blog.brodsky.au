@@ -13,7 +13,7 @@ import { Trash2 } from 'lucide-react';
 import { useCallback } from 'react';
 
 import type { Id } from '../../../../convex/_generated/dataModel';
-import type { WishlistItem } from '../ItemCard';
+import type { WishlistItem } from '../common/ItemCard';
 
 type ItemDeleteDialogProps = {
   item: WishlistItem;
