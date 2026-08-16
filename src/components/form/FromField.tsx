@@ -1,15 +1,19 @@
 import { Field, FieldError, FieldLabel } from '@/components/ui/field';
 import { Input } from '@/components/ui/input';
+import { Textarea } from '@/components/ui/textarea';
 import type { ChangeEvent } from 'react';
 import { useCallback, useId } from 'react';
 import { type FieldPath, type FieldValues, useController, useFormContext } from 'react-hook-form';
 
-type FormItemFieldProps<T extends FieldValues> = Omit<React.InputHTMLAttributes<HTMLInputElement>, 'name'> & {
+type FormFieldBaseProps<T extends FieldValues> = {
   label: string;
   name: FieldPath<T>;
 };
 
-export const FormItemField = <T extends FieldValues>(props: FormItemFieldProps<T>) => {
+type FormInputFieldProps<T extends FieldValues> = Omit<React.InputHTMLAttributes<HTMLInputElement>, 'name'> &
+  FormFieldBaseProps<T>;
+
+export const FormInputField = <T extends FieldValues>(props: FormInputFieldProps<T>) => {
   const { label, name, type, ...rest } = props;
   const id = useId();
   const { control } = useFormContext<T>();
@@ -40,6 +44,24 @@ export const FormItemField = <T extends FieldValues>(props: FormItemFieldProps<T
         aria-invalid={fieldState.invalid}
         onChange={handleChange}
       />
+      {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
+    </Field>
+  );
+};
+
+type FormTextAreaFieldProps<T extends FieldValues> = Omit<React.TextareaHTMLAttributes<HTMLTextAreaElement>, 'name'> &
+  FormFieldBaseProps<T>;
+
+export const FormTextAreaField = <T extends FieldValues>(props: FormTextAreaFieldProps<T>) => {
+  const { label, name, ...rest } = props;
+  const id = useId();
+  const { control } = useFormContext<T>();
+  const { field, fieldState } = useController({ name, control });
+
+  return (
+    <Field data-invalid={fieldState.invalid}>
+      <FieldLabel htmlFor={id}>{label}</FieldLabel>
+      <Textarea {...rest} {...field} id={id} value={field.value ?? ''} aria-invalid={fieldState.invalid} />
       {fieldState.invalid && <FieldError errors={[fieldState.error]} />}
     </Field>
   );

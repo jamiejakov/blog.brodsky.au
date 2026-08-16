@@ -11,7 +11,7 @@ import {
 import { Plus } from 'lucide-react';
 import { useCallback } from 'react';
 
-import type { WishlistItem } from '../WishlistItemCard';
+import type { WishlistItem } from '../ItemCard';
 import { ItemEditForm, type ItemFormState } from './ItemEditForm';
 
 type ItemEditDialogProps = {
@@ -62,7 +62,7 @@ export const ItemNewDialog: React.FC<ItemNewDialogProps> = (props) => {
   return (
     <Dialog>
       <DialogTrigger asChild={true}>
-        <Button type="button" variant="default">
+        <Button type="button" variant="outline">
           <Plus aria-hidden={true} />
           Create new
         </Button>
@@ -104,7 +104,7 @@ const Content: React.FC<ContentProps> = (props) => {
 const CancelButton: React.FC = () => {
   return (
     <DialogClose asChild={true}>
-      <Button type="button" variant="outline">
+      <Button type="button" variant="ghostPrimary">
         Cancel
       </Button>
     </DialogClose>

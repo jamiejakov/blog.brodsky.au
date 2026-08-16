@@ -1,4 +1,4 @@
-import { FormItemField } from '@/components/form/FromField';
+import { FormInputField } from '@/components/form/FromField';
 import { ValidationForm } from '@/components/form/ValidationForm';
 import { Button } from '@/components/ui/button';
 import { Field, FieldError, FieldGroup } from '@/components/ui/field';
@@ -68,15 +68,15 @@ export const SignInForm: React.FC = () => {
 
       <ValidationForm form={form} className="mt-6" onSubmit={onSubmit}>
         <FieldGroup className="gap-4">
-          <FormItemField label="Email" name="email" type="email" autoComplete="email" />
-          <FormItemField
+          <FormInputField label="Email" name="email" type="email" autoComplete="email" />
+          <FormInputField
             label="Password"
             name="password"
             type="password"
             autoComplete={step === 'signUp' ? 'new-password' : 'current-password'}
           />
           {step === 'signUp' && (
-            <FormItemField
+            <FormInputField
               label="Confirm password"
               name="confirmPassword"
               type="password"

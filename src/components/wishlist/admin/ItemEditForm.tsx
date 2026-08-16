@@ -1,4 +1,4 @@
-import { FormItemField } from '@/components/form/FromField';
+import { FormInputField } from '@/components/form/FromField';
 import { ValidationForm } from '@/components/form/ValidationForm';
 import { Button } from '@/components/ui/button';
 import { DialogFooter } from '@/components/ui/dialog';
@@ -65,19 +65,19 @@ export const ItemEditForm: React.FC<ItemEditFormProps> = (props) => {
 
   return (
     <ValidationForm form={form} onSubmit={handleSubmit} className="flex flex-col gap-3">
-      <FormItemField label="Title *" name="title" />
-      <FormItemField label="Position *" name="position" type="number" required={true} />
-      <FormItemField label="URL" name="url" />
-      <FormItemField label="Image URL" name="imageUrl" />
-      <FormItemField label="Price" name="price" />
-      <FormItemField label="Notes" name="notes" />
-      <FormItemField label="Priority" name="priority" />
+      <FormInputField label="Title *" name="title" />
+      <FormInputField label="Position *" name="position" type="number" required={true} />
+      <FormInputField label="URL" name="url" />
+      <FormInputField label="Image URL" name="imageUrl" />
+      <FormInputField label="Price" name="price" />
+      <FormInputField label="Notes" name="notes" />
+      <FormInputField label="Priority" name="priority" />
 
       {errors.root && <FieldError>{errors.root.message}</FieldError>}
 
       <DialogFooter>
         {cancelButton}
-        <Button type="submit" loading={isSubmitting} disabled={!canSave}>
+        <Button variant="outline" type="submit" loading={isSubmitting} disabled={!canSave}>
           Save
         </Button>
       </DialogFooter>

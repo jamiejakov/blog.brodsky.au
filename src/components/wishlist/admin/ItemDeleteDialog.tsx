@@ -13,7 +13,7 @@ import { Trash2 } from 'lucide-react';
 import { useCallback } from 'react';
 
 import type { Id } from '../../../../convex/_generated/dataModel';
-import type { WishlistItem } from '../WishlistItemCard';
+import type { WishlistItem } from '../ItemCard';
 
 type ItemDeleteDialogProps = {
   item: WishlistItem;
@@ -61,7 +61,7 @@ function ItemDeleteDialogContent(props: ItemDeleteDialogContentProps) {
       </DialogHeader>
       <DialogFooter>
         <DialogClose asChild={true}>
-          <Button type="button" variant="outline">
+          <Button type="button" variant="ghostPrimary">
             Cancel
           </Button>
         </DialogClose>

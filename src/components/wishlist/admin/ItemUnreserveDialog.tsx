@@ -70,7 +70,7 @@ function ItemUnreserveDialogContent(props: ItemUnreserveDialogContentProps) {
       </DialogHeader>
       <DialogFooter>
         <DialogClose asChild={true}>
-          <Button type="button" variant="outline">
+          <Button type="button" variant="ghostPrimary">
             Cancel
           </Button>
         </DialogClose>
