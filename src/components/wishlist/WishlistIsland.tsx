@@ -27,25 +27,20 @@ const Wishlist: React.FC = () => {
   const items = useQuery(api.items.listPublic);
   const reserveItem = useMutation(api.reservations.reserve);
 
-  if (items == null) {
-    return (
-      <div className="flex justify-center py-10">
-        <Spinner className="size-8" aria-label="Loading wishlist" />
-      </div>
-    );
-  }
-
   return (
     <Tabs defaultValue={DEFAULT_WISHLIST_PERSON} className="gap-4">
       <TabsList className="mx-4 w-[calc(100%-2rem)] lg:mx-0 lg:w-full">
         {WISHLIST_PEOPLE.map((person) => (
           <TabsTrigger key={person} value={person}>
-            {WISHLIST_PERSON_LABELS[person]} ({countItemsForPerson(items, person)})
+            {WISHLIST_PERSON_LABELS[person]} ({countItemsForPerson(items ?? [], person)})
           </TabsTrigger>
         ))}
       </TabsList>
       {WISHLIST_PEOPLE.map((person) => (
-        <PersonTab key={person} person={person} items={items} onReserve={reserveItem} />
+        <TabsContent key={person} value={person} className="flex flex-col gap-6">
+          <WishlistPersonIntro person={person} />
+          <PersonList person={person} items={items} onReserve={reserveItem} />
+        </TabsContent>
       ))}
     </Tabs>
   );
@@ -53,24 +48,31 @@ const Wishlist: React.FC = () => {
 
 type PersonTabProps = {
   person: WishlistPerson;
-  items: WishlistItem[];
+  items: WishlistItem[] | undefined;
   onReserve: (args: { itemId: Id<'items'>; reservedBy: string; comment?: string }) => Promise<unknown>;
 };
 
-const PersonTab: React.FC<PersonTabProps> = (props) => {
+const PersonList: React.FC<PersonTabProps> = (props) => {
   const { person, items, onReserve } = props;
+
+  if (items == null) {
+    return (
+      <div
+        className="flex justify-center rounded-xl border border-dashed border-border bg-card px-6 py-10 text-center
+          text-muted-foreground"
+      >
+        <Spinner className="size-8" aria-label="Loading wishlist" />
+      </div>
+    );
+  }
+
   const personItems = items.filter((item) => item.requestedBy === person);
 
-  return (
-    <TabsContent value={person} className="flex flex-col gap-6">
-      <WishlistPersonIntro person={person} />
-      {personItems.length === 0 ? (
-        <NothingOnList />
-      ) : (
-        personItems.map((item) => <WishlistItemRow key={item._id} item={item} onReserve={onReserve} />)
-      )}
-    </TabsContent>
-  );
+  if (personItems.length === 0) {
+    return <NothingOnList />;
+  }
+
+  return personItems.map((item) => <WishlistItemRow key={item._id} item={item} onReserve={onReserve} />);
 };
 
 type WishlistItemRowProps = {
