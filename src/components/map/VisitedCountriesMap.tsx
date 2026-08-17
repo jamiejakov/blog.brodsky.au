@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
 
 const GEO_URL = 'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson';
@@ -15,6 +15,27 @@ type RsmGeography = {
   [key: string]: unknown;
 };
 
+/** Polygon ring / MultiPolygon nested coordinates from GeoJSON. */
+type Position = number[];
+type LinearRing = Position[];
+type PolygonCoords = LinearRing[];
+type MultiPolygonCoords = PolygonCoords[];
+
+type CountryGeometry =
+  | { type: 'Polygon'; coordinates: PolygonCoords }
+  | { type: 'MultiPolygon'; coordinates: MultiPolygonCoords };
+
+type CountryFeature = {
+  type: 'Feature';
+  properties: RsmGeography['properties'];
+  geometry: CountryGeometry;
+};
+
+type CountryFeatureCollection = {
+  type: 'FeatureCollection';
+  features: CountryFeature[];
+};
+
 type TooltipState = {
   name: string;
   iso2: string;
@@ -26,6 +47,26 @@ type TooltipState = {
 export const VisitedCountriesMap: React.FC = () => {
   const [tooltip, setTooltip] = useState<TooltipState>(null);
   const [hoveredFromList, setHoveredFromList] = useState<string | null>(null);
+  const [geography, setGeography] = useState<CountryFeatureCollection | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    fetch(GEO_URL)
+      .then((response) => response.json())
+      .then((data: CountryFeatureCollection) => {
+        if (!cancelled) {
+          setGeography(reassignCrimeaToUkraine(data));
+        }
+      })
+      .catch(() => {
+        /* Map stays empty if GeoJSON fails to load. */
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   return (
     <section aria-labelledby="visited-countries-heading">
@@ -36,13 +77,20 @@ export const VisitedCountriesMap: React.FC = () => {
       <div className="relative mb-8 rounded-lg overflow-hidden border border-border bg-muted/30">
         <ComposableMap projection="geoMercator" projectionConfig={{ scale: 120, center: [20, 20] }}>
           <ZoomableGroup center={[0, 20]} zoom={1}>
-            <Geographies geography={GEO_URL}>
-              {({ geographies }: { geographies: RsmGeography[] }) =>
-                geographies.map((geo) => (
-                  <GeographyItem key={geo.rsmKey} geo={geo} setTooltip={setTooltip} hoveredFromList={hoveredFromList} />
-                ))
-              }
-            </Geographies>
+            {geography ? (
+              <Geographies geography={geography}>
+                {({ geographies }: { geographies: RsmGeography[] }) =>
+                  geographies.map((geo) => (
+                    <GeographyItem
+                      key={geo.rsmKey}
+                      geo={geo}
+                      setTooltip={setTooltip}
+                      hoveredFromList={hoveredFromList}
+                    />
+                  ))
+                }
+              </Geographies>
+            ) : null}
           </ZoomableGroup>
         </ComposableMap>
 
@@ -314,18 +362,93 @@ const NATURAL_EARTH_ISO2_BY_NAME: Record<string, string> = {
 
 const ISO2_RE = /^[A-Z]{2}$/;
 
+/**
+ * Natural Earth draws de facto control, so Crimea is a polygon inside Russia's
+ * MultiPolygon. ISO / UN treat Crimea as Ukraine; move it before rendering.
+ * Bounds are the peninsula centroid (~34.5°E, 45.3°N), not a visited-list code.
+ */
+const CRIMEA_CENTROID = { minLon: 32, maxLon: 37, minLat: 44, maxLat: 46.5 };
+
 function iso2FromGeography(geo: RsmGeography): string {
-  const raw = String(geo.properties?.['ISO3166-1-Alpha-2'] ?? geo.properties?.ISO_A2 ?? geo.id ?? '');
+  return iso2FromProperties(geo.properties, geo.id);
+}
+
+function iso2FromProperties(properties: RsmGeography['properties'], id?: string | number): string {
+  const raw = String(properties?.['ISO3166-1-Alpha-2'] ?? properties?.ISO_A2 ?? id ?? '');
   if (ISO2_RE.test(raw)) {
     return raw;
   }
 
-  const name = geo.properties?.name;
+  const name = properties?.name;
   if (name && NATURAL_EARTH_ISO2_BY_NAME[name]) {
     return NATURAL_EARTH_ISO2_BY_NAME[name];
   }
 
   return '';
+}
+
+function reassignCrimeaToUkraine(collection: CountryFeatureCollection): CountryFeatureCollection {
+  const russia = collection.features.find((feature) => iso2FromProperties(feature.properties) === 'RU');
+  const ukraine = collection.features.find((feature) => iso2FromProperties(feature.properties) === 'UA');
+  if (!russia || !ukraine) {
+    return collection;
+  }
+
+  const russiaPolys = toMultiPolygon(russia.geometry);
+  const crimea: PolygonCoords[] = [];
+  const russiaRest: PolygonCoords[] = [];
+  for (const polygon of russiaPolys) {
+    if (isCrimeaPolygon(polygon)) {
+      crimea.push(polygon);
+    } else {
+      russiaRest.push(polygon);
+    }
+  }
+  if (crimea.length === 0) {
+    return collection;
+  }
+
+  const ukrainePolys = [...toMultiPolygon(ukraine.geometry), ...crimea];
+
+  return {
+    ...collection,
+    features: collection.features.map((feature) => {
+      if (feature === russia) {
+        return { ...feature, geometry: { type: 'MultiPolygon', coordinates: russiaRest } };
+      }
+      if (feature === ukraine) {
+        return { ...feature, geometry: { type: 'MultiPolygon', coordinates: ukrainePolys } };
+      }
+      return feature;
+    }),
+  };
+}
+
+function toMultiPolygon(geometry: CountryGeometry): MultiPolygonCoords {
+  return geometry.type === 'Polygon' ? [geometry.coordinates] : geometry.coordinates;
+}
+
+function isCrimeaPolygon(polygon: PolygonCoords): boolean {
+  const ring = polygon[0];
+  if (ring.length === 0) {
+    return false;
+  }
+
+  let lonSum = 0;
+  let latSum = 0;
+  for (const position of ring) {
+    lonSum += position[0];
+    latSum += position[1];
+  }
+  const lon = lonSum / ring.length;
+  const lat = latSum / ring.length;
+
+  return (
+    lon >= CRIMEA_CENTROID.minLon &&
+    lon <= CRIMEA_CENTROID.maxLon &&
+    lat >= CRIMEA_CENTROID.minLat &&
+    lat <= CRIMEA_CENTROID.maxLat
+  );
 }
 
 /** Convert ISO 3166-1 alpha-2 to flag emoji (e.g. "AU" → "🇦🇺") */
