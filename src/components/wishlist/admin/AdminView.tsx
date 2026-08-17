@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { useAuthActions } from '@convex-dev/auth/react';
 import { useMutation, useQuery } from 'convex/react';
-import { LogOut } from 'lucide-react';
+import { Eye, LogOut } from 'lucide-react';
 import { useCallback, useState } from 'react';
 
 import { api } from '../../../../convex/_generated/api';
@@ -137,6 +137,7 @@ function AdminItemRow(props: AdminItemRowProps) {
   return (
     <ItemCard
       item={item}
+      hideReservedBy={true}
       sideButtons={
         <div className="flex gap-2">
           <ItemEditDialog item={item} updateItem={handleEdit} />
@@ -145,21 +146,57 @@ function AdminItemRow(props: AdminItemRowProps) {
       }
       bottomContent={
         item.reservation && (
-          <div
-            className="flex flex-col sm:flex-row gap-2 items-start sm:items-center sm:place-content-between rounded-lg
-              bg-muted/60 p-3 text-sm"
-          >
-            <div className="flex flex-col gap-1">
-              <span className="font-bold">Reserved by {item.reservation.reservedBy}</span>
-              {item.reservation.comment && (
-                <span className="mb-0 whitespace-pre-wrap text-foreground">Comment: {item.reservation.comment}</span>
-              )}
-            </div>
-            <ItemUnreserveDialog item={item} onUnreserve={onUnreserve} />
-          </div>
+          <AdminReservationDetails key={item.reservation._creationTime} item={item} onUnreserve={onUnreserve} />
         )
       }
     />
+  );
+}
+
+type AdminReservationDetailsProps = {
+  item: WishlistItem;
+  onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
+};
+
+function AdminReservationDetails(props: AdminReservationDetailsProps) {
+  const { item, onUnreserve } = props;
+  const [revealed, setRevealed] = useState(false);
+
+  const handleReveal = useCallback(() => {
+    setRevealed(true);
+  }, []);
+
+  const reservation = item.reservation;
+  if (reservation == null) {
+    return null;
+  }
+
+  return (
+    <div
+      className="flex flex-col sm:flex-row gap-2 items-start sm:items-center sm:place-content-between rounded-lg
+        bg-muted/60 p-3 text-sm"
+    >
+      <div className="flex flex-col gap-1">
+        {revealed ? (
+          <span className="font-bold">Reserved by {reservation.reservedBy}</span>
+        ) : (
+          <Button
+            type="button"
+            variant="ghost"
+            size="sm"
+            className="h-auto w-fit px-0 text-muted-foreground hover:text-foreground"
+            onClick={handleReveal}
+          >
+            <Eye aria-hidden={true} />
+            Reveal who reserved
+          </Button>
+        )}
+        {reservation.comment && (
+          <span className="mb-0 whitespace-pre-wrap text-foreground">Comment: {reservation.comment}</span>
+        )}
+      </div>
+      <ItemUnreserveDialog item={item} onUnreserve={onUnreserve} />
+    </div>
   );
 }
 

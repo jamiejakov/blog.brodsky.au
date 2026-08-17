@@ -10,10 +10,12 @@ type ItemCardProps = {
   item: WishlistItem;
   sideButtons?: React.ReactNode;
   bottomContent?: React.ReactNode;
+  /** When true, the ribbon only says "Reserved" (no reserver name). */
+  hideReservedBy?: boolean;
 };
 
 export const ItemCard: React.FC<ItemCardProps> = (props) => {
-  const { item, sideButtons, bottomContent } = props;
+  const { item, sideButtons, bottomContent, hideReservedBy = false } = props;
 
   return (
     <div
@@ -22,7 +24,9 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
         item.reservation != null && 'opacity-90'
       )}
     >
-      {item.reservation != null && <ReservedRibbon reservedBy={item.reservation.reservedBy} />}
+      {item.reservation != null && (
+        <ReservedRibbon reservedBy={hideReservedBy ? undefined : item.reservation.reservedBy} />
+      )}
       <div className="flex flex-wrap gap-4 place-content-between">
         <div className="flex flex-col sm:flex-row gap-4">
           <div className="size-20 shrink-0 overflow-hidden rounded-lg bg-muted">
@@ -61,21 +65,28 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
 };
 
 type ReservedRibbonProps = {
-  reservedBy: string;
+  reservedBy?: string;
 };
 
 const ReservedRibbon: React.FC<ReservedRibbonProps> = (props) => {
   const { reservedBy } = props;
 
   return (
-    <div className="pointer-events-none absolute -right-8 top-5 z-10 flex w-36 rotate-45 flex-col items-center gap-0.5">
+    <div
+      className={cn(
+        'pointer-events-none absolute -right-8 top-4 z-10 flex w-36 rotate-45 flex-col items-center gap-0.5',
+        reservedBy == null && 'top-7'
+      )}
+    >
       <div
         className="w-full bg-green-800 py-1 text-center text-xs font-semibold uppercase tracking-wide
           text-primary-foreground shadow-sm"
       >
         Reserved
       </div>
-      <p className="mb-0 text-center text-sm font-light text-muted-foreground">by {reservedBy}</p>
+      {reservedBy != null && (
+        <p className="mb-0 text-center text-sm font-light text-muted-foreground">by {reservedBy}</p>
+      )}
     </div>
   );
 };
