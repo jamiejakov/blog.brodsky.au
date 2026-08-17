@@ -30,13 +30,50 @@ export const create = mutation({
 export const update = mutation({
   args: {
     id: v.id('items'),
-    ...itemSchema.fields,
+    ...itemSchema.omit('position').fields,
   },
   handler: async (ctx, args) => {
     await requireAdmin(ctx);
 
     const { id, ...fields } = args;
     await ctx.db.patch(id, fields);
+  },
+});
+
+export const reorder = mutation({
+  args: {
+    orderedIds: v.array(v.id('items')),
+  },
+  handler: async (ctx, args) => {
+    await requireAdmin(ctx);
+
+    if (args.orderedIds.length === 0) {
+      return;
+    }
+
+    const orderedItems = await Promise.all(args.orderedIds.map((id) => ctx.db.get(id)));
+    if (orderedItems.some((item) => item == null)) {
+      throw new Error('One or more items were not found');
+    }
+
+    const person = orderedItems[0]!.requestedBy;
+    if (orderedItems.some((item) => item!.requestedBy !== person)) {
+      throw new Error('All reordered items must belong to the same person');
+    }
+
+    const allItems = await ctx.db.query('items').withIndex('by_position').collect();
+    const personItems = allItems.filter((item) => item.requestedBy === person);
+
+    if (personItems.length !== args.orderedIds.length) {
+      throw new Error('Ordered list must include every item for this person');
+    }
+
+    const personIdSet = new Set(personItems.map((item) => item._id));
+    if (args.orderedIds.some((id) => !personIdSet.has(id))) {
+      throw new Error('Ordered list contains items that do not belong to this person');
+    }
+
+    await Promise.all(args.orderedIds.map((id, index) => ctx.db.patch(id, { position: index })));
   },
 });
 
