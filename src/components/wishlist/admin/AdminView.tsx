@@ -205,7 +205,7 @@ function PersonAdminTab(props: PersonAdminTabProps) {
                 onRemove={onRemove}
                 onUnreserve={onUnreserve}
                 disableInteractions={true}
-                className="bg-[#F9F3F5] shadow-lg"
+                className="bg-[light-dark(#F9F3F5,#1F1519)] shadow-lg"
               />
             </Reorder.Item>
           ))}

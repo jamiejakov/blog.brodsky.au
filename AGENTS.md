@@ -18,6 +18,10 @@ Bare YouTube URLs become embeds; markdown links `[text](https://youtube.com/...)
 
 Bare Imgur album URLs (e.g. `https://imgur.com/a/AJtZ8`) become embeds; markdown links stay as links. A custom plugin at `scripts/remark-imgur-album.js` converts standalone URLs to Imgur’s blockquote embed format. It also converts legacy iframe HTML to the same format.
 
+## Theming
+
+Dark mode is **not** a `.dark` class. `ThemeToggle` sets `document.documentElement.style.colorScheme` to `'light'` or `'dark'`, and colors in `src/main.css` use CSS `light-dark()`. Tailwind `dark:` (`@custom-variant dark (&:is(.dark *))`) never matches because no `.dark` class is added. For theme-aware one-off colors, use `light-dark()` (e.g. `bg-[light-dark(#F9F3F5,#1F1519)]`) or a CSS variable, not `dark:`.
+
 ## Instructions
 
 The role of this file is to describe common mistakes and
