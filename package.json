@@ -12,7 +12,7 @@
     "convex:codegen": "convex codegen",
     "convex:deploy": "convex deploy",
     "convex:auth-keys": "node scripts/generate-convex-auth-keys.mjs",
-    "test": "pnpm tsc && pnpm lint:test && astro check",
+    "test": "astro sync && pnpm tsc && pnpm lint:test && astro check",
     "preview": "astro preview",
     "lint:fix": "eslint . --fix",
     "lint:test": "eslint . --max-warnings=0",
