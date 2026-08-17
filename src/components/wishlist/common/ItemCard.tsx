@@ -1,6 +1,6 @@
 import { cn } from '@/lib/utils';
 import type { FunctionReturnType } from 'convex/server';
-import { Gift } from 'lucide-react';
+import { ExternalLink, Gift } from 'lucide-react';
 
 import type { api } from '../../../../convex/_generated/api';
 
@@ -56,9 +56,10 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-sm text-primary underline-offset-4 hover:underline"
+                  className="flex items-center gap-1 text-sm text-primary underline-offset-4 hover:underline"
                 >
-                  {item.url}
+                  View the item
+                  <ExternalLink className="size-4" />
                 </a>
               ))}
             {item.notes && <p className="mb-0 font-light">{item.notes}</p>}
