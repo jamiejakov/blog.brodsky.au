@@ -36,7 +36,14 @@ export const update = mutation({
     await requireAdmin(ctx);
 
     const { id, ...fields } = args;
-    await ctx.db.patch(id, fields);
+    await ctx.db.patch(id, {
+      ...fields,
+      url: fields.url,
+      imageUrl: fields.imageUrl,
+      notes: fields.notes,
+      price: fields.price,
+      priority: fields.priority,
+    });
   },
 });
 

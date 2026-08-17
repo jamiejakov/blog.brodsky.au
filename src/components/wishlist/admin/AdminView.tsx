@@ -43,14 +43,14 @@ export const AdminView: React.FC = () => {
 
   const handleCreate = useCallback(
     async (values: ItemFormState) => {
-      await createItem({ ...toItemArgs(values), position: items?.length ?? 0 });
+      await createItem({ ...normalizeFormState(values), position: items?.length ?? 0 });
     },
     [createItem, items]
   );
 
   const handleUpdate = useCallback(
     async (itemId: Id<'items'>, values: ItemFormState) => {
-      await updateItem({ id: itemId, ...toItemArgs(values) });
+      await updateItem({ id: itemId, ...normalizeFormState(values) });
     },
     [updateItem]
   );
@@ -359,8 +359,8 @@ function AdminReservationDetails(props: AdminReservationDetailsProps) {
   );
 }
 
-function toItemArgs(values: ItemFormState) {
-  return {
+function normalizeFormState(values: ItemFormState) {
+  const normalized = {
     title: values.title.trim(),
     url: values.url.trim() || undefined,
     imageUrl: values.imageUrl.trim() || undefined,
@@ -369,4 +369,5 @@ function toItemArgs(values: ItemFormState) {
     priority: values.priority.trim() || undefined,
     requestedBy: values.requestedBy,
   };
+  return normalized;
 }
