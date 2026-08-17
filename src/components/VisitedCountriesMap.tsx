@@ -84,7 +84,7 @@ type GeographyItemProps = {
 const GeographyItem: React.FC<GeographyItemProps> = (props) => {
   const { geo, hoveredFromList, setTooltip } = props;
 
-  const iso2 = String(geo.properties?.['ISO3166-1-Alpha-2'] ?? geo.properties?.ISO_A2 ?? geo.id ?? '');
+  const iso2 = iso2FromGeography(geo);
   const isVisited = visitedSet.has(iso2);
   const nameFromList: string | undefined = isVisited ? visitedByName[iso2].name : undefined;
   const nameFromGeo: string | undefined = geo.properties?.name;
@@ -302,7 +302,36 @@ const COUNTRIES_BY_CONTINENT = (() => {
 const visitedSet = new Set(VISITED_COUNTRIES.map((c) => c.iso2));
 const visitedByName = Object.fromEntries(VISITED_COUNTRIES.map((c) => [c.iso2, c]));
 
+/**
+ * Natural Earth (the source of our GeoJSON) leaves ISO_A2 as "-99" for a few
+ * real countries — most notably France and Norway — because their polygons
+ * don't map 1:1 onto the ISO definition (metropolitan vs overseas territory).
+ */
+const NATURAL_EARTH_ISO2_BY_NAME: Record<string, string> = {
+  France: 'FR',
+  Norway: 'NO',
+};
+
+const ISO2_RE = /^[A-Z]{2}$/;
+
+function iso2FromGeography(geo: RsmGeography): string {
+  const raw = String(geo.properties?.['ISO3166-1-Alpha-2'] ?? geo.properties?.ISO_A2 ?? geo.id ?? '');
+  if (ISO2_RE.test(raw)) {
+    return raw;
+  }
+
+  const name = geo.properties?.name;
+  if (name && NATURAL_EARTH_ISO2_BY_NAME[name]) {
+    return NATURAL_EARTH_ISO2_BY_NAME[name];
+  }
+
+  return '';
+}
+
 /** Convert ISO 3166-1 alpha-2 to flag emoji (e.g. "AU" → "🇦🇺") */
 function isoToFlag(iso2: string): string {
+  if (!ISO2_RE.test(iso2)) {
+    return '';
+  }
   return [...iso2].map((char) => String.fromCodePoint(0x1f1e6 - 65 + char.charCodeAt(0))).join('');
 }

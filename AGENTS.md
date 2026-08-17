@@ -18,6 +18,10 @@ Bare YouTube URLs become embeds; markdown links `[text](https://youtube.com/...)
 
 Bare Imgur album URLs (e.g. `https://imgur.com/a/AJtZ8`) become embeds; markdown links stay as links. A custom plugin at `scripts/remark-imgur-album.js` converts standalone URLs to Imgur’s blockquote embed format. It also converts legacy iframe HTML to the same format.
 
+## Visited countries map
+
+The map in `src/components/VisitedCountriesMap.tsx` loads GeoJSON from Natural Earth (`datasets/geo-countries`). Natural Earth sets `ISO3166-1-Alpha-2` to `-99` for France and Norway (metropolitan vs overseas territory mismatch), so those polygons will not match `FR` / `NO` unless you apply the name override in that file. Do not "fix" this by changing the visited-list codes.
+
 ## Theming
 
 Dark mode is **not** a `.dark` class. `ThemeToggle` sets `document.documentElement.style.colorScheme` to `'light'` or `'dark'`, and colors in `src/main.css` use CSS `light-dark()`. Tailwind `dark:` (`@custom-variant dark (&:is(.dark *))`) never matches because no `.dark` class is added. For theme-aware one-off colors, use `light-dark()` (e.g. `bg-[light-dark(#F9F3F5,#1F1519)]`) or a CSS variable, not `dark:`.
