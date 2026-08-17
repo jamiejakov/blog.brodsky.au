@@ -20,28 +20,28 @@ const categoriesByPopularity = [...categoryCounts.entries()]
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-10 px-6">
-  <article>
+  <section>
     <h1 class="text-3xl font-bold mb-4">{pageTitle}</h1>
-    <section>
+    <div>
       <p>
         What a long strange trip it's been. Look at how much content I have managed to produce. Some posts are of course
         arguably better than others, but still entertaining nevertheless. Explore the years past and discover something
         new.
       </p>
-    </section>
-    <section>
+    </div>
+    <div>
       <p>I love traveling and writing about it. As you can probably tell from the amount of travel related posts.</p>
       <p>
         If you're interested in where I've been, check out my <a href="/countries">visited countries page</a>.
       </p>
-    </section>
-  </article>
-  <div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
+    </div>
+  </section>
+  <section class="flex flex-col lg:flex-row gap-10 lg:gap-16">
     <div class="flex flex-col flex-1 min-w-0 order-2 lg:order-1">
       <h2 class="text-xl font-bold mb-4">Posts</h2>
       <PostsByYearList posts={allPosts} />
     </div>
-    <section class="lg:w-48 shrink-0 order-1 lg:order-2 flex flex-col gap-10">
+    <div class="lg:w-48 shrink-0 order-1 lg:order-2 flex flex-col gap-10">
       <div class="flex flex-col gap-4 items-start">
         <h2 class="text-xl font-bold">Categories</h2>
         <ul class="flex flex-wrap lg:flex-col gap-2 list-none mb-4">
@@ -59,6 +59,6 @@ const categoriesByPopularity = [...categoryCounts.entries()]
         <h2 class="text-xl font-bold">Tags</h2>
         <ViewAllTagsButton client:load />
       </div>
-    </section>
-  </div>
+    </div>
+  </section>
 </PageLayout>

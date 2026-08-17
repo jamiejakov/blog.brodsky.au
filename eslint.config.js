@@ -105,6 +105,7 @@ export default defineConfig(
       '**/vendor/**/*',
       '**/coverage/**/*',
       '**/dist/**/*',
+      '**/convex/_generated/**/*',
       '**/.vscode/**/*',
       '**/.storybook/**/*',
       '**/storybook-static/**/*',
@@ -161,11 +162,10 @@ export default defineConfig(
       ecmaVersion: 2020,
       globals: { ...globals.browser, ...globals.node },
       parserOptions: {
-        projectService: true,
+        project: ['./tsconfig.json', './convex/tsconfig.json'],
         tsconfigRootDir: import.meta.dirname,
         ecmaFeatures: {
           jsx: true,
-          project: './tsconfig.json',
         },
       },
     },
@@ -189,15 +189,10 @@ export default defineConfig(
       ...commonRules,
 
       'react/prop-types': 'off',
+      'react/jsx-no-bind': 'error',
       'react/jsx-boolean-value': ['error', 'always'],
       'react/jsx-curly-brace-presence': ['error', 'never'],
       'react/display-name': 'off',
-    },
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
     },
   }
 );
