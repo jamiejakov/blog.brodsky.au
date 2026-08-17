@@ -48,7 +48,6 @@ function toItemFormState(item: WishlistItem): ItemFormState {
     notes: item.notes ?? '',
     price: item.price ?? '',
     priority: item.priority ?? '',
-    position: item.position,
     requestedBy: item.requestedBy,
   };
 }

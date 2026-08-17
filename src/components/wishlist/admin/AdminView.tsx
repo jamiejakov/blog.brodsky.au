@@ -2,7 +2,8 @@ import { Button } from '@/components/ui/button';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { useAuthActions } from '@convex-dev/auth/react';
 import { useMutation, useQuery } from 'convex/react';
-import { Eye, LogOut } from 'lucide-react';
+import { Eye, GripVertical, LogOut } from 'lucide-react';
+import { Reorder } from 'motion/react';
 import { useCallback, useState } from 'react';
 
 import { api } from '../../../../convex/_generated/api';
@@ -29,6 +30,7 @@ export const AdminView: React.FC = () => {
   const createItem = useMutation(api.items.create);
   const updateItem = useMutation(api.items.update);
   const removeItem = useMutation(api.items.remove);
+  const reorderItems = useMutation(api.items.reorder);
   const unreserveItem = useMutation(api.reservations.unreserve);
   const [signingOut, setSigningOut] = useState(false);
 
@@ -41,9 +43,9 @@ export const AdminView: React.FC = () => {
 
   const handleCreate = useCallback(
     async (values: ItemFormState) => {
-      await createItem(toItemArgs(values));
+      await createItem({ ...toItemArgs(values), position: items?.length ?? 0 });
     },
-    [createItem]
+    [createItem, items]
   );
 
   const handleUpdate = useCallback(
@@ -80,6 +82,7 @@ export const AdminView: React.FC = () => {
               updateItem={handleUpdate}
               onRemove={removeItem}
               onUnreserve={unreserveItem}
+              onReorder={reorderItems}
             />
           </TabsContent>
         ))}
@@ -97,10 +100,62 @@ type PersonAdminTabProps = {
   updateItem: (itemId: Id<'items'>, values: ItemFormState) => Promise<void>;
   onRemove: (args: { id: Id<'items'> }) => Promise<unknown>;
   onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
+  onReorder: (args: { orderedIds: Id<'items'>[] }) => Promise<unknown>;
 };
 
 function PersonAdminTab(props: PersonAdminTabProps) {
-  const { person, items, updateItem, onRemove, onUnreserve } = props;
+  const { person, items, updateItem, onRemove, onUnreserve, onReorder } = props;
+  const [reordering, setReordering] = useState(false);
+  const [orderedItems, setOrderedItems] = useState<WishlistItem[]>([]);
+  const [originalOrderIds, setOriginalOrderIds] = useState<Id<'items'>[]>([]);
+  const [dragging, setDragging] = useState(false);
+  const [saving, setSaving] = useState(false);
+
+  const startReorder = useCallback(() => {
+    if (items == null) {
+      return;
+    }
+    const personItems = items.filter((item) => item.requestedBy === person);
+    setOrderedItems(personItems);
+    setOriginalOrderIds(personItems.map((item) => item._id));
+    setReordering(true);
+  }, [items, person]);
+
+  const cancelReorder = useCallback(() => {
+    setReordering(false);
+    setOrderedItems([]);
+    setOriginalOrderIds([]);
+    setDragging(false);
+  }, []);
+
+  const handleReorder = useCallback((orderedIds: Id<'items'>[]) => {
+    setOrderedItems((current) => {
+      const byId = new Map(current.map((item) => [item._id, item]));
+      return orderedIds.map((id) => byId.get(id)!);
+    });
+  }, []);
+
+  const handleDragStart = useCallback(() => {
+    setDragging(true);
+  }, []);
+
+  const handleDragEnd = useCallback(() => {
+    setDragging(false);
+  }, []);
+
+  const saveReorder = useCallback(() => {
+    setSaving(true);
+    void onReorder({ orderedIds: orderedItems.map((item) => item._id) })
+      .then(() => {
+        setReordering(false);
+        setOrderedItems([]);
+        setOriginalOrderIds([]);
+        setDragging(false);
+      })
+      .finally(() => {
+        setSaving(false);
+      });
+  }, [onReorder, orderedItems]);
 
   if (items == null) {
     return <ListLoading />;
@@ -112,9 +167,109 @@ function PersonAdminTab(props: PersonAdminTabProps) {
     return <NothingOnList />;
   }
 
-  return personItems.map((item) => (
-    <AdminItemRow key={item._id} item={item} updateItem={updateItem} onRemove={onRemove} onUnreserve={onUnreserve} />
-  ));
+  const displayItems = reordering ? orderedItems : personItems;
+  const hasReorderChanges = reordering && orderedItems.some((item, index) => item._id !== originalOrderIds[index]);
+
+  return (
+    <>
+      <ReorderControls
+        reordering={reordering}
+        disableCancel={dragging}
+        disableSave={dragging || !hasReorderChanges}
+        saving={saving}
+        onStart={startReorder}
+        onCancel={cancelReorder}
+        onSave={saveReorder}
+      />
+
+      {reordering ? (
+        <Reorder.Group
+          as="div"
+          axis="y"
+          values={displayItems.map((item) => item._id)}
+          onReorder={handleReorder}
+          className="flex flex-col gap-6"
+        >
+          {displayItems.map((item) => (
+            <Reorder.Item
+              key={item._id}
+              value={item._id}
+              as="div"
+              className="relative cursor-grab active:cursor-grabbing"
+              onDragStart={handleDragStart}
+              onDragEnd={handleDragEnd}
+            >
+              <AdminItemRow
+                item={item}
+                updateItem={updateItem}
+                onRemove={onRemove}
+                onUnreserve={onUnreserve}
+                disableInteractions={true}
+                className="bg-[#F9F3F5] shadow-lg"
+              />
+            </Reorder.Item>
+          ))}
+        </Reorder.Group>
+      ) : (
+        displayItems.map((item) => (
+          <AdminItemRow
+            key={item._id}
+            item={item}
+            updateItem={updateItem}
+            onRemove={onRemove}
+            onUnreserve={onUnreserve}
+          />
+        ))
+      )}
+    </>
+  );
+}
+
+type ReorderControlsProps = {
+  reordering: boolean;
+  disableCancel: boolean;
+  disableSave: boolean;
+  saving: boolean;
+  onStart: () => void;
+  onCancel: () => void;
+  onSave: () => void;
+};
+
+function ReorderControls(props: ReorderControlsProps) {
+  const { reordering, disableCancel, disableSave, saving, onStart, onCancel, onSave } = props;
+
+  return (
+    <div className="flex justify-end gap-2 px-4 lg:px-0">
+      {reordering ? (
+        <>
+          <Button
+            key="cancel"
+            type="button"
+            variant="ghostPrimary"
+            disabled={disableCancel || saving}
+            onClick={onCancel}
+          >
+            Cancel
+          </Button>
+          <Button
+            key="morphing-button"
+            type="button"
+            variant="outline"
+            loading={saving}
+            disabled={saving || disableSave}
+            onClick={onSave}
+          >
+            Save
+          </Button>
+        </>
+      ) : (
+        <Button key="morphing-button" type="button" variant="outline" onClick={onStart}>
+          <GripVertical aria-hidden={true} />
+          Reorder
+        </Button>
+      )}
+    </div>
+  );
 }
 
 type AdminItemRowProps = {
@@ -122,10 +277,12 @@ type AdminItemRowProps = {
   updateItem: (itemId: Id<'items'>, values: ItemFormState) => Promise<void>;
   onRemove: (args: { id: Id<'items'> }) => Promise<unknown>;
   onUnreserve: (args: { itemId: Id<'items'> }) => Promise<unknown>;
+  disableInteractions?: boolean;
+  className?: string;
 };
 
 function AdminItemRow(props: AdminItemRowProps) {
-  const { item, updateItem, onRemove, onUnreserve } = props;
+  const { item, updateItem, onRemove, onUnreserve, disableInteractions = false, className } = props;
 
   const handleEdit = useCallback(
     async (values: ItemFormState) => {
@@ -138,6 +295,8 @@ function AdminItemRow(props: AdminItemRowProps) {
     <ItemCard
       item={item}
       hideReservedBy={true}
+      disableInteractions={disableInteractions}
+      className={className}
       sideButtons={
         <div className="flex gap-2">
           <ItemEditDialog item={item} updateItem={handleEdit} />
@@ -208,7 +367,6 @@ function toItemArgs(values: ItemFormState) {
     notes: values.notes.trim() || undefined,
     price: values.price.trim() || undefined,
     priority: values.priority.trim() || undefined,
-    position: values.position,
     requestedBy: values.requestedBy,
   };
 }

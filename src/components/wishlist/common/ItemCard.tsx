@@ -12,16 +12,20 @@ type ItemCardProps = {
   bottomContent?: React.ReactNode;
   /** When true, the ribbon only says "Reserved" (no reserver name). */
   hideReservedBy?: boolean;
+  /** Disable links and action buttons (e.g. while dragging to reorder). */
+  disableInteractions?: boolean;
+  className?: string;
 };
 
 export const ItemCard: React.FC<ItemCardProps> = (props) => {
-  const { item, sideButtons, bottomContent, hideReservedBy = false } = props;
+  const { item, sideButtons, bottomContent, hideReservedBy = false, disableInteractions = false, className } = props;
 
   return (
     <div
       className={cn(
         'relative flex flex-col gap-4 rounded-xl border border-border bg-card p-4 overflow-hidden shadow-sm',
-        item.reservation != null && 'opacity-90'
+        item.reservation != null && 'opacity-90',
+        className
       )}
     >
       {item.reservation != null && (
@@ -44,22 +48,33 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
               {item.price && <span className="text-sm text-muted-foreground">{item.price}</span>}
               {item.priority && <span className="text-sm text-muted-foreground">{item.priority}</span>}
             </div>
-            {item.url && (
-              <a
-                href={item.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm text-primary underline-offset-4 hover:underline"
-              >
-                {item.url}
-              </a>
-            )}
+            {item.url &&
+              (disableInteractions ? (
+                <span className="text-sm text-primary/70">{item.url}</span>
+              ) : (
+                <a
+                  href={item.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-primary underline-offset-4 hover:underline"
+                >
+                  {item.url}
+                </a>
+              ))}
             {item.notes && <p className="mb-0 font-light">{item.notes}</p>}
           </div>
         </div>
-        {sideButtons != null && <div className={cn(item.reservation != null && 'pr-20')}>{sideButtons}</div>}
+        {sideButtons != null && (
+          <div
+            className={cn(item.reservation != null && 'pr-20', disableInteractions && 'pointer-events-none opacity-50')}
+          >
+            {sideButtons}
+          </div>
+        )}
       </div>
-      {bottomContent}
+      {bottomContent != null && (
+        <div className={cn(disableInteractions && 'pointer-events-none opacity-50')}>{bottomContent}</div>
+      )}
     </div>
   );
 };

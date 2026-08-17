@@ -18,7 +18,6 @@ const itemFormSchema = z.object({
   notes: z.string(),
   price: z.string(),
   priority: z.string(),
-  position: z.number({ error: 'Enter a valid position' }),
   requestedBy: z.enum(WISHLIST_PEOPLE),
 });
 
@@ -31,7 +30,6 @@ const emptyForm: ItemFormState = {
   notes: '',
   price: '',
   priority: '',
-  position: 0,
   requestedBy: DEFAULT_WISHLIST_PERSON,
 };
 
@@ -70,7 +68,6 @@ export const ItemEditForm: React.FC<ItemEditFormProps> = (props) => {
     <ValidationForm form={form} onSubmit={handleSubmit} className="flex flex-col gap-3">
       <FormInputField label="Title *" name="title" />
       <FormRadioGroupField label="Requested by *" name="requestedBy" options={WISHLIST_PERSON_OPTIONS} />
-      <FormInputField label="Position *" name="position" type="number" required={true} />
       <FormInputField label="URL" name="url" />
       <FormInputField label="Image URL" name="imageUrl" />
       <FormInputField label="Price" name="price" />
