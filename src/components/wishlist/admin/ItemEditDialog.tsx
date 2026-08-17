@@ -30,13 +30,37 @@ export const ItemEditDialog: React.FC<ItemEditDialogProps> = (props) => {
         </Button>
       </DialogTrigger>
       <DialogContent className="max-h-[calc(100vh-2rem)] overflow-y-auto sm:max-w-lg">
-        <DialogHeader>
-          <DialogTitle>Edit item</DialogTitle>
-          <DialogDescription>Update the details for this wishlist item.</DialogDescription>
-        </DialogHeader>
-        <ItemEditForm initial={toItemFormState(item)} onSubmit={updateItem} cancelButton={<CancelButton />} />
+        {({ close }) => <EditContent item={item} updateItem={updateItem} close={close} />}
       </DialogContent>
     </Dialog>
+  );
+};
+
+type EditContentProps = {
+  item: WishlistItem;
+  updateItem: (values: ItemFormState) => Promise<void>;
+  close: () => void;
+};
+
+const EditContent: React.FC<EditContentProps> = (props) => {
+  const { item, updateItem, close } = props;
+
+  const handleSubmit = useCallback(
+    async (values: ItemFormState) => {
+      await updateItem(values);
+      close();
+    },
+    [close, updateItem]
+  );
+
+  return (
+    <>
+      <DialogHeader>
+        <DialogTitle>Edit item</DialogTitle>
+        <DialogDescription>Update the details for this wishlist item.</DialogDescription>
+      </DialogHeader>
+      <ItemEditForm initial={toItemFormState(item)} onSubmit={handleSubmit} cancelButton={<CancelButton />} />
+    </>
   );
 };
 
