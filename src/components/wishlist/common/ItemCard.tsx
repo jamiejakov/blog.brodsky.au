@@ -56,7 +56,8 @@ export const ItemCard: React.FC<ItemCardProps> = (props) => {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-1 text-sm text-primary underline-offset-4 hover:underline"
+                  className="inline-flex w-fit items-center gap-1 text-sm text-primary underline-offset-4
+                    hover:underline"
                 >
                   View the item
                   <ExternalLink className="size-4" />
