@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
 
 import { iso2FromNaturalEarthName } from './naturalEarthIso2';
+import { type CountryFeatureCollection, reassignCrimeaToUkraine } from './reassignCrimeaToUkraine';
 import { VISITED_COUNTRIES, type VisitedCountry } from './visitedCountries';
 
 const GEO_URL = 'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson';
@@ -16,27 +17,6 @@ type RsmGeography = {
   } | null;
   id?: string | number;
   [key: string]: unknown;
-};
-
-/** Polygon ring / MultiPolygon nested coordinates from GeoJSON. */
-type Position = number[];
-type LinearRing = Position[];
-type PolygonCoords = LinearRing[];
-type MultiPolygonCoords = PolygonCoords[];
-
-type CountryGeometry =
-  | { type: 'Polygon'; coordinates: PolygonCoords }
-  | { type: 'MultiPolygon'; coordinates: MultiPolygonCoords };
-
-type CountryFeature = {
-  type: 'Feature';
-  properties: RsmGeography['properties'];
-  geometry: CountryGeometry;
-};
-
-type CountryFeatureCollection = {
-  type: 'FeatureCollection';
-  features: CountryFeature[];
 };
 
 type TooltipState = {
@@ -280,13 +260,6 @@ const visitedByName = Object.fromEntries(VISITED_COUNTRIES.map((c) => [c.iso2, c
 
 const ISO2_RE = /^[A-Z]{2}$/;
 
-/**
- * Natural Earth draws de facto control, so Crimea is a polygon inside Russia's
- * MultiPolygon. ISO / UN treat Crimea as Ukraine; move it before rendering.
- * Bounds are the peninsula centroid (~34.5°E, 45.3°N), not a visited-list code.
- */
-const CRIMEA_CENTROID = { minLon: 32, maxLon: 37, minLat: 44, maxLat: 46.5 };
-
 function iso2FromGeography(geo: RsmGeography): string {
   return iso2FromProperties(geo.properties, geo.id);
 }
@@ -298,70 +271,6 @@ function iso2FromProperties(properties: RsmGeography['properties'], id?: string 
   }
 
   return iso2FromNaturalEarthName(properties?.name) ?? '';
-}
-
-function reassignCrimeaToUkraine(collection: CountryFeatureCollection): CountryFeatureCollection {
-  const russia = collection.features.find((feature) => iso2FromProperties(feature.properties) === 'RU');
-  const ukraine = collection.features.find((feature) => iso2FromProperties(feature.properties) === 'UA');
-  if (!russia || !ukraine) {
-    return collection;
-  }
-
-  const russiaPolys = toMultiPolygon(russia.geometry);
-  const crimea: PolygonCoords[] = [];
-  const russiaRest: PolygonCoords[] = [];
-  for (const polygon of russiaPolys) {
-    if (isCrimeaPolygon(polygon)) {
-      crimea.push(polygon);
-    } else {
-      russiaRest.push(polygon);
-    }
-  }
-  if (crimea.length === 0) {
-    return collection;
-  }
-
-  const ukrainePolys = [...toMultiPolygon(ukraine.geometry), ...crimea];
-
-  return {
-    ...collection,
-    features: collection.features.map((feature) => {
-      if (feature === russia) {
-        return { ...feature, geometry: { type: 'MultiPolygon', coordinates: russiaRest } };
-      }
-      if (feature === ukraine) {
-        return { ...feature, geometry: { type: 'MultiPolygon', coordinates: ukrainePolys } };
-      }
-      return feature;
-    }),
-  };
-}
-
-function toMultiPolygon(geometry: CountryGeometry): MultiPolygonCoords {
-  return geometry.type === 'Polygon' ? [geometry.coordinates] : geometry.coordinates;
-}
-
-function isCrimeaPolygon(polygon: PolygonCoords): boolean {
-  const ring = polygon[0];
-  if (ring.length === 0) {
-    return false;
-  }
-
-  let lonSum = 0;
-  let latSum = 0;
-  for (const position of ring) {
-    lonSum += position[0];
-    latSum += position[1];
-  }
-  const lon = lonSum / ring.length;
-  const lat = latSum / ring.length;
-
-  return (
-    lon >= CRIMEA_CENTROID.minLon &&
-    lon <= CRIMEA_CENTROID.maxLon &&
-    lat >= CRIMEA_CENTROID.minLat &&
-    lat <= CRIMEA_CENTROID.maxLat
-  );
 }
 
 /** Convert ISO 3166-1 alpha-2 to flag emoji (e.g. "AU" → "🇦🇺") */

@@ -20,7 +20,7 @@ Bare Imgur album URLs (e.g. `https://imgur.com/a/AJtZ8`) become embeds; markdown
 
 ## Visited countries map
 
-The map in `src/components/map/VisitedCountriesMap.tsx` loads GeoJSON from Natural Earth (`datasets/geo-countries`). Natural Earth sets `ISO3166-1-Alpha-2` to `-99` for France and Norway (metropolitan vs overseas territory mismatch), so those polygons will not match `FR` / `NO` unless you apply the name override in `src/components/map/naturalEarthIso2.ts`. Natural Earth also uses de facto (on-the-ground) borders, so Crimea is a polygon inside Russia's MultiPolygon rather than Ukraine's. The map reassigns that polygon to Ukraine before rendering. Do not "fix" either issue by changing the visited-list codes.
+The map in `src/components/map/VisitedCountriesMap.tsx` loads GeoJSON from Natural Earth (`datasets/geo-countries`). Natural Earth sets `ISO3166-1-Alpha-2` to `-99` for France and Norway (metropolitan vs overseas territory mismatch), so those polygons will not match `FR` / `NO` unless you apply the name override in `src/components/map/naturalEarthIso2.ts`. Natural Earth also uses de facto (on-the-ground) borders, so Crimea is a polygon inside Russia's MultiPolygon rather than Ukraine's. `src/components/map/reassignCrimeaToUkraine.ts` moves that polygon to Ukraine before rendering. Do not "fix" either issue by changing the visited-list codes.
 
 ## Theming
 
