@@ -1,6 +1,7 @@
 import React, { useCallback, useEffect, useState } from 'react';
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
 
+import { iso2FromNaturalEarthName } from './naturalEarthIso2';
 import { VISITED_COUNTRIES, type VisitedCountry } from './visitedCountries';
 
 const GEO_URL = 'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson';
@@ -277,16 +278,6 @@ const COUNTRIES_BY_CONTINENT = (() => {
 const visitedSet = new Set(VISITED_COUNTRIES.map((c) => c.iso2));
 const visitedByName = Object.fromEntries(VISITED_COUNTRIES.map((c) => [c.iso2, c]));
 
-/**
- * Natural Earth (the source of our GeoJSON) leaves ISO_A2 as "-99" for a few
- * real countries — most notably France and Norway — because their polygons
- * don't map 1:1 onto the ISO definition (metropolitan vs overseas territory).
- */
-const NATURAL_EARTH_ISO2_BY_NAME: Record<string, string> = {
-  France: 'FR',
-  Norway: 'NO',
-};
-
 const ISO2_RE = /^[A-Z]{2}$/;
 
 /**
@@ -306,12 +297,7 @@ function iso2FromProperties(properties: RsmGeography['properties'], id?: string 
     return raw;
   }
 
-  const name = properties?.name;
-  if (name && NATURAL_EARTH_ISO2_BY_NAME[name]) {
-    return NATURAL_EARTH_ISO2_BY_NAME[name];
-  }
-
-  return '';
+  return iso2FromNaturalEarthName(properties?.name) ?? '';
 }
 
 function reassignCrimeaToUkraine(collection: CountryFeatureCollection): CountryFeatureCollection {
