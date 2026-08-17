@@ -162,11 +162,10 @@ export default defineConfig(
       ecmaVersion: 2020,
       globals: { ...globals.browser, ...globals.node },
       parserOptions: {
-        projectService: true,
+        project: ['./tsconfig.json', './convex/tsconfig.json'],
         tsconfigRootDir: import.meta.dirname,
         ecmaFeatures: {
           jsx: true,
-          project: './tsconfig.json',
         },
       },
     },
@@ -194,12 +193,6 @@ export default defineConfig(
       'react/jsx-boolean-value': ['error', 'always'],
       'react/jsx-curly-brace-presence': ['error', 'never'],
       'react/display-name': 'off',
-    },
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
     },
   }
 );
