@@ -72,3 +72,14 @@ export const VISITED_COUNTRIES: VisitedCountry[] = [
   { name: 'New Zealand', iso2: 'NZ', continent: 'Oceania' },
   { name: 'Fiji', iso2: 'FJ', continent: 'Oceania' },
 ];
+
+/** Group countries by continent, preserving order of first occurrence. */
+export const COUNTRIES_BY_CONTINENT = (() => {
+  const groups = new Map<string, VisitedCountry[]>();
+  for (const country of VISITED_COUNTRIES) {
+    const existing = groups.get(country.continent) ?? [];
+    existing.push(country);
+    groups.set(country.continent, existing);
+  }
+  return Array.from(groups.entries());
+})();
