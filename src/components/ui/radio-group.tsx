@@ -70,12 +70,12 @@ function RadioGroupItem({
       data-slot="radio-group-item"
       value={value}
       className={cn(
-        `relative inline-flex h-[calc(100%-1px)] flex-1 cursor-pointer items-center justify-center gap-1.5 rounded-md
-        border border-transparent px-2 py-1 text-sm font-medium whitespace-nowrap text-foreground/60 transition-[color]
-        hover:text-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50
-        focus-visible:outline-1 focus-visible:outline-ring disabled:pointer-events-none disabled:opacity-50
-        data-[state=checked]:text-foreground dark:text-muted-foreground dark:hover:text-foreground
-        dark:data-[state=checked]:text-foreground`,
+        `relative isolate inline-flex h-[calc(100%-1px)] flex-1 cursor-pointer items-center justify-center gap-1.5
+        rounded-md border border-transparent px-2 py-1 text-sm font-medium whitespace-nowrap text-muted-foreground
+        transition-[color] hover:text-primary focus-visible:border-ring focus-visible:ring-[3px]
+        focus-visible:ring-ring/50 focus-visible:outline-1 focus-visible:outline-ring disabled:pointer-events-none
+        disabled:opacity-50 data-[state=checked]:text-primary-foreground
+        data-[state=checked]:hover:text-primary-foreground`,
         className
       )}
       {...props}
@@ -83,7 +83,7 @@ function RadioGroupItem({
       {isActive && (
         <motion.span
           layoutId={layoutId}
-          className="absolute inset-0 z-0 rounded-md bg-background shadow-sm dark:border-input dark:bg-input/30"
+          className="absolute inset-0 z-0 rounded-md bg-primary shadow-sm scheme-light"
           transition={{ type: 'spring', bounce: 0.2, duration: 0.4 }}
         />
       )}
