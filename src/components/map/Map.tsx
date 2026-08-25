@@ -1,17 +1,45 @@
-import React, { useCallback, useEffect, useState } from 'react';
+import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
 
 import { iso2FromNaturalEarthName, isoToFlag } from './iso';
 import { MapTooltip, type TooltipState } from './MapTooltip';
 import { type CountryFeatureCollection, reassignCrimeaToUkraine } from './reassignCrimeaToUkraine';
-import { COUNTRIES_BY_CONTINENT, VISITED_COUNTRIES, type VisitedCountry } from './visitedCountries';
+import {
+  countriesVisitedBy,
+  type Country,
+  DEFAULT_TRAVELER,
+  groupCountriesByContinent,
+  isTraveler,
+  type Traveler,
+  TRAVELER_LABELS,
+  TRAVELERS,
+} from './visitedCountries';
 
 const GEO_URL = 'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson';
 
 export const VisitedCountriesMap: React.FC = () => {
+  const [traveler, setTraveler] = useState<Traveler>(DEFAULT_TRAVELER);
   const [tooltip, setTooltip] = useState<TooltipState | null>(null);
   const [hoveredFromList, setHoveredFromList] = useState<string | null>(null);
   const [geography, setGeography] = useState<CountryFeatureCollection | null>(null);
+
+  const visitedCountries = useMemo(() => countriesVisitedBy(traveler), [traveler]);
+  const visitedSet = useMemo(() => new Set(visitedCountries.map((country) => country.iso2)), [visitedCountries]);
+  const visitedByIso2 = useMemo(
+    () => Object.fromEntries(visitedCountries.map((country) => [country.iso2, country])),
+    [visitedCountries]
+  );
+  const countriesByContinent = useMemo(() => groupCountriesByContinent(visitedCountries), [visitedCountries]);
+
+  const handleTravelerChange = useCallback((value: string) => {
+    if (!isTraveler(value)) {
+      return;
+    }
+    setTraveler(value);
+    setHoveredFromList(null);
+    setTooltip(null);
+  }, []);
 
   useEffect(() => {
     let cancelled = false;
@@ -34,6 +62,11 @@ export const VisitedCountriesMap: React.FC = () => {
 
   return (
     <>
+      <div className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+        <h1 className="text-3xl font-bold">Countries we have visited</h1>
+        <TravelerRadioGroup value={traveler} onValueChange={handleTravelerChange} />
+      </div>
+
       <div className="relative mb-8 rounded-lg overflow-hidden border border-border bg-muted/30">
         <ComposableMap projection="geoMercator" projectionConfig={{ scale: 120, center: [20, 20] }}>
           <ZoomableGroup center={[0, 20]} zoom={1}>
@@ -46,6 +79,8 @@ export const VisitedCountriesMap: React.FC = () => {
                       geo={geo}
                       setTooltip={setTooltip}
                       hoveredFromList={hoveredFromList}
+                      visitedSet={visitedSet}
+                      visitedByIso2={visitedByIso2}
                     />
                   ))
                 }
@@ -56,17 +91,40 @@ export const VisitedCountriesMap: React.FC = () => {
         {tooltip && <MapTooltip tooltip={tooltip} />}
       </div>
 
-      <div className="space-y-6">
-        {COUNTRIES_BY_CONTINENT.map(([continent, countries]) => (
-          <CountriesByContinent
-            key={continent}
-            continent={continent}
-            countries={countries}
-            setHoveredFromList={setHoveredFromList}
-          />
-        ))}
-      </div>
+      {countriesByContinent.length === 0 ? (
+        <p className="text-muted-foreground">No countries marked yet.</p>
+      ) : (
+        <div className="space-y-6">
+          {countriesByContinent.map(([continent, countries]) => (
+            <CountriesByContinent
+              key={continent}
+              continent={continent}
+              countries={countries}
+              setHoveredFromList={setHoveredFromList}
+            />
+          ))}
+        </div>
+      )}
     </>
+  );
+};
+
+type TravelerRadioGroupProps = {
+  value: Traveler;
+  onValueChange: (value: string) => void;
+};
+
+const TravelerRadioGroup: React.FC<TravelerRadioGroupProps> = (props) => {
+  const { value, onValueChange } = props;
+
+  return (
+    <RadioGroup value={value} onValueChange={onValueChange} aria-label="Whose visited countries to show">
+      {TRAVELERS.map((person) => (
+        <RadioGroupItem key={person} value={person}>
+          {TRAVELER_LABELS[person]} ({countriesVisitedBy(person).length})
+        </RadioGroupItem>
+      ))}
+    </RadioGroup>
   );
 };
 
@@ -85,15 +143,17 @@ type RsmGeography = {
 type GeographyItemProps = {
   geo: RsmGeography;
   hoveredFromList: string | null;
+  visitedSet: ReadonlySet<string>;
+  visitedByIso2: Record<string, Country>;
   setTooltip: React.Dispatch<React.SetStateAction<TooltipState | null>>;
 };
 
 const GeographyItem: React.FC<GeographyItemProps> = (props) => {
-  const { geo, hoveredFromList, setTooltip } = props;
+  const { geo, hoveredFromList, visitedSet, visitedByIso2, setTooltip } = props;
 
   const iso2 = iso2FromGeography(geo);
   const isVisited = visitedSet.has(iso2);
-  const nameFromList: string | undefined = isVisited ? visitedByName[iso2].name : undefined;
+  const nameFromList: string | undefined = isVisited ? visitedByIso2[iso2].name : undefined;
   const nameFromGeo: string | undefined = geo.properties?.name;
   const displayName = nameFromList ?? nameFromGeo ?? 'Unknown';
   const isHighlightedFromList = iso2 === hoveredFromList;
@@ -161,7 +221,7 @@ const GeographyItem: React.FC<GeographyItemProps> = (props) => {
 
 type CountriesByContinentProps = {
   continent: string;
-  countries: VisitedCountry[];
+  countries: Country[];
   setHoveredFromList: (iso2: string | null) => void;
 };
 
@@ -184,20 +244,20 @@ const CountriesByContinent: React.FC<CountriesByContinentProps> = (props) => {
       <h3 className="text-sm font-semibold text-muted-foreground mb-2">{continent}</h3>
       <ul className="flex flex-wrap gap-2 text-sm list-none pl-0" aria-label={`Countries visited in ${continent}`}>
         {countries.map((country) => (
-          <Country key={country.iso2} country={country} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} />
+          <CountryItem key={country.iso2} country={country} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} />
         ))}
       </ul>
     </div>
   );
 };
 
-type CountryProps = {
-  country: VisitedCountry;
+type CountryItemProps = {
+  country: Country;
   onMouseEnter: (iso2: string) => void;
   onMouseLeave: () => void;
 };
 
-const Country: React.FC<CountryProps> = (props) => {
+const CountryItem: React.FC<CountryItemProps> = (props) => {
   const { country, onMouseEnter, onMouseLeave } = props;
 
   const handleMouseEnter = useCallback(() => {
@@ -219,9 +279,6 @@ const Country: React.FC<CountryProps> = (props) => {
     </li>
   );
 };
-
-const visitedSet = new Set(VISITED_COUNTRIES.map((c) => c.iso2));
-const visitedByName = Object.fromEntries(VISITED_COUNTRIES.map((c) => [c.iso2, c]));
 
 const ISO2_RE = /^[A-Z]{2}$/;
 
