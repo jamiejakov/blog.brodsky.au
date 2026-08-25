@@ -1,11 +1,14 @@
 /**
  * Natural Earth (the source of our GeoJSON) leaves ISO_A2 as "-99" for a few
- * real countries — most notably France and Norway — because their polygons
- * don't map 1:1 onto the ISO definition (metropolitan vs overseas territory).
+ * real countries — France, Norway, and Kosovo — because their polygons don't
+ * map 1:1 onto the ISO definition (metropolitan vs overseas territory, or
+ * disputed status). Taiwan is coded `CN-TW` rather than `TW`.
  */
 const NATURAL_EARTH_ISO2_BY_NAME: Record<string, string> = {
   France: 'FR',
+  Kosovo: 'XK',
   Norway: 'NO',
+  Taiwan: 'TW',
 };
 
 const ISO2_RE = /^[A-Z]{2}$/;

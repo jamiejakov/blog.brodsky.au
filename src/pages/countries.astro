@@ -1,14 +1,10 @@
 ---
 import { VisitedCountriesMap } from '../components/map/Map';
-import { VISITED_COUNTRIES } from '../components/map/visitedCountries';
 import PageLayout from '../layouts/PageLayout.astro';
 
 const pageTitle = 'Visited Countries';
 ---
 
 <PageLayout pageTitle={pageTitle} className="flex flex-col gap-6 px-6">
-  <h1 class="text-3xl font-bold">
-    Countries I've Visited <span class="text-muted-foreground font-normal">({VISITED_COUNTRIES.length})</span>
-  </h1>
   <VisitedCountriesMap client:visible />
 </PageLayout>
