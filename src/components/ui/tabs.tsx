@@ -109,7 +109,7 @@ function TabsTrigger({ className, children, value, ...props }: React.ComponentPr
       {isActive && (
         <motion.span
           layoutId={layoutId}
-          className="absolute inset-0 z-0 rounded-md bg-primary shadow-sm"
+          className="absolute inset-0 z-0 rounded-md bg-primary shadow-sm scheme-light"
           transition={{ type: 'spring', bounce: 0.2, duration: 0.4 }}
         />
       )}
