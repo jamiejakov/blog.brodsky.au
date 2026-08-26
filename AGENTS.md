@@ -22,6 +22,10 @@ Bare Imgur album URLs (e.g. `https://imgur.com/a/AJtZ8`) become embeds; markdown
 
 The map in `src/components/map/Map.tsx` loads GeoJSON from Natural Earth (`datasets/geo-countries`). Natural Earth sets `ISO3166-1-Alpha-2` to `-99` for France, Norway, and Kosovo (metropolitan vs overseas territory mismatch, or disputed status), and codes Taiwan as `CN-TW`, so those polygons will not match `FR` / `NO` / `XK` / `TW` unless you apply the name override in `src/components/map/iso.ts`. Natural Earth also uses de facto (on-the-ground) borders, so Crimea is a polygon inside Russia's MultiPolygon rather than Ukraine's. `src/components/map/reassignCrimeaToUkraine.ts` moves that polygon to Ukraine before rendering. Do not "fix" either issue by changing the visited-list codes.
 
+## Fuzzy post URLs
+
+A custom 404 page redirects `/posts/...` URLs to a published post when the match is unique: a token or substring of the slug (with or without the year), or a small typo. `/posts/2026/requirements/` therefore resolves to `there-are-no-such-things-as-requirements`. Ambiguous fragments such as `japan` or `iphone` stay 404. Do not add one-off redirects for individual posts.
+
 ## Theming
 
 Dark mode is **not** a `.dark` class. `ThemeToggle` sets `document.documentElement.style.colorScheme` to `'light'` or `'dark'`, and colors in `src/main.css` use CSS `light-dark()`. Tailwind `dark:` (`@custom-variant dark (&:is(.dark *))`) never matches because no `.dark` class is added. For theme-aware one-off colors, use `light-dark()` (e.g. `bg-[light-dark(#F9F3F5,#1F1519)]`) or a CSS variable, not `dark:`.

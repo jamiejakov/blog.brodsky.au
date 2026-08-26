@@ -1,0 +1,42 @@
+---
+import { findFuzzyPostMatch } from '@/lib/fuzzyPostMatch';
+import { getPosts } from '@/lib/sortedCollection';
+
+import PageLayout from '../layouts/PageLayout.astro';
+
+const postIds = (await getPosts()).map((post) => post.id);
+const match = findFuzzyPostMatch(Astro.url.pathname, postIds);
+const refresh = match ? `0;url=/posts/${match}/` : undefined;
+---
+
+<PageLayout pageTitle="Not found" className="px-6 pb-16">
+  {refresh && <meta http-equiv="refresh" content={refresh} />}
+  <script type="application/json" id="fuzzy-post-ids" set:html={JSON.stringify(postIds)} />
+  <script>
+    import { findFuzzyPostMatch } from '@/lib/fuzzyPostMatch';
+
+    const postIdsElement = document.getElementById('fuzzy-post-ids');
+    const postIds = JSON.parse(postIdsElement?.textContent ?? '[]') as string[];
+    const match = findFuzzyPostMatch(window.location.pathname, postIds);
+    if (match) {
+      window.location.replace(`/posts/${match}/`);
+    }
+  </script>
+  <article>
+    {
+      match ? (
+        <p>
+          Redirecting to <a href={`/posts/${match}/`}>the matching post</a>.
+        </p>
+      ) : (
+        <>
+          <h1 class="text-3xl font-bold mb-4">Page not found</h1>
+          <p>
+            That URL doesn't match a page. You can head back to the <a href="/">home page</a> or browse the
+            <a href="/archive/">archive</a>.
+          </p>
+        </>
+      )
+    }
+  </article>
+</PageLayout>
