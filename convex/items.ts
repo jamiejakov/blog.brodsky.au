@@ -106,28 +106,25 @@ export const remove = mutation({
 
 async function getItemsWithReservations(ctx: QueryCtx, includeComments: boolean) {
   const items = await ctx.db.query('items').withIndex('by_position').collect();
+  const allReservations = await ctx.db.query('reservations').collect();
+  const reservationsByItemId = new Map(allReservations.map((r) => [r.itemId, r]));
 
-  return Promise.all(
-    items.map(async (item) => {
-      const reservation = await ctx.db
-        .query('reservations')
-        .withIndex('by_item', (q) => q.eq('itemId', item._id))
-        .unique();
+  return items.map((item) => {
+    const reservation = reservationsByItemId.get(item._id);
 
-      return {
-        _id: item._id,
-        title: item.title,
-        url: item.url,
-        imageUrl: item.imageUrl,
-        notes: item.notes,
-        price: item.price,
-        priority: item.priority,
-        position: item.position,
-        requestedBy: item.requestedBy,
-        reservation: reservation ? buildReservation(reservation, includeComments) : null,
-      };
-    })
-  );
+    return {
+      _id: item._id,
+      title: item.title,
+      url: item.url,
+      imageUrl: item.imageUrl,
+      notes: item.notes,
+      price: item.price,
+      priority: item.priority,
+      position: item.position,
+      requestedBy: item.requestedBy,
+      reservation: reservation ? buildReservation(reservation, includeComments) : null,
+    };
+  });
 }
 
 function buildReservation(reservation: Doc<'reservations'>, includeComments: boolean) {
